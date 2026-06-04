@@ -7,6 +7,8 @@ Producto digital preparado para monetizar rapido con un sitio estatico:
 - Cobro por PayPal.Me y CBU.
 - Configuracion lista para publicar en Netlify.
 
+Sitio publico: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+
 ## Diferencia contra otros proyectos locales
 
 - No repite el proyecto de automatizacion IA para PyMEs de `generar usd`.
@@ -25,4 +27,8 @@ Producto digital preparado para monetizar rapido con un sitio estatico:
 
 ## Publicacion rapida
 
-El sitio funciona abriendo `index.html`. Para vender de verdad, conviene publicarlo en Netlify o cualquier hosting estatico y compartir el enlace con los textos de lanzamiento.
+El sitio ya esta publicado en GitHub Pages:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+
+Para vender, compartir ese enlace con los textos de `materiales-lanzamiento/`.
