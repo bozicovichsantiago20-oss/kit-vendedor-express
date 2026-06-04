@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kit Vendedor Express | Respuestas listas para vender online</title>
+    <meta
+      name="description"
+      content="Generador y pack de respuestas rápidas para vendedores online de Argentina: Mercado Libre, WhatsApp, Instagram y tienda propia."
+    />
+    <meta property="og:title" content="Kit Vendedor Express" />
+    <meta
+      property="og:description"
+      content="Plantillas listas para responder consultas, mejorar publicaciones y cerrar ventas online sin perder tiempo."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/product-preview.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#generador" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="#generador">Generador</a>
+        <a href="#pack">Pack</a>
+        <a href="#fuentes">Señales</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="workspace" id="generador">
+        <div class="tool-panel" aria-labelledby="tool-title">
+          <div class="section-heading">
+            <p class="eyebrow">Herramienta gratis</p>
+            <h1 id="tool-title">Responde consultas de venta en menos de un minuto</h1>
+            <p>
+              Escribe el producto, elige la situación y copia una respuesta lista para Mercado Libre,
+              WhatsApp, Instagram o tu tienda.
+            </p>
+          </div>
+
+          <form class="generator" id="reply-form">
+            <label>
+              Producto o rubro
+              <input
+                id="product"
+                name="product"
+                type="text"
+                value="zapatillas urbanas"
+                autocomplete="off"
+              />
+            </label>
+
+            <div class="field-grid">
+              <label>
+                Canal
+                <select id="channel" name="channel">
+                  <option value="Mercado Libre">Mercado Libre</option>
+                  <option value="WhatsApp">WhatsApp</option>
+                  <option value="Instagram">Instagram</option>
+                  <option value="Tienda propia">Tienda propia</option>
+                </select>
+              </label>
+
+              <label>
+                Situación
+                <select id="scenario" name="scenario">
+                  <option value="envio">Envío y demora</option>
+                  <option value="stock">Stock disponible</option>
+                  <option value="medidas">Medidas o compatibilidad</option>
+                  <option value="garantia">Garantía</option>
+                  <option value="factura">Factura</option>
+                  <option value="precio">Precio o descuento</option>
+                  <option value="retiro">Retiro en punto</option>
+                  <option value="devolucion">Cambio o devolución</option>
+                  <option value="reclamo">Reclamo postventa</option>
+                  <option value="mayorista">Compra mayorista</option>
+                </select>
+              </label>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                Tono
+                <select id="tone" name="tone">
+                  <option value="claro">Claro</option>
+                  <option value="cercano">Cercano</option>
+                  <option value="firme">Firme</option>
+                </select>
+              </label>
+
+              <label>
+                Dato clave
+                <input id="detail" name="detail" type="text" value="despacho en 24 hs hábiles" />
+              </label>
+            </div>
+
+            <button class="primary-button" type="submit">Generar respuesta</button>
+          </form>
+
+          <section class="result" aria-live="polite">
+            <div class="result-header">
+              <h2>Respuesta lista</h2>
+              <button class="icon-button" id="copy-reply" type="button" aria-label="Copiar respuesta">
+                Copiar
+              </button>
+            </div>
+            <textarea id="reply-output" rows="7" spellcheck="false"></textarea>
+          </section>
+        </div>
+
+        <aside class="sell-panel" id="pack" aria-labelledby="pack-title">
+          <img
+            class="product-preview"
+            src="assets/product-preview.png"
+            alt="Vista previa del Kit Vendedor Express con plantillas de venta online"
+          />
+          <div class="section-heading compact">
+            <p class="eyebrow">Pack completo</p>
+            <h2 id="pack-title">120+ respuestas, prompts y checklist</h2>
+            <p>
+              Úsalo para cargar respuestas rápidas, entrenar a alguien que atiende consultas o
+              ordenar mensajes de preventa y postventa.
+            </p>
+          </div>
+
+          <div class="price-box">
+            <span class="price">USD 5 sugerido</span>
+            <span class="price-note">o transferencia local equivalente</span>
+          </div>
+
+          <div class="payment-actions">
+            <a class="primary-button" href="https://paypal.me/SBozicovich" target="_blank" rel="noopener">
+              Pagar con PayPal
+            </a>
+            <button class="secondary-button" type="button" id="copy-cbu">Copiar CBU</button>
+            <a class="secondary-button" href="pack/kit-vendedor-express.zip" download>
+              Descargar pack
+            </a>
+          </div>
+
+          <p class="trust-note">
+            Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
+            Producto independiente, no afiliado a Mercado Libre.
+          </p>
+        </aside>
+      </section>
+
+      <section class="content-band">
+        <div class="band-inner">
+          <div class="section-heading">
+            <p class="eyebrow">Qué incluye</p>
+            <h2>Un producto chico, claro y vendible hoy</h2>
+          </div>
+          <div class="feature-grid">
+            <article>
+              <h3>Respuestas rápidas</h3>
+              <p>Plantillas para envíos, stock, medidas, garantía, factura, precio, devoluciones y reclamos.</p>
+            </article>
+            <article>
+              <h3>Prompts de publicación</h3>
+              <p>Ideas para títulos, fichas, beneficios, fotos, preguntas frecuentes y textos para redes.</p>
+            </article>
+            <article>
+              <h3>Plan de 7 días</h3>
+              <p>Rutina simple para ordenar publicaciones, bajar demoras de respuesta y medir consultas.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="signals" id="fuentes">
+        <div class="section-heading">
+          <p class="eyebrow">Señales de oportunidad</p>
+          <h2>Por qué este nicho tiene sentido</h2>
+        </div>
+        <ul class="source-list">
+          <li>
+            CACE reportó en su Estudio Anual 2025 crecimiento de facturación, unidades vendidas
+            y más de un millón de nuevos compradores online en Argentina.
+            <a href="https://cace.org.ar/pages/estadisticas" target="_blank" rel="noopener">Ver fuente</a>
+          </li>
+          <li>
+            Mercado Libre promueve respuestas rápidas y asistencia con IA para responder preguntas
+            de compradores y mejorar publicaciones.
+            <a
+              href="https://vendedores.mercadolibre.com.ar/nota/como-crear-respuestas-rapidas"
+              target="_blank"
+              rel="noopener"
+              >Ver fuente</a
+            >
+          </li>
+          <li>
+            PayPal.Me permite compartir un enlace para recibir pagos de clientes o actividad freelance.
+            <a href="https://www.sandbox.paypal.com/paypalme/" target="_blank" rel="noopener">Ver fuente</a>
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
