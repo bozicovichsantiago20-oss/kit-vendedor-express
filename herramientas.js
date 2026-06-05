@@ -13,9 +13,9 @@ function copyToolText(text, message) {
     .then(() => {
       const toast = byId("toast");
       if (!toast) return;
-      toast.textContent = message;
+      toast.textContent = `${message} Si te ahorro tiempo, puedes apoyar USD 1.`;
       toast.classList.add("show");
-      window.setTimeout(() => toast.classList.remove("show"), 1800);
+      window.setTimeout(() => toast.classList.remove("show"), 2600);
     })
     .catch(() => {
       const output = byId("tool-output");

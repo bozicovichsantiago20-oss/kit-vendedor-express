@@ -142,7 +142,7 @@ if (form && output) {
 
 if (copyReply && output) {
   copyReply.addEventListener("click", () => {
-    copyText(output.value, "Respuesta copiada.");
+    copyText(output.value, "Respuesta copiada. Si te ahorro tiempo, puedes apoyar USD 1.");
   });
 }
 
