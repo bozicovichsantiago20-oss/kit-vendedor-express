@@ -47,6 +47,10 @@ Auditoria Express USD 7:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
+Bundle Vendedor Express USD 15:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
+
 Herramientas gratis:
 
 - Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html

@@ -96,6 +96,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-auditoria/auditoria-express-publicacion.zip
   - Gist: https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf
 - Auditoria Express verificada publica: pagina, ZIP, release asset, hub, perfil, Gist y sitemaps actualizados; IndexNow HTTP 200.
+- Bundle Vendedor Express creado como oferta combinada USD 15:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
+  - ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-bundle/bundle-vendedor-express.zip
+  - Gist: https://gist.github.com/bozicovichsantiago20-oss/c6dae9a11883443a07abe230f6592ad4
 
 ## Estado de ingresos
 

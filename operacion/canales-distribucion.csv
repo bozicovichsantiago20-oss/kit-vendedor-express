@@ -9,6 +9,8 @@ PayPal monto prellenado,https://paypal.me/SBozicovich/5USD,Publicado,No,Ninguno,
 PayPal monto verificado,https://paypal.me/SBozicovich/12USD,Publicado,No,Ninguno,Checkout base QR 5USD y Pro QR 12USD verificados publicos; hub y Gists actualizados; IndexNow HTTP 200
 Auditoria Express,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html,Publicado,No,Ninguno,Producto autoentregable USD 7 verificado publico; ZIP 4428 bytes 6 archivos; release asset creado; IndexNow HTTP 200
 Gist Auditoria Express,https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf,Publicado,No,Ninguno,Ficha publica de auditoria con PayPal 7USD CBU y enlaces base Pro
+Bundle Vendedor Express,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html,Publicado,No,Ninguno,Oferta combinada USD 15 creada con base auditoria Pro y botones de compartir; pendiente publicar/verificar
+Gist Bundle Vendedor,https://gist.github.com/bozicovichsantiago20-oss/c6dae9a11883443a07abe230f6592ad4,Publicado,No,Ninguno,Ficha publica del bundle con PayPal 15USD CBU y enlaces a productos individuales
 Pagina de compra,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html,Publicado,No,Ninguno,PayPal QR CBU y descarga en una pagina directa; IndexNow HTTP 200
 GitHub Release,https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0,Publicado,No,Ninguno,ZIP publico actualizado a pack ampliado; asset verificado en 12442 bytes
 GitHub perfil,https://github.com/bozicovichsantiago20-oss/bozicovichsantiago20-oss,Publicado,No,Ninguno,Perfil publico enlaza el producto

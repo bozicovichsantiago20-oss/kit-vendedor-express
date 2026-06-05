@@ -21,10 +21,16 @@ Auditoria Express:
 - Precio sugerido: USD 7 o equivalente local.
 - Incluye checklist de 42 puntos, plantilla de diagnostico, guion de mejora, respuestas y plan de 48 horas.
 
+Bundle Vendedor Express:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
+- Precio sugerido: USD 15 o equivalente local.
+- Incluye pack base, Auditoria Express y Kit Pro en una sola descarga.
+
 Metodos de pago:
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
 - PayPal Auditoria USD 7: https://paypal.me/SBozicovich/7USD
 - PayPal Pro USD 12: https://paypal.me/SBozicovich/12USD
+- PayPal Bundle USD 15: https://paypal.me/SBozicovich/15USD
 - PayPal generico: https://paypal.me/SBozicovich
 - Banco Galicia Argentina, CBU: 0070034430004032923161
 

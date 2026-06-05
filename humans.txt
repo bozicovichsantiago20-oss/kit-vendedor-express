@@ -8,18 +8,22 @@ Purpose: ayudar a vendedores online a responder mas rapido, mejorar publicacione
 Pack: 130+ respuestas, prompts, formulas de titulos, checklist, matriz de reclamos, guiones WhatsApp y plan de 7 dias.
 Pro: 200+ respuestas, objeciones de precio, prompts avanzados, auditoria, seguimiento y recompra.
 Auditoria: checklist, diagnostico, guion de mejora y plan de 48 horas.
+Bundle: base, auditoria y Pro en una sola descarga.
 Price: USD 5 sugerido.
 Audit Price: USD 7 sugerido.
 Pro Price: USD 12 sugerido.
+Bundle Price: USD 15 sugerido.
 PayPal Base: https://paypal.me/SBozicovich/5USD
 PayPal Auditoria: https://paypal.me/SBozicovich/7USD
 PayPal Pro: https://paypal.me/SBozicovich/12USD
+PayPal Bundle: https://paypal.me/SBozicovich/15USD
 CBU: Banco Galicia Argentina 0070034430004032923161
 
 /* LINKS */
 Checkout: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Pro: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 Auditoria: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
+Bundle: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip
 Hub: https://bozicovichsantiago20-oss.github.io/
 

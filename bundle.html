@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bundle Vendedor Express | Pago y descarga</title>
+    <meta
+      name="description"
+      content="Compra el Bundle Vendedor Express: pack base, pack Pro y Auditoria Express en una sola descarga para vendedores online."
+    />
+    <meta property="og:title" content="Bundle Vendedor Express" />
+    <meta
+      property="og:description"
+      content="Tres productos digitales para vendedores online: respuestas, Pro y auditoria de publicacion. Precio sugerido USD 15."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html" />
+    <meta property="og:image" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="comprar.html">Base</a>
+        <a href="auditoria.html">Auditoria</a>
+        <a href="pro.html">Pro</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="checkout-hero">
+        <div class="section-heading">
+          <p class="eyebrow">Oferta combinada</p>
+          <h1>Bundle Vendedor Express</h1>
+          <p>
+            Paga USD 15 o equivalente local y descarga el pack base, la Auditoria Express
+            y el Kit Pro en una sola compra. Ideal si quieres ordenar respuestas,
+            publicaciones, precio, objeciones y postventa sin elegir de a uno.
+          </p>
+        </div>
+      </section>
+
+      <section class="checkout-grid" aria-label="Opciones de pago bundle">
+        <article class="checkout-card featured">
+          <p class="eyebrow">Opcion rapida</p>
+          <h2>PayPal</h2>
+          <p>Abre el link con USD 15 sugeridos y confirma el pago. Tambien puedes escanear el QR.</p>
+          <img
+            class="qr-code"
+            src="https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=12&data=https%3A%2F%2Fpaypal.me%2FSBozicovich%2F15USD"
+            alt="QR para pagar el Bundle Vendedor Express por PayPal"
+          />
+          <div class="payment-actions">
+            <a class="primary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">
+              Pagar con PayPal
+            </a>
+            <button class="secondary-button" type="button" id="copy-paypal" data-paypal-link="https://paypal.me/SBozicovich/15USD">Copiar link PayPal</button>
+          </div>
+        </article>
+
+        <article class="checkout-card">
+          <p class="eyebrow">Argentina</p>
+          <h2>Transferencia local</h2>
+          <p>Banco Galicia. Usa el CBU y envia el equivalente local a USD 15.</p>
+          <div class="bank-box">
+            <span>CBU</span>
+            <strong>0070034430004032923161</strong>
+          </div>
+          <div class="payment-actions">
+            <button class="primary-button" type="button" id="copy-cbu">Copiar CBU</button>
+          </div>
+        </article>
+
+        <article class="checkout-card">
+          <p class="eyebrow">Entrega inmediata</p>
+          <h2>Descarga el bundle</h2>
+          <p>Sistema de confianza: si pagaste, descarga y usalo al instante.</p>
+          <ul class="checkout-list">
+            <li>Kit base con 130+ respuestas.</li>
+            <li>Auditoria Express con checklist y plan de 48 horas.</li>
+            <li>Kit Pro con 200+ respuestas, objeciones y seguimiento.</li>
+          </ul>
+          <a class="secondary-button" href="pack-bundle/bundle-vendedor-express.zip" download>Descargar bundle</a>
+        </article>
+      </section>
+
+      <section class="guide-body">
+        <div class="guide-cta">
+          <h2>Compartir oferta</h2>
+          <p>Si conoces a alguien que vende online, puedes reenviar el bundle con un toque.</p>
+          <a
+            class="primary-button"
+            href="https://wa.me/?text=Bundle%20Vendedor%20Express%20para%20vendedores%20online%3A%20base%20%2B%20auditoria%20%2B%20Pro%20por%20USD%2015%20https%3A%2F%2Fbozicovichsantiago20-oss.github.io%2Fkit-vendedor-express%2Fbundle.html"
+            target="_blank"
+            rel="noopener"
+          >
+            Compartir por WhatsApp
+          </a>
+          <a
+            class="secondary-button"
+            href="https://t.me/share/url?url=https%3A%2F%2Fbozicovichsantiago20-oss.github.io%2Fkit-vendedor-express%2Fbundle.html&text=Bundle%20Vendedor%20Express%20para%20vendedores%20online"
+            target="_blank"
+            rel="noopener"
+          >
+            Compartir por Telegram
+          </a>
+          <a
+            class="secondary-button"
+            href="mailto:?subject=Bundle%20Vendedor%20Express&body=Te%20paso%20este%20bundle%20para%20vendedores%20online%3A%20https%3A%2F%2Fbozicovichsantiago20-oss.github.io%2Fkit-vendedor-express%2Fbundle.html"
+          >
+            Compartir por email
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="app.js"></script>
+  </body>
+</html>

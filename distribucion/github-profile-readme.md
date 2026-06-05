@@ -30,13 +30,16 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 Auditoria Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
+Bundle Vendedor Express:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
 Repo:
 https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
 
-Pago sugerido: USD 5 base, USD 7 auditoria o USD 12 Pro por PayPal o transferencia local.
+Pago sugerido: USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPal o transferencia local.
 
 ## Herramientas gratis
 
@@ -54,3 +57,4 @@ Pago sugerido: USD 5 base, USD 7 auditoria o USD 12 Pro por PayPal o transferenc
 - Calculadora de precio para venta online: https://gist.github.com/bozicovichsantiago20-oss/861016d8cfb2c191038811131dd360d5
 - Kit Vendedor Express Pro: https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
 - Auditoria Express de Publicacion: https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf
+- Bundle Vendedor Express: https://gist.github.com/bozicovichsantiago20-oss/c6dae9a11883443a07abe230f6592ad4
