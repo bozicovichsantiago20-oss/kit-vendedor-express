@@ -179,6 +179,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Las cuatro herramientas ahora muestran PayPal directo, CBU Banco Galicia y rutas de pago visibles en el mismo bloque de accion.
   - Calculadora deriva a Auditoria USD 7 y PayPal directo USD 7.
   - Titulos, respuestas y prompts derivan a Bundle USD 15, PayPal directo USD 15, base/aporte segun caso.
+- Mensaje posterior a copiar actualizado:
+  - Al copiar una respuesta, calculo, titulo o prompt, el aviso invita a apoyar USD 1 si la herramienta ahorro tiempo.
+  - app.js y herramientas.js verificados publicos con el nuevo mensaje; IndexNow HTTP 200.
 
 ## Analisis de otros proyectos Codex locales
 
