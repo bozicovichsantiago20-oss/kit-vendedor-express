@@ -193,6 +193,18 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
     - https://github.com/bozicovichsantiago20-oss/plantillas-atencion-cliente-ecommerce
     - https://github.com/bozicovichsantiago20-oss/calcular-precio-mercado-libre
   - Ambos verificados con status 200, PayPal directo, CBU e IndexNow HTTP 200.
+- Zearches actualizado con micrositio de atencion al cliente:
+  - https://zearches.com/directory.php?slug=resources-directories
+  - Listing visible: Plantillas Ecommerce -> https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce
+- Reintento Zearches para calcular precio Mercado Libre:
+  - Resultado: no publicado por limite temporal del sitio (status=error&code=throttle).
+- Cipinet inspeccionado como directorio adicional:
+  - https://www.cipinet.com/submit.php
+  - Estado: bloqueado para automatizacion sin permiso por reCAPTCHA y campo de email en el formulario gratis.
+- Envios adicionales a FreeNoSignup completados por formulario publico de Google:
+  - Marketplace Seller Prompt Generator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
+  - Marketplace Price Calculator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+  - Resultado: confirmacion del formulario recibida para ambos; quedan en revision manual del directorio.
 
 ## Analisis de otros proyectos Codex locales
 
