@@ -43,6 +43,10 @@ Compra rapida para respuestas listas hoy:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-listas-para-vender-hoy.html
 
+Plantillas para reclamos y devoluciones:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/reclamos-devoluciones-mercado-libre-whatsapp.html
+
 Pack Pro USD 12:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
