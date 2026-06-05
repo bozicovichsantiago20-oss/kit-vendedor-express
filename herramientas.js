@@ -287,7 +287,114 @@ function initWhatsAppGenerator() {
   buildWhatsAppMessages();
 }
 
+function initAuditGenerator() {
+  const form = byId("audit-tool");
+  const output = byId("tool-output");
+  const copy = byId("copy-tool-output");
+  if (!form || !output) return;
+
+  function yes(id) {
+    return byId(id).value === "si";
+  }
+
+  function buildAudit() {
+    const product = cleanToolValue(byId("audit-product").value, "producto");
+    const title = cleanToolValue(byId("audit-title").value, "");
+    const photos = Math.max(0, Number(byId("audit-photos").value) || 0);
+    const margin = byId("audit-margin").value;
+    const problem = byId("audit-problem").value;
+    const actions = [];
+    let score = 100;
+
+    if (title.length < 45) {
+      score -= 12;
+      actions.push("Amplia el titulo: producto + atributo principal + uso + condicion o beneficio.");
+    }
+
+    if (photos < 6) {
+      score -= 16;
+      actions.push("Sube al menos 6 fotos: frente, laterales, detalle, escala, uso real y empaque.");
+    }
+
+    if (!yes("audit-measures")) {
+      score -= 14;
+      actions.push("Agrega medidas, compatibilidad, talle, capacidad o dimensiones para reducir preguntas repetidas.");
+    }
+
+    if (!yes("audit-guarantee")) {
+      score -= 12;
+      actions.push("Aclara garantia, cambios y condiciones antes de que el comprador pregunte.");
+    }
+
+    if (!yes("audit-shipping")) {
+      score -= 10;
+      actions.push("Explica envio, retiro, demora y que dato necesitas para cotizar.");
+    }
+
+    if (!yes("audit-faq")) {
+      score -= 10;
+      actions.push("Agrega preguntas frecuentes de stock, factura, garantia, medidas, envio y devolucion.");
+    }
+
+    if (margin === "bajo") {
+      score -= 10;
+      actions.push("Revisa precio minimo antes de entrar en descuentos: costo, comision, envio, impuestos y margen.");
+    }
+
+    if (margin === "sin-dato") {
+      score -= 12;
+      actions.push("Calcula margen real antes de cambiar precio. Sin margen claro, cualquier promocion puede quemar ganancia.");
+    }
+
+    const problemAdvice = {
+      "pocas-consultas": "Prioridad: mejorar titulo, primera foto y beneficio visible. El objetivo es que mas gente haga clic.",
+      "preguntan-no-compran": "Prioridad: responder objeciones y cerrar siguiente paso. Agrega medios de pago, envio y garantia.",
+      reclamos: "Prioridad: prevenir expectativas falsas. Aclara medidas, compatibilidad, condiciones y postventa.",
+      precio: "Prioridad: justificar valor antes de bajar precio. Muestra diferencia, garantia, entrega y soporte.",
+      lenta: "Prioridad: relanzar con 3 cambios visibles en 48 horas y medir consultas antes de tocar todo."
+    };
+
+    const finalScore = Math.max(35, Math.min(100, score));
+    const level = finalScore >= 80 ? "bien encaminada" : finalScore >= 62 ? "mejorable" : "con fugas claras de conversion";
+    const topActions = actions.slice(0, 5);
+
+    output.value = [
+      `Diagnostico rapido para ${product}`,
+      "",
+      `Puntaje estimado: ${finalScore}/100`,
+      `Estado: publicacion ${level}.`,
+      "",
+      "Lectura principal:",
+      problemAdvice[problem] || problemAdvice["pocas-consultas"],
+      "",
+      "Acciones prioritarias:",
+      ...topActions.map((item, index) => `${index + 1}. ${item}`),
+      "",
+      "Plan de 48 horas:",
+      "Dia 1: cambia titulo, primera foto y bloque de descripcion con medidas/envio/garantia.",
+      "Dia 2: carga respuestas rapidas, revisa precio minimo y mide consultas antes de bajar precio.",
+      "",
+      "Texto sugerido para agregar:",
+      `${product}: revisa stock, medidas, envio, garantia y condiciones de cambio antes de comprar. Si tienes dudas, escribenos y te confirmamos el dato exacto antes del pago.`,
+      "",
+      "Para una revision completa: Auditoria Express USD 7 -> https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html"
+    ].join("\n");
+  }
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    buildAudit();
+  });
+
+  if (copy) {
+    copy.addEventListener("click", () => copyToolText(output.value, "Diagnostico copiado."));
+  }
+
+  buildAudit();
+}
+
 initTitleGenerator();
 initPriceCalculator();
 initPromptGenerator();
 initWhatsAppGenerator();
+initAuditGenerator();
