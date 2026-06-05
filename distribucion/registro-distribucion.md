@@ -84,6 +84,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Pack Pro creado como upsell de mayor ticket:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
   - ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-pro/kit-vendedor-express-pro.zip
+- Pack Pro verificado publico: pagina Pro, ZIP Pro, release asset, hub, perfil, Gist y sitemaps actualizados; IndexNow HTTP 200.
 
 ## Estado de ingresos
 
