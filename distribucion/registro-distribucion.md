@@ -257,6 +257,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Release v1.0.0 verificada con 0 descargas en los 4 ZIP publicos.
   - Trafico GitHub verificado con 0 vistas en repos principales y micrositios.
   - Registro local de cobros sigue en 0 y no hay evidencia de PayPal o Banco Galicia disponible desde esta sesion.
+  - Actualizacion posterior: GitHub API paso a mostrar 1 descarga por cada ZIP despues de verificaciones automaticas de enlaces desde esta sesion. Se registra como senal tecnica no atribuible a una compra porque no hay pago confirmado.
 - Hub raiz actualizado para conversion por transferencia:
   - https://bozicovichsantiago20-oss.github.io/
   - Se agrego CBU Banco Galicia 0070034430004032923161 y PayPal bundle USD 15.
