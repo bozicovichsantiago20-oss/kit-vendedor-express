@@ -71,6 +71,7 @@ a {
 
 .nav {
   display: flex;
+  flex-wrap: wrap;
   gap: 18px;
   color: var(--muted);
   font-size: 0.94rem;
@@ -479,6 +480,86 @@ textarea:focus {
   color: var(--muted);
 }
 
+.comparison-hero {
+  display: grid;
+  gap: 14px;
+  width: min(1080px, calc(100vw - 32px));
+  margin: 0 auto;
+  padding: 38px 0 16px;
+}
+
+.comparison-hero h1 {
+  font-size: clamp(2rem, 4vw, 3.35rem);
+  line-height: 1.02;
+}
+
+.comparison-preview {
+  max-width: 420px;
+}
+
+.decision-band {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  width: min(1080px, calc(100vw - 32px));
+  margin: 0 auto 18px;
+}
+
+.decision-card {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+  min-height: 100%;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+}
+
+.decision-card.featured {
+  border-top: 4px solid var(--amber);
+  background: #fffaf0;
+}
+
+.comparison-table-wrap {
+  width: min(1080px, calc(100vw - 32px));
+  margin: 0 auto;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+}
+
+.comparison-table {
+  width: 100%;
+  min-width: 720px;
+  border-collapse: collapse;
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 14px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.comparison-table th {
+  background: #eef7f2;
+  color: var(--ink);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+}
+
+.comparison-table tr:last-child td {
+  border-bottom: 0;
+}
+
+.comparison-table a {
+  color: var(--teal-dark);
+  font-weight: 850;
+}
+
 .proof-band {
   background: #eef7f2;
   border-top: 1px solid var(--line);
@@ -579,6 +660,10 @@ textarea:focus {
   .checkout-grid {
     grid-template-columns: 1fr;
   }
+
+  .decision-band {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 620px) {
@@ -590,7 +675,8 @@ textarea:focus {
 
   .nav {
     width: 100%;
-    justify-content: space-between;
+    gap: 12px;
+    justify-content: flex-start;
   }
 
   .field-grid {
@@ -600,5 +686,9 @@ textarea:focus {
   h1 {
     font-size: 2.15rem;
     line-height: 1.02;
+  }
+
+  .decision-band {
+    grid-template-columns: 1fr;
   }
 }

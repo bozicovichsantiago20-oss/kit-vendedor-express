@@ -30,6 +30,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 El bundle cuesta USD 15 sugerido e incluye pack base, Auditoria Express y Kit Pro en una sola descarga.
 
+Comparador de ofertas:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+
+Ayuda a elegir entre herramientas gratis, pack base, Auditoria Express, Pro y Bundle.
+
 Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html

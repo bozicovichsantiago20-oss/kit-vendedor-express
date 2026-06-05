@@ -33,6 +33,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Bundle Vendedor Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
+Comparador de ofertas:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 

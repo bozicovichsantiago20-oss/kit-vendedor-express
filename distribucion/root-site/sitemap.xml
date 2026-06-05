@@ -49,6 +49,12 @@
     <priority>0.92</priority>
   </url>
   <url>
+    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.91</priority>
+  </url>
+  <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-pro/kit-vendedor-express-pro.zip</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>

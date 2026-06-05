@@ -26,6 +26,10 @@ Bundle Vendedor Express:
 - Precio sugerido: USD 15 o equivalente local.
 - Incluye pack base, Auditoria Express y Kit Pro en una sola descarga.
 
+Comparar opciones:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+- Ayuda a elegir entre herramientas gratis, pack base, Auditoria Express, Pro y Bundle.
+
 Metodos de pago:
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
 - PayPal Auditoria USD 7: https://paypal.me/SBozicovich/7USD
