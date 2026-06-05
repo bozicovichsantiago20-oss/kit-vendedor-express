@@ -51,6 +51,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/checklist-publicacion-marketplace.html
 - IndexNow enviado para las nuevas guias con respuesta HTTP 200.
 - Reporte de las 6 AM programado en este hilo para revisar ganancias y continuar el trabajo.
+- Sitemap del sitio raiz actualizado con las nuevas guias.
+- Clave IndexNow raiz verificada y envio raiz repetido con respuesta HTTP 200.
 
 ## Estado de ingresos
 
