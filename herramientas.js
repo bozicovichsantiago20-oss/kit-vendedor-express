@@ -182,6 +182,112 @@ function initPromptGenerator() {
   buildPrompts();
 }
 
+function initWhatsAppGenerator() {
+  const form = byId("whatsapp-tool");
+  const output = byId("tool-output");
+  const copy = byId("copy-tool-output");
+  if (!form || !output) return;
+
+  const templates = {
+    consulta: {
+      claro:
+        "Hola. Gracias por escribir por {product}. Para confirmarte bien necesito {detail}. Con eso te digo disponibilidad, precio y entrega.",
+      cercano:
+        "Hola! Gracias por consultar por {product}. Pasame {detail} y te confirmo la mejor opcion para avanzar.",
+      firme:
+        "Hola. Para responder correctamente sobre {product}, necesito {detail}. Con ese dato confirmo disponibilidad y condiciones."
+    },
+    precio: {
+      claro:
+        "Hola. {product} esta en {price}. Incluye {detail}. Si te sirve, te paso medios de pago y coordinamos entrega.",
+      cercano:
+        "Hola! {product} te queda en {price}. {detail}. Si queres avanzar, lo dejamos reservado con pago o sena.",
+      firme:
+        "Hola. El precio vigente de {product} es {price}. {detail}. La reserva se confirma con pago."
+    },
+    stock: {
+      claro:
+        "Hola. Tenemos stock de {product}. {detail}. Puedo reservarlo cuando confirmes el pago.",
+      cercano:
+        "Hola! Si, tengo {product} disponible. {detail}. Si te sirve, avanzamos y lo dejamos listo.",
+      firme:
+        "Hola. Stock disponible de {product} al momento de esta respuesta. {detail}. Sin pago no queda reservado."
+    },
+    envio: {
+      claro:
+        "Pasame tu zona o codigo postal y te confirmo costo y plazo para {product}. {detail}.",
+      cercano:
+        "Dale, te confirmo envio de {product}. Pasame zona o CP. {detail}.",
+      firme:
+        "Para cotizar envio de {product}, necesito zona o codigo postal. {detail}."
+    },
+    descuento: {
+      claro:
+        "Por ahora el precio de {product} es {price}. {detail}. Si llevas mas unidades, puedo revisar una opcion por cantidad.",
+      cercano:
+        "Te entiendo. Hoy {product} esta en {price}. {detail}. Si queres, pasame cantidad y veo si hay margen por volumen.",
+      firme:
+        "El precio vigente de {product} es {price}. {detail}. No puedo bajarlo por una unidad, pero reviso por cantidad."
+    },
+    seguimiento: {
+      claro:
+        "Hola. Te escribo para saber si pudiste revisar {product}. Si necesitas precio, envio o medidas, te lo confirmo por aca.",
+      cercano:
+        "Hola! Queria saber si seguia interesandote {product}. Si te falta algun dato, te ayudo por aca.",
+      firme:
+        "Hola. Retomo la consulta por {product}. Si queres avanzar, confirmame {detail} y te indico el siguiente paso."
+    },
+    postventa: {
+      claro:
+        "Hola. Gracias por avisar sobre {product}. Mandame foto, numero de compra y detalle del problema para revisarlo.",
+      cercano:
+        "Hola! Lamento el inconveniente con {product}. Pasame foto y detalle de lo ocurrido, y lo revisamos.",
+      firme:
+        "Hola. Para revisar el caso de {product}, necesito evidencia, numero de compra y detalle del problema. La gestion se define con esos datos."
+    }
+  };
+
+  function buildWhatsAppMessages() {
+    const product = cleanToolValue(byId("wa-product").value, "el producto");
+    const intent = cleanToolValue(byId("wa-intent").value, "consulta");
+    const tone = cleanToolValue(byId("wa-tone").value, "claro");
+    const price = cleanToolValue(byId("wa-price").value, "$[precio]");
+    const detail = cleanToolValue(byId("wa-detail").value, "dato clave");
+    const template = templates[intent]?.[tone] || templates.consulta.claro;
+    const main = template
+      .replaceAll("{product}", product)
+      .replaceAll("{price}", price)
+      .replaceAll("{detail}", detail);
+
+    output.value = [
+      "Mensaje principal para WhatsApp",
+      "",
+      main,
+      "",
+      "Seguimiento sin presionar",
+      `Hola. Te escribo para saber si pudiste revisar ${product}. Si te falta precio, envio, medidas o forma de pago, te lo paso por aca.`,
+      "",
+      "Cierre amable",
+      `Si te sirve, dejamos ${product} listo hoy. Te paso medios de pago y apenas se acredita coordinamos envio o retiro.`,
+      "",
+      "Recordatorio para cargar como respuesta rapida:",
+      `/${intent}-${tone} -> ${main}`
+    ].join("\n");
+  }
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    buildWhatsAppMessages();
+  });
+
+  if (copy) {
+    copy.addEventListener("click", () => copyToolText(output.value, "Mensajes copiados."));
+  }
+
+  buildWhatsAppMessages();
+}
+
 initTitleGenerator();
 initPriceCalculator();
 initPromptGenerator();
+initWhatsAppGenerator();

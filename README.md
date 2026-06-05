@@ -77,6 +77,7 @@ Herramientas gratis:
 - Generador de titulos para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - Calculadora de precio de venta online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 - Generador de prompts para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
+- Generador de mensajes de WhatsApp para ventas: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html
 
 Micrositios tematicos:
 
