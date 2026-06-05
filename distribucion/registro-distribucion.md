@@ -389,6 +389,39 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Release: 1 descarga por ZIP, sin nueva atribucion.
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 15:41 ART
+
+- Verificacion inicial:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release v1.0.0: 1 descarga por ZIP, sin atribucion de cliente.
+  - Registro local de cobros: 0 USD confirmados.
+- Investigacion de oportunidad:
+  - Se revisaron senales actuales sobre respuestas rapidas y preguntas de compradores en Mercado Libre y herramientas de vendedores.
+  - Decision: crear una herramienta no-login nueva enfocada en priorizar preguntas de compradores para mejorar velocidad de respuesta y derivar al servicio USD 29.
+- Nueva herramienta publicada:
+  - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html
+  - Funciona como priorizador P1/P2/P3 y generador de respuesta para Mercado Libre, WhatsApp, Instagram o tienda propia.
+  - CTA visible a respuestas personalizadas USD 29, PayPal directo y CBU.
+  - Commit principal: cc18d24.
+  - Verificacion publica: status 200, PayPal USD 29 visible, CBU visible y script cargado.
+- Distribucion sincronizada:
+  - Home principal, sitemap, README y llms actualizados.
+  - Hub raiz commit: 6c06076.
+  - Perfil GitHub commit: b042302.
+  - Gist maestro actualizado.
+  - Release v1.0.0 actualizada.
+  - IndexNow acepto 7 URLs propias con HTTP 200.
+- Distribucion externa:
+  - Telegra.ph publicado y verificado: https://telegra.ph/Priorizador-de-preguntas-para-Mercado-Libre-06-05
+  - Telegra.ph status 200 con enlace a herramienta, PayPal y CBU.
+  - ToolCommons comentario agregado sin abrir issue duplicado:
+    https://github.com/ToolCommons/toolcommons.github.io/issues/23#issuecomment-4634448739
+  - NoSignupTools: intento unico a endpoint publico devolvio HTTP 500; no se insistio.
+  - IndexNow no acepto URL de Telegra.ph porque no controlamos ese host; no se reintento.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 14:42 ART
 
 - Accion segura sin gasto: guia SEO nueva para captar busquedas informativas y derivar al servicio de respuestas personalizadas USD 29.
