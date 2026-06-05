@@ -153,6 +153,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Articulo de Telegraph enviado y visible en Zearches:
   - https://zearches.com/directory.php?slug=resources-directories
   - Listing visible: Plantillas Ecommerce -> https://telegra.ph/Plantillas-de-atencion-al-cliente-para-ecommerce-06-05
+- Release publica de GitHub actualizada con ofertas vigentes y links directos:
+  - https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0
+  - Incluye comparador, base USD 5, Auditoria USD 7, Pro USD 12, Bundle USD 15, aporte USD 1, guia nueva, PayPal directo y CBU.
 
 ## Analisis de otros proyectos Codex locales
 
