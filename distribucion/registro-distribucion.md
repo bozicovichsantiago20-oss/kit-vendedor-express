@@ -115,6 +115,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Micrositios agregados al hub raiz, sitemap raiz, llms raiz, README de perfil y Gist maestro; IndexNow HTTP 200.
 - Pagina de aporte rapido USD 1 creada para monetizar usuarios de herramientas gratis:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
+- Aporte USD 1 verificado publico en pagina, sitemap, llms, hub raiz, README de perfil y Gist maestro; IndexNow HTTP 200.
 
 ## Estado de ingresos
 
