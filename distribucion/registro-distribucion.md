@@ -422,6 +422,30 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Estado al cierre:
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 16:45 ART
+
+- Verificacion inicial:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Registro local de cobros: 0 USD confirmados.
+- Nuevo micrositio/repositorio publicado:
+  - Repo: https://github.com/bozicovichsantiago20-oss/marketplace-question-prioritizer
+  - GitHub Pages: https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/
+  - Tema: herramienta no-login en ingles para priorizar preguntas de compradores y generar respuesta rapida.
+  - CTA visible a respuestas personalizadas USD 29, PayPal directo y CBU.
+  - Repo publico con topics: no-login, marketplace, ecommerce, seller-tools, github-pages, customer-support.
+  - Pages status: built.
+  - Verificacion publica: status 200, formulario presente, PayPal USD 29 visible.
+- Distribucion sincronizada:
+  - Commit principal: c329376.
+  - Hub raiz commit: 3c3f4af.
+  - Perfil GitHub commit: 4fb1e4c.
+  - Release v1.0.0 actualizada con micrositio.
+  - Gist maestro actualizado con repo y micrositio.
+  - IndexNow acepto 7 URLs propias con HTTP 200.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 16:11 ART
 
 - Verificacion inicial:
