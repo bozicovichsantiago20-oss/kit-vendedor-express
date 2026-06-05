@@ -66,6 +66,8 @@ Herramientas gratis:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 - Generador de respuestas rapidas para Mercado Libre:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
+- Generador de prompts para vendedores online:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 
 Guias recomendadas:
 - Respuestas rapidas para Mercado Libre:

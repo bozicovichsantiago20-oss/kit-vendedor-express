@@ -34,6 +34,7 @@ Bundle: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.h
 Microsite Respuestas: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
 Microsite Calculadora: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
 Microsite Auditoria: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+Prompt Tool: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip
 Hub: https://bozicovichsantiago20-oss.github.io/
 

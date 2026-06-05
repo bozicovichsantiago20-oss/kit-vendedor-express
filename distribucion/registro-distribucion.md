@@ -128,6 +128,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Landing en ingles creada para cumplir requisitos de directorios de herramientas/SaaS que piden pagina en ingles:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
   - Incluye generador gratis, enlace al bundle, PayPal y CBU.
+- Herramienta gratis AI-adjacent creada para abrir directorios de herramientas de IA sin costo de API:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
+  - Genera prompts locales para ChatGPT/Gemini/Claude orientados a publicaciones, respuestas, cierres y postventa.
 
 ## Analisis de otros proyectos Codex locales
 

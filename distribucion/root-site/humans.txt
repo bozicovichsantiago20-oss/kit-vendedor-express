@@ -11,6 +11,7 @@ Auditoria: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/audit
 Bundle: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 Aporte: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 English Landing: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
+Prompt Tool: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 Microsite Respuestas: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
 Microsite Calculadora: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
 Microsite Auditoria: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/

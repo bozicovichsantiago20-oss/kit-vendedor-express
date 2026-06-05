@@ -137,5 +137,51 @@ function initPriceCalculator() {
   calculate();
 }
 
+function initPromptGenerator() {
+  const form = byId("prompt-tool");
+  const output = byId("tool-output");
+  const copy = byId("copy-tool-output");
+  if (!form || !output) return;
+
+  function buildPrompts() {
+    const product = cleanToolValue(byId("prompt-product").value, "producto");
+    const channel = cleanToolValue(byId("prompt-channel").value, "marketplace");
+    const goal = cleanToolValue(byId("prompt-goal").value, "vender mejor");
+    const tone = cleanToolValue(byId("prompt-tone").value, "claro y directo");
+    const detail = cleanToolValue(byId("prompt-detail").value, "dato clave del producto");
+
+    output.value = [
+      "Prompts listos para pegar en una IA",
+      "",
+      "1. Publicacion optimizada",
+      `Actua como especialista en ecommerce. Quiero ${goal} en ${channel} para este producto: ${product}. Usa un tono ${tone}. Dato clave: ${detail}. Devuelve un titulo claro, una descripcion breve, beneficios, preguntas frecuentes y advertencias que eviten reclamos.`,
+      "",
+      "2. Respuestas frecuentes",
+      `Crea 10 respuestas rapidas para compradores de ${product} en ${channel}. Cubre stock, envio, medidas, garantia, factura, precio, cambios, devoluciones, retiro y compra mayorista. Tono ${tone}. Incluye este dato cuando corresponda: ${detail}.`,
+      "",
+      "3. Mensaje de cierre",
+      `Escribe 5 mensajes cortos para cerrar una venta de ${product} por ${channel}. No prometas descuentos falsos. Usa urgencia moderada, claridad y tono ${tone}. Dato clave: ${detail}.`,
+      "",
+      "4. Revision anti-reclamos",
+      `Revisa una publicacion de ${product} y dime que informacion falta para reducir reclamos. Ordena la respuesta en: titulo, fotos, descripcion, preguntas frecuentes, garantia, envio, cambios y postventa. Contexto: ${channel}.`,
+      "",
+      "5. Postventa",
+      `Crea mensajes de postventa para ${product}: confirmacion de compra, seguimiento, pedido de datos faltantes, aviso de demora, cambio/devolucion y recompra. Tono ${tone}. Dato clave: ${detail}.`
+    ].join("\n");
+  }
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    buildPrompts();
+  });
+
+  if (copy) {
+    copy.addEventListener("click", () => copyToolText(output.value, "Prompts copiados."));
+  }
+
+  buildPrompts();
+}
+
 initTitleGenerator();
 initPriceCalculator();
+initPromptGenerator();

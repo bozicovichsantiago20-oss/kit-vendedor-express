@@ -56,6 +56,7 @@ Aporte: https://paypal.me/SBozicovich/1USD
 - Generador de titulos para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - Calculadora de precio de venta online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 - Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
+- Generador de prompts para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 
 ## Guias con intencion comercial
 

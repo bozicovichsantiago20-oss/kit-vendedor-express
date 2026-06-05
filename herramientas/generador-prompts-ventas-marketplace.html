@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Generador de prompts para vender online gratis</title>
+    <meta
+      name="description"
+      content="Genera prompts listos para usar con ChatGPT u otra IA y mejorar publicaciones, respuestas y mensajes de venta online."
+    />
+    <meta property="og:title" content="Generador de prompts para vendedores online" />
+    <meta
+      property="og:description"
+      content="Herramienta gratis para crear prompts de publicaciones, respuestas, preguntas frecuentes y mensajes de venta."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html"
+    />
+    <meta
+      property="og:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link
+      rel="canonical"
+      href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Generador de prompts para vendedores online",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Any",
+        "description": "Herramienta gratis sin registro para crear prompts de venta online y marketplace.",
+        "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      }
+    </script>
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="../index.html#herramientas">Herramientas</a>
+        <a href="../ofertas.html">Ofertas</a>
+        <a href="../apoyar.html">Apoyar USD 1</a>
+        <a href="../bundle.html">Bundle</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="guide-hero">
+        <p class="eyebrow">Herramienta gratis para IA</p>
+        <h1>Generador de prompts para vendedores online</h1>
+        <p>
+          Crea prompts listos para pegar en ChatGPT, Gemini, Claude u otro asistente y
+          mejorar publicaciones, respuestas, preguntas frecuentes y mensajes de cierre.
+        </p>
+      </section>
+
+      <article class="guide-body">
+        <form class="generator tool-form" id="prompt-tool">
+          <label>
+            Producto o rubro
+            <input id="prompt-product" type="text" value="mochila urbana impermeable" />
+          </label>
+
+          <div class="field-grid">
+            <label>
+              Canal
+              <select id="prompt-channel">
+                <option value="Mercado Libre">Mercado Libre</option>
+                <option value="WhatsApp">WhatsApp</option>
+                <option value="Instagram">Instagram</option>
+                <option value="tienda online">Tienda online</option>
+              </select>
+            </label>
+            <label>
+              Objetivo
+              <select id="prompt-goal">
+                <option value="mejorar una publicacion">Mejorar publicacion</option>
+                <option value="responder dudas repetidas">Responder dudas</option>
+                <option value="cerrar una venta">Cerrar venta</option>
+                <option value="ordenar postventa">Ordenar postventa</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="field-grid">
+            <label>
+              Tono
+              <select id="prompt-tone">
+                <option value="claro, amable y directo">Claro</option>
+                <option value="cercano, breve y vendedor">Cercano</option>
+                <option value="profesional, firme y preciso">Profesional</option>
+              </select>
+            </label>
+            <label>
+              Dato clave
+              <input id="prompt-detail" type="text" value="envio en 24 hs habiles y garantia por falla" />
+            </label>
+          </div>
+
+          <button class="primary-button" type="submit">Generar prompts</button>
+        </form>
+
+        <section class="result">
+          <div class="result-header">
+            <h2>Prompts listos</h2>
+            <button class="icon-button" id="copy-tool-output" type="button">Copiar</button>
+          </div>
+          <textarea id="tool-output" rows="15" spellcheck="false"></textarea>
+        </section>
+
+        <div class="guide-cta">
+          <h2>Quieres el paquete completo de prompts y respuestas?</h2>
+          <p>
+            El Bundle Vendedor Express trae el pack base, Auditoria Express y Pro en una sola descarga.
+          </p>
+          <a class="primary-button" href="../bundle.html">Ver bundle USD 15</a>
+          <a class="secondary-button" href="../pro.html">Ver Pro USD 12</a>
+          <a class="secondary-button" href="../apoyar.html">Apoyar USD 1</a>
+        </div>
+      </article>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="../herramientas.js"></script>
+  </body>
+</html>
