@@ -147,6 +147,12 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
   - Enlazada desde el inicio, sitemap, llms, hub raiz, README de perfil y Gist maestro.
   - CTA directo al bundle USD 15, PayPal directo y aporte USD 1.
+- Articulo externo publicado en Telegraph para ampliar superficie de descubrimiento:
+  - https://telegra.ph/Plantillas-de-atencion-al-cliente-para-ecommerce-06-05
+  - Incluye ejemplos gratuitos, enlace a la guia completa, enlace al bundle y PayPal directo USD 15.
+- Articulo de Telegraph enviado y visible en Zearches:
+  - https://zearches.com/directory.php?slug=resources-directories
+  - Listing visible: Plantillas Ecommerce -> https://telegra.ph/Plantillas-de-atencion-al-cliente-para-ecommerce-06-05
 
 ## Analisis de otros proyectos Codex locales
 
