@@ -12,6 +12,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 Checkout:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
+Pago y entrega:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
+
 Compra rapida:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-listas-para-vender-hoy.html
 
