@@ -416,6 +416,42 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Trafico GitHub principal: 0 vistas, 0 unicos.
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 12:39 ART
+
+- Nuevo hub de pago y entrega publicado:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
+  - Resume Base USD 5, Auditoria USD 7, Pro USD 12, Bundle USD 15 y Auditoria personalizada USD 19.
+  - Incluye PayPal, CBU Banco Galicia, descargas ZIP y enlace de pedido GitHub.
+  - Commit principal de pagina: 0f428f7.
+  - Commit de formulario de pedido con link al hub: 4ce4656.
+- Enlaces internos de conversion agregados en:
+  - home principal, comprar, auditoria personalizada y comparador de ofertas.
+- Hub raiz, perfil publico y gist maestro sincronizados:
+  - Hub raiz commit: 3398249.
+  - Perfil GitHub commit: cbd2c75.
+  - Gist maestro actualizado: https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc
+- Verificacion publica:
+  - Sitio principal status 200.
+  - Pago y entrega status 200 con CBU, PayPal USD 19 y pedido GitHub.
+  - ZIP base status 200, 12442 bytes.
+  - ZIP bundle status 200, 36022 bytes.
+  - Hub raiz status 200 con enlace a pago y entrega.
+  - Release v1.0.0 status 200.
+  - Telegraph auditoria personalizada y Telegraph publicacion no vende status 200.
+- IndexNow:
+  - Primer envio rechazado por mezclar URL de Gist con host GitHub Pages.
+  - Reenvio correcto aceptado HTTP 200 para 7 URLs de GitHub Pages.
+- GitHub:
+  - Topics agregados a micrositio publicacion-no-vende y hub raiz.
+  - Repo principal ya tenia el cupo de topics cubierto; se mantuvo sin forzar cambios.
+  - Homepage configurado en el repo del hub raiz.
+- Estado al cierre:
+  - Issues de auditoria personalizada abiertos: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico micrositio publicacion-no-vende: 0 vistas, 0 unicos.
+  - Release: 1 descarga por ZIP, sin nueva atribucion de cliente.
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 11:22 ART
 
 - Metadatos del repo principal optimizados para descubrimiento:
