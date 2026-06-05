@@ -119,6 +119,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Envio externo a Tool Commons creado para la herramienta gratis de respuestas rapidas:
   - https://github.com/ToolCommons/toolcommons.github.io/issues/22
   - Repo tematico con licencia MIT: https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
+- Envio externo a NoSignupTools completado con respuesta success true:
+  - https://nosignuptools.com/submit
+  - Herramienta enviada: generador de respuestas rapidas para Mercado Libre
 
 ## Estado de ingresos
 
