@@ -89,3 +89,10 @@ Telegraph generador WhatsApp,https://telegra.ph/Generador-de-mensajes-de-WhatsAp
 FreeNoSignup generador WhatsApp,https://freenosignup.com/submit/,Enviado,No,Ninguno,Submission externa enviada por formulario publico Google para WhatsApp Sales Message Generator con confirmacion registrada
 nologin.tools generador WhatsApp,https://nologin.tools/submit/,Pendiente,No,Limite diario,Submission no aceptada por limite diario del sitio 3 envios por 24 horas
 Zearches generador WhatsApp,https://zearches.com/submit.php,Pendiente,No,Regla homepage,No se forzo envio de pagina interna porque el formulario actual pide homepage real y el hub raiz ya esta listado
+Herramienta auditoria publicacion,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html,Publicado,No,Ninguno,Herramienta gratis verificada status 200 con PayPal USD 7 CBU CTA a Auditoria Express e IndexNow HTTP 200
+Telegraph auditoria publicacion,https://telegra.ph/Auditoria-gratis-de-publicacion-marketplace-06-05,Publicado,No,Ninguno,Articulo externo verificado status 200 con herramienta gratis PayPal USD 7 y CBU
+FreeNoSignup auditoria publicacion,https://freenosignup.com/submit/,Enviado,No,Ninguno,Submission externa enviada por formulario publico Google para Marketplace Publication Audit Generator con confirmacion registrada
+ToolCommons auditoria publicacion,https://github.com/ToolCommons/toolcommons.github.io/issues/23,Enviado,No,Ninguno,Issue de submission creado para herramienta gratis no-login
+nologin.tools auditoria publicacion,https://nologin.tools/submit/,Pendiente,No,Limite diario,Submission no aceptada por limite diario del sitio 3 envios por 24 horas HTTP 429
+AllWebList auditoria publicacion,https://www.allweblist.org/submit,Bloqueado,No,DNS Supabase,Formulario publico existe pero el host Supabase declarado por el sitio no resolvio desde esta sesion
+Tools Directory Online,https://toolsdirectoryonline.com/submit,Bloqueado,No,404,La URL de envio encontrada en busqueda devolvio 404 al verificar
