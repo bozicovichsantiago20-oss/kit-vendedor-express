@@ -72,11 +72,15 @@ Repos tematicos:
 - https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
 - https://github.com/bozicovichsantiago20-oss/calculadora-precio-venta-online
 - https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
+- https://github.com/bozicovichsantiago20-oss/plantillas-atencion-cliente-ecommerce
+- https://github.com/bozicovichsantiago20-oss/calcular-precio-mercado-libre
 
 Micrositios tematicos:
 - https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
 - https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
 - https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+- https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
+- https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
 
 Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPal.
 Aporte: https://paypal.me/SBozicovich/1USD

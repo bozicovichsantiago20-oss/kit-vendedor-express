@@ -1,0 +1,13 @@
+# Calcular precio de venta Mercado Libre
+
+URL:
+https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
+
+Recurso para revisar costo, comision, envio, impuestos y margen antes de bajar precio.
+
+Producto pago:
+- Auditoria Express USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
+- PayPal: https://paypal.me/SBozicovich/7USD
+- CBU Banco Galicia: 0070034430004032923161
+
+Producto independiente, no afiliado a Mercado Libre.

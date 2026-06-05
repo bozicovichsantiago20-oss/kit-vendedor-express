@@ -64,6 +64,8 @@ Micrositios publicos tematicos:
 - https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
 - https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
 - https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+- https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
+- https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
 
 Pago:
 - PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD

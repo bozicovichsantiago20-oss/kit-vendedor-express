@@ -182,6 +182,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Mensaje posterior a copiar actualizado:
   - Al copiar una respuesta, calculo, titulo o prompt, el aviso invita a apoyar USD 1 si la herramienta ahorro tiempo.
   - app.js y herramientas.js verificados publicos con el nuevo mensaje; IndexNow HTTP 200.
+- Micrositios tematicos nuevos preparados para GitHub Pages:
+  - plantillas-atencion-cliente-ecommerce: plantilla de atencion al cliente con CTA a Bundle USD 15, PayPal y CBU.
+  - calcular-precio-mercado-libre: formula/checklist de precio con CTA a Auditoria USD 7, PayPal y CBU.
+  - Enlazados desde hub raiz, sitemap raiz, llms raiz, README de perfil y Gist maestro.
 
 ## Analisis de otros proyectos Codex locales
 

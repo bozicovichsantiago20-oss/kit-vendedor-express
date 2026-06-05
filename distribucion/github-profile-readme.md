@@ -78,9 +78,13 @@ Aporte: https://paypal.me/SBozicovich/1USD
 - Respuestas rapidas Mercado Libre: https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
 - Calculadora precio venta online: https://github.com/bozicovichsantiago20-oss/calculadora-precio-venta-online
 - Auditoria publicacion marketplace: https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
+- Plantillas atencion cliente ecommerce: https://github.com/bozicovichsantiago20-oss/plantillas-atencion-cliente-ecommerce
+- Calcular precio Mercado Libre: https://github.com/bozicovichsantiago20-oss/calcular-precio-mercado-libre
 
 ## Micrositios tematicos
 
 - Respuestas rapidas Mercado Libre: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
 - Calculadora precio venta online: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
 - Auditoria publicacion marketplace: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+- Plantillas atencion cliente ecommerce: https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
+- Calcular precio Mercado Libre: https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
