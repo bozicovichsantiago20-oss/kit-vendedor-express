@@ -107,6 +107,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
 - Comparador de ofertas creado para mejorar conversion entre gratis, base, auditoria, Pro y bundle:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+- Comparador verificado publico en pagina, sitemap, llms, hub raiz, README de perfil y Gist maestro; IndexNow HTTP 200.
 
 ## Estado de ingresos
 
