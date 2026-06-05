@@ -171,6 +171,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Plantillas de atencion al cliente ecommerce: https://gist.github.com/bozicovichsantiago20-oss/ebc49e534b18ed2838e47c78f05c9ca8
   - Calcular precio de venta sin perder margen: https://gist.github.com/bozicovichsantiago20-oss/3018a8a90eec6196132b55ec51fb7d3e
   - Ambos incluyen recursos gratis, producto pago, PayPal directo y CBU.
+- Envios adicionales a nologin.tools completados por API:
+  - Marketplace Price Calculator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+  - Marketplace Seller Prompt Generator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
+  - Estado devuelto por API: ok true para ambos; paginas publicas aun devuelven 404, por lo que quedan como enviados/en revision.
 
 ## Analisis de otros proyectos Codex locales
 
