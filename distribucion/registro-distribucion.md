@@ -63,6 +63,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Herramientas gratis nuevas para captar busquedas de vendedores:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+- Herramientas verificadas publicas y enviadas por IndexNow con respuesta HTTP 200.
 
 ## Estado de ingresos
 
