@@ -35,6 +35,7 @@ Los ZIP estan adjuntos en esta release:
 - Pro USD 12: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 - Bundle USD 15: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 - Comparador: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+- Guia respuestas personalizadas: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 
 ## Herramientas gratis
 

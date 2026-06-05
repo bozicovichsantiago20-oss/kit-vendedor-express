@@ -83,6 +83,9 @@ Herramientas gratis:
 Guia para calcular precio de venta:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
 
+Guia respuestas personalizadas:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
+
 Guia de atencion al cliente ecommerce:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
 

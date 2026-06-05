@@ -89,6 +89,7 @@ Herramientas gratis:
 Guias comerciales:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 
 Repos publicos tematicos:
 - https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
