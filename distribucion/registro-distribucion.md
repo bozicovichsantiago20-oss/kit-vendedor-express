@@ -41,6 +41,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/mensajes-whatsapp-ventas.html
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/reclamos-devoluciones-ecommerce.html
 - IndexNow enviado para las guias con respuesta HTTP 200.
+- Telegra.ph: pagina publica creada y verificada:
+  https://telegra.ph/Kit-Vendedor-Express-para-vendedores-online-06-05
 
 ## Estado de ingresos
 
