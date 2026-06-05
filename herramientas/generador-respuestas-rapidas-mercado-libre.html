@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Generador de respuestas rapidas para Mercado Libre</title>
+    <meta
+      name="description"
+      content="Genera respuestas rapidas para Mercado Libre: envio, stock, medidas, garantia, factura, precio, devoluciones y reclamos."
+    />
+    <meta property="og:title" content="Generador de respuestas rapidas para Mercado Libre" />
+    <meta
+      property="og:description"
+      content="Herramienta gratis para responder consultas frecuentes de compradores y descargar el pack completo."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html"
+    />
+    <meta
+      property="og:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link
+      rel="canonical"
+      href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="../index.html#generador">Generador</a>
+        <a href="../index.html#herramientas">Herramientas</a>
+        <a href="../comprar.html">Pagar</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="guide-hero">
+        <p class="eyebrow">Herramienta gratis</p>
+        <h1>Generador de respuestas rapidas para Mercado Libre</h1>
+        <p>
+          Escribe tu producto, elige la duda del comprador y copia una respuesta lista
+          para consultas de envio, stock, medidas, garantia, factura, precio o reclamos.
+        </p>
+      </section>
+
+      <article class="guide-body">
+        <form class="generator tool-form" id="reply-form">
+          <label>
+            Producto o rubro
+            <input id="product" name="product" type="text" value="mochila urbana impermeable" autocomplete="off" />
+          </label>
+
+          <div class="field-grid">
+            <label>
+              Canal
+              <select id="channel" name="channel">
+                <option value="Mercado Libre">Mercado Libre</option>
+                <option value="WhatsApp">WhatsApp</option>
+                <option value="Instagram">Instagram</option>
+                <option value="Tienda propia">Tienda propia</option>
+              </select>
+            </label>
+
+            <label>
+              Situacion
+              <select id="scenario" name="scenario">
+                <option value="envio">Envio y demora</option>
+                <option value="stock">Stock disponible</option>
+                <option value="medidas">Medidas o compatibilidad</option>
+                <option value="garantia">Garantia</option>
+                <option value="factura">Factura</option>
+                <option value="precio">Precio o descuento</option>
+                <option value="retiro">Retiro en punto</option>
+                <option value="devolucion">Cambio o devolucion</option>
+                <option value="reclamo">Reclamo postventa</option>
+                <option value="mayorista">Compra mayorista</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="field-grid">
+            <label>
+              Tono
+              <select id="tone" name="tone">
+                <option value="claro">Claro</option>
+                <option value="cercano">Cercano</option>
+                <option value="firme">Firme</option>
+              </select>
+            </label>
+
+            <label>
+              Dato clave
+              <input id="detail" name="detail" type="text" value="despachamos dentro de las 24 hs habiles" />
+            </label>
+          </div>
+
+          <button class="primary-button" type="submit">Generar respuesta</button>
+        </form>
+
+        <section class="result">
+          <div class="result-header">
+            <h2>Respuesta lista</h2>
+            <button class="icon-button" id="copy-reply" type="button" aria-label="Copiar respuesta">Copiar</button>
+          </div>
+          <textarea id="reply-output" rows="9" spellcheck="false"></textarea>
+        </section>
+
+        <div class="guide-cta">
+          <h2>Necesitas mas respuestas para tu tienda?</h2>
+          <p>
+            El pack completo trae 130+ respuestas, bonus por rubro, guiones de WhatsApp,
+            prompts y checklist para ordenar venta y postventa.
+          </p>
+          <a class="primary-button" href="../comprar.html">Pagar y descargar</a>
+          <a class="secondary-button" href="../guias/respuestas-rapidas-mercado-libre.html">Leer guia</a>
+        </div>
+
+        <h2>Fuente util</h2>
+        <p>
+          Mercado Libre tiene documentacion para crear respuestas rapidas y recomienda evitar
+          respuestas duplicadas o con la misma informacion.
+          <a href="https://vendedores.mercadolibre.com.ar/nota/como-crear-respuestas-rapidas" target="_blank" rel="noopener">Ver fuente oficial</a>
+        </p>
+      </article>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="../app.js"></script>
+  </body>
+</html>

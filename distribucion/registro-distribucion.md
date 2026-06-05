@@ -71,6 +71,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Guia SEO nueva creada para busquedas de precio/margen:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
 - Guia de precio verificada publica, agregada a sitemap del producto y sitemap raiz, enviada a IndexNow con respuesta HTTP 200.
+- Herramienta SEO nueva creada para busquedas de respuestas rapidas:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
 
 ## Estado de ingresos
 
