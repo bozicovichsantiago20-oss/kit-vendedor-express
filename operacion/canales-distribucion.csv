@@ -1,0 +1,20 @@
+canal,url,estado,requiere_permiso,dato_necesario,resultado
+GitHub Pages producto,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/,Publicado,No,Ninguno,Sitio publico funcionando
+GitHub Release,https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0,Publicado,No,Ninguno,ZIP publico disponible
+GitHub perfil,https://github.com/bozicovichsantiago20-oss/bozicovichsantiago20-oss,Publicado,No,Ninguno,Perfil publico enlaza el producto
+GitHub Pages raiz,https://bozicovichsantiago20-oss.github.io/,Publicado,No,Ninguno,Landing raiz funcionando
+GitHub Gist,https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc,Publicado,No,Ninguno,Ficha publica creada
+Zearches,https://zearches.com/,Publicado,No,Ninguno,Envio aceptado y visible en home
+Telegra.ph,https://telegra.ph/Kit-Vendedor-Express-para-vendedores-online-06-05,Publicado,No,Ninguno,Articulo publico verificado
+IndexNow,https://api.indexnow.org/IndexNow,Enviado,No,Ninguno,Respuestas 202 y 200 segun lote
+Open Launch,https://open-launch.com/projects/submit,Bloqueado,Si,Login GitHub o email,Requiere cuenta externa
+Product Launchpad,https://productlaunchpad.app/submit,Bloqueado,Si,Email para login,Requiere cuenta externa
+Noonlaunch,https://noonlaunch.com/,Bloqueado,Si,Cuenta o email,Requiere cuenta externa
+Startup Fame,https://startupfa.me/,Bloqueado,Si,Cuenta/email y posible badge,Requiere cuenta externa
+LaunchFree,https://launchfree.io/,Bloqueado,Si,Email de contacto,Formulario pide contacto
+Reddit,https://www.reddit.com/,Bloqueado,Si,Confirmar post y cuenta/subreddit,Publicacion desde cuenta personal
+Facebook grupos,https://www.facebook.com/,Bloqueado,Si,Confirmar grupo y texto,Publicacion desde cuenta personal
+WhatsApp,https://web.whatsapp.com/,Bloqueado,Si,Confirmar contactos/grupos,Mensajes directos requieren aprobacion concreta
+LinkedIn,https://www.linkedin.com/,Bloqueado,Si,Confirmar post,Publicacion desde cuenta personal
+Gumroad,https://gumroad.com/,Bloqueado,Si,Login y datos de cobro,Marketplace con cuenta y pagos
+Payhip,https://payhip.com/,Bloqueado,Si,Login y PayPal conectado,Marketplace con cuenta y pagos
