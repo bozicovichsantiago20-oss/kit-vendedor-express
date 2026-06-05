@@ -64,6 +64,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 - Herramientas verificadas publicas y enviadas por IndexNow con respuesta HTTP 200.
+- Pack ampliado a 130+ respuestas reales: 55 plantillas base, 78 respuestas por 13 rubros, 30 prompts, 24 formulas de titulos, guiones WhatsApp y guia de carga.
+- ZIP regenerado localmente con 10 archivos y verificado antes de publicar.
 
 ## Estado de ingresos
 

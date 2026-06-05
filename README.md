@@ -3,7 +3,7 @@
 Producto digital preparado para monetizar rapido con un sitio estatico:
 
 - Herramienta web gratis para generar respuestas de venta.
-- Pack descargable con respuestas rapidas, prompts, checklist y plan de 7 dias.
+- Pack descargable con 130+ respuestas, prompts, formulas de titulos, checklist y plan de 7 dias.
 - Cobro por PayPal.Me y CBU.
 - Configuracion lista para publicar en Netlify.
 

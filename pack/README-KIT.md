@@ -6,19 +6,24 @@ No esta afiliado a Mercado Libre, Meta, WhatsApp ni Instagram. Usalo como materi
 
 ## Incluye
 
-- `respuestas-rapidas-vendedor.csv`: plantillas por canal, situacion y tono.
-- `prompts-publicaciones.csv`: prompts para titulos, beneficios, fichas y redes.
-- `matriz-reclamos-devoluciones.csv`: guia para responder postventa sin improvisar.
+- `respuestas-rapidas-vendedor.csv`: 55 plantillas base por canal, situacion y tono.
+- `bonus-respuestas-por-rubro.csv`: 78 respuestas extra para 13 rubros frecuentes.
+- `prompts-publicaciones.csv`: 30 prompts para titulos, beneficios, fichas y redes.
+- `bonus-titulos-por-rubro.csv`: 24 formulas de titulos por tipo de producto.
+- `matriz-reclamos-devoluciones.csv`: 15 casos para responder postventa sin improvisar.
+- `guiones-whatsapp-cierre.md`: mensajes listos para cerrar consultas por WhatsApp.
+- `guia-cargar-respuestas-rapidas.md`: pasos para cargar respuestas frecuentes.
 - `checklist-publicacion.md`: puntos minimos antes de publicar.
 - `plan-7-dias.md`: rutina para aplicar el kit durante una semana.
 
 ## Como usarlo
 
-1. Abri el CSV de respuestas.
-2. Filtra por situacion: envio, stock, medida, garantia, factura, precio, retiro, devolucion, reclamo o mayorista.
-3. Copia el texto que mas se acerque a tu caso.
-4. Cambia los datos entre corchetes.
-5. Guarda tus respuestas frecuentes en la plataforma o canal que uses.
+1. Abri el CSV de respuestas base.
+2. Si vendes en un rubro concreto, revisa tambien el bonus por rubro.
+3. Filtra por situacion: envio, stock, medida, garantia, factura, precio, retiro, devolucion, reclamo o mayorista.
+4. Copia el texto que mas se acerque a tu caso.
+5. Cambia los datos entre corchetes.
+6. Guarda tus respuestas frecuentes en la plataforma o canal que uses.
 
 ## Precio sugerido
 
