@@ -80,6 +80,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/llms.txt
   - https://bozicovichsantiago20-oss.github.io/humans.txt
 - Archivos de descubrimiento verificados publicos y enviados a IndexNow con respuesta HTTP 200.
+- Topics de GitHub reforzados con mercado-libre, whatsapp, marketplace, calculadora, respuestas-rapidas y precio-venta.
 
 ## Estado de ingresos
 
