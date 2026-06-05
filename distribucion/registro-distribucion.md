@@ -156,6 +156,17 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Release publica de GitHub actualizada con ofertas vigentes y links directos:
   - https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0
   - Incluye comparador, base USD 5, Auditoria USD 7, Pro USD 12, Bundle USD 15, aporte USD 1, guia nueva, PayPal directo y CBU.
+- Articulo externo de precio publicado en Telegraph:
+  - https://telegra.ph/Como-calcular-precio-de-venta-en-Mercado-Libre-sin-perder-margen-06-05
+  - Enlaza calculadora gratis, guia completa, Auditoria Express USD 7 y PayPal directo USD 7.
+- Articulo de precio enviado y visible en Zearches:
+  - https://zearches.com/directory.php?slug=finance-investing
+  - Listing visible: Calcular precio ML -> https://telegra.ph/Como-calcular-precio-de-venta-en-Mercado-Libre-sin-perder-margen-06-05
+- Articulo externo de respuestas publicado en Telegraph:
+  - https://telegra.ph/Respuestas-rapidas-para-Mercado-Libre-y-WhatsApp-con-ejemplos-06-05
+  - Enlaza generador gratis, Bundle Vendedor Express USD 15 y PayPal directo USD 15.
+- Envio a Zearches del articulo de respuestas intento 2026-06-05 06:33 ART:
+  - Resultado: no publicado por limite temporal del sitio (status=error&code=throttle).
 
 ## Analisis de otros proyectos Codex locales
 
