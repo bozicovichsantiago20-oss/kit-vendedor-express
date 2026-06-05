@@ -77,6 +77,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-l
 
 Pagina en ingles para directorios de herramientas gratis, con auditoria no-login y enlace a Auditoria Express.
 
+English question prioritizer:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html
+
+Pagina en ingles para directorios de herramientas gratis, con priorizacion no-login de preguntas y enlace a respuestas personalizadas.
+
 Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html

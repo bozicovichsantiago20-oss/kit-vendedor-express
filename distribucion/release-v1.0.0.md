@@ -48,6 +48,7 @@ Los ZIP estan adjuntos en esta release:
 - Auditoria gratis: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html
 - English reply generator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
 - English listing audit: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
+- English question prioritizer: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html
 
 ## Micrositios tematicos
 

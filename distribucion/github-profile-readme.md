@@ -88,6 +88,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Generador de mensajes de WhatsApp para ventas: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html
 - Generador de auditoria de publicacion marketplace: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html
 - English marketplace listing audit generator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
+- English marketplace question prioritizer: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html
 
 ## Guias con intencion comercial
 

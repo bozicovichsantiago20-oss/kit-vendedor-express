@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Marketplace Question Prioritizer | Free no-login seller tool</title>
+    <meta
+      name="description"
+      content="Free no-login marketplace question prioritizer for sellers. Rank buyer questions by urgency and copy a clear reply for marketplaces, WhatsApp or ecommerce."
+    />
+    <meta property="og:title" content="Marketplace Question Prioritizer" />
+    <meta
+      property="og:description"
+      content="Prioritize buyer questions and generate a fast reply before a hot lead goes cold."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html"
+    />
+    <meta
+      property="og:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link
+      rel="canonical"
+      href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Marketplace Question Prioritizer",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Any",
+        "description": "Free no-login browser tool that ranks buyer questions and creates a quick seller reply.",
+        "image": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png",
+        "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        },
+        "publisher": {
+          "@type": "Person",
+          "name": "Santi Bozicovich"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#tool">Free tool</a>
+        <a href="#paid-service">Custom replies</a>
+        <a href="marketplace-reply-generator.html">Reply generator</a>
+        <a href="marketplace-listing-audit-generator.html">Audit tool</a>
+        <a href="../herramientas/priorizador-preguntas-mercado-libre.html">Spanish</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="workspace" id="tool">
+        <div class="tool-panel" aria-labelledby="page-title">
+          <div class="section-heading">
+            <p class="eyebrow">Free browser tool</p>
+            <h1 id="page-title">Marketplace question prioritizer</h1>
+            <p>
+              When buyer questions pile up, answer the ones most likely to unlock a sale first.
+              Rank the question, copy a reply and keep the conversation moving.
+            </p>
+          </div>
+
+          <form class="generator" id="priority-form">
+            <label>
+              Product or niche
+              <input id="product" type="text" value="waterproof urban backpack" autocomplete="off" />
+            </label>
+
+            <label>
+              Buyer question
+              <input
+                id="question"
+                type="text"
+                value="Is it in stock and can it arrive before Friday?"
+                autocomplete="off"
+              />
+            </label>
+
+            <div class="field-grid">
+              <label>
+                Channel
+                <select id="channel">
+                  <option value="Marketplace">Marketplace</option>
+                  <option value="Mercado Libre">Mercado Libre</option>
+                  <option value="WhatsApp">WhatsApp</option>
+                  <option value="Instagram">Instagram</option>
+                  <option value="Online store">Online store</option>
+                </select>
+              </label>
+
+              <label>
+                Minutes waiting
+                <input id="minutes" type="number" min="0" step="1" value="18" />
+              </label>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                Buyer intent
+                <select id="intent">
+                  <option value="ready">Ready to buy</option>
+                  <option value="shipping">Shipping or delivery</option>
+                  <option value="fit">Size, fit or compatibility</option>
+                  <option value="price">Price or discount</option>
+                  <option value="after-sale">After-sale issue</option>
+                </select>
+              </label>
+
+              <label>
+                Estimated margin
+                <select id="margin">
+                  <option value="medium">Medium</option>
+                  <option value="high">High</option>
+                  <option value="low">Low</option>
+                  <option value="unknown">I do not know</option>
+                </select>
+              </label>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                What is at risk?
+                <select id="risk">
+                  <option value="blocks-payment">It blocks payment</option>
+                  <option value="comparison">Buyer is comparing options</option>
+                  <option value="simple">Simple question</option>
+                </select>
+              </label>
+
+              <label>
+                Key detail for the answer
+                <input id="detail" type="text" value="we have stock and ship within 24 business hours" />
+              </label>
+            </div>
+
+            <button class="primary-button" type="submit">Prioritize and write reply</button>
+          </form>
+
+          <section class="result" aria-live="polite">
+            <div class="result-header">
+              <h2>Priority and reply</h2>
+              <button class="icon-button" id="copy-output" type="button">Copy</button>
+            </div>
+            <textarea id="output" rows="15" spellcheck="false"></textarea>
+          </section>
+        </div>
+
+        <aside class="sell-panel" id="paid-service" aria-labelledby="paid-title">
+          <img
+            class="product-preview"
+            src="../assets/product-preview.png"
+            alt="Preview of Kit Vendedor Express marketplace seller kit"
+          />
+          <div class="section-heading compact">
+            <p class="eyebrow">Optional paid service</p>
+            <h2 id="paid-title">Custom reply set for your niche</h2>
+            <p>
+              If you sell in Spanish, the paid service creates replies for your product line:
+              price, stock, shipping, objections, follow-up and post-sale.
+            </p>
+          </div>
+
+          <div class="price-box">
+            <span class="price">USD 29 custom replies</span>
+            <span class="price-note">One niche or product line, delivered through a public GitHub request.</span>
+          </div>
+
+          <div class="payment-actions">
+            <a class="primary-button" href="../respuestas-personalizadas.html">
+              Open custom service
+            </a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/29USD" target="_blank" rel="noopener">
+              PayPal USD 29
+            </a>
+            <a class="secondary-button" href="../bundle.html">
+              Bundle USD 15
+            </a>
+            <a class="secondary-button" href="../apoyar.html">
+              Support USD 1
+            </a>
+          </div>
+
+          <p class="trust-note">
+            Local transfer in Argentina: Banco Galicia, CBU 0070034430004032923161.
+            Independent product, not affiliated with Mercado Libre, Meta, WhatsApp or Instagram.
+          </p>
+        </aside>
+      </section>
+
+      <section class="content-band">
+        <div class="band-inner">
+          <div class="section-heading">
+            <p class="eyebrow">Why prioritization matters</p>
+            <h2>Fast answers are a simple conversion lever</h2>
+            <p>
+              Marketplace sellers often answer the same questions about stock, delivery, fit,
+              warranty and price. Quick responses help reduce repetitive work and keep purchase
+              intent warm.
+            </p>
+            <p>
+              Mercado Libre's official seller help promotes quick responses for repeated
+              buyer questions.
+              <a href="https://global-selling.mercadolibre.com/learning-center/nota/how-to-create-quick-responses" target="_blank" rel="noopener">Official quick responses guide</a>
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script>
+      const byId = (id) => document.getElementById(id);
+      const clean = (value, fallback) => String(value || "").trim() || fallback;
+
+      function numberValue(id) {
+        const value = Number(String(byId(id).value || "").replace(",", "."));
+        return Number.isFinite(value) ? value : 0;
+      }
+
+      function buildResult() {
+        const product = clean(byId("product").value, "the product");
+        const channel = clean(byId("channel").value, "Marketplace");
+        const question = clean(byId("question").value, "buyer question");
+        const detail = clean(byId("detail").value, "key detail");
+        const minutes = Math.max(0, numberValue("minutes"));
+        const intent = byId("intent").value;
+        const margin = byId("margin").value;
+        const risk = byId("risk").value;
+        let score = 0;
+
+        if (minutes >= 60) score += 35;
+        else if (minutes >= 30) score += 28;
+        else if (minutes >= 10) score += 20;
+        else score += 12;
+
+        score += { ready: 32, shipping: 24, fit: 22, price: 18, "after-sale": 14 }[intent] || 12;
+        score += { high: 22, medium: 16, low: 8, unknown: 10 }[margin] || 10;
+        score += { "blocks-payment": 24, comparison: 16, simple: 10 }[risk] || 10;
+
+        const priority =
+          score >= 78 ? "P1 - answer now" : score >= 55 ? "P2 - answer in the next support block" : "P3 - answer after P1/P2";
+        const tone = score >= 78 ? "direct and complete" : "clear and brief";
+
+        const replies = {
+          ready: `Hi. Yes, we can move forward with ${product}. ${detail}. If that works for you, you can confirm the order and we will get it ready.`,
+          shipping: `Hi. Shipping for ${product} depends on your area or postal code. ${detail}. Send the delivery area and I will confirm the estimated time.`,
+          fit: `Hi. To confirm whether ${product} fits your case, I need ${detail}. That helps avoid buying something that does not work for you.`,
+          price: `Hi. The current price for ${product} is the listed price. ${detail}. If you need more than one unit, send the quantity and I will check availability.`,
+          "after-sale": `Hi. To review the case for ${product}, I need ${detail}. With that information I can tell you the next step.`
+        };
+
+        const caution =
+          channel === "Mercado Libre"
+            ? "Do not include phone numbers, emails, social media handles or external links inside marketplace replies."
+            : "Avoid promising discounts, delivery dates or stock you cannot actually honor.";
+
+        byId("output").value = [
+          `Priority for ${channel}`,
+          "",
+          `Product: ${product}`,
+          `Buyer question: ${question}`,
+          `Waiting time: ${minutes} minutes`,
+          `Result: ${priority}`,
+          `Recommended tone: ${tone}`,
+          "",
+          "Suggested reply:",
+          replies[intent] || replies.ready,
+          "",
+          "Next actions:",
+          "1. Answer P1 questions first: buyer ready to buy, long wait, or payment-blocking doubt.",
+          "2. Save this answer as a quick reply if the question repeats every week.",
+          "3. Add repeated details to the listing to reduce future questions.",
+          "",
+          "Reminder:",
+          caution
+        ].join("\n");
+      }
+
+      function showToast(message) {
+        const toast = byId("toast");
+        if (!toast) return;
+        toast.textContent = message;
+        toast.classList.add("show");
+        window.setTimeout(() => toast.classList.remove("show"), 2400);
+      }
+
+      byId("priority-form").addEventListener("submit", (event) => {
+        event.preventDefault();
+        buildResult();
+      });
+
+      byId("copy-output").addEventListener("click", () => {
+        navigator.clipboard
+          .writeText(byId("output").value)
+          .then(() => showToast("Copied. If it saved time, you can support with USD 1."))
+          .catch(() => byId("output").select());
+      });
+
+      buildResult();
+    </script>
+  </body>
+</html>

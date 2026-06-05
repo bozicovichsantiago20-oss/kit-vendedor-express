@@ -68,6 +68,10 @@ English audit landing:
 - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
 - Free no-login listing audit generator for English-language directories, pointing to the Spanish paid audit pack.
 
+English question prioritizer:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html
+- Free no-login prioritizer for buyer questions, pointing to the Spanish custom replies service and paid packs.
+
 Metodos de pago:
 - PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
@@ -107,6 +111,8 @@ Herramientas gratis:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html
 - English marketplace listing audit generator:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
+- English marketplace question prioritizer:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html
 
 Guias recomendadas:
 - Respuestas rapidas para Mercado Libre:
