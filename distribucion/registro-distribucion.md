@@ -100,6 +100,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
   - ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-bundle/bundle-vendedor-express.zip
   - Gist: https://gist.github.com/bozicovichsantiago20-oss/c6dae9a11883443a07abe230f6592ad4
+- Bundle verificado publico: pagina, ZIP, release asset, hub, perfil, Gist, sitemaps y botones de compartir WhatsApp/Telegram/email; IndexNow HTTP 200.
 
 ## Estado de ingresos
 
