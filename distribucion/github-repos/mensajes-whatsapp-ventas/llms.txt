@@ -1,0 +1,26 @@
+# Mensajes de WhatsApp para vender
+
+Micrositio del Kit Vendedor Express para vendedores que necesitan mensajes de WhatsApp listos.
+
+URL:
+https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
+
+Producto:
+Kit Vendedor Express base USD 5.
+
+Incluye:
+- mensajes para precio
+- stock
+- envio
+- medidas
+- descuento
+- seguimiento
+- cierre
+
+Pago:
+- PayPal USD 5: https://paypal.me/SBozicovich/5USD
+- PayPal bundle USD 15: https://paypal.me/SBozicovich/15USD
+- Banco Galicia Argentina, CBU: 0070034430004032923161
+
+Sitio principal:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/sitemap.xml
