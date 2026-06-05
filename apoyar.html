@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Apoyar Kit Vendedor Express | Aporte USD 1</title>
+    <meta
+      name="description"
+      content="Aporte rapido de USD 1 para apoyar las herramientas gratis del Kit Vendedor Express. Pago por PayPal o CBU."
+    />
+    <meta property="og:title" content="Apoyar Kit Vendedor Express" />
+    <meta property="og:description" content="Si una herramienta gratis te ahorro tiempo, puedes apoyar con USD 1 por PayPal o transferencia local." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html" />
+    <meta property="og:image" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "DonateAction",
+        "name": "Aporte USD 1 Kit Vendedor Express",
+        "recipient": {
+          "@type": "Person",
+          "name": "Santi Bozicovich"
+        },
+        "object": {
+          "@type": "DigitalDocument",
+          "name": "Herramientas gratis Kit Vendedor Express",
+          "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+        }
+      }
+    </script>
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="index.html#herramientas">Herramientas</a>
+        <a href="ofertas.html">Ofertas</a>
+        <a href="bundle.html">Bundle</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="checkout-hero">
+        <div class="section-heading">
+          <p class="eyebrow">Aporte rapido</p>
+          <h1>Apoya las herramientas gratis con USD 1</h1>
+          <p>
+            Si el generador, la calculadora o las guias te ahorraron tiempo, puedes
+            dejar un aporte chico. Si quieres comprar el pack completo, usa el comparador.
+          </p>
+        </div>
+      </section>
+
+      <section class="checkout-grid" aria-label="Opciones de aporte">
+        <article class="checkout-card featured">
+          <p class="eyebrow">Opcion rapida</p>
+          <h2>PayPal USD 1</h2>
+          <p>Abre el link con USD 1 sugerido o escanea el QR.</p>
+          <img
+            class="qr-code"
+            src="https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=12&data=https%3A%2F%2Fpaypal.me%2FSBozicovich%2F1USD"
+            alt="QR para aportar USD 1 por PayPal"
+          />
+          <div class="payment-actions">
+            <a class="primary-button" href="https://paypal.me/SBozicovich/1USD" target="_blank" rel="noopener">
+              Aportar USD 1
+            </a>
+            <button class="secondary-button" type="button" id="copy-paypal" data-paypal-link="https://paypal.me/SBozicovich/1USD">Copiar link PayPal</button>
+          </div>
+        </article>
+
+        <article class="checkout-card">
+          <p class="eyebrow">Argentina</p>
+          <h2>Transferencia local</h2>
+          <p>Banco Galicia. Tambien puedes transferir un equivalente local chico.</p>
+          <div class="bank-box">
+            <span>CBU</span>
+            <strong>0070034430004032923161</strong>
+          </div>
+          <div class="payment-actions">
+            <button class="primary-button" type="button" id="copy-cbu">Copiar CBU</button>
+          </div>
+        </article>
+
+        <article class="checkout-card">
+          <p class="eyebrow">Comprar pack</p>
+          <h2>Si quieres todo</h2>
+          <p>El bundle trae base, auditoria y Pro por USD 15 sugeridos.</p>
+          <ul class="checkout-list">
+            <li>130+ respuestas base.</li>
+            <li>Auditoria y plan de 48 horas.</li>
+            <li>Pro con 200+ respuestas y seguimiento.</li>
+          </ul>
+          <a class="secondary-button" href="ofertas.html">Comparar opciones</a>
+          <a class="secondary-button" href="bundle.html">Ver bundle</a>
+        </article>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="app.js"></script>
+  </body>
+</html>

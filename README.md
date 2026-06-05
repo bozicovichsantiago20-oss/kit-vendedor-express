@@ -55,6 +55,10 @@ Comparador de ofertas:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
 
+Aporte rapido USD 1:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
+
 Herramientas gratis:
 
 - Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html

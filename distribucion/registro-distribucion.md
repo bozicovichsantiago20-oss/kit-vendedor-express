@@ -113,6 +113,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
   - https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
 - Micrositios agregados al hub raiz, sitemap raiz, llms raiz, README de perfil y Gist maestro; IndexNow HTTP 200.
+- Pagina de aporte rapido USD 1 creada para monetizar usuarios de herramientas gratis:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 
 ## Estado de ingresos
 

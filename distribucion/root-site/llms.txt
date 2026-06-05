@@ -35,6 +35,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
 
 Ayuda a elegir entre herramientas gratis, pack base, Auditoria Express, Pro y Bundle.
 
+Aporte rapido:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
+
+Permite aportar USD 1 por PayPal si una herramienta gratis ahorro tiempo.
+
 Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
@@ -51,6 +56,7 @@ Micrositios publicos tematicos:
 - https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
 
 Pago:
+- PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
 - PayPal Auditoria USD 7: https://paypal.me/SBozicovich/7USD
 - PayPal Pro USD 12: https://paypal.me/SBozicovich/12USD

@@ -36,13 +36,17 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 Comparador de ofertas:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
 
+Aporte rapido USD 1:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
 Repo:
 https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
 
-Pago sugerido: USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPal o transferencia local.
+Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPal o transferencia local.
+Aporte: https://paypal.me/SBozicovich/1USD
 
 ## Herramientas gratis
 
