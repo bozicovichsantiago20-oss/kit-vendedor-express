@@ -513,6 +513,41 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Estado al cierre:
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 14:05 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Issues de auditoria personalizada abiertos: 0.
+  - Issues de respuestas personalizadas abiertos: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: 1 descarga por ZIP, sin nueva atribucion de cliente.
+  - Cobros confirmados en registro local: 0.
+- Nueva oferta de mayor ticket publicada:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
+  - Precio: USD 29 por un rubro o linea de producto.
+  - Incluye 20 respuestas frecuentes, 5 seguimientos, 5 objeciones, 5 textos postventa y mini guia para cargarlas.
+  - PayPal directo: https://paypal.me/SBozicovich/29USD
+  - CBU Banco Galicia visible: 0070034430004032923161.
+  - Commit principal: 2cb2848.
+- Flujo de pedido creado:
+  - Plantilla GitHub Issue: .github/ISSUE_TEMPLATE/respuestas-personalizadas.yml
+  - URL de pedido: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml
+  - Etiqueta GitHub creada: respuestas-personalizadas.
+- Enlaces internos de conversion agregados:
+  - Home principal, pago-y-entrega, comparador, sitemap, README y llms.
+- Hub raiz, perfil publico, gist maestro y release sincronizados:
+  - Hub raiz commit: d3e62c3.
+  - Perfil GitHub commit: 8754333.
+  - Commit principal de distribucion: 0bfae87.
+  - Release v1.0.0 verificada con respuestas-personalizadas, PayPal USD 29 y CBU.
+- IndexNow:
+  - Envio aceptado HTTP 200 para 6 URLs: oferta USD 29, pago-y-entrega, ofertas, sitemap principal, hub raiz y sitemap raiz.
+- Guardia automatica:
+  - id: pedidos-auditoria-y-cobros
+  - Actualizada para revisar labels auditoria-personalizada y respuestas-personalizadas.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 11:22 ART
 
 - Metadatos del repo principal optimizados para descubrimiento:
