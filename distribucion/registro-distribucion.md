@@ -68,6 +68,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - ZIP regenerado localmente con 10 archivos y verificado antes de publicar.
 - Release de GitHub actualizado con el ZIP ampliado.
 - Hub raiz, sitemap raiz, README de perfil y Gist actualizados para comunicar el pack de 130+ respuestas y las herramientas gratis.
+- Guia SEO nueva creada para busquedas de precio/margen:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
 
 ## Estado de ingresos
 
