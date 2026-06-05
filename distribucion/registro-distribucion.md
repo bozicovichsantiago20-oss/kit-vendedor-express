@@ -45,10 +45,11 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   https://telegra.ph/Kit-Vendedor-Express-para-vendedores-online-06-05
 - Mejora de conversion: boton para copiar link de PayPal agregado al sitio.
 - Mejora SEO: imagen social absoluta y datos estructurados de producto agregados.
-- Guias SEO nuevas preparadas para publicar:
+- Guias SEO nuevas publicadas y verificadas:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-respuestas-ventas-online.html
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/pack-vendedor-mercado-libre-whatsapp.html
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/checklist-publicacion-marketplace.html
+- IndexNow enviado para las nuevas guias con respuesta HTTP 200.
 - Reporte de las 6 AM programado en este hilo para revisar ganancias y continuar el trabajo.
 
 ## Estado de ingresos
