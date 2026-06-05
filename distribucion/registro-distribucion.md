@@ -388,3 +388,31 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Trafico GitHub: 0 vistas, 0 unicos.
   - Release: 1 descarga por ZIP, sin nueva atribucion.
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-05 11:22 ART
+
+- Metadatos del repo principal optimizados para descubrimiento:
+  - Descripcion actualizada: herramientas gratis no-login y packs para vendedores online.
+  - Topics agregados/verificados: no-login, free-tools, seller-tools, auditoria, atencion-cliente, github-pages.
+- Nueva pagina SEO de alta intencion publicada:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
+  - Enfocada en busqueda "por que mi publicacion no vende".
+  - Deriva a diagnostico gratis, Auditoria Express USD 7 y Auditoria personalizada USD 19.
+  - PayPal USD 19 y CBU visibles.
+  - Commit principal: 13fda7b.
+- Hub raiz y perfil publico sincronizados:
+  - Hub raiz commit: 3431670.
+  - Perfil GitHub commit: 8935366.
+- Gist maestro y release v1.0.0 actualizados con la nueva pagina.
+- Verificacion publica:
+  - Nueva pagina status 200 con PayPal USD 19 y CBU.
+  - Auditoria personalizada, comparador, hub raiz y release status 200 con enlace nuevo.
+- IndexNow enviado con HTTP 200 para 7 URLs.
+- Telegraph publicado y verificado:
+  - https://telegra.ph/Por-que-mi-publicacion-no-vende-en-Mercado-Libre-06-05
+  - Incluye enlace a la pagina diagnostico, Auditoria personalizada USD 19, PayPal y CBU.
+- Estado al cierre:
+  - Issues de auditoria personalizada abiertos: 0.
+  - Trafico GitHub: 0 vistas, 0 unicos.
+  - Release: 1 descarga por ZIP, sin nueva atribucion.
+  - Cobros confirmados: 0.
