@@ -209,6 +209,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-listas-para-vender-hoy.html
   - Enfocada en pago directo USD 5, descarga del ZIP base y alternativa Bundle USD 15.
   - Enlazada desde home, comparador, hub raiz, README, perfil, Gist maestro, sitemap y llms.
+  - Publicada y verificada con status 200, PayPal USD 5 visible, hub raiz actualizado, release actualizada e IndexNow HTTP 200 para 6 URLs.
 
 ## Analisis de otros proyectos Codex locales
 
