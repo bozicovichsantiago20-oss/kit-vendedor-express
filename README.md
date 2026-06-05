@@ -24,6 +24,7 @@ Sitio publico: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 - `pack/kit-vendedor-express.zip`: producto descargable.
 - `materiales-lanzamiento/`: textos para publicar la oferta.
 - `fuentes-investigacion.md`: senales usadas para elegir el nicho.
+- `guias/`: paginas SEO para captar busquedas de vendedores.
 
 ## Publicacion rapida
 

@@ -1,6 +1,6 @@
 # Registro de distribucion
 
-Fecha operativa: 2026-06-04.
+Fecha operativa: 2026-06-05.
 
 ## Producto
 
@@ -43,6 +43,13 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - IndexNow enviado para las guias con respuesta HTTP 200.
 - Telegra.ph: pagina publica creada y verificada:
   https://telegra.ph/Kit-Vendedor-Express-para-vendedores-online-06-05
+- Mejora de conversion: boton para copiar link de PayPal agregado al sitio.
+- Mejora SEO: imagen social absoluta y datos estructurados de producto agregados.
+- Guias SEO nuevas preparadas para publicar:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-respuestas-ventas-online.html
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/pack-vendedor-mercado-libre-whatsapp.html
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/checklist-publicacion-marketplace.html
+- Reporte de las 6 AM programado en este hilo para revisar ganancias y continuar el trabajo.
 
 ## Estado de ingresos
 

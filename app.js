@@ -1,4 +1,5 @@
 const CBU = "0070034430004032923161";
+const PAYPAL_ME = "https://paypal.me/SBozicovich";
 
 const scenarios = {
   envio: {
@@ -87,6 +88,7 @@ const form = document.querySelector("#reply-form");
 const output = document.querySelector("#reply-output");
 const copyReply = document.querySelector("#copy-reply");
 const copyCbu = document.querySelector("#copy-cbu");
+const copyPaypal = document.querySelector("#copy-paypal");
 const toast = document.querySelector("#toast");
 
 function clean(value, fallback) {
@@ -140,6 +142,10 @@ copyReply.addEventListener("click", () => {
 
 copyCbu.addEventListener("click", () => {
   copyText(CBU, "CBU copiado.");
+});
+
+copyPaypal.addEventListener("click", () => {
+  copyText(PAYPAL_ME, "Link de PayPal copiado.");
 });
 
 buildReply();
