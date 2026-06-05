@@ -1,24 +1,35 @@
 # Kit Vendedor Express
 
-Lancé un recurso simple para vendedores online que responden muchas consultas repetidas.
+Recurso para vendedores online que responden consultas repetidas y necesitan contestar mas rapido sin improvisar.
 
 Incluye:
 
-- generador web gratis de respuestas rápidas
+- generador web gratis de respuestas rapidas
 - pack descargable con 120+ respuestas para venta y postventa
 - prompts para mejorar publicaciones
-- checklist de publicación
+- checklist de publicacion
 - matriz de reclamos y devoluciones
-- plan de 7 días
+- plan de 7 dias
 
-Sirve para quienes venden por marketplace, WhatsApp, Instagram o tienda propia y quieren responder más claro sobre stock, envíos, medidas, garantía, factura, cambios y precio.
+Sirve para quienes venden por marketplace, WhatsApp, Instagram o tienda propia y quieren responder claro sobre stock, envios, medidas, garantia, factura, cambios y precio.
 
-Sitio:
+## Enlaces principales
+
+Sitio del producto:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
-Repo:
-https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
+Pagina de pago y descarga:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
-Pago sugerido: USD 5 por PayPal o transferencia local.
+Hub publico:
+https://bozicovichsantiago20-oss.github.io/
+
+Descarga del ZIP:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip
+
+Pago sugerido: USD 5 por PayPal.
+https://paypal.me/SBozicovich
+
+Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
 Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

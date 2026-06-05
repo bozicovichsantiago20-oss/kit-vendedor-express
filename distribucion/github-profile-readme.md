@@ -1,21 +1,31 @@
 # Santi Bozicovich
 
-Estoy lanzando productos digitales simples para vendedores online y pequeños negocios.
+Estoy lanzando productos digitales simples para vendedores online y pequenos negocios.
 
 ## Producto activo
 
 ### Kit Vendedor Express
 
-Herramienta web y pack descargable para responder más rápido consultas de venta online:
+Herramienta web y pack descargable para responder mas rapido consultas de venta online.
 
-- respuestas para envío, stock, precio, factura, garantía, medidas y cambios
+Incluye:
+
+- respuestas para envio, stock, precio, factura, garantia, medidas y cambios
 - prompts para mejorar publicaciones
 - matriz de reclamos y devoluciones
-- checklist de publicación
-- plan de 7 días
+- checklist de publicacion
+- plan de 7 dias
 
-Sitio: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+Sitio principal:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
-Repo: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
+Pagina de pago y descarga:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+
+Hub publico:
+https://bozicovichsantiago20-oss.github.io/
+
+Repo:
+https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
 
 Pago sugerido: USD 5 por PayPal o transferencia local.
