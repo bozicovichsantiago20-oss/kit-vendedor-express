@@ -358,6 +358,61 @@ textarea:focus {
   border-top: 4px solid var(--rose);
 }
 
+.text-link {
+  color: var(--teal-dark);
+  font-weight: 850;
+}
+
+.guide-page {
+  background: var(--paper);
+}
+
+.guide-hero,
+.guide-body {
+  width: min(860px, calc(100vw - 32px));
+  margin: 0 auto;
+}
+
+.guide-hero {
+  padding: 52px 0 22px;
+}
+
+.guide-hero h1 {
+  max-width: 860px;
+}
+
+.guide-body {
+  padding: 10px 0 54px;
+}
+
+.guide-body h2 {
+  margin-top: 30px;
+}
+
+.guide-body p,
+.guide-body li {
+  color: var(--muted);
+}
+
+.example-list {
+  display: grid;
+  gap: 12px;
+  padding: 0;
+  list-style: none;
+}
+
+.example-list li,
+.guide-cta {
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--wash);
+}
+
+.guide-cta {
+  margin-top: 28px;
+}
+
 .proof-band {
   background: #eef7f2;
   border-top: 1px solid var(--line);

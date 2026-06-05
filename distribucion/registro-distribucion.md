@@ -34,6 +34,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Repo del sitio raiz:
   https://github.com/bozicovichsantiago20-oss/bozicovichsantiago20-oss.github.io
 - IndexNow enviado para el sitio raiz con respuesta HTTP 202.
+- Zearches: envio gratuito aceptado con `status=ok`.
+- Zearches: verificado en la home como `Kit Vendedor Express` el 2026-06-04 19:10.
 
 ## Estado de ingresos
 
