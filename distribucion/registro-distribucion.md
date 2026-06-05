@@ -493,6 +493,26 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Estado al cierre:
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 13:41 ART
+
+- Verificacion de ingresos:
+  - Issues de auditoria personalizada abiertos: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico micrositio WhatsApp: 0 vistas, 0 unicos.
+  - Release: 1 descarga por ZIP, sin nueva atribucion de cliente.
+  - Cobros confirmados en registro local: 0.
+- Release publica actualizada como vitrina de conversion:
+  - https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0
+  - Nueva primera seccion: pago y entrega.
+  - Incluye PayPal USD 1, 5, 7, 12, 15 y 19, CBU, descargas ZIP, paginas de compra, herramientas gratis y micrositios.
+  - Verificacion: release status 200 y cuerpo con pago-y-entrega, PayPal USD 19, CBU y micrositio WhatsApp.
+- ToolCommons actualizado sin abrir issue duplicado:
+  - Issue existente: https://github.com/ToolCommons/toolcommons.github.io/issues/23
+  - Comentario nuevo: https://github.com/ToolCommons/toolcommons.github.io/issues/23#issuecomment-4633594881
+  - Se agrego Marketplace WhatsApp Message Generator y el micrositio WhatsApp como herramienta no-login relacionada.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 11:22 ART
 
 - Metadatos del repo principal optimizados para descubrimiento:
