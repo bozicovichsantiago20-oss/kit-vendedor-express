@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Marketplace Listing Audit Generator | Free no-login tool</title>
+    <meta
+      name="description"
+      content="Free no-login marketplace listing audit generator for sellers. Check title, photos, description, margin, shipping, warranty and FAQs before lowering price."
+    />
+    <meta property="og:title" content="Marketplace Listing Audit Generator" />
+    <meta
+      property="og:description"
+      content="Audit a marketplace listing in the browser and get a score plus a 48-hour improvement plan."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html"
+    />
+    <meta
+      property="og:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link
+      rel="canonical"
+      href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Marketplace Listing Audit Generator",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Any",
+        "description": "Free no-login browser tool that audits marketplace listings and creates a 48-hour improvement plan.",
+        "image": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png",
+        "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        },
+        "publisher": {
+          "@type": "Person",
+          "name": "Santi Bozicovich"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#tool">Free audit</a>
+        <a href="#paid-audit">Paid audit</a>
+        <a href="marketplace-reply-generator.html">Reply tool</a>
+        <a href="../herramientas/generador-auditoria-publicacion-marketplace.html">Spanish</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="workspace" id="tool">
+        <div class="tool-panel" aria-labelledby="page-title">
+          <div class="section-heading">
+            <p class="eyebrow">Free browser tool</p>
+            <h1 id="page-title">Marketplace listing audit generator</h1>
+            <p>
+              Check a listing before cutting price. Get a quick score, the most likely
+              conversion leaks and a 48-hour action plan. No login and no customer data upload.
+            </p>
+          </div>
+
+          <form class="generator" id="audit-form">
+            <label>
+              Product or niche
+              <input id="audit-product-en" type="text" value="waterproof urban backpack" autocomplete="off" />
+            </label>
+
+            <label>
+              Current listing title
+              <input id="audit-title-en" type="text" value="Waterproof urban backpack fast shipping" autocomplete="off" />
+            </label>
+
+            <div class="field-grid">
+              <label>
+                Number of photos
+                <input id="audit-photos-en" type="number" min="0" max="20" value="4" />
+              </label>
+              <label>
+                Estimated margin
+                <select id="audit-margin-en">
+                  <option value="low">Under 15%</option>
+                  <option value="medium" selected>15% to 30%</option>
+                  <option value="high">Over 30%</option>
+                  <option value="unknown">I do not know</option>
+                </select>
+              </label>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                Includes sizing or compatibility?
+                <select id="audit-measures-en">
+                  <option value="yes">Yes</option>
+                  <option value="no" selected>No</option>
+                </select>
+              </label>
+              <label>
+                Explains warranty or returns?
+                <select id="audit-guarantee-en">
+                  <option value="yes">Yes</option>
+                  <option value="no" selected>No</option>
+                </select>
+              </label>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                Explains shipping or pickup?
+                <select id="audit-shipping-en">
+                  <option value="yes">Yes</option>
+                  <option value="no" selected>No</option>
+                </select>
+              </label>
+              <label>
+                Has frequently asked questions?
+                <select id="audit-faq-en">
+                  <option value="yes">Yes</option>
+                  <option value="no" selected>No</option>
+                </select>
+              </label>
+            </div>
+
+            <label>
+              Main problem
+              <select id="audit-problem-en">
+                <option value="low-traffic">Low listing visits</option>
+                <option value="questions-no-sales">People ask but do not buy</option>
+                <option value="returns">Returns or complaints</option>
+                <option value="price">Buyers compare only by price</option>
+                <option value="slow">Listing feels slow</option>
+              </select>
+            </label>
+
+            <button class="primary-button" type="submit">Generate audit</button>
+          </form>
+
+          <section class="result" aria-live="polite">
+            <div class="result-header">
+              <h2>Quick audit</h2>
+              <button class="icon-button" id="copy-audit-en" type="button">Copy</button>
+            </div>
+            <textarea id="audit-output-en" rows="16" spellcheck="false"></textarea>
+          </section>
+        </div>
+
+        <aside class="sell-panel" id="paid-audit" aria-labelledby="paid-title">
+          <img
+            class="product-preview"
+            src="../assets/product-preview.png"
+            alt="Preview of Kit Vendedor Express marketplace seller kit"
+          />
+          <div class="section-heading compact">
+            <p class="eyebrow">Optional paid pack</p>
+            <h2 id="paid-title">Publication Audit Express</h2>
+            <p>
+              The paid audit pack is in Spanish and includes a 42-point checklist,
+              diagnostic template, improvement script and 48-hour relaunch plan.
+            </p>
+          </div>
+
+          <div class="price-box">
+            <span class="price">USD 7 audit</span>
+            <span class="price-note">Bundle with all seller packs is USD 15.</span>
+          </div>
+
+          <div class="payment-actions">
+            <a class="primary-button" href="../auditoria.html">
+              Open paid audit
+            </a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">
+              PayPal audit
+            </a>
+            <a class="secondary-button" href="../bundle.html">
+              Bundle USD 15
+            </a>
+            <a class="secondary-button" href="../ofertas.html">
+              Compare options
+            </a>
+          </div>
+
+          <p class="trust-note">
+            Local transfer in Argentina: Banco Galicia, CBU 0070034430004032923161.
+            Independent product, not affiliated with Mercado Libre, Meta, WhatsApp or Instagram.
+          </p>
+        </aside>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script>
+      const byId = (id) => document.getElementById(id);
+      const clean = (value, fallback) => String(value || "").trim() || fallback;
+      const isYes = (id) => byId(id).value === "yes";
+
+      function buildAudit() {
+        const product = clean(byId("audit-product-en").value, "the product");
+        const title = clean(byId("audit-title-en").value, "");
+        const photos = Math.max(0, Number(byId("audit-photos-en").value) || 0);
+        const margin = byId("audit-margin-en").value;
+        const problem = byId("audit-problem-en").value;
+        const actions = [];
+        let score = 100;
+
+        if (title.length < 48) {
+          score -= 12;
+          actions.push("Expand the title: product + core attribute + use case + buyer benefit.");
+        }
+        if (photos < 6) {
+          score -= 16;
+          actions.push("Upload at least 6 photos: front, sides, detail, scale, real use and packaging.");
+        }
+        if (!isYes("audit-measures-en")) {
+          score -= 14;
+          actions.push("Add sizing, compatibility, capacity or dimensions to reduce repeated questions.");
+        }
+        if (!isYes("audit-guarantee-en")) {
+          score -= 12;
+          actions.push("Explain warranty, returns and change conditions before the buyer asks.");
+        }
+        if (!isYes("audit-shipping-en")) {
+          score -= 10;
+          actions.push("Clarify shipping, pickup, timing and what location data you need.");
+        }
+        if (!isYes("audit-faq-en")) {
+          score -= 10;
+          actions.push("Add FAQs for stock, invoice, warranty, sizing, shipping and returns.");
+        }
+        if (margin === "low") {
+          score -= 10;
+          actions.push("Check break-even before discounting: cost, fees, shipping, taxes and margin.");
+        }
+        if (margin === "unknown") {
+          score -= 12;
+          actions.push("Calculate real margin before changing price. Without margin, discounts can erase profit.");
+        }
+
+        const advice = {
+          "low-traffic": "Priority: improve title, first photo and visible benefit so more buyers click.",
+          "questions-no-sales": "Priority: answer objections and close the next step. Add payment, shipping and warranty clarity.",
+          returns: "Priority: prevent wrong expectations. Clarify sizing, compatibility, conditions and post-sale handling.",
+          price: "Priority: justify value before lowering price. Show difference, warranty, delivery and support.",
+          slow: "Priority: relaunch with 3 visible changes in 48 hours and measure questions before changing everything."
+        };
+
+        const finalScore = Math.max(35, Math.min(100, score));
+        const level = finalScore >= 80 ? "strong" : finalScore >= 62 ? "fixable" : "leaking conversion";
+        const topActions = actions.slice(0, 5);
+
+        byId("audit-output-en").value = [
+          `Quick audit for ${product}`,
+          "",
+          `Estimated score: ${finalScore}/100`,
+          `Status: ${level}.`,
+          "",
+          "Main read:",
+          advice[problem] || advice["low-traffic"],
+          "",
+          "Priority actions:",
+          ...topActions.map((item, index) => `${index + 1}. ${item}`),
+          "",
+          "48-hour plan:",
+          "Day 1: update title, first photo and description blocks for sizing, shipping and warranty.",
+          "Day 2: add quick replies, check break-even price and measure questions before lowering price.",
+          "",
+          "Copy block to add:",
+          `${product}: please check stock, sizing, shipping, warranty and return conditions before buying. If you have questions, message us before payment and we will confirm the exact detail.`,
+          "",
+          "Full paid audit pack: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html"
+        ].join("\n");
+      }
+
+      byId("audit-form").addEventListener("submit", (event) => {
+        event.preventDefault();
+        buildAudit();
+      });
+
+      byId("copy-audit-en").addEventListener("click", () => {
+        navigator.clipboard.writeText(byId("audit-output-en").value).then(() => {
+          const toast = byId("toast");
+          toast.textContent = "Audit copied. If it saved time, you can support with USD 1.";
+          toast.classList.add("show");
+          window.setTimeout(() => toast.classList.remove("show"), 2600);
+        });
+      });
+
+      buildAudit();
+    </script>
+  </body>
+</html>

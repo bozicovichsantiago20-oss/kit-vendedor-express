@@ -50,6 +50,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 English landing para directorios:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
 
+English audit landing:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
@@ -63,6 +66,7 @@ Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html
+- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
 
 Guia para calcular precio de venta:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html

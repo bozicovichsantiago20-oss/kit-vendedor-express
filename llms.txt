@@ -47,6 +47,10 @@ English landing:
 - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
 - Free no-login marketplace reply generator page for English-language directories, pointing to the Spanish free tool and paid kits.
 
+English audit landing:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
+- Free no-login listing audit generator for English-language directories, pointing to the Spanish paid audit pack.
+
 Metodos de pago:
 - PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
@@ -81,6 +85,8 @@ Herramientas gratis:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html
 - Generador de auditoria de publicacion marketplace:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html
+- English marketplace listing audit generator:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
 
 Guias recomendadas:
 - Respuestas rapidas para Mercado Libre:
