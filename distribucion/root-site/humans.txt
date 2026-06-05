@@ -1,0 +1,14 @@
+/* TEAM */
+Owner: Santi Bozicovich
+Hub: https://bozicovichsantiago20-oss.github.io/
+
+/* ACTIVE PRODUCT */
+Name: Kit Vendedor Express
+URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+Checkout: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+Price: USD 5 sugerido.
+PayPal: https://paypal.me/SBozicovich
+CBU: Banco Galicia Argentina 0070034430004032923161
+
+/* NOTE */
+Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

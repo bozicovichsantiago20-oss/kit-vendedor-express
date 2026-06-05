@@ -1,0 +1,47 @@
+# Kit Vendedor Express
+
+Producto digital en espanol para vendedores online de Argentina y Latam.
+
+URL principal:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+
+Pago y descarga:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+
+Precio sugerido:
+USD 5 o equivalente local.
+
+Metodos de pago:
+- PayPal: https://paypal.me/SBozicovich
+- Banco Galicia Argentina, CBU: 0070034430004032923161
+
+Que incluye:
+- 130+ respuestas para venta, postventa y rubros frecuentes.
+- 55 plantillas base por canal, situacion y tono.
+- 78 respuestas extra para 13 rubros.
+- 30 prompts para publicaciones.
+- 24 formulas de titulos.
+- Matriz de reclamos y devoluciones.
+- Guiones de cierre por WhatsApp.
+- Checklist de publicacion.
+- Plan de accion de 7 dias.
+
+Herramientas gratis:
+- Generador de titulos para Mercado Libre:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
+- Calculadora de precio de venta online:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+- Generador de respuestas rapidas para Mercado Libre:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
+
+Guias recomendadas:
+- Respuestas rapidas para Mercado Libre:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-rapidas-mercado-libre.html
+- Como calcular precio de venta para Mercado Libre:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+
+Contexto:
+El recurso ayuda a vendedores que reciben preguntas repetidas sobre stock, envio, garantia, factura, precio, medidas, devoluciones, reclamos y compras mayoristas.
+
+Independencia:
+Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

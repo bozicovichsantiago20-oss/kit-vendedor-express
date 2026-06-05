@@ -74,6 +74,11 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Herramienta SEO nueva creada para busquedas de respuestas rapidas:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
 - Herramienta de respuestas rapidas verificada publica, agregada a hub, perfil, Gist y sitemaps; enviada a IndexNow con respuesta HTTP 200.
+- Archivos de descubrimiento creados para crawlers y asistentes:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/llms.txt
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/humans.txt
+  - https://bozicovichsantiago20-oss.github.io/llms.txt
+  - https://bozicovichsantiago20-oss.github.io/humans.txt
 
 ## Estado de ingresos
 
