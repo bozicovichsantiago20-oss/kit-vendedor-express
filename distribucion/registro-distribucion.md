@@ -214,6 +214,14 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://telegra.ph/Respuestas-listas-para-vender-hoy-06-05
   - Verificado status 200 con enlace a la landing, PayPal USD 5 y CBU.
   - No enviado de inmediato a Zearches para evitar repetir throttle reciente.
+- Landing de postventa/reclamos publicada para captar busquedas urgentes:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/reclamos-devoluciones-mercado-libre-whatsapp.html
+  - Enfocada en producto danado, equivocado, cambios, garantia y cliente molesto.
+  - Verificada status 200 con PayPal USD 5, CBU, descarga ZIP base, guia gratis, hub raiz, perfil, Gist maestro y release actualizados.
+  - IndexNow HTTP 200 para 6 URLs.
+- Articulo externo de reclamos/devoluciones publicado en Telegra.ph:
+  - https://telegra.ph/Plantillas-para-reclamos-y-devoluciones-06-05
+  - Verificado status 200 con landing, PayPal USD 5 y CBU.
 
 ## Analisis de otros proyectos Codex locales
 
