@@ -1,6 +1,6 @@
 canal,url,estado,requiere_permiso,dato_necesario,resultado
 GitHub Pages producto,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/,Publicado,No,Ninguno,Sitio publico funcionando
-Pagina de compra,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html,Preparado,No,Ninguno,PayPal QR CBU y descarga en una pagina directa
+Pagina de compra,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html,Publicado,No,Ninguno,PayPal QR CBU y descarga en una pagina directa; IndexNow HTTP 200
 GitHub Release,https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0,Publicado,No,Ninguno,ZIP publico disponible
 GitHub perfil,https://github.com/bozicovichsantiago20-oss/bozicovichsantiago20-oss,Publicado,No,Ninguno,Perfil publico enlaza el producto
 GitHub Pages raiz,https://bozicovichsantiago20-oss.github.io/,Publicado,No,Ninguno,Hub publico con producto pago y guias

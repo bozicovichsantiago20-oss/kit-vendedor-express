@@ -58,6 +58,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - README del perfil GitHub actualizado con hub, producto, gist y guias.
 - Pagina de compra creada con PayPal, QR, CBU y descarga:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+- Pagina de compra verificada en GitHub Pages y enviada a IndexNow con respuesta HTTP 200.
+- Hub raiz, sitemap raiz, Gist y perfil GitHub actualizados con enlace a la pagina de compra.
 
 ## Estado de ingresos
 
