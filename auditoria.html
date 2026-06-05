@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Auditoria Express de Publicacion | Pago y descarga</title>
+    <meta
+      name="description"
+      content="Pack descargable para auditar una publicacion de marketplace: checklist, diagnostico, guion de mejora, respuestas y plan de 48 horas."
+    />
+    <meta property="og:title" content="Auditoria Express de Publicacion" />
+    <meta
+      property="og:description"
+      content="Producto digital de USD 7 para mejorar titulo, fotos, descripcion, precio, respuestas y postventa."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html" />
+    <meta property="og:image" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="index.html#herramientas">Herramientas</a>
+        <a href="comprar.html">Base USD 5</a>
+        <a href="pro.html">Pro USD 12</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="checkout-hero">
+        <div class="section-heading">
+          <p class="eyebrow">Pack de accion rapida</p>
+          <h1>Auditoria Express de Publicacion</h1>
+          <p>
+            Paga USD 7 o equivalente local y descarga una guia practica para revisar una
+            publicacion antes de bajar precio: titulo, fotos, descripcion, costos,
+            respuestas rapidas y plan de relanzamiento en 48 horas.
+          </p>
+        </div>
+      </section>
+
+      <section class="checkout-grid" aria-label="Opciones de pago auditoria">
+        <article class="checkout-card featured">
+          <p class="eyebrow">Opcion rapida</p>
+          <h2>PayPal</h2>
+          <p>Abre el link con USD 7 sugeridos y confirma el pago. Tambien puedes escanear el QR.</p>
+          <img
+            class="qr-code"
+            src="https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=12&data=https%3A%2F%2Fpaypal.me%2FSBozicovich%2F7USD"
+            alt="QR para pagar la Auditoria Express por PayPal"
+          />
+          <div class="payment-actions">
+            <a class="primary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">
+              Pagar con PayPal
+            </a>
+            <button class="secondary-button" type="button" id="copy-paypal" data-paypal-link="https://paypal.me/SBozicovich/7USD">Copiar link PayPal</button>
+          </div>
+        </article>
+
+        <article class="checkout-card">
+          <p class="eyebrow">Argentina</p>
+          <h2>Transferencia local</h2>
+          <p>Banco Galicia. Usa el CBU y envia el equivalente local a USD 7.</p>
+          <div class="bank-box">
+            <span>CBU</span>
+            <strong>0070034430004032923161</strong>
+          </div>
+          <div class="payment-actions">
+            <button class="primary-button" type="button" id="copy-cbu">Copiar CBU</button>
+          </div>
+        </article>
+
+        <article class="checkout-card">
+          <p class="eyebrow">Entrega inmediata</p>
+          <h2>Descarga la auditoria</h2>
+          <p>Sistema de confianza: si pagaste, descarga y usalo al instante.</p>
+          <ul class="checkout-list">
+            <li>42 puntos de revision para marketplace.</li>
+            <li>Plantilla de diagnostico y plan de 48 horas.</li>
+            <li>Guion para mejorar publicacion y respuestas rapidas.</li>
+          </ul>
+          <a class="secondary-button" href="pack-auditoria/auditoria-express-publicacion.zip" download>Descargar ZIP</a>
+        </article>
+      </section>
+
+      <section class="guide-body">
+        <div class="guide-cta">
+          <h2>Quieres tambien respuestas listas?</h2>
+          <p>El pack base trae 130+ respuestas y el Pro sube a 200+ con objeciones, seguimiento y recompra.</p>
+          <a class="primary-button" href="comprar.html">Ver base USD 5</a>
+          <a class="secondary-button" href="pro.html">Ver Pro USD 12</a>
+        </div>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="app.js"></script>
+  </body>
+</html>

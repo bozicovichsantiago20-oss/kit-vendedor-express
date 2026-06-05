@@ -26,6 +26,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Version Pro:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 
+Auditoria Express:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
@@ -44,9 +47,11 @@ Gists tematicos:
 - Respuestas rapidas para Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/252211100ce0625b3577e56c166586c5
 - Calculadora de precio para venta online: https://gist.github.com/bozicovichsantiago20-oss/861016d8cfb2c191038811131dd360d5
 - Kit Vendedor Express Pro: https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
+- Auditoria Express de Publicacion: https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf
 
-Pago sugerido: USD 5 base o USD 12 Pro por PayPal.
+Pago sugerido: USD 5 base, USD 7 auditoria o USD 12 Pro por PayPal.
 Base: https://paypal.me/SBozicovich/5USD
+Auditoria: https://paypal.me/SBozicovich/7USD
 Pro: https://paypal.me/SBozicovich/12USD
 
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.

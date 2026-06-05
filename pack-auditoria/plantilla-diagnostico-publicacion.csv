@@ -1,0 +1,4 @@
+fecha,producto,url_publicacion,problema_detectado,impacto_estimado,accion,prioridad,estado,resultado_48hs
+2026-06-05,zapatillas urbanas,https://ejemplo.com/publicacion,Falta tabla de talles,Muchas consultas por medida,Agregar tabla y respuesta rapida,alta,pendiente,
+2026-06-05,mochila impermeable,https://ejemplo.com/publicacion,No se aclara despacho,Consultas por envio,Agregar plazo de despacho y FAQ,media,pendiente,
+2026-06-05,crema facial,https://ejemplo.com/publicacion,Descripcion no explica tipo de piel,Dudas antes de comprar,Agregar compatibilidad y modo de uso,alta,pendiente,

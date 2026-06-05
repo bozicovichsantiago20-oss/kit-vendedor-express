@@ -7,9 +7,12 @@ Name: Kit Vendedor Express
 URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 Checkout: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Pro: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+Auditoria: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Price: USD 5 sugerido.
+Audit Price: USD 7 sugerido.
 Pro Price: USD 12 sugerido.
 PayPal Base: https://paypal.me/SBozicovich/5USD
+PayPal Auditoria: https://paypal.me/SBozicovich/7USD
 PayPal Pro: https://paypal.me/SBozicovich/12USD
 CBU: Banco Galicia Argentina 0070034430004032923161
 

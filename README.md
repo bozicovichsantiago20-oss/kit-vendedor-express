@@ -43,6 +43,10 @@ Pack Pro USD 12:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 
+Auditoria Express USD 7:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
+
 Herramientas gratis:
 
 - Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html

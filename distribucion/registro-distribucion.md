@@ -91,6 +91,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
 - Links PayPal actualizados con montos prellenados: base 5USD y Pro 12USD, segun documentacion oficial de PayPal.Me.
 - Links de pago verificados publicos: checkout base y QR con 5USD, Pro y QR con 12USD, hub raiz y Gists con ambos importes; IndexNow HTTP 200.
+- Auditoria Express creada como producto autoentregable USD 7:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
+  - ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-auditoria/auditoria-express-publicacion.zip
+  - Gist: https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf
 
 ## Estado de ingresos
 
