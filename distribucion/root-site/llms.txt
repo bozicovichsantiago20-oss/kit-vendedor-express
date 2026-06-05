@@ -35,6 +35,11 @@ Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
 
+Repos publicos tematicos:
+- https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
+- https://github.com/bozicovichsantiago20-oss/calculadora-precio-venta-online
+- https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
+
 Pago:
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
 - PayPal Auditoria USD 7: https://paypal.me/SBozicovich/7USD
