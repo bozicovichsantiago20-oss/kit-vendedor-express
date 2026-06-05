@@ -1,2 +1,3 @@
 fecha,producto,canal,monto,moneda,estado,evidencia,notas
 2026-06-04,Kit Vendedor Express,PayPal/CBU,0,USD,Sin cobro confirmado,No hay evidencia de pago,El objetivo sigue activo hasta verificar ingreso real
+2026-06-05,Kit Vendedor Express,PayPal/CBU,0,USD,Sin cobro confirmado,Release 0 descargas y trafico GitHub 0,No hay acceso a PayPal o banco; requiere confirmacion externa para validar cobro

@@ -60,6 +60,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 ## Estado de ingresos
 
 - Cobros confirmados: 0.
+- Verificacion 2026-06-05: release con 0 descargas y trafico GitHub 0.
+- No hay acceso directo a PayPal o Banco Galicia para confirmar movimientos.
 - El objetivo no esta completo hasta verificar al menos un cobro real.
 
 ## Proximas superficies automaticas
