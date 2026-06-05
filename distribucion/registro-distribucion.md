@@ -445,6 +445,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Topics agregados a micrositio publicacion-no-vende y hub raiz.
   - Repo principal ya tenia el cupo de topics cubierto; se mantuvo sin forzar cambios.
   - Homepage configurado en el repo del hub raiz.
+- Zearches:
+  - Categoria ecommerce-shops respondio status 200.
+  - No muestra todavia Kit Vendedor Express ni el micrositio publicacion-no-vende.
+  - Se mantuvo sin reenvio por limite temporal too_fast registrado.
 - Estado al cierre:
   - Issues de auditoria personalizada abiertos: 0.
   - Trafico GitHub principal: 0 vistas, 0 unicos.
