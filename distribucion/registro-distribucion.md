@@ -116,6 +116,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Pagina de aporte rapido USD 1 creada para monetizar usuarios de herramientas gratis:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 - Aporte USD 1 verificado publico en pagina, sitemap, llms, hub raiz, README de perfil y Gist maestro; IndexNow HTTP 200.
+- Envio externo a Tool Commons creado para la herramienta gratis de respuestas rapidas:
+  - https://github.com/ToolCommons/toolcommons.github.io/issues/22
+  - Repo tematico con licencia MIT: https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
 
 ## Estado de ingresos
 

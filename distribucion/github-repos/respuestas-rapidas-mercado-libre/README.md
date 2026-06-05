@@ -47,4 +47,8 @@ Hola. Lamentamos el inconveniente. Enviame foto/video, detalle y numero de compr
 - PayPal bundle: https://paypal.me/SBozicovich/15USD
 - Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161
 
+## Licencia
+
+El micrositio y los ejemplos de herramienta gratis estan publicados bajo licencia MIT.
+
 Producto independiente, no afiliado a Mercado Libre.
