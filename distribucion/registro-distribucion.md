@@ -316,3 +316,37 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Formulario publico inspeccionado, pero su host de Supabase no resolvio desde esta sesion; no se pudo completar envio.
 - Tools Directory Online:
   - La URL de envio encontrada en busqueda devolvio 404; no se uso.
+
+## Ronda 2026-06-05 10:29 ART
+
+- Nueva landing internacional publicada:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
+  - Genera diagnostico en ingles, puntaje y plan de 48 horas.
+  - Incluye CTA a Auditoria Express USD 7, PayPal directo y CBU.
+  - Commit principal: ad1417c.
+- Landing inglesa de respuestas actualizada para enlazar la auditoria:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
+- Hub raiz y perfil publico sincronizados:
+  - Hub raiz commit: e11c8ee.
+  - Perfil GitHub commit: 19f7943.
+- Gist maestro y release v1.0.0 actualizados con la landing inglesa:
+  - https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc
+  - https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0
+- Verificacion publica:
+  - Landing inglesa status 200 con PayPal USD 7 y CBU.
+  - Home principal, landing inglesa de respuestas, hub raiz y release status 200 con enlace nuevo.
+- IndexNow enviado con HTTP 200 para 6 URLs.
+- Telegraph en ingles publicado y verificado:
+  - https://telegra.ph/Free-marketplace-listing-audit-generator-06-05
+  - Incluye herramienta gratis, PayPal USD 7 y CBU.
+- FreeNoSignup:
+  - Marketplace Listing Audit Generator enviado por formulario publico Google con confirmacion registrada.
+- ToolCommons:
+  - Issue 23 actualizado con comentario que agrega la landing inglesa:
+    https://github.com/ToolCommons/toolcommons.github.io/issues/23#issuecomment-4631950693
+- nologin.tools:
+  - Reintento bloqueado por limite diario 3 envios por 24 horas, HTTP 429.
+- AllWebList:
+  - Reintento de DNS del backend Supabase sigue sin resolver desde esta sesion.
+- Busqueda web revisada:
+  - ToolCommons y nologin.tools siguen siendo los directorios mas ajustados a herramientas no-login.

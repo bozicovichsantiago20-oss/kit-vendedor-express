@@ -96,3 +96,9 @@ ToolCommons auditoria publicacion,https://github.com/ToolCommons/toolcommons.git
 nologin.tools auditoria publicacion,https://nologin.tools/submit/,Pendiente,No,Limite diario,Submission no aceptada por limite diario del sitio 3 envios por 24 horas HTTP 429
 AllWebList auditoria publicacion,https://www.allweblist.org/submit,Bloqueado,No,DNS Supabase,Formulario publico existe pero el host Supabase declarado por el sitio no resolvio desde esta sesion
 Tools Directory Online,https://toolsdirectoryonline.com/submit,Bloqueado,No,404,La URL de envio encontrada en busqueda devolvio 404 al verificar
+English listing audit landing,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html,Publicado,No,Ninguno,Landing internacional verificada status 200 con auditoria en ingles PayPal USD 7 CBU e IndexNow HTTP 200
+Telegraph English listing audit,https://telegra.ph/Free-marketplace-listing-audit-generator-06-05,Publicado,No,Ninguno,Articulo externo en ingles verificado status 200 con landing herramienta gratis PayPal USD 7 y CBU
+FreeNoSignup English listing audit,https://freenosignup.com/submit/,Enviado,No,Ninguno,Submission externa enviada por formulario publico Google para Marketplace Listing Audit Generator con confirmacion registrada
+ToolCommons English listing audit,https://github.com/ToolCommons/toolcommons.github.io/issues/23#issuecomment-4631950693,Enviado,No,Ninguno,Comentario agregado al issue existente con landing inglesa no-login
+nologin.tools English listing audit,https://nologin.tools/submit/,Pendiente,No,Limite diario,Submission no aceptada por limite diario del sitio 3 envios por 24 horas HTTP 429
+AllWebList English listing audit,https://www.allweblist.org/submit,Bloqueado,No,DNS Supabase,Reintento bloqueado porque el host Supabase declarado por el sitio no resolvio desde esta sesion
