@@ -393,8 +393,116 @@ function initAuditGenerator() {
   buildAudit();
 }
 
+function initQuestionPriorityTool() {
+  const form = byId("priority-tool");
+  const output = byId("tool-output");
+  const copy = byId("copy-tool-output");
+  if (!form || !output) return;
+
+  function numericValue(id, fallback = 0) {
+    const value = Number(String(byId(id).value || "").replace(",", "."));
+    return Number.isFinite(value) ? value : fallback;
+  }
+
+  function buildPriority() {
+    const product = cleanToolValue(byId("priority-product").value, "producto");
+    const channel = cleanToolValue(byId("priority-channel").value, "Mercado Libre");
+    const question = cleanToolValue(byId("priority-question").value, "consulta del comprador");
+    const detail = cleanToolValue(byId("priority-detail").value, "dato clave pendiente");
+    const minutes = Math.max(0, numericValue("priority-minutes"));
+    const margin = byId("priority-margin").value;
+    const intent = byId("priority-intent").value;
+    const issue = byId("priority-issue").value;
+    let score = 0;
+
+    if (minutes >= 60) score += 35;
+    else if (minutes >= 30) score += 28;
+    else if (minutes >= 10) score += 20;
+    else score += 12;
+
+    const intentScores = {
+      compra: 32,
+      envio: 24,
+      compatibilidad: 22,
+      precio: 18,
+      postventa: 14
+    };
+    const marginScores = {
+      alto: 22,
+      medio: 16,
+      bajo: 8,
+      desconocido: 10
+    };
+    const issueScores = {
+      bloquea: 24,
+      compara: 16,
+      simple: 10
+    };
+
+    score += intentScores[intent] || 12;
+    score += marginScores[margin] || 10;
+    score += issueScores[issue] || 10;
+
+    const priority =
+      score >= 78 ? "P1 - responder ahora" : score >= 55 ? "P2 - responder en el proximo bloque" : "P3 - responder despues de las P1/P2";
+    const tone = score >= 78 ? "directo y completo" : "claro y breve";
+    const caution =
+      channel === "Mercado Libre"
+        ? "No agregues telefono, email, redes ni enlaces externos dentro de la respuesta."
+        : "Evita prometer descuentos, stock o plazos que no puedas cumplir.";
+
+    const templates = {
+      compra: `Hola. Si, podemos avanzar con ${product}. ${detail}. Si te sirve, revisa la publicacion y confirma la compra para dejarlo listo.`,
+      envio: `Hola. Para ${product}, el envio depende de tu zona o codigo postal. ${detail}. Con ese dato te confirmo costo y plazo estimado.`,
+      compatibilidad: `Hola. Para confirmarte compatibilidad de ${product}, necesito ${detail}. Asi evitamos que compres algo que no te sirva.`,
+      precio: `Hola. El precio vigente de ${product} es el publicado. ${detail}. Si compras mas de una unidad, dime cantidad y reviso disponibilidad.`,
+      postventa: `Hola. Para revisar el caso de ${product}, necesito ${detail}. Con esa informacion te indico el siguiente paso.`
+    };
+
+    const response = templates[intent] || templates.compra;
+    const actions = [
+      "Responde primero las P1: comprador listo para comprar, demora alta o duda que bloquea el pago.",
+      "Carga esta respuesta como plantilla rapida si la pregunta se repite mas de dos veces por semana.",
+      "Si la duda aparece mucho, agrega ese dato a la publicacion para reducir preguntas futuras."
+    ];
+
+    output.value = [
+      `Prioridad para consulta de ${channel}`,
+      "",
+      `Producto: ${product}`,
+      `Pregunta: ${question}`,
+      `Tiempo esperando: ${minutes} minutos`,
+      `Resultado: ${priority}`,
+      `Tono recomendado: ${tone}`,
+      "",
+      "Respuesta sugerida:",
+      response,
+      "",
+      "Acciones:",
+      ...actions.map((item, index) => `${index + 1}. ${item}`),
+      "",
+      "Recordatorio:",
+      caution,
+      "",
+      `Plantilla interna sugerida: /${intent}-${product.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 22) || "producto"}`
+    ].join("\n");
+  }
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    buildPriority();
+  });
+
+  if (copy) {
+    copy.addEventListener("click", () => copyToolText(output.value, "Prioridad copiada."));
+  }
+
+  buildPriority();
+}
+
 initTitleGenerator();
 initPriceCalculator();
 initPromptGenerator();
 initWhatsAppGenerator();
 initAuditGenerator();
+initQuestionPriorityTool();

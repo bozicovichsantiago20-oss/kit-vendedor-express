@@ -90,6 +90,7 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 Herramientas gratis:
 
 - Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
+- Priorizador de preguntas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html
 - Generador de titulos para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - Calculadora de precio de venta online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 - Generador de prompts para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html

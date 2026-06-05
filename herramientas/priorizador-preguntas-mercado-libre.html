@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Priorizador de preguntas para Mercado Libre</title>
+    <meta
+      name="description"
+      content="Herramienta gratis para priorizar preguntas de compradores en Mercado Libre, WhatsApp o ecommerce y generar una respuesta rapida."
+    />
+    <meta property="og:title" content="Priorizador de preguntas para Mercado Libre" />
+    <meta
+      property="og:description"
+      content="Decide que consulta responder primero y copia una respuesta clara para no perder compradores."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html"
+    />
+    <meta
+      property="og:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link
+      rel="canonical"
+      href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Priorizador de preguntas para Mercado Libre",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Web",
+        "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      }
+    </script>
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="../index.html#herramientas">Herramientas</a>
+        <a href="../respuestas-personalizadas.html">Servicio USD 29</a>
+        <a href="../bundle.html">Bundle</a>
+        <a href="../pago-y-entrega.html">Pagar</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="guide-hero">
+        <p class="eyebrow">Herramienta gratis</p>
+        <h1>Priorizador de preguntas para Mercado Libre</h1>
+        <p>
+          Cuando se acumulan consultas, responde primero las que pueden destrabar una compra.
+          Completa los datos y copia una respuesta lista para Mercado Libre, WhatsApp o tienda.
+        </p>
+      </section>
+
+      <article class="guide-body">
+        <form class="generator tool-form" id="priority-tool">
+          <label>
+            Producto o rubro
+            <input id="priority-product" type="text" value="zapatillas urbanas" autocomplete="off" />
+          </label>
+
+          <label>
+            Pregunta recibida
+            <input
+              id="priority-question"
+              type="text"
+              value="Tenes talle 42 y llega antes del viernes?"
+              autocomplete="off"
+            />
+          </label>
+
+          <div class="field-grid">
+            <label>
+              Canal
+              <select id="priority-channel">
+                <option value="Mercado Libre">Mercado Libre</option>
+                <option value="WhatsApp">WhatsApp</option>
+                <option value="Instagram">Instagram</option>
+                <option value="Tienda propia">Tienda propia</option>
+              </select>
+            </label>
+
+            <label>
+              Minutos esperando
+              <input id="priority-minutes" type="number" min="0" step="1" value="12" />
+            </label>
+          </div>
+
+          <div class="field-grid">
+            <label>
+              Tipo de consulta
+              <select id="priority-intent">
+                <option value="compra">Compra casi lista</option>
+                <option value="envio">Envio o demora</option>
+                <option value="compatibilidad">Medida o compatibilidad</option>
+                <option value="precio">Precio o descuento</option>
+                <option value="postventa">Postventa o reclamo</option>
+              </select>
+            </label>
+
+            <label>
+              Margen estimado
+              <select id="priority-margin">
+                <option value="medio">Medio</option>
+                <option value="alto">Alto</option>
+                <option value="bajo">Bajo</option>
+                <option value="desconocido">No lo se</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="field-grid">
+            <label>
+              Impacto de la duda
+              <select id="priority-issue">
+                <option value="bloquea">Bloquea el pago</option>
+                <option value="compara">Compara opciones</option>
+                <option value="simple">Duda simple</option>
+              </select>
+            </label>
+
+            <label>
+              Dato clave para responder
+              <input id="priority-detail" type="text" value="tenemos talle 42 y despacho en 24 hs habiles" />
+            </label>
+          </div>
+
+          <button class="primary-button" type="submit">Priorizar y generar respuesta</button>
+        </form>
+
+        <section class="result">
+          <div class="result-header">
+            <h2>Respuesta y prioridad</h2>
+            <button class="icon-button" id="copy-tool-output" type="button">Copiar</button>
+          </div>
+          <textarea id="tool-output" rows="14" spellcheck="false"></textarea>
+        </section>
+
+        <div class="guide-cta">
+          <h2>Quieres un set hecho para tu rubro?</h2>
+          <p>
+            El servicio de respuestas personalizadas prepara textos para precio, stock, envio,
+            objeciones, seguimiento y postventa de un rubro o linea de producto.
+          </p>
+          <div class="payment-actions">
+            <a class="primary-button" href="../respuestas-personalizadas.html">Pedir respuestas USD 29</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/29USD" target="_blank" rel="noopener">PayPal USD 29</a>
+            <a class="secondary-button" href="../bundle.html">Bundle USD 15</a>
+            <a class="secondary-button" href="../apoyar.html">Apoyar USD 1</a>
+          </div>
+          <p class="trust-note">Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.</p>
+        </div>
+
+        <h2>Fuentes utiles</h2>
+        <p>
+          Mercado Libre recomienda usar respuestas rapidas para preguntas repetidas y tambien
+          remarca que responder rapido ayuda a mantener el interes del comprador.
+          <a href="https://vendedores.mercadolibre.com.ar/nota/como-crear-respuestas-rapidas" target="_blank" rel="noopener">Respuestas rapidas</a>
+          ·
+          <a href="https://vendedores.mercadolibre.com.ar/aprender/nota/herramientas-para-responder-preguntas-mas-rapido?guideKeyId=GE20" target="_blank" rel="noopener">Responder mas rapido</a>
+        </p>
+      </article>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="../herramientas.js"></script>
+  </body>
+</html>

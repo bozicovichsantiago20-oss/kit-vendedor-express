@@ -81,6 +81,7 @@ Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
+- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html

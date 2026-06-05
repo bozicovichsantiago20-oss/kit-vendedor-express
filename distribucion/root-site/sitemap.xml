@@ -151,6 +151,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.87</priority>
+  </url>
+  <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>

@@ -83,6 +83,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Generador de titulos para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - Calculadora de precio de venta online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 - Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
+- Priorizador de preguntas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html
 - Generador de prompts para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 - Generador de mensajes de WhatsApp para ventas: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html
 - Generador de auditoria de publicacion marketplace: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html
