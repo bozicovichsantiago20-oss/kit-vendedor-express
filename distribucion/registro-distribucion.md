@@ -167,6 +167,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Enlaza generador gratis, Bundle Vendedor Express USD 15 y PayPal directo USD 15.
 - Envio a Zearches del articulo de respuestas intento 2026-06-05 06:33 ART:
   - Resultado: no publicado por limite temporal del sitio (status=error&code=throttle).
+- Gists publicos tematicos nuevos creados para captar busquedas especificas:
+  - Plantillas de atencion al cliente ecommerce: https://gist.github.com/bozicovichsantiago20-oss/ebc49e534b18ed2838e47c78f05c9ca8
+  - Calcular precio de venta sin perder margen: https://gist.github.com/bozicovichsantiago20-oss/3018a8a90eec6196132b55ec51fb7d3e
+  - Ambos incluyen recursos gratis, producto pago, PayPal directo y CBU.
 
 ## Analisis de otros proyectos Codex locales
 

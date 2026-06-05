@@ -70,6 +70,8 @@ Aporte: https://paypal.me/SBozicovich/1USD
 - Kit Vendedor Express Pro: https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
 - Auditoria Express de Publicacion: https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf
 - Bundle Vendedor Express: https://gist.github.com/bozicovichsantiago20-oss/c6dae9a11883443a07abe230f6592ad4
+- Plantillas de atencion al cliente ecommerce: https://gist.github.com/bozicovichsantiago20-oss/ebc49e534b18ed2838e47c78f05c9ca8
+- Calcular precio de venta sin perder margen: https://gist.github.com/bozicovichsantiago20-oss/3018a8a90eec6196132b55ec51fb7d3e
 
 ## Repos tematicos
 
