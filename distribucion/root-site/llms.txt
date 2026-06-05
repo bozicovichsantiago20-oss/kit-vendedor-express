@@ -42,6 +42,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-person
 
 La auditoria personalizada cuesta USD 19 sugerido e incluye revision de una publicacion publica, devolucion por GitHub Issue y plan de 48 horas.
 
+Respuestas personalizadas:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
+
+Las respuestas personalizadas cuestan USD 29 sugerido e incluyen textos adaptados a un rubro o producto, devolucion por GitHub Issue y respuestas para precio, stock, envio, objeciones, seguimiento y postventa.
+
 Pagina de diagnostico:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
 
@@ -104,6 +109,7 @@ Pago:
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
 - PayPal Auditoria USD 7: https://paypal.me/SBozicovich/7USD
 - PayPal Auditoria personalizada USD 19: https://paypal.me/SBozicovich/19USD
+- PayPal respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
 - PayPal Pro USD 12: https://paypal.me/SBozicovich/12USD
 - PayPal Bundle USD 15: https://paypal.me/SBozicovich/15USD
 - PayPal generico: https://paypal.me/SBozicovich

@@ -45,6 +45,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Auditoria personalizada:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 
+Respuestas personalizadas:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
+
 Diagnostico de publicacion que no vende:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
 
@@ -72,6 +75,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
 Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro, USD 15 bundle o USD 19 auditoria personalizada por PayPal o transferencia local.
 Aporte: https://paypal.me/SBozicovich/1USD
 Auditoria personalizada: https://paypal.me/SBozicovich/19USD
+Respuestas personalizadas: https://paypal.me/SBozicovich/29USD
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
 ## Herramientas gratis

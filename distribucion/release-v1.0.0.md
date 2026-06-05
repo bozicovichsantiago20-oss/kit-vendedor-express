@@ -11,6 +11,7 @@ Opciones:
 - Pro USD 12: https://paypal.me/SBozicovich/12USD
 - Bundle USD 15: https://paypal.me/SBozicovich/15USD
 - Auditoria personalizada USD 19: https://paypal.me/SBozicovich/19USD
+- Respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
 - Aporte USD 1: https://paypal.me/SBozicovich/1USD
 - Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161
 
@@ -30,6 +31,7 @@ Los ZIP estan adjuntos en esta release:
 - Reclamos/devoluciones USD 5: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/reclamos-devoluciones-mercado-libre-whatsapp.html
 - Auditoria Express USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 - Auditoria personalizada USD 19: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+- Respuestas personalizadas USD 29: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
 - Pro USD 12: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 - Bundle USD 15: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 - Comparador: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html

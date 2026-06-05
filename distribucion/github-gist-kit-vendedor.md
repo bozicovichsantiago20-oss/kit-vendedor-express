@@ -44,6 +44,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Auditoria personalizada:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 
+Respuestas personalizadas:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
+
 Diagnostico de publicacion que no vende:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
 
@@ -115,6 +118,7 @@ Aporte: https://paypal.me/SBozicovich/1USD
 Base: https://paypal.me/SBozicovich/5USD
 Auditoria: https://paypal.me/SBozicovich/7USD
 Auditoria personalizada: https://paypal.me/SBozicovich/19USD
+Respuestas personalizadas: https://paypal.me/SBozicovich/29USD
 Pro: https://paypal.me/SBozicovich/12USD
 Bundle: https://paypal.me/SBozicovich/15USD
 
