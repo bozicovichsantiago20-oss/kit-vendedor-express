@@ -36,6 +36,11 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - IndexNow enviado para el sitio raiz con respuesta HTTP 202.
 - Zearches: envio gratuito aceptado con `status=ok`.
 - Zearches: verificado en la home como `Kit Vendedor Express` el 2026-06-04 19:10.
+- Guias SEO publicadas:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-rapidas-mercado-libre.html
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/mensajes-whatsapp-ventas.html
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/reclamos-devoluciones-ecommerce.html
+- IndexNow enviado para las guias con respuesta HTTP 200.
 
 ## Estado de ingresos
 
