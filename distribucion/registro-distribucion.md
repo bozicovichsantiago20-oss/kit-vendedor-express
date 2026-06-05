@@ -122,6 +122,16 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Envio externo a NoSignupTools completado con respuesta success true:
   - https://nosignuptools.com/submit
   - Herramienta enviada: generador de respuestas rapidas para Mercado Libre
+- Envio externo a FreeNoSignup completado por formulario publico de Google:
+  - https://freenosignup.com/submit/
+  - Herramienta enviada: generador de respuestas rapidas para Mercado Libre
+
+## Analisis de otros proyectos Codex locales
+
+- `generar usd`: sistema previo orientado a servicios B2B, auditorias, automatizaciones para PyMEs y validacion por contacto humano. Tiene potencial de tickets altos, pero la ejecucion queda condicionada por aprobacion de contactos, respuestas reales y permisos de gasto.
+- `juego movil`: demo portable de tower defense con monetizacion simulada; no genera cobro real hoy porque requiere publicacion en tiendas, billing y anuncios.
+- `juego torres`: beta 3D para Android/Google Play con tienda, pase y rewarded ads simulados; no es duplicada por el producto actual y necesita Play Console/billing antes de monetizar.
+- Decision operativa actual: priorizar producto autoentregable para vendedores y herramientas gratis publicas porque puede publicarse sin cuentas nuevas, sin gasto y con links directos a PayPal/CBU.
 
 ## Estado de ingresos
 
