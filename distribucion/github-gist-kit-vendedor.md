@@ -61,6 +61,11 @@ Repos tematicos:
 - https://github.com/bozicovichsantiago20-oss/calculadora-precio-venta-online
 - https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
 
+Micrositios tematicos:
+- https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
+- https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+- https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+
 Pago sugerido: USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPal.
 Base: https://paypal.me/SBozicovich/5USD
 Auditoria: https://paypal.me/SBozicovich/7USD

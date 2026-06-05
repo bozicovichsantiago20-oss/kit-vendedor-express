@@ -4,6 +4,10 @@ Recurso para vendedores que quieren revisar costo, comision, envio, impuestos y 
 
 ## Calculadora gratis
 
+Micrositio publico:
+
+https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 
 ## Guia practica

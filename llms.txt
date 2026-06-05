@@ -64,6 +64,14 @@ Guias recomendadas:
 - Como calcular precio de venta para Mercado Libre:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
 
+Micrositios tematicos:
+- Respuestas rapidas Mercado Libre:
+  https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
+- Calculadora precio venta online:
+  https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+- Auditoria publicacion marketplace:
+  https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+
 Contexto:
 El recurso ayuda a vendedores que reciben preguntas repetidas sobre stock, envio, garantia, factura, precio, medidas, devoluciones, reclamos y compras mayoristas.
 

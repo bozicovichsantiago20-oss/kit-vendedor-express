@@ -132,4 +132,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
 </urlset>

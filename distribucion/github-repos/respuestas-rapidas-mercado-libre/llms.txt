@@ -1,0 +1,17 @@
+# Respuestas rapidas para Mercado Libre
+
+Micrositio publico:
+https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
+
+Producto principal:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+
+Comparador:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+
+Pago:
+- PayPal base USD 5: https://paypal.me/SBozicovich/5USD
+- PayPal bundle USD 15: https://paypal.me/SBozicovich/15USD
+- Banco Galicia Argentina, CBU: 0070034430004032923161
+
+Producto independiente, no afiliado a Mercado Libre.

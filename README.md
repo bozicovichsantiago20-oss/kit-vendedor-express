@@ -61,6 +61,12 @@ Herramientas gratis:
 - Generador de titulos para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - Calculadora de precio de venta online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 
+Micrositios tematicos:
+
+- Respuestas rapidas Mercado Libre: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
+- Calculadora precio venta online: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+- Auditoria publicacion marketplace: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+
 Entrada SEO comercial:
 
 - Como calcular precio de venta para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html

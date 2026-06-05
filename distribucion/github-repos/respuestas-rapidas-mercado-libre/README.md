@@ -4,6 +4,10 @@ Ejemplos listos para vendedores que reciben preguntas repetidas sobre stock, env
 
 ## Herramienta gratis
 
+Micrositio publico:
+
+https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
+
 Generador de respuestas:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html

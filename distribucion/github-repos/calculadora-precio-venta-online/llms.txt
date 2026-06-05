@@ -1,0 +1,17 @@
+# Calculadora de precio de venta online
+
+Micrositio publico:
+https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+
+Calculadora gratis:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+
+Auditoria:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
+
+Pago:
+- PayPal auditoria USD 7: https://paypal.me/SBozicovich/7USD
+- PayPal bundle USD 15: https://paypal.me/SBozicovich/15USD
+- Banco Galicia Argentina, CBU: 0070034430004032923161
+
+Producto independiente, no afiliado a Mercado Libre.

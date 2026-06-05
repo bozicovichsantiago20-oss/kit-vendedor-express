@@ -67,3 +67,9 @@ Pago sugerido: USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPa
 - Respuestas rapidas Mercado Libre: https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
 - Calculadora precio venta online: https://github.com/bozicovichsantiago20-oss/calculadora-precio-venta-online
 - Auditoria publicacion marketplace: https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
+
+## Micrositios tematicos
+
+- Respuestas rapidas Mercado Libre: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
+- Calculadora precio venta online: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+- Auditoria publicacion marketplace: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/

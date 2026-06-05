@@ -4,6 +4,10 @@ Checklist para revisar una publicacion antes de bajar precio: titulo, fotos, des
 
 ## Producto descargable
 
+Micrositio publico:
+
+https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+
 Auditoria Express de Publicacion:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
