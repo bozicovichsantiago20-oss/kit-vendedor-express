@@ -30,6 +30,11 @@ Auditoria Express:
 - Precio sugerido: USD 7 o equivalente local.
 - Incluye checklist de 42 puntos, plantilla de diagnostico, guion de mejora, respuestas y plan de 48 horas.
 
+Auditoria personalizada:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+- Precio sugerido: USD 19 o equivalente local.
+- Incluye revision personalizada de una publicacion publica, devolucion por GitHub Issue y plan de 48 horas.
+
 Bundle Vendedor Express:
 - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 - Precio sugerido: USD 15 o equivalente local.

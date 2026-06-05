@@ -38,6 +38,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 Auditoria Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
+Auditoria personalizada:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+
 Bundle Vendedor Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
@@ -101,6 +104,7 @@ Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bu
 Aporte: https://paypal.me/SBozicovich/1USD
 Base: https://paypal.me/SBozicovich/5USD
 Auditoria: https://paypal.me/SBozicovich/7USD
+Auditoria personalizada: https://paypal.me/SBozicovich/19USD
 Pro: https://paypal.me/SBozicovich/12USD
 Bundle: https://paypal.me/SBozicovich/15USD
 

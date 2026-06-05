@@ -59,6 +59,10 @@ Auditoria Express USD 7:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
+Auditoria personalizada USD 19:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+
 Bundle Vendedor Express USD 15:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html

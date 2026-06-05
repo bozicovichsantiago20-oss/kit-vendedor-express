@@ -1,0 +1,75 @@
+name: Pedido de auditoria personalizada
+description: Solicitar una revision personalizada de una publicacion publica de marketplace.
+title: "[AUDITORIA PERSONALIZADA] "
+labels:
+  - auditoria-personalizada
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por pedir una auditoria personalizada.
+
+        Antes de publicar este pedido:
+        - Paga USD 19 por PayPal: https://paypal.me/SBozicovich/19USD
+        - O paga equivalente local por transferencia: Banco Galicia, CBU 0070034430004032923161
+        - No compartas datos privados, claves, telefonos personales ni informacion sensible.
+        - Usa solo links publicos de publicaciones, tiendas o capturas sin datos personales.
+
+        La devolucion se entrega como comentario en este issue con:
+        titulo, fotos, descripcion, precio/margen, envios, garantia, preguntas frecuentes,
+        respuestas de cierre y plan de accion de 48 horas.
+  - type: input
+    id: payment_reference
+    attributes:
+      label: Referencia de pago
+      description: Pega el link o codigo de PayPal, o una referencia no sensible de transferencia.
+      placeholder: "PayPal / transferencia / fecha / importe"
+    validations:
+      required: true
+  - type: input
+    id: listing_url
+    attributes:
+      label: Link publico de la publicacion
+      description: Pega la URL publica que quieres revisar.
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: marketplace
+    attributes:
+      label: Canal principal
+      options:
+        - Mercado Libre
+        - WhatsApp
+        - Instagram
+        - Tienda propia
+        - Otro marketplace
+    validations:
+      required: true
+  - type: input
+    id: product
+    attributes:
+      label: Producto o rubro
+      placeholder: "Ej: zapatillas urbanas, repuestos, cosmetica, muebles"
+    validations:
+      required: true
+  - type: dropdown
+    id: main_problem
+    attributes:
+      label: Principal problema
+      options:
+        - Pocas visitas o pocas consultas
+        - Consultan pero no compran
+        - Me comparan por precio
+        - Reclamos o devoluciones
+        - No se que cambiar primero
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto adicional
+      description: Cuenta lo que ya probaste y que resultado esperas. No incluyas datos privados.
+      placeholder: "Cambie precio, agregue fotos, respondo por WhatsApp, etc."
+    validations:
+      required: false

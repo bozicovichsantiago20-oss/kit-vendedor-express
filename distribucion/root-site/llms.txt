@@ -34,6 +34,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
 La auditoria cuesta USD 7 sugerido e incluye checklist de 42 puntos, plantilla de diagnostico, guion de mejora y plan de 48 horas.
 
+Auditoria personalizada:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+
+La auditoria personalizada cuesta USD 19 sugerido e incluye revision de una publicacion publica, devolucion por GitHub Issue y plan de 48 horas.
+
 Bundle Vendedor Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
@@ -88,6 +93,7 @@ Pago:
 - PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
 - PayPal Auditoria USD 7: https://paypal.me/SBozicovich/7USD
+- PayPal Auditoria personalizada USD 19: https://paypal.me/SBozicovich/19USD
 - PayPal Pro USD 12: https://paypal.me/SBozicovich/12USD
 - PayPal Bundle USD 15: https://paypal.me/SBozicovich/15USD
 - PayPal generico: https://paypal.me/SBozicovich
