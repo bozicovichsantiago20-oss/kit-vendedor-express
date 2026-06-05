@@ -389,6 +389,46 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Release: 1 descarga por ZIP, sin nueva atribucion.
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 17:33 ART
+
+- Verificacion de ingresos y pedidos:
+  - Issues abiertos generales en kit-vendedor-express: 0.
+  - Issues abiertos con label auditoria-personalizada: 0.
+  - Issues abiertos con label respuestas-personalizadas: 0.
+  - Repo separado respuestas-personalizadas no existe; el flujo vigente es por issues del repo principal.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico GitHub del nuevo repo preguntas-compradores-mercado-libre: 0 vistas, 0 unicos.
+  - Release v1.0.0: 1 descarga por cada ZIP publicado, sin evidencia de cliente nuevo.
+  - Cobros confirmados en registro local: 0.
+- Nuevo micrositio SEO en espanol publicado:
+  - https://bozicovichsantiago20-oss.github.io/preguntas-compradores-mercado-libre/
+  - Repo: https://github.com/bozicovichsantiago20-oss/preguntas-compradores-mercado-libre
+  - Enfocado en busqueda "preguntas de compradores Mercado Libre".
+  - CTA principal a respuestas personalizadas USD 29.
+  - PayPal directo USD 29 y CBU Banco Galicia visibles.
+  - Commit principal: 81d0c62.
+  - Commit repo micrositio: 151702c.
+- Superficies publicas sincronizadas:
+  - Release v1.0.0 actualizada.
+  - Gist maestro actualizado.
+  - Hub raiz actualizado, commit 3e34db0.
+  - Perfil GitHub actualizado, commit 3a51c80.
+- Verificacion publica:
+  - Sitio principal, compra, pago-y-entrega, respuestas personalizadas, hub raiz y micrositio nuevo status 200.
+  - ZIP base en GitHub Pages y release status 200, 12442 bytes.
+  - Micrositio nuevo status 200 con formulario, PayPal USD 29 y CBU.
+- IndexNow:
+  - Envio aceptado HTTP 200 para micrositio, sitemap, llms, hub raiz, sitemap raiz, llms raiz y llms principal.
+- Telegra.ph:
+  - https://telegra.ph/Preguntas-de-compradores-Mercado-Libre-06-05
+  - Status 200 con enlace al micrositio y PayPal USD 29.
+- Zearches:
+  - Resources/directories status 200 con listings previos Seller Tools Hub y Plantillas Ecommerce visibles.
+  - Ecommerce-shops status 200 pero sin micrositios previos visibles.
+  - Intento unico del micrositio nuevo no quedo visible en software-saas; no se insistio para evitar duplicados o rate limit.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 15:41 ART
 
 - Verificacion inicial:
