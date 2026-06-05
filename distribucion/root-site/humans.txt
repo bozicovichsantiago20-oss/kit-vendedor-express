@@ -9,7 +9,8 @@ Checkout: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/compra
 Pro: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 Price: USD 5 sugerido.
 Pro Price: USD 12 sugerido.
-PayPal: https://paypal.me/SBozicovich
+PayPal Base: https://paypal.me/SBozicovich/5USD
+PayPal Pro: https://paypal.me/SBozicovich/12USD
 CBU: Banco Galicia Argentina 0070034430004032923161
 
 /* NOTE */

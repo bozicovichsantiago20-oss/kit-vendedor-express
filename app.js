@@ -154,6 +154,6 @@ if (copyCbu) {
 
 if (copyPaypal) {
   copyPaypal.addEventListener("click", () => {
-    copyText(PAYPAL_ME, "Link de PayPal copiado.");
+    copyText(copyPaypal.dataset.paypalLink || PAYPAL_ME, "Link de PayPal copiado.");
   });
 }

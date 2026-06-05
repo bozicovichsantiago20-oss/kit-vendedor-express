@@ -46,7 +46,8 @@ Gists tematicos:
 - Kit Vendedor Express Pro: https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
 
 Pago sugerido: USD 5 base o USD 12 Pro por PayPal.
-https://paypal.me/SBozicovich
+Base: https://paypal.me/SBozicovich/5USD
+Pro: https://paypal.me/SBozicovich/12USD
 
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 

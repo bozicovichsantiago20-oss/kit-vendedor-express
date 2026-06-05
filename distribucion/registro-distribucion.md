@@ -89,6 +89,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://gist.github.com/bozicovichsantiago20-oss/252211100ce0625b3577e56c166586c5
   - https://gist.github.com/bozicovichsantiago20-oss/861016d8cfb2c191038811131dd360d5
   - https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
+- Links PayPal actualizados con montos prellenados: base 5USD y Pro 12USD, segun documentacion oficial de PayPal.Me.
 
 ## Estado de ingresos
 

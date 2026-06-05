@@ -28,7 +28,8 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 El Pro incluye 200+ respuestas, objeciones de precio, prompts avanzados, auditoria de publicacion y seguimiento de consultas.
 
 PayPal:
-https://paypal.me/SBozicovich
+- Base USD 5: https://paypal.me/SBozicovich/5USD
+- Pro USD 12: https://paypal.me/SBozicovich/12USD
 
 Transferencia Argentina:
 Banco Galicia, CBU 0070034430004032923161.

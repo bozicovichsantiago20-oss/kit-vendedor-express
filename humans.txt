@@ -9,7 +9,8 @@ Pack: 130+ respuestas, prompts, formulas de titulos, checklist, matriz de reclam
 Pro: 200+ respuestas, objeciones de precio, prompts avanzados, auditoria, seguimiento y recompra.
 Price: USD 5 sugerido.
 Pro Price: USD 12 sugerido.
-PayPal: https://paypal.me/SBozicovich
+PayPal Base: https://paypal.me/SBozicovich/5USD
+PayPal Pro: https://paypal.me/SBozicovich/12USD
 CBU: Banco Galicia Argentina 0070034430004032923161
 
 /* LINKS */

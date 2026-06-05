@@ -17,7 +17,9 @@ Version Pro:
 - Incluye todo el pack base mas 72 respuestas Pro, objeciones de precio, prompts avanzados, auditoria de publicacion, seguimiento de consultas y mensajes de recompra.
 
 Metodos de pago:
-- PayPal: https://paypal.me/SBozicovich
+- PayPal base USD 5: https://paypal.me/SBozicovich/5USD
+- PayPal Pro USD 12: https://paypal.me/SBozicovich/12USD
+- PayPal generico: https://paypal.me/SBozicovich
 - Banco Galicia Argentina, CBU: 0070034430004032923161
 
 Que incluye:

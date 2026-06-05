@@ -26,7 +26,9 @@ Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
 
 Pago:
-- PayPal: https://paypal.me/SBozicovich
+- PayPal base USD 5: https://paypal.me/SBozicovich/5USD
+- PayPal Pro USD 12: https://paypal.me/SBozicovich/12USD
+- PayPal generico: https://paypal.me/SBozicovich
 - Banco Galicia Argentina, CBU: 0070034430004032923161
 
 Independencia:

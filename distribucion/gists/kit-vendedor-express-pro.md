@@ -39,7 +39,7 @@ Temas cubiertos:
 Precio sugerido Pro: USD 12 o equivalente local.
 
 PayPal:
-https://paypal.me/SBozicovich
+https://paypal.me/SBozicovich/12USD
 
 Transferencia Argentina:
 Banco Galicia, CBU 0070034430004032923161.

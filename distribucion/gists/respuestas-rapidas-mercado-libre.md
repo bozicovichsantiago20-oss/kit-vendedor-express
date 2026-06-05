@@ -42,7 +42,8 @@ Precio sugerido pack base: USD 5.
 Precio sugerido pack Pro: USD 12.
 
 PayPal:
-https://paypal.me/SBozicovich
+- Base USD 5: https://paypal.me/SBozicovich/5USD
+- Pro USD 12: https://paypal.me/SBozicovich/12USD
 
 Transferencia Argentina:
 Banco Galicia, CBU 0070034430004032923161.
