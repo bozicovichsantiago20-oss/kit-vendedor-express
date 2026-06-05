@@ -35,4 +35,18 @@ El sitio ya esta publicado en GitHub Pages:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
-Para vender, compartir ese enlace con los textos de `materiales-lanzamiento/`.
+Pagina de pago y descarga:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+
+Herramientas gratis:
+
+- Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
+- Generador de titulos para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
+- Calculadora de precio de venta online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+
+Entrada SEO comercial:
+
+- Como calcular precio de venta para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+
+Para vender, compartir esos enlaces con los textos de `materiales-lanzamiento/`.
