@@ -205,6 +205,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Marketplace Seller Prompt Generator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
   - Marketplace Price Calculator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
   - Resultado: confirmacion del formulario recibida para ambos; quedan en revision manual del directorio.
+- Landing de compra rapida preparada para trafico frio:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-listas-para-vender-hoy.html
+  - Enfocada en pago directo USD 5, descarga del ZIP base y alternativa Bundle USD 15.
+  - Enlazada desde home, comparador, hub raiz, README, perfil, Gist maestro, sitemap y llms.
 
 ## Analisis de otros proyectos Codex locales
 

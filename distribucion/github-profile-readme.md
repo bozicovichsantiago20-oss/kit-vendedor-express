@@ -24,6 +24,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 Pagina de pago y descarga:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
+Compra rapida para respuestas listas hoy:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-listas-para-vender-hoy.html
+
 Version Pro:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 
