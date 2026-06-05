@@ -210,6 +210,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Enfocada en pago directo USD 5, descarga del ZIP base y alternativa Bundle USD 15.
   - Enlazada desde home, comparador, hub raiz, README, perfil, Gist maestro, sitemap y llms.
   - Publicada y verificada con status 200, PayPal USD 5 visible, hub raiz actualizado, release actualizada e IndexNow HTTP 200 para 6 URLs.
+- Articulo externo de compra rapida publicado en Telegra.ph:
+  - https://telegra.ph/Respuestas-listas-para-vender-hoy-06-05
+  - Verificado status 200 con enlace a la landing, PayPal USD 5 y CBU.
+  - No enviado de inmediato a Zearches para evitar repetir throttle reciente.
 
 ## Analisis de otros proyectos Codex locales
 
