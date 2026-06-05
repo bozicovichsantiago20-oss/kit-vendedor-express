@@ -429,6 +429,42 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Estado al cierre:
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 19:52 ART
+
+- Verificacion de ingresos y pedidos:
+  - Issues abiertos en kit-vendedor-express: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico GitHub calculadora-descuentos-mercado-libre: 0 vistas, 0 unicos.
+  - Cobros confirmados en registro local: 0.
+- Nueva herramienta publicada en el sitio principal:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
+  - Calcula precio promocional, comisiones, envio absorbido, impuestos, ganancia, margen y descuento maximo sugerido.
+  - CTA: diagnostico gratis, Auditoria Express USD 7, Auditoria personalizada USD 19 y Bundle USD 15.
+  - PayPal USD 19 y CBU visibles.
+  - Commit principal: 20e33ce.
+- Nuevo micrositio publico:
+  - https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+  - Repo: https://github.com/bozicovichsantiago20-oss/calculadora-descuentos-mercado-libre
+  - Commit repo micrositio: 9fe8398.
+  - GitHub Pages status: built.
+  - Topics: descuentos, ecommerce, github-pages, mercadolibre, promociones, seller-tools.
+- Verificacion funcional:
+  - Prueba local de formula en herramienta principal y micrositio: resultado inicial OK, alerta de perdida OK, validacion de porcentajes invalidos OK.
+  - Herramienta principal status 200 con formulario, PayPal USD 19 y CBU.
+  - Micrositio status 200 con formulario, PayPal USD 19 y CBU.
+- Superficies publicas sincronizadas:
+  - Release v1.0.0 actualizada.
+  - Gist maestro actualizado.
+  - Hub raiz actualizado, commit f24d4ef.
+  - Perfil GitHub actualizado, commit f869b85.
+- IndexNow:
+  - Envio aceptado HTTP 200 para herramienta principal, micrositio, sitemap, llms, hub raiz y sitemaps.
+- Telegra.ph:
+  - https://telegra.ph/Calculadora-de-descuentos-Mercado-Libre-06-05
+  - Status 200 con enlace al micrositio y PayPal USD 19.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 15:41 ART
 
 - Verificacion inicial:
