@@ -105,6 +105,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Bundle Vendedor Express: https://gist.github.com/bozicovichsantiago20-oss/c6dae9a11883443a07abe230f6592ad4
 - Plantillas de atencion al cliente ecommerce: https://gist.github.com/bozicovichsantiago20-oss/ebc49e534b18ed2838e47c78f05c9ca8
 - Calcular precio de venta sin perder margen: https://gist.github.com/bozicovichsantiago20-oss/3018a8a90eec6196132b55ec51fb7d3e
+- Calculadora de descuentos Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/c587166eb90c3020afbe68f5be09d846
 
 ## Repos tematicos
 

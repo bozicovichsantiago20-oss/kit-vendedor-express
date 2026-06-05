@@ -462,6 +462,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Telegra.ph:
   - https://telegra.ph/Calculadora-de-descuentos-Mercado-Libre-06-05
   - Status 200 con enlace al micrositio y PayPal USD 19.
+- Gist publico especifico:
+  - https://gist.github.com/bozicovichsantiago20-oss/c587166eb90c3020afbe68f5be09d846
+  - Incluye enlaces a herramienta principal, micrositio, Auditoria personalizada USD 19, PayPal y CBU.
 - Estado al cierre:
   - Cobros confirmados: 0.
 
