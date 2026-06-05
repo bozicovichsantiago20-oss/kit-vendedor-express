@@ -1,0 +1,26 @@
+# Calculadora de descuentos Mercado Libre
+
+URL:
+https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+
+Resumen:
+Herramienta gratis para vendedores que quieren calcular si una promocion o descuento conserva margen.
+
+Casos de uso:
+- descuentos Mercado Libre
+- promociones marketplace
+- precio promocional
+- margen minimo
+- envio absorbido
+- comisiones e impuestos
+
+Oferta:
+Auditoria personalizada de publicacion, USD 19.
+
+Pago:
+- PayPal USD 19: https://paypal.me/SBozicovich/19USD
+- PayPal generico: https://paypal.me/SBozicovich
+- Banco Galicia Argentina, CBU: 0070034430004032923161
+
+Independencia:
+Producto independiente, no afiliado a Mercado Libre.

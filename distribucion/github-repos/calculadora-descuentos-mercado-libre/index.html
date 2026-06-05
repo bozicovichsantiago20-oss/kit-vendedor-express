@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Calculadora de descuentos Mercado Libre</title>
+    <meta
+      name="description"
+      content="Herramienta gratis para calcular si un descuento en Mercado Libre conserva margen. Revisa precio promocional, comisiones, envio, impuestos y ganancia."
+    />
+    <meta property="og:title" content="Calculadora de descuentos Mercado Libre" />
+    <meta
+      property="og:description"
+      content="Prueba descuentos antes de activar promociones y evita vender con margen negativo."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/" />
+    <meta
+      property="og:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <link rel="canonical" href="https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/" />
+    <link rel="stylesheet" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Calculadora de descuentos Mercado Libre",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Web",
+        "url": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/",
+        "image": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "description": "Calculadora gratis para revisar descuento, precio promocional y margen antes de activar una promocion marketplace."
+      }
+    </script>
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html">Herramienta principal</a>
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html">Auditoria USD 19</a>
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html">Ofertas</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="workspace">
+        <div class="tool-panel">
+          <p class="eyebrow">Gratis y sin registro</p>
+          <h1>Calcula si un descuento te deja margen</h1>
+          <p>
+            Carga precio, costo, comision, envio e impuestos para probar una promocion antes
+            de bajar el precio en Mercado Libre o cualquier marketplace.
+          </p>
+
+          <form class="generator tool-form" id="discount-tool">
+            <div class="field-grid">
+              <label>
+                Precio actual publicado
+                <input id="current-price" type="number" min="0" step="0.01" value="25000" />
+              </label>
+              <label>
+                Descuento a probar (%)
+                <input id="planned-discount" type="number" min="0" max="95" step="0.01" value="12" />
+              </label>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                Costo del producto
+                <input id="product-cost" type="number" min="0" step="0.01" value="12000" />
+              </label>
+              <label>
+                Empaque o extra
+                <input id="extra-cost" type="number" min="0" step="0.01" value="800" />
+              </label>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                Comision/cargo variable (%)
+                <input id="commission-rate" type="number" min="0" max="90" step="0.01" value="16" />
+              </label>
+              <label>
+                Impuestos u otros porcentuales (%)
+                <input id="tax-rate" type="number" min="0" max="90" step="0.01" value="3" />
+              </label>
+            </div>
+
+            <div class="field-grid">
+              <label>
+                Cargo fijo por venta
+                <input id="fixed-fee" type="number" min="0" step="0.01" value="0" />
+              </label>
+              <label>
+                Envio absorbido por vos
+                <input id="shipping-cost" type="number" min="0" step="0.01" value="1200" />
+              </label>
+            </div>
+
+            <label>
+              Margen minimo deseado sobre costo (%)
+              <input id="target-margin" type="number" min="0" max="400" step="0.01" value="25" />
+            </label>
+            <button class="primary-button" type="submit">Calcular descuento</button>
+          </form>
+
+          <section class="result">
+            <div class="result-header">
+              <h2>Resultado</h2>
+              <button class="icon-button" id="copy-tool-output" type="button">Copiar</button>
+            </div>
+            <textarea id="tool-output" rows="14" spellcheck="false" readonly></textarea>
+          </section>
+        </div>
+
+        <aside class="sell-panel">
+          <img
+            class="product-image"
+            src="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+            alt="Vista previa del Kit Vendedor Express"
+          />
+          <h2>Revision de precio y publicacion</h2>
+          <p>
+            Si el numero queda justo, puedo revisar una publicacion publica y preparar un plan
+            de mejora antes de regalar margen.
+          </p>
+          <div class="price-box">
+            <span>Auditoria personalizada</span>
+            <strong>USD 19</strong>
+          </div>
+          <div class="payment-actions">
+            <a class="primary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html">Pedir auditoria</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/19USD">PayPal USD 19</a>
+            <a class="secondary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html">Diagnostico gratis</a>
+            <a class="secondary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html">Express USD 7</a>
+          </div>
+          <p class="trust-note">Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.</p>
+          <p class="trust-note">Producto independiente, no afiliado a Mercado Libre.</p>
+        </aside>
+      </section>
+
+      <section class="content-band">
+        <div class="band-inner">
+          <div class="section-heading">
+            <p class="eyebrow">Uso practico</p>
+            <h2>Que mirar antes de activar una promo</h2>
+          </div>
+          <div class="feature-grid">
+            <article>
+              <h3>Precio final</h3>
+              <p>El descuento se calcula sobre el precio publicado. Si ese precio ya estaba justo, la promo puede borrar la ganancia.</p>
+            </article>
+            <article>
+              <h3>Cargos variables</h3>
+              <p>Comisiones, impuestos y otros cargos porcentuales bajan con el precio, pero siguen pesando sobre cada venta.</p>
+            </article>
+            <article>
+              <h3>Envio absorbido</h3>
+              <p>Si absorbes envio o embalaje, sumalo como costo fijo antes de decidir el porcentaje de descuento.</p>
+            </article>
+            <article>
+              <h3>Margen objetivo</h3>
+              <p>No mires solo si hay ganancia: revisa si queda por encima del margen minimo que necesitas.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div class="band-inner">
+          <div class="section-heading">
+            <p class="eyebrow">Casos de uso</p>
+            <h2>Cuando usar esta calculadora</h2>
+          </div>
+          <div class="feature-grid">
+            <article>
+              <h3>Promociones</h3>
+              <p>Antes de activar 10%, 15% o 20%, compara precio final, costos y margen.</p>
+            </article>
+            <article>
+              <h3>Competencia</h3>
+              <p>Si otro vendedor baja precio, calcula hasta donde puedes acompanar sin perder.</p>
+            </article>
+            <article>
+              <h3>Envio gratis</h3>
+              <p>Incluye el envio absorbido para saber si la promocion sigue siendo rentable.</p>
+            </article>
+            <article>
+              <h3>Auditoria</h3>
+              <p>Si el margen queda justo, revisa publicacion, fotos, titulo y respuestas antes de tocar precio.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-band">
+        <div class="band-inner">
+          <div class="section-heading">
+            <p class="eyebrow">FAQ</p>
+            <h2>Preguntas frecuentes</h2>
+          </div>
+          <div class="feature-grid">
+            <article>
+              <h3>Usa tarifas exactas?</h3>
+              <p>No. Debes cargar la comision y cargos reales que correspondan a tu producto y categoria.</p>
+            </article>
+            <article>
+              <h3>Sirve para tienda online?</h3>
+              <p>Si. Reemplaza la comision marketplace por el costo de pago, plataforma o envio de tu canal.</p>
+            </article>
+            <article>
+              <h3>Que pasa si da perdida?</h3>
+              <p>No actives el descuento sin subir precio base, bajar costos o reducir el porcentaje.</p>
+            </article>
+            <article>
+              <h3>Cuando pedir auditoria?</h3>
+              <p>Cuando la promo queda justa o la publicacion depende de bajar precio para vender.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script>
+      const byId = (id) => document.getElementById(id);
+      const money = new Intl.NumberFormat("es-AR", {
+        style: "currency",
+        currency: "ARS",
+        maximumFractionDigits: 0
+      });
+
+      function readNumber(id) {
+        return Number.parseFloat(byId(id).value) || 0;
+      }
+
+      function buildDiscountResult() {
+        const currentPrice = readNumber("current-price");
+        const plannedDiscount = readNumber("planned-discount");
+        const productCost = readNumber("product-cost");
+        const extraCost = readNumber("extra-cost");
+        const commissionRate = readNumber("commission-rate") / 100;
+        const taxRate = readNumber("tax-rate") / 100;
+        const fixedFee = readNumber("fixed-fee");
+        const shippingCost = readNumber("shipping-cost");
+        const targetMargin = readNumber("target-margin") / 100;
+        const variableRate = commissionRate + taxRate;
+
+        if (currentPrice <= 0) return "Carga un precio actual mayor a cero para calcular.";
+        if (variableRate >= 0.95) return "Revisa comision e impuestos: el porcentaje total no puede acercarse al 100%.";
+
+        const baseCost = productCost + extraCost;
+        const promoPrice = currentPrice * (1 - plannedDiscount / 100);
+        const variableFees = promoPrice * variableRate;
+        const totalCost = baseCost + fixedFee + shippingCost + variableFees;
+        const profit = promoPrice - totalCost;
+        const marginOnCost = baseCost > 0 ? (profit / baseCost) * 100 : 0;
+        const targetProfit = baseCost * targetMargin;
+        const minPriceForTarget = (baseCost + fixedFee + shippingCost + targetProfit) / (1 - variableRate);
+        const noLossPrice = (baseCost + fixedFee + shippingCost) / (1 - variableRate);
+        const maxDiscountTarget = Math.max(0, Math.min(95, (1 - minPriceForTarget / currentPrice) * 100));
+        const maxDiscountNoLoss = Math.max(0, Math.min(95, (1 - noLossPrice / currentPrice) * 100));
+        const status =
+          profit < 0
+            ? "ALERTA: con este descuento vendes con perdida."
+            : marginOnCost < targetMargin * 100
+              ? "CUIDADO: hay ganancia, pero queda debajo de tu margen minimo."
+              : "OK: el descuento conserva el margen minimo cargado.";
+
+        return [
+          status,
+          "",
+          `Precio actual: ${money.format(currentPrice)}`,
+          `Descuento probado: ${plannedDiscount.toFixed(1)}%`,
+          `Precio promocional: ${money.format(promoPrice)}`,
+          `Comisiones e impuestos estimados: ${money.format(variableFees)}`,
+          `Costos fijos + producto + envio: ${money.format(baseCost + fixedFee + shippingCost)}`,
+          `Ganancia estimada: ${money.format(profit)}`,
+          `Margen sobre costo: ${marginOnCost.toFixed(1)}%`,
+          "",
+          `Precio minimo para margen objetivo: ${money.format(minPriceForTarget)}`,
+          `Maximo descuento para conservar margen objetivo: ${maxDiscountTarget.toFixed(1)}%`,
+          `Maximo descuento antes de quedar en cero: ${maxDiscountNoLoss.toFixed(1)}%`,
+          "",
+          "Siguiente accion:",
+          profit < 0
+            ? "No actives esta promocion sin subir precio base, bajar costos o reducir descuento."
+            : marginOnCost < targetMargin * 100
+              ? "Prueba un descuento menor o revisa si el volumen compensa bajar margen."
+              : "Puedes evaluar la promocion, pero revisa elegibilidad, precio final y costos reales antes de confirmar."
+        ].join("\n");
+      }
+
+      function renderDiscountResult(event) {
+        if (event) event.preventDefault();
+        byId("tool-output").value = buildDiscountResult();
+      }
+
+      byId("discount-tool").addEventListener("submit", renderDiscountResult);
+      byId("copy-tool-output").addEventListener("click", async () => {
+        await navigator.clipboard.writeText(byId("tool-output").value);
+        byId("toast").textContent = "Resultado copiado";
+        setTimeout(() => {
+          byId("toast").textContent = "";
+        }, 1800);
+      });
+      renderDiscountResult();
+    </script>
+  </body>
+</html>

@@ -99,6 +99,8 @@ Herramientas gratis:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - Calculadora de precio de venta online:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+- Calculadora de descuentos para Mercado Libre:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 - Generador de respuestas rapidas para Mercado Libre:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
 - Priorizador de preguntas de compradores:
@@ -129,6 +131,8 @@ Micrositios tematicos:
   https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
 - Calculadora precio venta online:
   https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+- Calculadora descuentos Mercado Libre:
+  https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
 - Auditoria publicacion marketplace:
   https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
 - Mensajes WhatsApp ventas:

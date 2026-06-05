@@ -106,6 +106,7 @@ Repos tematicos:
 - https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
 - https://github.com/bozicovichsantiago20-oss/plantillas-atencion-cliente-ecommerce
 - https://github.com/bozicovichsantiago20-oss/calcular-precio-mercado-libre
+- https://github.com/bozicovichsantiago20-oss/calculadora-descuentos-mercado-libre
 - https://github.com/bozicovichsantiago20-oss/publicacion-no-vende-mercado-libre
 - https://github.com/bozicovichsantiago20-oss/mensajes-whatsapp-ventas
 - https://github.com/bozicovichsantiago20-oss/marketplace-question-prioritizer
@@ -117,6 +118,7 @@ Micrositios tematicos:
 - https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
 - https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
 - https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
+- https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
 - https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
 - https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/

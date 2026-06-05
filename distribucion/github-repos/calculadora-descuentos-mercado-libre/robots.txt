@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/sitemap.xml

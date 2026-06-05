@@ -85,6 +85,7 @@ Pagina en ingles para directorios de herramientas gratis, con priorizacion no-lo
 Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
@@ -108,6 +109,7 @@ Micrositios publicos tematicos:
 - https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
 - https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
 - https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
+- https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
 - https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
 - https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/
