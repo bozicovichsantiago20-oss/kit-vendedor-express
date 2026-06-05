@@ -222,6 +222,14 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Articulo externo de reclamos/devoluciones publicado en Telegra.ph:
   - https://telegra.ph/Plantillas-para-reclamos-y-devoluciones-06-05
   - Verificado status 200 con landing, PayPal USD 5 y CBU.
+- Landing de mensajes WhatsApp publicada para captar busquedas de cierre por chat:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/mensajes-whatsapp-para-vender-hoy.html
+  - Enfocada en precio, stock, envio, medidas, descuento, cierre y seguimiento.
+  - Verificada status 200 con PayPal USD 5, CBU, descarga ZIP base, guia gratis, hub raiz, perfil, Gist maestro y release actualizados.
+  - IndexNow HTTP 200 para 6 URLs.
+- Articulo externo de mensajes WhatsApp publicado en Telegra.ph:
+  - https://telegra.ph/Mensajes-de-WhatsApp-para-vender-hoy-06-05
+  - Verificado status 200 con landing, PayPal USD 5 y CBU.
 
 ## Analisis de otros proyectos Codex locales
 
