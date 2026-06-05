@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Calculadora de precio para venta online</title>
+    <meta
+      name="description"
+      content="Calcula un precio sugerido para vender online considerando costo, empaque, comision, cargo fijo y margen deseado."
+    />
+    <meta property="og:title" content="Calculadora de precio para venta online" />
+    <meta
+      property="og:description"
+      content="Estima precio minimo, precio sugerido, comisiones y ganancia antes de publicar."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html" />
+    <meta property="og:image" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html" />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="../index.html#generador">Generador</a>
+        <a href="../index.html#herramientas">Herramientas</a>
+        <a href="../comprar.html">Pagar</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="guide-hero">
+        <p class="eyebrow">Herramienta gratis</p>
+        <h1>Calculadora de precio para venta online</h1>
+        <p>
+          Estima un precio de publicacion con costo, empaque, comision, cargo fijo
+          y margen deseado. Sirve como punto de partida antes de publicar.
+        </p>
+      </section>
+
+      <article class="guide-body">
+        <form class="generator tool-form" id="price-tool">
+          <div class="field-grid">
+            <label>
+              Costo del producto
+              <input id="cost" type="number" min="0" step="0.01" value="10000" />
+            </label>
+            <label>
+              Empaque o extras
+              <input id="packaging" type="number" min="0" step="0.01" value="800" />
+            </label>
+          </div>
+          <div class="field-grid">
+            <label>
+              Comision de plataforma (%)
+              <input id="commission" type="number" min="0" max="95" step="0.01" value="16" />
+            </label>
+            <label>
+              Cargo fijo estimado
+              <input id="fixed-fee" type="number" min="0" step="0.01" value="0" />
+            </label>
+          </div>
+          <label>
+            Margen deseado sobre costo (%)
+            <input id="margin" type="number" min="0" step="0.01" value="35" />
+          </label>
+          <button class="primary-button" type="submit">Calcular precio</button>
+        </form>
+
+        <section class="result">
+          <div class="result-header">
+            <h2>Resultado</h2>
+            <button class="icon-button" id="copy-tool-output" type="button">Copiar</button>
+          </div>
+          <textarea id="tool-output" rows="11" spellcheck="false"></textarea>
+        </section>
+
+        <div class="guide-cta">
+          <h2>Tambien necesitas respuestas para compradores?</h2>
+          <p>El pack trae textos para precio, stock, envio, garantia, cambios, reclamos y mayoristas.</p>
+          <a class="primary-button" href="../comprar.html">Pagar y descargar</a>
+        </div>
+      </article>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="../herramientas.js"></script>
+  </body>
+</html>

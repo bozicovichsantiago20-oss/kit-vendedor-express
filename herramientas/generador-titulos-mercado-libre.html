@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Generador de titulos para Mercado Libre gratis</title>
+    <meta
+      name="description"
+      content="Genera titulos y una descripcion base para publicaciones de Mercado Libre. Herramienta gratis para vendedores online."
+    />
+    <meta property="og:title" content="Generador de titulos para Mercado Libre" />
+    <meta
+      property="og:description"
+      content="Crea titulos, descripcion breve y preguntas frecuentes para publicar mejor."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html" />
+    <meta property="og:image" content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html" />
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="../index.html#generador">Generador</a>
+        <a href="../index.html#herramientas">Herramientas</a>
+        <a href="../comprar.html">Pagar</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="guide-hero">
+        <p class="eyebrow">Herramienta gratis</p>
+        <h1>Generador de titulos para Mercado Libre</h1>
+        <p>
+          Escribe el producto, marca, modelo y detalle principal. Copia ideas de titulo,
+          descripcion breve y preguntas frecuentes para mejorar una publicacion.
+        </p>
+      </section>
+
+      <article class="guide-body">
+        <form class="generator tool-form" id="title-tool">
+          <div class="field-grid">
+            <label>
+              Producto
+              <input id="product" type="text" value="zapatillas urbanas" />
+            </label>
+            <label>
+              Marca
+              <input id="brand" type="text" value="marca propia" />
+            </label>
+          </div>
+          <div class="field-grid">
+            <label>
+              Modelo o variante
+              <input id="model" type="text" value="negro talle 42" />
+            </label>
+            <label>
+              Estado
+              <select id="condition">
+                <option value="nuevo">Nuevo</option>
+                <option value="usado">Usado</option>
+                <option value="reacondicionado">Reacondicionado</option>
+              </select>
+            </label>
+          </div>
+          <div class="field-grid">
+            <label>
+              Detalle clave
+              <input id="attribute" type="text" value="suela antideslizante" />
+            </label>
+            <label>
+              Uso o comprador
+              <input id="audience" type="text" value="uso diario" />
+            </label>
+          </div>
+          <button class="primary-button" type="submit">Generar titulos</button>
+        </form>
+
+        <section class="result">
+          <div class="result-header">
+            <h2>Resultado</h2>
+            <button class="icon-button" id="copy-tool-output" type="button">Copiar</button>
+          </div>
+          <textarea id="tool-output" rows="13" spellcheck="false"></textarea>
+        </section>
+
+        <div class="guide-cta">
+          <h2>Quieres respuestas listas para todas las consultas?</h2>
+          <p>El Kit Vendedor Express trae plantillas, prompts, checklist y plan de 7 dias.</p>
+          <a class="primary-button" href="../comprar.html">Pagar y descargar</a>
+        </div>
+      </article>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="../herramientas.js"></script>
+  </body>
+</html>

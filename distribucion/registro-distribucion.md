@@ -60,6 +60,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 - Pagina de compra verificada en GitHub Pages y enviada a IndexNow con respuesta HTTP 200.
 - Hub raiz, sitemap raiz, Gist y perfil GitHub actualizados con enlace a la pagina de compra.
+- Herramientas gratis nuevas para captar busquedas de vendedores:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 
 ## Estado de ingresos
 
