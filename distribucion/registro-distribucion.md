@@ -350,3 +350,41 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Reintento de DNS del backend Supabase sigue sin resolver desde esta sesion.
 - Busqueda web revisada:
   - ToolCommons y nologin.tools siguen siendo los directorios mas ajustados a herramientas no-login.
+
+## Ronda 2026-06-05 10:55 ART
+
+- Nueva oferta de mayor ticket publicada:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+  - Precio: USD 19 por una publicacion publica.
+  - Incluye revision personalizada, devolucion por GitHub Issue y plan de 48 horas.
+  - PayPal directo: https://paypal.me/SBozicovich/19USD
+  - CBU Banco Galicia visible: 0070034430004032923161.
+  - Commit principal: 45a3db7.
+- Flujo de pedido creado:
+  - Plantilla GitHub Issue: .github/ISSUE_TEMPLATE/auditoria-personalizada.yml
+  - URL de pedido: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-personalizada.yml
+  - Etiqueta GitHub creada: auditoria-personalizada.
+- Hub raiz y perfil publico sincronizados:
+  - Hub raiz commit: 65f4730.
+  - Perfil GitHub commit: f165bc4.
+- Gist maestro y release v1.0.0 actualizados con la oferta personalizada:
+  - https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc
+  - https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0
+- Gist especifico de la oferta publicado:
+  - https://gist.github.com/bozicovichsantiago20-oss/93a551ab0a83e114c60cfb86ce0a454a
+- Telegraph publicado y verificado:
+  - https://telegra.ph/Auditoria-personalizada-express-para-publicaciones-marketplace-06-05
+  - Incluye pagina de oferta, pedido, PayPal USD 19 y CBU.
+- Verificacion publica:
+  - Pagina personalizada status 200 con PayPal USD 19 y CBU.
+  - Formulario de pedido GitHub status 200.
+  - Comparador, Auditoria Express, hub raiz y release status 200 con enlace nuevo.
+- IndexNow enviado con HTTP 200 para 7 URLs.
+- Guardia automatica creada:
+  - id: pedidos-auditoria-y-cobros
+  - cada 30 minutos revisa pedidos con label auditoria-personalizada, metricas, cobros y acciones de distribucion seguras.
+- Estado al cierre:
+  - Issues de auditoria personalizada abiertos: 0.
+  - Trafico GitHub: 0 vistas, 0 unicos.
+  - Release: 1 descarga por ZIP, sin nueva atribucion.
+  - Cobros confirmados: 0.

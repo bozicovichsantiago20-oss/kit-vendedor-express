@@ -102,3 +102,8 @@ FreeNoSignup English listing audit,https://freenosignup.com/submit/,Enviado,No,N
 ToolCommons English listing audit,https://github.com/ToolCommons/toolcommons.github.io/issues/23#issuecomment-4631950693,Enviado,No,Ninguno,Comentario agregado al issue existente con landing inglesa no-login
 nologin.tools English listing audit,https://nologin.tools/submit/,Pendiente,No,Limite diario,Submission no aceptada por limite diario del sitio 3 envios por 24 horas HTTP 429
 AllWebList English listing audit,https://www.allweblist.org/submit,Bloqueado,No,DNS Supabase,Reintento bloqueado porque el host Supabase declarado por el sitio no resolvio desde esta sesion
+Auditoria personalizada express,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html,Publicado,No,Ninguno,Oferta de servicio USD 19 verificada status 200 con PayPal CBU y pedido por GitHub Issue
+Pedido GitHub auditoria personalizada,https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-personalizada.yml,Publicado,No,Ninguno,Plantilla de pedido publica verificada status 200 y label auditoria-personalizada creada
+Gist auditoria personalizada,https://gist.github.com/bozicovichsantiago20-oss/93a551ab0a83e114c60cfb86ce0a454a,Publicado,No,Ninguno,Gist publico especifico con oferta USD 19 PayPal CBU y enlace de pedido
+Telegraph auditoria personalizada,https://telegra.ph/Auditoria-personalizada-express-para-publicaciones-marketplace-06-05,Publicado,No,Ninguno,Articulo externo verificado status 200 con oferta pedido PayPal USD 19 y CBU
+Guardia pedidos auditoria,pedidos-auditoria-y-cobros,Publicado,No,Ninguno,Heartbeat creado cada 30 minutos para revisar pedidos con label auditoria-personalizada y cobros confirmados
