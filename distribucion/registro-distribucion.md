@@ -456,6 +456,43 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Release: 1 descarga por ZIP, sin nueva atribucion de cliente.
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 13:29 ART
+
+- Verificacion de ingresos:
+  - Issues de auditoria personalizada abiertos: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico micrositio publicacion-no-vende: 0 vistas, 0 unicos.
+  - Release: 1 descarga por ZIP, sin nueva atribucion de cliente.
+  - Cobros confirmados en registro local: 0.
+- Envio externo a NoSignupTools completado:
+  - https://nosignuptools.com/submit
+  - Herramienta enviada: Marketplace Reply Generator.
+  - URL enviada: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
+  - Respuesta del endpoint: success true.
+  - Estado: enviado a revision manual.
+- Nuevo micrositio tematico publicado:
+  - https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
+  - Repo: https://github.com/bozicovichsantiago20-oss/mensajes-whatsapp-ventas
+  - Enfocado en busqueda "mensajes de WhatsApp para vender".
+  - CTA principal a Kit base USD 5, bundle USD 15, generador gratis y descarga ZIP.
+  - PayPal USD 5, PayPal USD 15 y CBU visibles.
+- GitHub Pages activado y verificado:
+  - Estado Pages: built.
+  - Home status 200 con PayPal y CBU.
+  - Sitemap, llms y repo status 200.
+  - Topics del repo: whatsapp, ecommerce, marketplace, ventas-online, vendedores, seller-tools, argentina, spanish, github-pages, no-login.
+- Hub raiz, perfil publico, README, llms y gist maestro actualizados:
+  - Hub raiz commit: ac12c90.
+  - Perfil GitHub commit: e1cc8ed.
+  - Commit principal: a5fe07e.
+- IndexNow enviado con HTTP 200 para 6 URLs:
+  - micrositio WhatsApp, sitemap, llms, hub raiz, sitemap raiz y landing WhatsApp del kit.
+- Zearches:
+  - Intento unico de alta del micrositio WhatsApp devuelto como status error code rate_limited.
+  - No se insistio para evitar envios repetidos.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 11:22 ART
 
 - Metadatos del repo principal optimizados para descubrimiento:

@@ -118,3 +118,8 @@ Pago y entrega hub,https://bozicovichsantiago20-oss.github.io/kit-vendedor-expre
 IndexNow pago y entrega,https://api.indexnow.org/IndexNow,Publicado,No,Ninguno,Envio aceptado HTTP 200 para 7 URLs de GitHub Pages luego de retirar URL externa de Gist
 GitHub topics repos auxiliares,https://github.com/bozicovichsantiago20-oss/publicacion-no-vende-mercado-libre,Publicado,No,Ninguno,Topics agregados al micrositio y al hub raiz para mejorar descubrimiento en GitHub
 Gist maestro pago y entrega,https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc,Publicado,No,Ninguno,Gist maestro actualizado con link a pago y entrega
+NoSignupTools marketplace reply,https://nosignuptools.com/submit,En revision,No,Ninguno,Envio aceptado por endpoint con success true para Marketplace Reply Generator
+Micrositio mensajes WhatsApp ventas,https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/,Publicado,No,Ninguno,GitHub Pages verificado status 200 con PayPal USD 5 PayPal USD 15 CBU y CTA al ZIP
+Repo micrositio mensajes WhatsApp ventas,https://github.com/bozicovichsantiago20-oss/mensajes-whatsapp-ventas,Publicado,No,Ninguno,Repo publico creado con topics whatsapp ecommerce marketplace ventas-online vendedores seller-tools argentina spanish github-pages no-login
+IndexNow mensajes WhatsApp ventas,https://api.indexnow.org/IndexNow,Publicado,No,Ninguno,Envio aceptado HTTP 200 para 6 URLs incluyendo micrositio sitemap llms hub raiz y landing WhatsApp
+Zearches micrositio mensajes WhatsApp ventas,https://zearches.com/submit.php,Pendiente,No,Rate limited,Envio del micrositio no publicado por status error code rate_limited; no se insistio para evitar duplicados
