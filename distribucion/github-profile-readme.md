@@ -39,6 +39,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
 Aporte rapido USD 1:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 
+English landing para directorios:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
