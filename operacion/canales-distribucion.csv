@@ -2,8 +2,8 @@ canal,url,estado,requiere_permiso,dato_necesario,resultado
 GitHub Pages producto,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/,Publicado,No,Ninguno,Sitio publico funcionando
 GitHub Release,https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0,Publicado,No,Ninguno,ZIP publico disponible
 GitHub perfil,https://github.com/bozicovichsantiago20-oss/bozicovichsantiago20-oss,Publicado,No,Ninguno,Perfil publico enlaza el producto
-GitHub Pages raiz,https://bozicovichsantiago20-oss.github.io/,Publicado,No,Ninguno,Landing raiz funcionando
-GitHub Gist,https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc,Publicado,No,Ninguno,Ficha publica creada
+GitHub Pages raiz,https://bozicovichsantiago20-oss.github.io/,Publicado,No,Ninguno,Hub publico con producto pago y guias
+GitHub Gist,https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc,Publicado,No,Ninguno,Ficha publica actualizada con guias y pagos
 Zearches,https://zearches.com/,Publicado,No,Ninguno,Envio aceptado y visible en home
 Telegra.ph,https://telegra.ph/Kit-Vendedor-Express-para-vendedores-online-06-05,Publicado,No,Ninguno,Articulo publico verificado
 IndexNow,https://api.indexnow.org/IndexNow,Enviado,No,Ninguno,Respuestas 202 y 200 segun lote; raiz reenviada HTTP 200
@@ -19,3 +19,8 @@ WhatsApp,https://web.whatsapp.com/,Bloqueado,Si,Confirmar contactos/grupos,Mensa
 LinkedIn,https://www.linkedin.com/,Bloqueado,Si,Confirmar post,Publicacion desde cuenta personal
 Gumroad,https://gumroad.com/,Bloqueado,Si,Login y datos de cobro,Marketplace con cuenta y pagos
 Payhip,https://payhip.com/,Bloqueado,Si,Login y PayPal conectado,Marketplace con cuenta y pagos
+AllWebList,https://www.allweblist.org/submit,Bloqueado,No,Ninguno,Formulario visible pero backend Supabase no resolvio DNS desde este entorno
+Tools Directory Online,https://toolsdirectoryonline.com/submit,Bloqueado,No,Ninguno,Ruta de submit devuelve 404 en verificacion directa
+JunkStartups,https://junkstartups.com/submit,Bloqueado,Si,Cuenta GitHub Google o magic link email,Flujo termina en crear cuenta antes de publicar
+NeedBase,https://needbase.net/submit,Bloqueado,Si,Contacto/email,Formulario multipaso incluye contacto y requiere datos no provistos
+StartupLibrary,https://startuplibrary.net/submit,Bloqueado,Si,Cuenta o sesion,Formulario de lanzamiento ligado a plataforma con login

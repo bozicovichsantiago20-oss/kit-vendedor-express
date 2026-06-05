@@ -53,6 +53,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Reporte de las 6 AM programado en este hilo para revisar ganancias y continuar el trabajo.
 - Sitemap del sitio raiz actualizado con las nuevas guias.
 - Clave IndexNow raiz verificada y envio raiz repetido con respuesta HTTP 200.
+- Sitio raiz convertido en hub publico sin redireccion, con enlace a producto, PayPal y guias.
+- Gist publico actualizado con links a guias, ZIP, PayPal y CBU.
+- README del perfil GitHub actualizado con hub, producto, gist y guias.
 
 ## Estado de ingresos
 
