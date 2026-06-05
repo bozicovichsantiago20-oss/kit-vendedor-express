@@ -186,6 +186,13 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - plantillas-atencion-cliente-ecommerce: plantilla de atencion al cliente con CTA a Bundle USD 15, PayPal y CBU.
   - calcular-precio-mercado-libre: formula/checklist de precio con CTA a Auditoria USD 7, PayPal y CBU.
   - Enlazados desde hub raiz, sitemap raiz, llms raiz, README de perfil y Gist maestro.
+- Micrositios tematicos nuevos publicados y verificados:
+  - https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
+  - https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
+  - Repos:
+    - https://github.com/bozicovichsantiago20-oss/plantillas-atencion-cliente-ecommerce
+    - https://github.com/bozicovichsantiago20-oss/calcular-precio-mercado-libre
+  - Ambos verificados con status 200, PayPal directo, CBU e IndexNow HTTP 200.
 
 ## Analisis de otros proyectos Codex locales
 
