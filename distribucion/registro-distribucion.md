@@ -66,6 +66,8 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Herramientas verificadas publicas y enviadas por IndexNow con respuesta HTTP 200.
 - Pack ampliado a 130+ respuestas reales: 55 plantillas base, 78 respuestas por 13 rubros, 30 prompts, 24 formulas de titulos, guiones WhatsApp y guia de carga.
 - ZIP regenerado localmente con 10 archivos y verificado antes de publicar.
+- Release de GitHub actualizado con el ZIP ampliado.
+- Hub raiz, sitemap raiz, README de perfil y Gist actualizados para comunicar el pack de 130+ respuestas y las herramientas gratis.
 
 ## Estado de ingresos
 

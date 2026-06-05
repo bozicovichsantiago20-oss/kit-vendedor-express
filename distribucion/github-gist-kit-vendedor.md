@@ -5,8 +5,10 @@ Recurso para vendedores online que responden consultas repetidas y necesitan con
 Incluye:
 
 - generador web gratis de respuestas rapidas
-- pack descargable con 120+ respuestas para venta y postventa
-- prompts para mejorar publicaciones
+- pack descargable con 130+ respuestas para venta, postventa y rubros frecuentes
+- bonus para 13 rubros frecuentes
+- 30 prompts y 24 formulas de titulos para mejorar publicaciones
+- guiones de cierre para WhatsApp
 - checklist de publicacion
 - matriz de reclamos y devoluciones
 - plan de 7 dias
@@ -26,6 +28,10 @@ https://bozicovichsantiago20-oss.github.io/
 
 Descarga del ZIP:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip
+
+Herramientas gratis:
+- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
+- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
 
 Pago sugerido: USD 5 por PayPal.
 https://paypal.me/SBozicovich

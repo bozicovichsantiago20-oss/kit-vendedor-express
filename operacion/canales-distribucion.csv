@@ -1,7 +1,7 @@
 canal,url,estado,requiere_permiso,dato_necesario,resultado
 GitHub Pages producto,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/,Publicado,No,Ninguno,Sitio publico funcionando
 Pagina de compra,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html,Publicado,No,Ninguno,PayPal QR CBU y descarga en una pagina directa; IndexNow HTTP 200
-GitHub Release,https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0,Publicado,No,Ninguno,ZIP publico disponible; actualizacion a pack ampliado en curso
+GitHub Release,https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0,Publicado,No,Ninguno,ZIP publico actualizado a pack ampliado; asset verificado en 12442 bytes
 GitHub perfil,https://github.com/bozicovichsantiago20-oss/bozicovichsantiago20-oss,Publicado,No,Ninguno,Perfil publico enlaza el producto
 GitHub Pages raiz,https://bozicovichsantiago20-oss.github.io/,Publicado,No,Ninguno,Hub publico con producto pago y guias
 GitHub Gist,https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc,Publicado,No,Ninguno,Ficha publica actualizada con guias y pagos
@@ -10,7 +10,7 @@ Telegra.ph,https://telegra.ph/Kit-Vendedor-Express-para-vendedores-online-06-05,
 IndexNow,https://api.indexnow.org/IndexNow,Enviado,No,Ninguno,Respuestas 202 y 200 segun lote; raiz reenviada HTTP 200
 Guias SEO producto,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/#guias,Publicado,No,Ninguno,3 nuevas guias publicadas y enviadas por IndexNow HTTP 200
 Herramientas SEO producto,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/#herramientas,Publicado,No,Ninguno,Generador de titulos y calculadora de precio publicados; IndexNow HTTP 200
-Pack ampliado,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip,Publicado,No,Ninguno,ZIP local regenerado con 130+ respuestas y bonus por rubro; pendiente verificar propagacion publica
+Pack ampliado,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip,Publicado,No,Ninguno,ZIP publico verificado con 10 archivos 130+ respuestas bonus por rubro y guiones WhatsApp
 Open Launch,https://open-launch.com/projects/submit,Bloqueado,Si,Login GitHub o email,Requiere cuenta externa
 Product Launchpad,https://productlaunchpad.app/submit,Bloqueado,Si,Email para login,Requiere cuenta externa
 Noonlaunch,https://noonlaunch.com/,Bloqueado,Si,Cuenta o email,Requiere cuenta externa
