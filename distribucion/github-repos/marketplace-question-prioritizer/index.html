@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Marketplace Question Prioritizer | Free seller tool</title>
+    <meta
+      name="description"
+      content="Free no-login tool for marketplace sellers. Prioritize buyer questions by urgency and copy a clear reply before the lead goes cold."
+    />
+    <meta property="og:title" content="Marketplace Question Prioritizer" />
+    <meta
+      property="og:description"
+      content="Rank buyer questions and generate replies for marketplaces, WhatsApp and ecommerce stores."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/" />
+    <meta
+      property="og:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href="https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/" />
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #18221d;
+        --muted: #596b62;
+        --line: #d7e1db;
+        --paper: #fff;
+        --wash: #f6f4ed;
+        --teal: #0d7c66;
+        --teal-dark: #075948;
+        --amber: #f4b73f;
+        --rose: #d9516a;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--wash);
+        color: var(--ink);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.5;
+      }
+      header {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        min-height: 64px;
+        padding: 12px clamp(16px, 4vw, 48px);
+        border-bottom: 1px solid var(--line);
+        background: rgba(246, 244, 237, .95);
+      }
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        color: var(--ink);
+        font-weight: 850;
+        text-decoration: none;
+      }
+      .mark {
+        display: grid;
+        place-items: center;
+        width: 36px;
+        height: 36px;
+        border-radius: 8px;
+        background: var(--ink);
+        color: var(--amber);
+        font-size: .78rem;
+      }
+      nav { display: flex; flex-wrap: wrap; gap: 14px; }
+      nav a, .text-link {
+        color: var(--teal-dark);
+        font-weight: 800;
+        text-decoration: none;
+      }
+      main {
+        width: min(1120px, calc(100vw - 32px));
+        margin: 0 auto;
+        padding: 28px 0 52px;
+      }
+      .workspace {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(280px, 380px);
+        gap: 18px;
+        align-items: start;
+      }
+      .tool-panel, .sell-panel, article {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--paper);
+      }
+      .tool-panel, .sell-panel { padding: clamp(18px, 3vw, 28px); }
+      .sell-panel { display: grid; gap: 14px; }
+      .eyebrow {
+        margin: 0 0 6px;
+        color: var(--teal-dark);
+        font-size: .74rem;
+        font-weight: 900;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+      }
+      h1 {
+        max-width: 820px;
+        margin: 0 0 10px;
+        font-size: clamp(2rem, 4vw, 3.65rem);
+        line-height: 1.02;
+        letter-spacing: 0;
+      }
+      h2, h3, p { margin-top: 0; }
+      p, li { color: var(--muted); }
+      form { display: grid; gap: 14px; margin: 20px 0; }
+      label { display: grid; gap: 6px; color: var(--ink); font-weight: 800; }
+      input, select, textarea {
+        width: 100%;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 12px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+      }
+      textarea { min-height: 320px; resize: vertical; }
+      .field-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+      .result-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 10px;
+      }
+      .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+      .button, button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 44px;
+        border: 0;
+        border-radius: 8px;
+        padding: 0 16px;
+        background: var(--teal);
+        color: #fff;
+        font: inherit;
+        font-weight: 850;
+        text-decoration: none;
+        cursor: pointer;
+      }
+      .button.secondary, button.secondary {
+        background: #fffaf0;
+        color: var(--ink);
+        border: 1px solid #ead2a0;
+      }
+      .preview {
+        width: 100%;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+      }
+      .price {
+        display: block;
+        color: var(--ink);
+        font-size: 1.55rem;
+        font-weight: 900;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 14px;
+        margin-top: 18px;
+      }
+      article { padding: 18px; }
+      .toast {
+        position: fixed;
+        right: 18px;
+        bottom: 18px;
+        max-width: min(360px, calc(100vw - 36px));
+        padding: 12px 14px;
+        border-radius: 8px;
+        background: var(--ink);
+        color: #fff;
+        opacity: 0;
+        transform: translateY(8px);
+        transition: .2s ease;
+      }
+      .toast.show { opacity: 1; transform: translateY(0); }
+      @media (max-width: 900px) {
+        .workspace, .grid, .field-grid { grid-template-columns: 1fr; }
+      }
+    </style>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Marketplace Question Prioritizer",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Web",
+        "description": "Free no-login tool that ranks buyer questions and creates a fast seller reply.",
+        "image": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png",
+        "url": "https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <header>
+      <a class="brand" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/">
+        <span class="mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav aria-label="Links">
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html">Main tool</a>
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html">Custom replies</a>
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html">Pay</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="workspace">
+        <div class="tool-panel">
+          <p class="eyebrow">Free no-login seller tool</p>
+          <h1>Prioritize buyer questions before a hot lead goes cold</h1>
+          <p>
+            Rank marketplace, WhatsApp or ecommerce questions by urgency, buyer intent,
+            margin and whether the answer blocks payment. Then copy a clear reply.
+          </p>
+
+          <form id="priority-form">
+            <label>
+              Product or niche
+              <input id="product" type="text" value="waterproof urban backpack" autocomplete="off" />
+            </label>
+            <label>
+              Buyer question
+              <input id="question" type="text" value="Is it in stock and can it arrive before Friday?" autocomplete="off" />
+            </label>
+            <div class="field-grid">
+              <label>
+                Channel
+                <select id="channel">
+                  <option value="Marketplace">Marketplace</option>
+                  <option value="Mercado Libre">Mercado Libre</option>
+                  <option value="WhatsApp">WhatsApp</option>
+                  <option value="Instagram">Instagram</option>
+                  <option value="Online store">Online store</option>
+                </select>
+              </label>
+              <label>
+                Minutes waiting
+                <input id="minutes" type="number" min="0" step="1" value="18" />
+              </label>
+            </div>
+            <div class="field-grid">
+              <label>
+                Buyer intent
+                <select id="intent">
+                  <option value="ready">Ready to buy</option>
+                  <option value="shipping">Shipping or delivery</option>
+                  <option value="fit">Size, fit or compatibility</option>
+                  <option value="price">Price or discount</option>
+                  <option value="after-sale">After-sale issue</option>
+                </select>
+              </label>
+              <label>
+                Estimated margin
+                <select id="margin">
+                  <option value="medium">Medium</option>
+                  <option value="high">High</option>
+                  <option value="low">Low</option>
+                  <option value="unknown">I do not know</option>
+                </select>
+              </label>
+            </div>
+            <div class="field-grid">
+              <label>
+                What is at risk?
+                <select id="risk">
+                  <option value="blocks-payment">It blocks payment</option>
+                  <option value="comparison">Buyer is comparing options</option>
+                  <option value="simple">Simple question</option>
+                </select>
+              </label>
+              <label>
+                Key detail for the answer
+                <input id="detail" type="text" value="we have stock and ship within 24 business hours" />
+              </label>
+            </div>
+            <div class="actions">
+              <button type="submit">Prioritize and write reply</button>
+              <button class="secondary" type="button" id="copy-output">Copy result</button>
+            </div>
+          </form>
+
+          <section aria-live="polite">
+            <div class="result-header">
+              <h2>Priority and reply</h2>
+            </div>
+            <textarea id="output" spellcheck="false"></textarea>
+          </section>
+        </div>
+
+        <aside class="sell-panel">
+          <img
+            class="preview"
+            src="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+            alt="Preview of Kit Vendedor Express marketplace seller templates"
+          />
+          <div>
+            <p class="eyebrow">Optional paid service</p>
+            <h2>Custom replies for Spanish-speaking sellers</h2>
+            <p>
+              Get a paid reply set for one niche or product line: price, stock, shipping,
+              objections, follow-up and post-sale.
+            </p>
+            <span class="price">USD 29</span>
+          </div>
+          <div class="actions">
+            <a class="button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html">Open service</a>
+            <a class="button secondary" href="https://paypal.me/SBozicovich/29USD">PayPal USD 29</a>
+            <a class="button secondary" href="https://paypal.me/SBozicovich/1USD">Support USD 1</a>
+          </div>
+          <p>Argentina transfer: Banco Galicia, CBU 0070034430004032923161.</p>
+        </aside>
+      </section>
+
+      <section class="grid">
+        <article>
+          <h2>Why answer order matters</h2>
+          <p>A payment-blocking question from a ready buyer deserves attention before a low-intent discount question.</p>
+        </article>
+        <article>
+          <h2>No account required</h2>
+          <p>The tool runs in the browser. It does not connect to a marketplace, inbox or customer database.</p>
+        </article>
+        <article>
+          <h2>Spanish paid workflow</h2>
+          <p>The paid kit and custom replies are focused on Mercado Libre, WhatsApp and Latin American ecommerce sellers.</p>
+        </article>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script>
+      const byId = (id) => document.getElementById(id);
+      const clean = (value, fallback) => String(value || "").trim() || fallback;
+
+      function numberValue(id) {
+        const value = Number(String(byId(id).value || "").replace(",", "."));
+        return Number.isFinite(value) ? value : 0;
+      }
+
+      function buildResult() {
+        const product = clean(byId("product").value, "the product");
+        const channel = clean(byId("channel").value, "Marketplace");
+        const question = clean(byId("question").value, "buyer question");
+        const detail = clean(byId("detail").value, "key detail");
+        const minutes = Math.max(0, numberValue("minutes"));
+        const intent = byId("intent").value;
+        const margin = byId("margin").value;
+        const risk = byId("risk").value;
+        let score = 0;
+
+        if (minutes >= 60) score += 35;
+        else if (minutes >= 30) score += 28;
+        else if (minutes >= 10) score += 20;
+        else score += 12;
+
+        score += { ready: 32, shipping: 24, fit: 22, price: 18, "after-sale": 14 }[intent] || 12;
+        score += { high: 22, medium: 16, low: 8, unknown: 10 }[margin] || 10;
+        score += { "blocks-payment": 24, comparison: 16, simple: 10 }[risk] || 10;
+
+        const priority =
+          score >= 78 ? "P1 - answer now" : score >= 55 ? "P2 - answer in the next support block" : "P3 - answer after P1/P2";
+        const tone = score >= 78 ? "direct and complete" : "clear and brief";
+        const replies = {
+          ready: `Hi. Yes, we can move forward with ${product}. ${detail}. If that works for you, you can confirm the order and we will get it ready.`,
+          shipping: `Hi. Shipping for ${product} depends on your area or postal code. ${detail}. Send the delivery area and I will confirm the estimated time.`,
+          fit: `Hi. To confirm whether ${product} fits your case, I need ${detail}. That helps avoid buying something that does not work for you.`,
+          price: `Hi. The current price for ${product} is the listed price. ${detail}. If you need more than one unit, send the quantity and I will check availability.`,
+          "after-sale": `Hi. To review the case for ${product}, I need ${detail}. With that information I can tell you the next step.`
+        };
+        const caution =
+          channel === "Mercado Libre"
+            ? "Do not include phone numbers, emails, social media handles or external links inside marketplace replies."
+            : "Avoid promising discounts, delivery dates or stock you cannot honor.";
+
+        byId("output").value = [
+          `Priority for ${channel}`,
+          "",
+          `Product: ${product}`,
+          `Buyer question: ${question}`,
+          `Waiting time: ${minutes} minutes`,
+          `Result: ${priority}`,
+          `Recommended tone: ${tone}`,
+          "",
+          "Suggested reply:",
+          replies[intent] || replies.ready,
+          "",
+          "Next actions:",
+          "1. Answer P1 questions first: buyer ready to buy, long wait, or payment-blocking doubt.",
+          "2. Save this answer as a quick reply if the question repeats every week.",
+          "3. Add repeated details to the listing to reduce future questions.",
+          "",
+          "Reminder:",
+          caution
+        ].join("\n");
+      }
+
+      function showToast(message) {
+        const toast = byId("toast");
+        toast.textContent = message;
+        toast.classList.add("show");
+        window.setTimeout(() => toast.classList.remove("show"), 2400);
+      }
+
+      byId("priority-form").addEventListener("submit", (event) => {
+        event.preventDefault();
+        buildResult();
+      });
+      byId("copy-output").addEventListener("click", () => {
+        navigator.clipboard
+          .writeText(byId("output").value)
+          .then(() => showToast("Copied. If it saved time, support with USD 1."))
+          .catch(() => byId("output").select());
+      });
+      buildResult();
+    </script>
+  </body>
+</html>

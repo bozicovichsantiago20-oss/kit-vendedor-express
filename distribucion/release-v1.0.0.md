@@ -59,5 +59,6 @@ Los ZIP estan adjuntos en esta release:
 - Calcular precio Mercado Libre: https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
 - Publicacion no vende Mercado Libre: https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - Mensajes WhatsApp ventas: https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
+- Marketplace Question Prioritizer: https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/
 
 Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

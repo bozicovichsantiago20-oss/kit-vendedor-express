@@ -108,6 +108,7 @@ Micrositios tematicos:
 - Calcular precio Mercado Libre: https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
 - Publicacion no vende Mercado Libre: https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - Mensajes WhatsApp ventas: https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
+- Marketplace Question Prioritizer: https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/
 
 Entrada SEO comercial:
 
