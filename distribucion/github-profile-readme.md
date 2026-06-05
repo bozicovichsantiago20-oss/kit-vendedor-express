@@ -61,6 +61,7 @@ Aporte: https://paypal.me/SBozicovich/1USD
 ## Guias con intencion comercial
 
 - Como calcular precio de venta para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+- Plantillas de atencion al cliente para ecommerce: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
 
 ## Fichas publicas
 

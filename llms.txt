@@ -74,6 +74,8 @@ Guias recomendadas:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-rapidas-mercado-libre.html
 - Como calcular precio de venta para Mercado Libre:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+- Plantillas de atencion al cliente para ecommerce:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
 
 Micrositios tematicos:
 - Respuestas rapidas Mercado Libre:

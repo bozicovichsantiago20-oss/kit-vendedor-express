@@ -131,6 +131,22 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Herramienta gratis AI-adjacent creada para abrir directorios de herramientas de IA sin costo de API:
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
   - Genera prompts locales para ChatGPT/Gemini/Claude orientados a publicaciones, respuestas, cierres y postventa.
+- Envio externo a AIToolsIndex completado para la herramienta de prompts:
+  - https://aitoolsindex.org/
+  - Herramienta enviada: Marketplace Seller Prompt Generator.
+  - Estado devuelto por API: success.
+- Envio externo a nologin.tools completado por API para la herramienta de respuestas:
+  - https://nologin.tools/submit
+  - Herramienta enviada: Marketplace Reply Generator.
+  - Estado devuelto por API: ok true; pagina publica aun no visible al verificar, por lo que queda como enviado/en revision.
+- Alta externa en Zearches completada y visible:
+  - https://zearches.com/directory.php?slug=resources-directories
+  - Listing visible: Seller Tools Hub -> https://bozicovichsantiago20-oss.github.io/
+  - Categoria: Resources, Tools & Directories.
+- Guia SEO comercial nueva creada para busquedas de atencion al cliente ecommerce:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
+  - Enlazada desde el inicio, sitemap, llms, hub raiz, README de perfil y Gist maestro.
+  - CTA directo al bundle USD 15, PayPal directo y aporte USD 1.
 
 ## Analisis de otros proyectos Codex locales
 

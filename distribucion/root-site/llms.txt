@@ -51,6 +51,10 @@ Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 
+Guias comerciales:
+- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
+- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+
 Repos publicos tematicos:
 - https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
 - https://github.com/bozicovichsantiago20-oss/calculadora-precio-venta-online

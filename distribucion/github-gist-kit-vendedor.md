@@ -56,6 +56,9 @@ Herramientas gratis:
 Guia para calcular precio de venta:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
 
+Guia de atencion al cliente ecommerce:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
+
 Gists tematicos:
 - Respuestas rapidas para Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/252211100ce0625b3577e56c166586c5
 - Calculadora de precio para venta online: https://gist.github.com/bozicovichsantiago20-oss/861016d8cfb2c191038811131dd360d5
