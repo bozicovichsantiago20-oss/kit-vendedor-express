@@ -137,3 +137,7 @@ IndexNow priorizador preguntas,https://api.indexnow.org/IndexNow,Publicado,No,Ni
 Telegraph priorizador preguntas,https://telegra.ph/Priorizador-de-preguntas-para-Mercado-Libre-06-05,Publicado,No,Ninguno,Ficha externa verificada status 200 con enlace a herramienta PayPal USD29 y CBU
 ToolCommons priorizador preguntas,https://github.com/ToolCommons/toolcommons.github.io/issues/23#issuecomment-4634448739,Publicado,No,Ninguno,Comentario agregado al issue existente sin crear duplicado
 NoSignupTools priorizador preguntas,https://nosignuptools.com/api/submit,Pendiente,No,HTTP 500,Intento unico al endpoint publico rechazo con error 500; no se insistio
+English marketplace question prioritizer,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html,Publicado,No,Ninguno,Herramienta inglesa no-login verificada status 200 con PayPal USD29 CBU formulario y CTA a respuestas personalizadas
+IndexNow English prioritizer,https://api.indexnow.org/IndexNow,Publicado,No,Ninguno,Envio aceptado HTTP 200 para 7 URLs propias incluyendo landing inglesa nueva sitemap llms y hub raiz
+Telegraph English prioritizer,https://telegra.ph/Marketplace-Question-Prioritizer-06-05,Publicado,No,Ninguno,Ficha externa en ingles verificada status 200 con enlace a herramienta PayPal USD29 y CBU
+ToolCommons English prioritizer,https://github.com/ToolCommons/toolcommons.github.io/issues/23#issuecomment-4634667192,Publicado,No,Ninguno,Comentario agregado al issue existente con la version inglesa no-login sin abrir duplicado

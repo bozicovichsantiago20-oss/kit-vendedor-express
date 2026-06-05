@@ -422,6 +422,34 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Estado al cierre:
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 16:11 ART
+
+- Verificacion inicial:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release v1.0.0: 1 descarga por ZIP, sin atribucion de cliente.
+  - Registro local de cobros: 0 USD confirmados.
+- Nueva herramienta inglesa publicada:
+  - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html
+  - Herramienta no-login para priorizar preguntas de compradores y generar respuesta en ingles.
+  - CTA a respuestas personalizadas USD 29, PayPal directo y CBU.
+  - Commit principal: a1b8b31.
+  - Verificacion publica: status 200, PayPal USD 29 visible, CBU visible y formulario presente.
+- Distribucion sincronizada:
+  - Home principal, paginas inglesas, sitemap, README y llms actualizados.
+  - Hub raiz commit: deee7ff.
+  - Perfil GitHub commit: 8ef7e1a.
+  - Gist maestro actualizado.
+  - Release v1.0.0 actualizada.
+  - IndexNow acepto 7 URLs propias con HTTP 200.
+- Distribucion externa:
+  - Telegra.ph en ingles publicado y verificado:
+    https://telegra.ph/Marketplace-Question-Prioritizer-06-05
+  - ToolCommons comentario agregado sin abrir issue duplicado:
+    https://github.com/ToolCommons/toolcommons.github.io/issues/23#issuecomment-4634667192
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 14:42 ART
 
 - Accion segura sin gasto: guia SEO nueva para captar busquedas informativas y derivar al servicio de respuestas personalizadas USD 29.
