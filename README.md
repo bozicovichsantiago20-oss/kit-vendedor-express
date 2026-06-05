@@ -67,6 +67,10 @@ Auditoria personalizada USD 19:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 
+Respuestas personalizadas USD 29:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
+
 Diagnostico de publicacion que no vende:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
