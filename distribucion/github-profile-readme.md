@@ -24,13 +24,16 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 Pagina de pago y descarga:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
+Version Pro:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
 Repo:
 https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
 
-Pago sugerido: USD 5 por PayPal o transferencia local.
+Pago sugerido: USD 5 base o USD 12 Pro por PayPal o transferencia local.
 
 ## Herramientas gratis
 

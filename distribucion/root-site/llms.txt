@@ -15,6 +15,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Resumen:
 Kit Vendedor Express es un producto digital para vendedores online. Incluye 130+ respuestas, bonus por rubro, prompts, formulas de titulos, checklist, matriz de reclamos, guiones WhatsApp y plan de 7 dias.
 
+Version Pro:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+
+La version Pro cuesta USD 12 sugerido e incluye 200+ respuestas, objeciones de precio, prompts avanzados, auditoria de publicacion, seguimiento de consultas y mensajes de recompra.
+
 Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html

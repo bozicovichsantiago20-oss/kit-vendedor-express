@@ -23,6 +23,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 Pagina de pago y descarga:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
+Version Pro:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
@@ -37,7 +40,7 @@ Herramientas gratis:
 Guia para calcular precio de venta:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
 
-Pago sugerido: USD 5 por PayPal.
+Pago sugerido: USD 5 base o USD 12 Pro por PayPal.
 https://paypal.me/SBozicovich
 
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.

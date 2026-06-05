@@ -6,12 +6,15 @@ Site: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 /* PRODUCT */
 Purpose: ayudar a vendedores online a responder mas rapido, mejorar publicaciones y ordenar postventa.
 Pack: 130+ respuestas, prompts, formulas de titulos, checklist, matriz de reclamos, guiones WhatsApp y plan de 7 dias.
+Pro: 200+ respuestas, objeciones de precio, prompts avanzados, auditoria, seguimiento y recompra.
 Price: USD 5 sugerido.
+Pro Price: USD 12 sugerido.
 PayPal: https://paypal.me/SBozicovich
 CBU: Banco Galicia Argentina 0070034430004032923161
 
 /* LINKS */
 Checkout: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+Pro: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip
 Hub: https://bozicovichsantiago20-oss.github.io/
 

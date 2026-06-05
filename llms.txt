@@ -11,6 +11,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Precio sugerido:
 USD 5 o equivalente local.
 
+Version Pro:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+- Precio sugerido: USD 12 o equivalente local.
+- Incluye todo el pack base mas 72 respuestas Pro, objeciones de precio, prompts avanzados, auditoria de publicacion, seguimiento de consultas y mensajes de recompra.
+
 Metodos de pago:
 - PayPal: https://paypal.me/SBozicovich
 - Banco Galicia Argentina, CBU: 0070034430004032923161
@@ -25,6 +30,7 @@ Que incluye:
 - Guiones de cierre por WhatsApp.
 - Checklist de publicacion.
 - Plan de accion de 7 dias.
+- En Pro: 200+ respuestas entre base, bonus y extras Pro.
 
 Herramientas gratis:
 - Generador de titulos para Mercado Libre:

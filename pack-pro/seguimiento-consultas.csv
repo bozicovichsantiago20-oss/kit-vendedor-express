@@ -1,0 +1,4 @@
+fecha,canal,producto,rubro,tipo_consulta,respuesta_usada,tiempo_respuesta_min,resultado,proxima_accion,nota
+2026-06-05,Mercado Libre,mochila impermeable,hogar/envio,envio,respuesta-envio-clara,8,no_compro,revisar descripcion,El comprador pregunto plazo de entrega
+2026-06-05,WhatsApp,zapatillas urbanas,calzado,precio,objecion-descuento,4,pendiente,seguir manana,Pregunto descuento por dos pares
+2026-06-05,Instagram,crema facial,belleza,compatibilidad,compatibilidad-belleza,12,compro,pedir feedback,Compro despues de confirmar tipo de piel

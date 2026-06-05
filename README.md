@@ -39,6 +39,10 @@ Pagina de pago y descarga:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
+Pack Pro USD 12:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+
 Herramientas gratis:
 
 - Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
