@@ -175,6 +175,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Marketplace Price Calculator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
   - Marketplace Seller Prompt Generator: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
   - Estado devuelto por API: ok true para ambos; paginas publicas aun devuelven 404, por lo que quedan como enviados/en revision.
+- Mejora de conversion aplicada en herramientas gratis:
+  - Las cuatro herramientas ahora muestran PayPal directo, CBU Banco Galicia y rutas de pago visibles en el mismo bloque de accion.
+  - Calculadora deriva a Auditoria USD 7 y PayPal directo USD 7.
+  - Titulos, respuestas y prompts derivan a Bundle USD 15, PayPal directo USD 15, base/aporte segun caso.
 
 ## Analisis de otros proyectos Codex locales
 
