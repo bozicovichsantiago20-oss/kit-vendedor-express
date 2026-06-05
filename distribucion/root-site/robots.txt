@@ -2,3 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bozicovichsantiago20-oss.github.io/sitemap.xml
+Sitemap: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/sitemap.xml
+Sitemap: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/sitemap.xml
+Sitemap: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/sitemap.xml
+Sitemap: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/sitemap.xml

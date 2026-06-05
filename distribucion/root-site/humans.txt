@@ -9,6 +9,11 @@ Checkout: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/compra
 Pro: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 Auditoria: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Bundle: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
+Aporte: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
+Microsite Respuestas: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
+Microsite Calculadora: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+Microsite Auditoria: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+Support Price: USD 1 sugerido.
 Price: USD 5 sugerido.
 Audit Price: USD 7 sugerido.
 Pro Price: USD 12 sugerido.
@@ -17,6 +22,7 @@ PayPal Base: https://paypal.me/SBozicovich/5USD
 PayPal Auditoria: https://paypal.me/SBozicovich/7USD
 PayPal Pro: https://paypal.me/SBozicovich/12USD
 PayPal Bundle: https://paypal.me/SBozicovich/15USD
+PayPal Support: https://paypal.me/SBozicovich/1USD
 CBU: Banco Galicia Argentina 0070034430004032923161
 
 /* NOTE */
