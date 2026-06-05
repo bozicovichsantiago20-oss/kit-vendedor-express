@@ -95,6 +95,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
   - ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-auditoria/auditoria-express-publicacion.zip
   - Gist: https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf
+- Auditoria Express verificada publica: pagina, ZIP, release asset, hub, perfil, Gist y sitemaps actualizados; IndexNow HTTP 200.
 
 ## Estado de ingresos
 
