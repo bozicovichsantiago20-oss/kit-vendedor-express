@@ -29,6 +29,11 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - README de perfil enlazando el producto publicado.
 - Gist publico creado:
   https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc
+- Sitio raiz creado:
+  https://bozicovichsantiago20-oss.github.io/
+- Repo del sitio raiz:
+  https://github.com/bozicovichsantiago20-oss/bozicovichsantiago20-oss.github.io
+- IndexNow enviado para el sitio raiz con respuesta HTTP 202.
 
 ## Estado de ingresos
 
