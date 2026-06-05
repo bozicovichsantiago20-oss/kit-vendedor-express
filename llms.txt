@@ -34,6 +34,10 @@ Aporte rapido:
 - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 - PayPal USD 1 para usuarios que aprovechan herramientas gratis y quieren apoyar.
 
+English landing:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
+- Free no-login marketplace reply generator page for English-language directories, pointing to the Spanish free tool and paid kits.
+
 Metodos de pago:
 - PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD

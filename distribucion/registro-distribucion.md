@@ -125,6 +125,9 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Envio externo a FreeNoSignup completado por formulario publico de Google:
   - https://freenosignup.com/submit/
   - Herramienta enviada: generador de respuestas rapidas para Mercado Libre
+- Landing en ingles creada para cumplir requisitos de directorios de herramientas/SaaS que piden pagina en ingles:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
+  - Incluye generador gratis, enlace al bundle, PayPal y CBU.
 
 ## Analisis de otros proyectos Codex locales
 

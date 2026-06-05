@@ -11,6 +11,7 @@ Auditoria: checklist, diagnostico, guion de mejora y plan de 48 horas.
 Bundle: base, auditoria y Pro en una sola descarga.
 Support: aporte rapido para herramientas gratis.
 Microsites: respuestas rapidas, calculadora de precio y auditoria marketplace.
+English Landing: free marketplace reply generator page for directories.
 Support Price: USD 1 sugerido.
 Price: USD 5 sugerido.
 Audit Price: USD 7 sugerido.
@@ -25,6 +26,7 @@ CBU: Banco Galicia Argentina 0070034430004032923161
 
 /* LINKS */
 Aporte: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
+English: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
 Checkout: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Pro: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 Auditoria: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html

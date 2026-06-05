@@ -40,6 +40,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 
 Permite aportar USD 1 por PayPal si una herramienta gratis ahorro tiempo.
 
+English landing:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
+
+Pagina en ingles para directorios de herramientas gratis, con enlace al generador de respuestas y al bundle pago.
+
 Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
