@@ -42,6 +42,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Auditoria personalizada:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 
+Diagnostico de publicacion que no vende:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
+
 Bundle Vendedor Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 

@@ -35,6 +35,10 @@ Auditoria personalizada:
 - Precio sugerido: USD 19 o equivalente local.
 - Incluye revision personalizada de una publicacion publica, devolucion por GitHub Issue y plan de 48 horas.
 
+Pagina de diagnostico:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
+- Responde a la busqueda "por que mi publicacion no vende" y deriva a diagnostico gratis, Auditoria USD 7 o auditoria personalizada USD 19.
+
 Bundle Vendedor Express:
 - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 - Precio sugerido: USD 15 o equivalente local.
