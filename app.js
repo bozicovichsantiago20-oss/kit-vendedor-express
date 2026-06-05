@@ -131,21 +131,29 @@ async function copyText(text, successMessage) {
   }
 }
 
-form.addEventListener("submit", (event) => {
-  event.preventDefault();
+if (form && output) {
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    buildReply();
+  });
+
   buildReply();
-});
+}
 
-copyReply.addEventListener("click", () => {
-  copyText(output.value, "Respuesta copiada.");
-});
+if (copyReply && output) {
+  copyReply.addEventListener("click", () => {
+    copyText(output.value, "Respuesta copiada.");
+  });
+}
 
-copyCbu.addEventListener("click", () => {
-  copyText(CBU, "CBU copiado.");
-});
+if (copyCbu) {
+  copyCbu.addEventListener("click", () => {
+    copyText(CBU, "CBU copiado.");
+  });
+}
 
-copyPaypal.addEventListener("click", () => {
-  copyText(PAYPAL_ME, "Link de PayPal copiado.");
-});
-
-buildReply();
+if (copyPaypal) {
+  copyPaypal.addEventListener("click", () => {
+    copyText(PAYPAL_ME, "Link de PayPal copiado.");
+  });
+}

@@ -19,6 +19,7 @@ Sitio publico: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 ## Archivos clave
 
 - `index.html`: pagina principal.
+- `comprar.html`: pagina directa de pago y descarga.
 - `app.js`: generador de respuestas.
 - `styles.css`: estilos responsive.
 - `pack/kit-vendedor-express.zip`: producto descargable.
