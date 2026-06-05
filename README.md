@@ -47,6 +47,10 @@ Plantillas para reclamos y devoluciones:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/reclamos-devoluciones-mercado-libre-whatsapp.html
 
+Mensajes de WhatsApp para vender hoy:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/mensajes-whatsapp-para-vender-hoy.html
+
 Pack Pro USD 12:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
