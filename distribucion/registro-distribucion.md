@@ -406,6 +406,12 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Gist maestro actualizado.
 - IndexNow:
   - Envio aceptado HTTP 200 para 7 URLs: guia nueva, oferta USD 29, sitemap principal, llms principal, hub raiz, sitemap raiz y llms raiz.
+- Verificacion externa adicional:
+  - Telegra.ph publicacion no vende: status 200 con PayPal visible.
+  - Telegra.ph auditoria personalizada: status 200 con PayPal visible.
+  - Zearches resources-directories: status 200; Plantillas Ecommerce visible, Kit Vendedor Express no visible en esta lectura.
+  - Zearches ecommerce-shops: status 200; micrositio publicacion-no-vende no visible en esta lectura.
+  - No se reenvio a Zearches por limites previos `too_fast` y `rate_limited`.
 - Diferenciacion contra otros proyectos Codex locales:
   - Revisado `generar usd`: foco previo en bounties, automatizacion IA para PyMEs, kits de IA segura y recuperacion de consultas.
   - Esta ronda mantiene el proyecto actual en nicho distinto: vendedores online, Mercado Libre, WhatsApp, plantillas y servicios comprables.
