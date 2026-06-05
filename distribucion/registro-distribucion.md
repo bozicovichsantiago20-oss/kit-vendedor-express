@@ -112,6 +112,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
   - https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
   - https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
+- Micrositios agregados al hub raiz, sitemap raiz, llms raiz, README de perfil y Gist maestro; IndexNow HTTP 200.
 
 ## Estado de ingresos
 
