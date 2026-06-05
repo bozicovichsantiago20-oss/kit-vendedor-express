@@ -111,6 +111,7 @@ Micrositios publicos tematicos:
 - https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
 - https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/
+- https://bozicovichsantiago20-oss.github.io/preguntas-compradores-mercado-libre/
 
 Pago:
 - PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD

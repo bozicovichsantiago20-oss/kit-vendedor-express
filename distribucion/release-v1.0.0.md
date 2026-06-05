@@ -60,5 +60,6 @@ Los ZIP estan adjuntos en esta release:
 - Publicacion no vende Mercado Libre: https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - Mensajes WhatsApp ventas: https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
 - Marketplace Question Prioritizer: https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/
+- Preguntas compradores Mercado Libre: https://bozicovichsantiago20-oss.github.io/preguntas-compradores-mercado-libre/
 
 Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

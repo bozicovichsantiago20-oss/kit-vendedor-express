@@ -1,0 +1,27 @@
+# Preguntas de compradores Mercado Libre
+
+URL:
+https://bozicovichsantiago20-oss.github.io/preguntas-compradores-mercado-libre/
+
+Proposito:
+Herramienta gratis para vendedores que necesitan priorizar preguntas de compradores y generar respuestas rapidas.
+
+Casos:
+- preguntas de compradores Mercado Libre
+- respuestas rapidas Mercado Libre
+- consultas de stock
+- consultas de envio
+- preguntas sobre precio
+- compatibilidad o medidas
+- seguimiento de ventas online
+
+Oferta paga:
+Respuestas personalizadas para vendedores online, USD 29.
+
+Pago:
+- PayPal USD 29: https://paypal.me/SBozicovich/29USD
+- PayPal apoyo USD 1: https://paypal.me/SBozicovich/1USD
+- Banco Galicia Argentina, CBU: 0070034430004032923161
+
+Sitio principal:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/

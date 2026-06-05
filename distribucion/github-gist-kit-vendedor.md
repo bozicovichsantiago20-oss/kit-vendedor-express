@@ -109,6 +109,7 @@ Repos tematicos:
 - https://github.com/bozicovichsantiago20-oss/publicacion-no-vende-mercado-libre
 - https://github.com/bozicovichsantiago20-oss/mensajes-whatsapp-ventas
 - https://github.com/bozicovichsantiago20-oss/marketplace-question-prioritizer
+- https://github.com/bozicovichsantiago20-oss/preguntas-compradores-mercado-libre
 
 Micrositios tematicos:
 - https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
@@ -119,6 +120,7 @@ Micrositios tematicos:
 - https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
 - https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/
+- https://bozicovichsantiago20-oss.github.io/preguntas-compradores-mercado-libre/
 
 Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPal.
 Aporte: https://paypal.me/SBozicovich/1USD
