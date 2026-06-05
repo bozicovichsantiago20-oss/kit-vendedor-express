@@ -58,3 +58,9 @@ Pago sugerido: USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPa
 - Kit Vendedor Express Pro: https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
 - Auditoria Express de Publicacion: https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf
 - Bundle Vendedor Express: https://gist.github.com/bozicovichsantiago20-oss/c6dae9a11883443a07abe230f6592ad4
+
+## Repos tematicos
+
+- Respuestas rapidas Mercado Libre: https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
+- Calculadora precio venta online: https://github.com/bozicovichsantiago20-oss/calculadora-precio-venta-online
+- Auditoria publicacion marketplace: https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
