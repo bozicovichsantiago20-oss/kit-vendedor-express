@@ -5,3 +5,4 @@ fecha,producto,canal,monto,moneda,estado,evidencia,notas
 2026-06-05,Auditoria Express de Publicacion,PayPal/CBU,0,USD,Sin cobro confirmado,Auditoria Base y Pro con 0 descargas de release; trafico GitHub 0,Producto publicado pero aun sin evidencia de pago
 2026-06-05,Bundle Vendedor Express,PayPal/CBU,0,USD,Sin cobro confirmado,Bundle Auditoria Base y Pro con 0 descargas de release; trafico GitHub 0,Bundle publicado pero aun sin evidencia de pago
 2026-06-05,Comparador de ofertas,PayPal/CBU,0,USD,Sin cobro confirmado,02:30 ART release 0 descargas y trafico GitHub 0,Comparador publicado para mejorar conversion; sin acceso a PayPal o banco para confirmar movimientos
+2026-06-05,Micrositios tematicos GitHub Pages,PayPal/CBU,0,USD,Sin cobro confirmado,03:21 ART release 0 descargas y trafico GitHub 0 en 4 repos,Micrositios publicados e indexados; sin acceso a PayPal o banco para confirmar movimientos
