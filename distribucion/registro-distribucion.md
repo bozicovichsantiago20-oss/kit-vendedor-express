@@ -250,3 +250,35 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Perfil publico de GitHub.
 - Gist publico con ficha del producto.
 - Canales con sesion personal si el usuario confirma el post antes del envio.
+
+## Ronda 2026-06-05 09:19 ART
+
+- Verificacion amplia de ingresos y evidencia:
+  - Release v1.0.0 verificada con 0 descargas en los 4 ZIP publicos.
+  - Trafico GitHub verificado con 0 vistas en repos principales y micrositios.
+  - Registro local de cobros sigue en 0 y no hay evidencia de PayPal o Banco Galicia disponible desde esta sesion.
+- Hub raiz actualizado para conversion por transferencia:
+  - https://bozicovichsantiago20-oss.github.io/
+  - Se agrego CBU Banco Galicia 0070034430004032923161 y PayPal bundle USD 15.
+  - Commit publico raiz: 3326fb0.
+- Perfil publico de GitHub actualizado:
+  - https://github.com/bozicovichsantiago20-oss
+  - Se agrego CBU de transferencia local.
+  - Commit publico perfil: fb25f1a.
+- IndexNow enviado con HTTP 200 para 6 URLs:
+  - nueva herramienta gratis de WhatsApp
+  - herramientas.js
+  - home principal
+  - sitemap principal
+  - hub raiz
+  - sitemap raiz
+- Nueva pagina externa en Telegraph publicada y verificada:
+  - https://telegra.ph/Generador-de-mensajes-de-WhatsApp-para-ventas-gratis-06-05
+  - Incluye enlace al generador gratis PayPal USD 5 y CBU.
+- FreeNoSignup:
+  - Envio de WhatsApp Sales Message Generator aceptado por formulario publico de Google con confirmacion registrada.
+- nologin.tools:
+  - Reintento para WhatsApp Sales Message Generator bloqueado por limite diario del sitio: 3 envios por 24 horas.
+- Zearches:
+  - Verificado que los listings anteriores siguen visibles.
+  - No se forzo nuevo envio para pagina interna porque el formulario actual pide homepage real y ya existe el hub raiz listado.

@@ -59,6 +59,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
 
 Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro o USD 15 bundle por PayPal o transferencia local.
 Aporte: https://paypal.me/SBozicovich/1USD
+Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
 ## Herramientas gratis
 
