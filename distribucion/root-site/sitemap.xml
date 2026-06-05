@@ -234,4 +234,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.88</priority>
   </url>
+  <url>
+    <loc>https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.89</priority>
+  </url>
 </urlset>

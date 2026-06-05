@@ -389,6 +389,33 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Release: 1 descarga por ZIP, sin nueva atribucion.
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-05 11:49 ART
+
+- Nuevo micrositio tematico publicado:
+  - https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
+  - Repo: https://github.com/bozicovichsantiago20-oss/publicacion-no-vende-mercado-libre
+  - Enfocado en la busqueda "publicacion no vende en Mercado Libre".
+  - CTA principal a Auditoria personalizada USD 19, diagnostico gratis y Auditoria Express USD 7.
+  - PayPal USD 19 y CBU visibles.
+- GitHub Pages activado y verificado:
+  - Estado Pages: built.
+  - Home status 200 con PayPal USD 19 y CBU.
+  - Topics del repo: mercado-libre, marketplace, vendedores, auditoria, ventas-online, seller-tools, github-pages, no-login.
+- Hub raiz y perfil publico actualizados:
+  - Hub raiz commit: 8d23a11.
+  - Perfil GitHub commit: b12b0f9.
+- Gist maestro actualizado con el nuevo micrositio:
+  - https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc
+- IndexNow enviado con HTTP 200 para 6 URLs:
+  - micrositio, sitemap, llms, hub raiz, sitemap raiz y pagina diagnostico principal.
+- Zearches:
+  - Intento de alta del micrositio en ecommerce-shops devuelto como status=error&code=too_fast.
+  - No se insistio para evitar envios repetidos.
+- Estado al cierre:
+  - Issues de auditoria personalizada abiertos: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-05 11:22 ART
 
 - Metadatos del repo principal optimizados para descubrimiento:

@@ -103,6 +103,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Auditoria publicacion marketplace: https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
 - Plantillas atencion cliente ecommerce: https://github.com/bozicovichsantiago20-oss/plantillas-atencion-cliente-ecommerce
 - Calcular precio Mercado Libre: https://github.com/bozicovichsantiago20-oss/calcular-precio-mercado-libre
+- Publicacion no vende Mercado Libre: https://github.com/bozicovichsantiago20-oss/publicacion-no-vende-mercado-libre
 
 ## Micrositios tematicos
 
@@ -111,3 +112,4 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Auditoria publicacion marketplace: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
 - Plantillas atencion cliente ecommerce: https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
 - Calcular precio Mercado Libre: https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
+- Publicacion no vende Mercado Libre: https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
