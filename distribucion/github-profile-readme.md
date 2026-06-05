@@ -44,3 +44,9 @@ Pago sugerido: USD 5 base o USD 12 Pro por PayPal o transferencia local.
 ## Guias con intencion comercial
 
 - Como calcular precio de venta para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+
+## Fichas publicas
+
+- Respuestas rapidas para Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/252211100ce0625b3577e56c166586c5
+- Calculadora de precio para venta online: https://gist.github.com/bozicovichsantiago20-oss/861016d8cfb2c191038811131dd360d5
+- Kit Vendedor Express Pro: https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f

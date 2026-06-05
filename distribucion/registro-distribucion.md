@@ -85,6 +85,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
   - ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-pro/kit-vendedor-express-pro.zip
 - Pack Pro verificado publico: pagina Pro, ZIP Pro, release asset, hub, perfil, Gist y sitemaps actualizados; IndexNow HTTP 200.
+- Gists tematicos publicos creados para captar busquedas y enlazar pago:
+  - https://gist.github.com/bozicovichsantiago20-oss/252211100ce0625b3577e56c166586c5
+  - https://gist.github.com/bozicovichsantiago20-oss/861016d8cfb2c191038811131dd360d5
+  - https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
 
 ## Estado de ingresos
 
