@@ -8,6 +8,12 @@ https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
 Guia paso a paso:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
 
+Guia de descuento maximo:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
+
+Articulo externo:
+https://telegra.ph/Descuento-maximo-en-Mercado-Libre-sin-perder-margen-06-06
+
 Ayuda a vendedores a probar:
 
 - descuento sobre precio actual
@@ -24,6 +30,7 @@ Casos de uso:
 - evitar copiar descuentos de competidores que venden con margen negativo
 - decidir si conviene pedir auditoria antes de bajar precio
 - leer una guia completa antes de usar la calculadora
+- calcular el descuento maximo antes de quedar debajo del margen objetivo
 
 Oferta relacionada:
 

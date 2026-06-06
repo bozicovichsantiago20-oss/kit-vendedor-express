@@ -6,6 +6,12 @@ https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
 Guia:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
 
+Guia de descuento maximo:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
+
+Articulo externo:
+https://telegra.ph/Descuento-maximo-en-Mercado-Libre-sin-perder-margen-06-06
+
 Resumen:
 Herramienta gratis para vendedores que quieren calcular si una promocion o descuento conserva margen.
 
@@ -16,6 +22,7 @@ Casos de uso:
 - margen minimo
 - envio absorbido
 - comisiones e impuestos
+- descuento maximo antes de perder margen
 
 Oferta:
 Auditoria de descuento Mercado Libre, USD 19:
