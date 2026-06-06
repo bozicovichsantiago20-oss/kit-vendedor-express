@@ -1845,3 +1845,26 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para entrada comercial, home, checkouts principales, comparador, pago/entrega y sitemap.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 17:27 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion sobre activo existente:
+  - Pagina `herramientas/generador-respuestas-rapidas-mercado-libre.html` actualizada con commit 42864d8.
+  - No se creo pagina nueva ni oferta nueva.
+  - Se agrego CTA superior hacia Base USD 5, Auditoria Express USD 7 y Bundle USD 15.
+  - Se agrego caso practico real para consulta de comprador.
+  - Se agrego comparacion gratis vs Base, Auditoria y Bundle.
+  - Se reordeno la venta visible para no depender de pedidos personalizados.
+- Validaciones:
+  - Pagina publica HTTP 200.
+  - PayPal USD 5, USD 7 y USD 15 visibles.
+  - Mensaje de entrega inmediata visible.
+  - JSON-LD publico parseado con WebPage WebApplication Offer BuyAction DownloadAction HowTo FAQPage BreadcrumbList.
+  - IndexNow acepto HTTP 200 para herramienta, `empezar.html` y `sitemap.xml`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
