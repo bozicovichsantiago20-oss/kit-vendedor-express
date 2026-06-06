@@ -1314,3 +1314,21 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para calculadora principal, micrositio, llms del micrositio y landing de auditoria.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 05:41 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- SEO tecnico de conversion:
+  - Landing de auditoria de descuento actualizada con commit 049cae6.
+  - Se agrego marcado publico complementario `WebPage`, `Offer`, `OrderAction`, `HowTo` y `BreadcrumbList`.
+  - El marcado conecta la oferta USD 19 con PayPal, el pedido GitHub `auditoria-descuento.yml` y los pasos calculadora -> pago -> pedido.
+- Validaciones:
+  - Landing publica HTTP 200 con PayPal USD 19, pedido y marcado nuevo.
+  - JSON-LD publico parseado correctamente en 2 bloques: `Service|FAQPage` y `WebPage|Offer|OrderAction|HowTo|BreadcrumbList`.
+  - IndexNow acepto HTTP 200 para la landing de auditoria de descuento.
+- Estado al cierre:
+  - Cobros confirmados: 0.
