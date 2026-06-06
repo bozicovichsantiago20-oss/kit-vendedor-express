@@ -906,3 +906,35 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Repo micrositio: 540cdb3.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-05 23:37 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico repo calculadora descuentos: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion agregada:
+  - Nueva landing enfocada: `auditoria-descuento-mercado-libre.html`.
+  - Oferta clara: auditoria de descuento Mercado Libre USD 19.
+  - Incluye pasos: abrir calculadora, pagar PayPal USD 19 o CBU, abrir issue `auditoria-descuento.yml`.
+  - Boton nuevo: `Copiar pedido base` con PayPal, CBU, issue, calculadora y campos para completar.
+- Superficies conectadas:
+  - Home del repo principal.
+  - Calculadora principal de descuentos.
+  - Auditoria personalizada.
+  - Sitemap, README y llms principal.
+  - Micrositio calculadora descuentos, README y llms.
+- Validaciones:
+  - `git diff --check`: OK.
+  - Sitemap XML: OK.
+  - Simulacion Node del boton `Copiar pedido base`: OK.
+  - URLs publicas verificadas HTTP 200: landing, calculadora principal, micrositio y sitemap.
+  - IndexNow acepto HTTP 200 para landing, calculadora principal, micrositio y sitemap.
+  - Prueba Playwright no ejecutada por dependencia incompleta `playwright-core` en el runtime empaquetado; se reemplazo por validacion local de HTML/JS y verificacion HTTP publica.
+- Commits:
+  - Repo principal: 4a5fa2c.
+  - Repo micrositio calculadora: 183cd8c.
+- Estado al cierre:
+  - Cobros confirmados: 0.
