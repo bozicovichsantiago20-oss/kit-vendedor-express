@@ -1389,3 +1389,24 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Metadata del repo verificada con homepage correcta, 20 temas y descripcion nueva.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 06:42 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Hub raiz:
+  - Hub raiz publicado con commit 73baa15.
+  - Se agregaron botones directos `PayPal auditoria` USD 7 y `PayPal auditoria USD 19` en la primera pantalla.
+  - Se agrego marcado `WebSite`, `WebPage` y `OfferCatalog` con 7 ofertas: USD 1, USD 5, USD 7, USD 12, USD 15, USD 19 y USD 29.
+  - `llms.txt` del hub raiz ahora incluye auditoria de descuento Mercado Libre.
+  - `humans.txt` del hub raiz ahora incluye PayPal USD 19 y USD 29.
+- Validaciones:
+  - Hub raiz publico HTTP 200 con `OfferCatalog`, PayPal USD 7 y PayPal USD 19.
+  - JSON-LD publico parseado correctamente con 1 bloque y 7 ofertas.
+  - `llms.txt` y `humans.txt` publicos HTTP 200 con enlaces PayPal USD 19 y USD 29.
+  - IndexNow acepto HTTP 200 para hub raiz, `llms.txt` y `humans.txt`.
+- Estado al cierre:
+  - Cobros confirmados: 0.

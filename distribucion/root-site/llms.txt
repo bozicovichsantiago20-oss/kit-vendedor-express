@@ -42,6 +42,11 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-person
 
 La auditoria personalizada cuesta USD 19 sugerido e incluye revision de una publicacion publica, devolucion por GitHub Issue y plan de 48 horas.
 
+Auditoria de descuento Mercado Libre:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+
+La auditoria de descuento cuesta USD 19 sugerido e incluye revision de precio, promocion, margen, comision y envio antes de activar un descuento.
+
 Respuestas personalizadas:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
 
