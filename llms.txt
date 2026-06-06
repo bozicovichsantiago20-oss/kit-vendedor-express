@@ -137,6 +137,8 @@ Guias recomendadas:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
 - Promociones en Mercado Libre sin perder margen:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/promociones-mercado-libre-sin-perder-margen.html
+- Simulador de promociones Mercado Libre sin perder margen:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
 - Envio gratis en Mercado Libre sin perder margen:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 - Respuestas personalizadas para vendedores online:

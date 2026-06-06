@@ -126,6 +126,7 @@ Entrada SEO comercial:
 - Como calcular precio de venta para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
 - Descuento maximo en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
 - Promociones en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/promociones-mercado-libre-sin-perder-margen.html
+- Simulador de promociones Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
 - Envio gratis en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 - Respuestas personalizadas para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 - Plantillas de atencion al cliente para ecommerce: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html

@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Simulador de promociones Mercado Libre sin perder margen</title>
+    <meta
+      name="description"
+      content="Guia para simular promociones en Mercado Libre antes de activarlas: descuento, precio final, comision, envio absorbido, margen minimo y auditoria USD 19."
+    />
+    <meta property="og:title" content="Simulador de promociones Mercado Libre" />
+    <meta
+      property="og:description"
+      content="Prueba escenarios de descuento, envio y margen antes de activar una promocion."
+    />
+    <meta property="og:type" content="article" />
+    <meta
+      property="og:url"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html"
+    />
+    <meta
+      property="og:image"
+      content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link
+      rel="canonical"
+      href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Simulador de promociones Mercado Libre sin perder margen",
+            "description": "Guia para simular descuentos, precio final, comision, envio absorbido y margen antes de activar una promocion.",
+            "image": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png",
+            "author": {
+              "@type": "Person",
+              "name": "Santiago Bozicovich"
+            },
+            "mainEntityOfPage": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html"
+          },
+          {
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Para que sirve simular una promocion?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Sirve para revisar si el precio final de una promocion conserva margen despues de costos, comision, cargos, impuestos y envio absorbido."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Que datos necesito cargar?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Necesitas precio actual, descuento a probar, costo del producto, comision, cargos variables, envio absorbido y margen minimo deseado."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    </script>
+  </head>
+  <body class="guide-page">
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Kit Vendedor Express">
+        <span class="brand-mark">KV</span>
+        <span>Kit Vendedor Express</span>
+      </a>
+      <nav class="nav" aria-label="Secciones">
+        <a href="../herramientas/calculadora-descuentos-mercado-libre.html">Calculadora</a>
+        <a href="promociones-mercado-libre-sin-perder-margen.html">Promociones</a>
+        <a href="descuento-maximo-mercado-libre-sin-perder-margen.html">Descuento maximo</a>
+        <a href="../auditoria-descuento-mercado-libre.html">Auditoria USD 19</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="guide-hero">
+        <p class="eyebrow">Guia de simulacion</p>
+        <h1>Simulador de promociones Mercado Libre sin perder margen</h1>
+        <p>
+          Antes de activar una promocion, simula el precio final y compara si el
+          descuento conserva el margen que necesitas. El objetivo no es vender mas
+          barato: es saber que promo puedes sostener sin quedar debajo de tus numeros.
+        </p>
+      </section>
+
+      <article class="guide-body">
+        <h2>Escenarios que conviene simular</h2>
+        <ul class="example-list">
+          <li><strong>Descuento bajo:</strong> prueba una rebaja pequena para medir si mejora la conversion sin ceder margen.</li>
+          <li><strong>Descuento medio:</strong> revisa si el precio queda competitivo y todavia cubre comision, cargo fijo y envio.</li>
+          <li><strong>Descuento alto:</strong> usalo como limite de riesgo, no como primera opcion.</li>
+          <li><strong>Envio absorbido:</strong> cargalo como costo real aunque la plataforma lo muestre como beneficio comercial.</li>
+        </ul>
+
+        <h2>Formula simple para decidir</h2>
+        <p>
+          Una promocion sirve si el precio promocional cubre costo del producto,
+          empaque, comision, cargos variables, impuestos, envio absorbido y margen
+          minimo. Si no cubre todo eso, la venta puede crecer en unidades pero caer en
+          ganancia por operacion.
+        </p>
+        <p>
+          Precio promocional = precio actual x (1 - descuento). Despues resta costos y
+          cargos. Si la ganancia queda por debajo del margen minimo, cambia descuento,
+          precio base o costos antes de activar.
+        </p>
+
+        <div class="guide-cta">
+          <h2>Simula la promocion en 1 minuto</h2>
+          <p>
+            La calculadora gratis devuelve precio promocional, ganancia estimada, margen
+            y descuento maximo sugerido. Si el resultado queda justo, pide una auditoria
+            de descuento para revisar la publicacion concreta.
+          </p>
+          <div class="payment-actions">
+            <a class="primary-button" href="../herramientas/calculadora-descuentos-mercado-libre.html">Abrir calculadora gratis</a>
+            <a class="secondary-button" href="../auditoria-descuento-mercado-libre.html">Auditoria de descuento USD 19</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/19USD" target="_blank" rel="noopener">PayPal USD 19</a>
+            <a class="secondary-button" href="https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml" target="_blank" rel="noopener">Abrir pedido</a>
+          </div>
+          <p class="trust-note">Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.</p>
+        </div>
+
+        <h2>Senales de que la promocion es riesgosa</h2>
+        <ul class="example-list">
+          <li>El descuento maximo calculado queda muy cerca del descuento que quieres activar.</li>
+          <li>El margen depende de vender muchas mas unidades, pero no tienes evidencia de demanda.</li>
+          <li>El envio absorbido pesa mas que la ganancia esperada.</li>
+          <li>La publicacion necesita descuento permanente para recibir consultas.</li>
+          <li>No tienes claro si el problema es precio, fotos, titulo, descripcion o respuestas.</li>
+        </ul>
+
+        <h2>Plan corto antes de confirmar</h2>
+        <ul class="example-list">
+          <li><strong>Primero:</strong> simula 3 descuentos y anota ganancia estimada por unidad.</li>
+          <li><strong>Despues:</strong> revisa si puedes mejorar foto, titulo o descripcion antes de bajar mas precio.</li>
+          <li><strong>Por ultimo:</strong> deja armado el precio minimo que no quieres cruzar durante la promo.</li>
+        </ul>
+
+        <h2>Lecturas relacionadas</h2>
+        <ul class="source-list">
+          <li>
+            Calculadora gratis:
+            <a href="../herramientas/calculadora-descuentos-mercado-libre.html">calculadora de descuentos para Mercado Libre</a>.
+          </li>
+          <li>
+            Checklist:
+            <a href="promociones-mercado-libre-sin-perder-margen.html">promociones sin perder margen</a>.
+          </li>
+          <li>
+            Limite de descuento:
+            <a href="descuento-maximo-mercado-libre-sin-perder-margen.html">descuento maximo antes de perder margen</a>.
+          </li>
+          <li>
+            Envio absorbido:
+            <a href="envio-gratis-mercado-libre-sin-perder-margen.html">envio gratis sin perder margen</a>.
+          </li>
+          <li>
+            Servicio puntual:
+            <a href="../auditoria-descuento-mercado-libre.html">auditoria de descuento Mercado Libre USD 19</a>.
+          </li>
+          <li>
+            Referencia externa:
+            <a href="https://vendedores.mercadolibre.com.ar/nota/conoce-tu-central-de-promociones-y-ofrece-descuentos" target="_blank" rel="noopener">central de promociones de Mercado Libre</a>.
+          </li>
+        </ul>
+      </article>
+    </main>
+  </body>
+</html>
