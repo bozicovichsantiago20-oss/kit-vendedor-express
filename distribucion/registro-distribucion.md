@@ -834,3 +834,29 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Envio aceptado HTTP 200 para calculadora, auditoria personalizada, llms principal, micrositio y llms del micrositio.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-05 22:39 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico repo calculadora descuentos: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Superficies existentes reforzadas con el pedido de auditoria de descuento:
+  - Gist dedicado de calculadora:
+    https://gist.github.com/bozicovichsantiago20-oss/c587166eb90c3020afbe68f5be09d846
+  - Gist maestro:
+    https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc
+  - README de perfil GitHub:
+    https://github.com/bozicovichsantiago20-oss
+  - README del repo principal:
+    https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
+  - Archivo local de notas de release sincronizado con la release ya publicada.
+- Verificaciones:
+  - Gist dedicado contiene `auditoria-descuento.yml`.
+  - Gist maestro contiene `auditoria-descuento.yml`.
+  - README de perfil publicado contiene `auditoria-descuento.yml`.
+  - Perfil GitHub commit: 96e2e16.
+- Estado al cierre:
+  - Cobros confirmados: 0.

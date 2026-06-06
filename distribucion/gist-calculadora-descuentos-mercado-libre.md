@@ -34,6 +34,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/cal
 Auditoria personalizada de publicacion, USD 19:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 
+Pedido con resultado de calculadora:
+https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+
 PayPal USD 19:
 https://paypal.me/SBozicovich/19USD
 

@@ -45,6 +45,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Auditoria personalizada:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 
+Pedido de auditoria con resultado de calculadora:
+https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+
 Respuestas personalizadas:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
 
