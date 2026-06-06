@@ -961,3 +961,19 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Repo principal: a10d3f7.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 00:06 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Cobros confirmados en registro local: 0.
+- Superficies externas propias reforzadas:
+  - Release v1.0.0 actualizada con enlace a `auditoria-descuento-mercado-libre.html`.
+  - Gist de calculadora de descuentos actualizado con enlace a la landing USD 19.
+  - Gist maestro del Kit Vendedor actualizado con enlace a la landing USD 19.
+- Verificaciones:
+  - Release contiene `auditoria-descuento-mercado-libre`.
+  - Gist de calculadora contiene `auditoria-descuento-mercado-libre`.
+  - Gist maestro contiene `auditoria-descuento-mercado-libre`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
