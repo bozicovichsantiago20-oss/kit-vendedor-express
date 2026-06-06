@@ -1727,3 +1727,24 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para la guia y `sitemap.xml` usando clave publicada.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 12:44 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Guia pack vendedor Mercado Libre y WhatsApp:
+  - Pagina `guias/pack-vendedor-mercado-libre-whatsapp.html` actualizada con commit 327ff2e.
+  - Se agrego marcado `Article`, `WebPage`, `Product`, `Offer`, `BuyAction`, `DownloadAction`, `HowTo`, `FAQPage` y `BreadcrumbList`.
+  - Se sumo CTA visible hacia Kit Base USD 5, Bundle USD 15, PayPal directo y ZIPs de descarga.
+  - `sitemap.xml` actualizado con fecha 2026-06-06 para la guia.
+- Validaciones:
+  - Pagina publica HTTP 200 con `Article`, `BuyAction`, `DownloadAction`, PayPal USD 5 y PayPal USD 15.
+  - ZIP publico base respondio HTTP 200 con 12442 bytes y ZIP bundle HTTP 200 con 36022 bytes.
+  - Sitemap publico HTTP 200 con fecha 2026-06-06 para la guia.
+  - JSON-LD publico parseado correctamente.
+  - IndexNow acepto HTTP 200 para la guia y `sitemap.xml` usando clave publicada.
+- Estado al cierre:
+  - Cobros confirmados: 0.
