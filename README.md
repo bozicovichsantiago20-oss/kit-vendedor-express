@@ -124,6 +124,7 @@ Micrositios tematicos:
 Entrada SEO comercial:
 
 - Como calcular precio de venta para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+- Promociones en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/promociones-mercado-libre-sin-perder-margen.html
 - Respuestas personalizadas para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 - Plantillas de atencion al cliente para ecommerce: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
 
