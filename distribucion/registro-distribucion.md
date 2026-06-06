@@ -1369,3 +1369,23 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para el checkout.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 06:26 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Distribucion GitHub:
+  - Descripcion publica del repo actualizada para incluir Mercado Libre, respuestas, WhatsApp, descuentos, margen y PayPal/CBU.
+  - README del repo principal actualizado con bloque superior de compra directa y commit 09d7976.
+  - Gist maestro `715e4cb1417f583d157757e96eb603bc` actualizado con bloque de compra directa.
+  - README del perfil publico actualizado con bloque de compra directa y commit 8cd4ab0.
+- Validaciones:
+  - README crudo del repo principal HTTP 200 con `Compra directa`, PayPal USD 5 y PayPal USD 29.
+  - README crudo del perfil HTTP 200 con `Compra directa`, PayPal USD 5 y PayPal USD 29.
+  - Gist maestro verificado con `Compra directa`, Base USD 5, Bundle USD 15 y Respuestas personalizadas USD 29.
+  - Metadata del repo verificada con homepage correcta, 20 temas y descripcion nueva.
+- Estado al cierre:
+  - Cobros confirmados: 0.
