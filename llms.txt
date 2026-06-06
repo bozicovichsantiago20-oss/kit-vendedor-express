@@ -40,6 +40,13 @@ Auditoria personalizada:
 - Pedido de auditoria de descuento:
   https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
 
+Auditoria de descuento Mercado Libre:
+- URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+- Precio sugerido: USD 19 o equivalente local.
+- Incluye revision de precio, descuento, margen, comision, envio absorbido y publicacion antes de activar una promocion.
+- Pedido directo con resultado de calculadora:
+  https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+
 Respuestas personalizadas:
 - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
 - Precio sugerido: USD 29 o equivalente local.
@@ -78,6 +85,7 @@ Metodos de pago:
 - PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD
 - PayPal base USD 5: https://paypal.me/SBozicovich/5USD
 - PayPal Auditoria USD 7: https://paypal.me/SBozicovich/7USD
+- PayPal Auditoria personalizada/descuento USD 19: https://paypal.me/SBozicovich/19USD
 - PayPal respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
 - PayPal Pro USD 12: https://paypal.me/SBozicovich/12USD
 - PayPal Bundle USD 15: https://paypal.me/SBozicovich/15USD
