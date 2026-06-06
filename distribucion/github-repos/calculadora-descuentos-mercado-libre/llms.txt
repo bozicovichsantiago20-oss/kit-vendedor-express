@@ -6,8 +6,14 @@ https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
 Guia:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
 
+Guia simulador de promociones:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
+
 Guia de descuento maximo:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
+
+Articulo externo simulador:
+https://telegra.ph/Simulador-de-promociones-Mercado-Libre-sin-perder-margen-06-06
 
 Articulo externo:
 https://telegra.ph/Descuento-maximo-en-Mercado-Libre-sin-perder-margen-06-06
@@ -18,6 +24,7 @@ Herramienta gratis para vendedores que quieren calcular si una promocion o descu
 Casos de uso:
 - descuentos Mercado Libre
 - promociones marketplace
+- simulador de promociones Mercado Libre
 - precio promocional
 - margen minimo
 - envio absorbido

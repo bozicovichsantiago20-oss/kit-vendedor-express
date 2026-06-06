@@ -1234,3 +1234,25 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Repo principal: 48526f4.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 04:25 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Micrositio reforzado:
+  - URL: https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+  - Repo real `calculadora-descuentos-mercado-libre` publicado con commit 4e54ad3.
+  - Copia de distribucion en repo principal sincronizada.
+  - Se agregaron enlaces a guia simulador de promociones, nota Telegra.ph del simulador, auditoria de descuento USD 19, PayPal, CBU y pedido GitHub.
+- Validaciones:
+  - Micrositio y llms publicos HTTP 200.
+  - Micrositio y llms contienen `simulador-promociones-mercado-libre` y nota Telegra.ph del simulador.
+  - JSON-LD del micrositio: OK.
+  - Sitemap XML del micrositio: OK.
+  - IndexNow acepto HTTP 200 para micrositio, llms y sitemap usando clave raiz del host.
+  - Intento previo de IndexNow con mezcla de URLs devolvio HTTP 422; no se conto como aceptado y se corrigio con lote de micrositio.
+- Estado al cierre:
+  - Cobros confirmados: 0.
