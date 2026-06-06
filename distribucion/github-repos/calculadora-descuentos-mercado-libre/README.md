@@ -5,6 +5,9 @@ Micrositio con herramienta gratis para revisar si una promocion conserva margen.
 Sitio publico:
 https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
 
+Guia paso a paso:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
+
 Ayuda a vendedores a probar:
 
 - descuento sobre precio actual
@@ -20,6 +23,7 @@ Casos de uso:
 - revisar envio absorbido antes de publicar
 - evitar copiar descuentos de competidores que venden con margen negativo
 - decidir si conviene pedir auditoria antes de bajar precio
+- leer una guia completa antes de usar la calculadora
 
 Oferta relacionada:
 

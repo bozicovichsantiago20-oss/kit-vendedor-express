@@ -3,6 +3,9 @@
 URL:
 https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
 
+Guia:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
+
 Resumen:
 Herramienta gratis para vendedores que quieren calcular si una promocion o descuento conserva margen.
 
