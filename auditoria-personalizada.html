@@ -22,22 +22,138 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Auditoria personalizada express de publicacion",
-        "description": "Revision personalizada de una publicacion publica de marketplace con plan de mejora de 48 horas.",
-        "provider": {
-          "@type": "Person",
-          "name": "Santi Bozicovich"
-        },
-        "areaServed": "AR",
-        "serviceType": "Marketplace listing audit",
-        "offers": {
-          "@type": "Offer",
-          "price": "19",
-          "priceCurrency": "USD",
-          "availability": "https://schema.org/InStock",
-          "url": "https://paypal.me/SBozicovich/19USD"
-        }
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#webpage",
+            "name": "Auditoria personalizada express de publicacion",
+            "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html",
+            "description": "Servicio express USD 19 para revisar una publicacion publica de marketplace y recibir un plan de mejora de 48 horas.",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Kit Vendedor Express",
+              "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+            },
+            "potentialAction": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#order"
+            }
+          },
+          {
+            "@type": "Service",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#service",
+            "name": "Auditoria personalizada express de publicacion",
+            "description": "Revision personalizada de una publicacion publica de marketplace con plan de mejora de 48 horas.",
+            "provider": {
+              "@type": "Person",
+              "name": "Santi Bozicovich"
+            },
+            "areaServed": "AR",
+            "serviceType": "Marketplace listing audit",
+            "offers": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#offer"
+            }
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#offer",
+            "name": "Auditoria personalizada express USD 19",
+            "price": "19",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/19USD",
+            "itemOffered": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#service"
+            }
+          },
+          {
+            "@type": "OrderAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#order",
+            "name": "Abrir pedido de auditoria personalizada",
+            "target": "https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-personalizada.yml",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "19",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#offer"
+            }
+          },
+          {
+            "@type": "HowTo",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#howto",
+            "name": "Como pedir una auditoria personalizada de publicacion",
+            "description": "Pasos para pagar, abrir el pedido y recibir una revision de una publicacion publica.",
+            "step": [
+              {
+                "@type": "HowToStep",
+                "position": 1,
+                "name": "Pagar la auditoria",
+                "text": "Paga USD 19 por PayPal o transferencia local con una referencia no sensible.",
+                "url": "https://paypal.me/SBozicovich/19USD"
+              },
+              {
+                "@type": "HowToStep",
+                "position": 2,
+                "name": "Abrir el pedido",
+                "text": "Abre el pedido publico de GitHub y pega el link publico de la publicacion que quieres revisar.",
+                "url": "https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-personalizada.yml"
+              },
+              {
+                "@type": "HowToStep",
+                "position": 3,
+                "name": "Recibir el plan",
+                "text": "Recibe una devolucion con titulo, fotos, descripcion, precio, envios, garantia, preguntas frecuentes y plan de 48 horas."
+              }
+            ]
+          },
+          {
+            "@type": "FAQPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#faq",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Que revisa la auditoria personalizada?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Revisa titulo, fotos, descripcion, precio, margen, envios, garantia, preguntas frecuentes y mensajes de cierre para una publicacion publica."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Como se entrega la auditoria?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "La devolucion se entrega como comentario en un pedido publico de GitHub con datos publicos y una referencia de pago no sensible."
+                }
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html#breadcrumbs",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Ofertas",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Auditoria personalizada",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html"
+              }
+            ]
+          }
+        ]
       }
     </script>
   </head>
