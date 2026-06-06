@@ -37,7 +37,7 @@
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#webpage",
             "name": "Generador de respuestas rapidas para Mercado Libre",
             "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html",
-            "description": "Herramienta gratis para crear respuestas rapidas y derivar a bundle USD 15 o respuestas personalizadas USD 29.",
+            "description": "Herramienta gratis para crear respuestas rapidas y derivar a Base USD 5, Auditoria Express USD 7 o Bundle USD 15.",
             "isPartOf": {
               "@type": "WebSite",
               "name": "Kit Vendedor Express",
@@ -48,10 +48,13 @@
                 "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#use"
               },
               {
-                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#buy-bundle"
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#buy-base"
               },
               {
-                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#order-custom"
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#buy-auditoria"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#buy-bundle"
               }
             ]
           },
@@ -77,6 +80,64 @@
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#use",
             "name": "Generar respuesta rapida",
             "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#base-offer",
+            "name": "Kit Vendedor Express Base USD 5",
+            "price": "5",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/5USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#buy-base",
+            "name": "Pagar Kit Base USD 5",
+            "target": "https://paypal.me/SBozicovich/5USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "5",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#base-offer"
+            }
+          },
+          {
+            "@type": "DownloadAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#download-base",
+            "name": "Descargar Kit Base despues del pago",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#auditoria-offer",
+            "name": "Auditoria Express de Publicacion USD 7",
+            "price": "7",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/7USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#buy-auditoria",
+            "name": "Pagar Auditoria Express USD 7",
+            "target": "https://paypal.me/SBozicovich/7USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "7",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#auditoria-offer"
+            }
+          },
+          {
+            "@type": "DownloadAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#download-auditoria",
+            "name": "Descargar Auditoria Express despues del pago",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-auditoria/auditoria-express-publicacion.zip"
           },
           {
             "@type": "Offer",
@@ -134,7 +195,7 @@
             "@type": "HowTo",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html#howto",
             "name": "Como generar respuestas rapidas para compradores",
-            "description": "Pasos para crear una respuesta rapida y decidir si conviene comprar el bundle o pedir textos personalizados.",
+            "description": "Pasos para crear una respuesta rapida y decidir si conviene comprar Base, Auditoria Express o Bundle.",
             "step": [
               {
                 "@type": "HowToStep",
@@ -152,7 +213,7 @@
                 "@type": "HowToStep",
                 "position": 3,
                 "name": "Escalar a textos completos",
-                "text": "Compra el bundle USD 15 si quieres plantillas completas o pide respuestas personalizadas USD 29 si necesitas textos hechos para tu rubro."
+                "text": "Compra Base USD 5 si necesitas respuestas listas, Auditoria USD 7 si la publicacion no convierte, o Bundle USD 15 si quieres resolver respuestas, publicacion y seguimiento en una sola descarga."
               }
             ]
           },
@@ -221,6 +282,14 @@
     </header>
 
     <main>
+      <section class="conversion-strip" aria-label="Compra rapida">
+        <span>Herramienta gratis con salida paga clara:</span>
+        <a href="../comprar.html">Base USD 5</a>
+        <a href="../auditoria.html">Auditoria USD 7</a>
+        <a href="../bundle.html">Bundle USD 15</a>
+        <span>Recibis el archivo inmediatamente. Pago por PayPal o transferencia.</span>
+      </section>
+
       <section class="guide-hero">
         <p class="eyebrow">Herramienta gratis</p>
         <h1>Generador de respuestas rapidas para Mercado Libre</h1>
@@ -292,23 +361,64 @@
           <textarea id="reply-output" rows="9" spellcheck="false"></textarea>
         </section>
 
+        <section class="guide-cta">
+          <p class="eyebrow">Caso practico</p>
+          <h2>Ejemplo real de uso</h2>
+          <p>
+            Si vendes una mochila impermeable y te preguntan "llega antes del viernes?",
+            usa el generador para responder con plazo, condicion y cierre. Despues guarda
+            esa respuesta como plantilla para no volver a escribirla cada vez.
+          </p>
+          <ul class="checkout-list">
+            <li>Gratis: genera una respuesta puntual para una consulta.</li>
+            <li>Base USD 5: compra 130+ respuestas listas para cargar y copiar.</li>
+            <li>Auditoria USD 7: revisa la publicacion si recibes preguntas pero no cierras ventas.</li>
+            <li>Bundle USD 15: lleva respuestas, auditoria y recursos Pro en una sola descarga.</li>
+          </ul>
+        </section>
+
+        <section class="offer-focus" aria-label="Comparacion con versiones pagas">
+          <article class="offer-card">
+            <p class="eyebrow">Tengo preguntas repetidas</p>
+            <h3>Base</h3>
+            <p class="offer-price">USD 5</p>
+            <p>Para copiar respuestas listas sin depender solo del generador.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/5USD" target="_blank" rel="noopener">Pagar Base</a>
+            <a class="secondary-button" href="../comprar.html">Ver entrega</a>
+          </article>
+          <article class="offer-card">
+            <p class="eyebrow">Me preguntan pero no compran</p>
+            <h3>Auditoria</h3>
+            <p class="offer-price">USD 7</p>
+            <p>Para revisar titulo, fotos, descripcion, precio y respuestas antes de bajar margen.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">Pagar Auditoria</a>
+            <a class="secondary-button" href="../auditoria.html">Ver entrega</a>
+          </article>
+          <article class="offer-card featured">
+            <p class="eyebrow">Quiero resolver todo</p>
+            <h3>Bundle</h3>
+            <p class="offer-price">USD 15</p>
+            <p>La opcion recomendada: Base, Auditoria Express y recursos Pro juntos.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">Pagar Bundle</a>
+            <a class="secondary-button" href="../bundle.html">Ver entrega</a>
+          </article>
+        </section>
+
         <div class="guide-cta">
           <h2>Necesitas mas respuestas para tu tienda?</h2>
           <p>
-            El pack completo trae 130+ respuestas, bonus por rubro, guiones de WhatsApp,
-            prompts y checklist para ordenar venta y postventa. Si quieres textos hechos
-            para tu rubro, pide respuestas personalizadas.
+            El pack Base trae 130+ respuestas, bonus por rubro, guiones de WhatsApp,
+            prompts y checklist para ordenar venta y postventa. Si tambien quieres
+            revisar tu publicacion, el Bundle USD 15 concentra Base, Auditoria y Pro.
           </p>
           <div class="payment-actions">
-            <a class="primary-button" href="../bundle.html">Ver bundle USD 15</a>
-            <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">PayPal bundle</a>
-            <a class="secondary-button" href="../respuestas-personalizadas.html">Personalizadas USD 29</a>
-            <a class="secondary-button" href="https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml" target="_blank" rel="noopener">Abrir pedido</a>
+            <a class="primary-button" href="../bundle.html">Ver Bundle USD 15</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">PayPal Bundle</a>
             <a class="secondary-button" href="../comprar.html">Base USD 5</a>
-            <a class="secondary-button" href="../apoyar.html">Apoyar USD 1</a>
+            <a class="secondary-button" href="../auditoria.html">Auditoria USD 7</a>
             <a class="secondary-button" href="../guias/respuestas-rapidas-mercado-libre.html">Leer guia</a>
           </div>
-          <p class="trust-note">Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.</p>
+          <p class="trust-note">Producto digital listo para usar. Recibis el archivo inmediatamente. Pago por PayPal o transferencia: Banco Galicia, CBU 0070034430004032923161.</p>
         </div>
 
         <h2>Fuente util</h2>
