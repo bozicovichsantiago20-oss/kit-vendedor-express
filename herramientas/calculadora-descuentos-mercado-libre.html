@@ -31,17 +31,118 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "WebApplication",
-        "name": "Calculadora de descuentos para Mercado Libre",
-        "applicationCategory": "BusinessApplication",
-        "operatingSystem": "Web",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "USD"
-        },
-        "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html",
-        "description": "Herramienta gratis para revisar descuento, precio promocional y margen antes de participar en una promocion marketplace."
+        "@graph": [
+          {
+            "@type": "WebApplication",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#app",
+            "name": "Calculadora de descuentos para Mercado Libre",
+            "applicationCategory": "BusinessApplication",
+            "operatingSystem": "Web",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            },
+            "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html",
+            "description": "Herramienta gratis para revisar descuento, precio promocional y margen antes de participar en una promocion marketplace.",
+            "potentialAction": [
+              {
+                "@type": "UseAction",
+                "name": "Calcular descuento",
+                "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html"
+              },
+              {
+                "@type": "OrderAction",
+                "name": "Pedir auditoria de descuento USD 19",
+                "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html"
+              }
+            ]
+          },
+          {
+            "@type": "HowTo",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#howto",
+            "name": "Como calcular si una promocion conserva margen",
+            "description": "Pasos para probar un descuento antes de activarlo y decidir si conviene pedir una auditoria.",
+            "step": [
+              {
+                "@type": "HowToStep",
+                "name": "Carga precio y descuento",
+                "text": "Ingresa el precio actual publicado y el porcentaje de descuento que quieres probar."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Carga costos reales",
+                "text": "Agrega costo del producto, empaque, comision, impuestos, cargo fijo y envio absorbido."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Revisa margen y precio minimo",
+                "text": "Compara el precio promocional con la ganancia estimada, margen sobre costo y descuento maximo recomendado."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Pide auditoria si queda justo",
+                "text": "Si el resultado queda debajo del margen minimo o la publicacion depende del descuento para vender, pide una auditoria de descuento USD 19."
+              }
+            ]
+          },
+          {
+            "@type": "FAQPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#faq",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "La calculadora usa la comision exacta de Mercado Libre?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No. Debes cargar la comision y cargos que correspondan a tu producto, categoria y tipo de publicacion."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Sirve si vendo por WhatsApp o tienda online?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Si. Cambia la comision por el costo real de tu canal y deja en cero lo que no aplique."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Que hago si el resultado da perdida?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No actives esa promocion sin ajustar precio base, costo, envio absorbido o porcentaje de descuento."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Cuando conviene pedir auditoria?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Cuando la publicacion no vende sin descuento, cuando la promocion queda justa o cuando no sabes si el problema es precio, fotos, titulo o respuestas."
+                }
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#breadcrumbs",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Kit Vendedor Express",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Calculadora de descuentos",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html"
+              }
+            ]
+          }
+        ]
       }
     </script>
   </head>

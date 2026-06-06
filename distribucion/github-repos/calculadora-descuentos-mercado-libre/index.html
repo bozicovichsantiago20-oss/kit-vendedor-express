@@ -29,18 +29,119 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "WebApplication",
-        "name": "Calculadora de descuentos Mercado Libre",
-        "applicationCategory": "BusinessApplication",
-        "operatingSystem": "Web",
-        "url": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/",
-        "image": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "USD"
-        },
-        "description": "Calculadora gratis para revisar descuento, precio promocional y margen antes de activar una promocion marketplace."
+        "@graph": [
+          {
+            "@type": "WebApplication",
+            "@id": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/#app",
+            "name": "Calculadora de descuentos Mercado Libre",
+            "applicationCategory": "BusinessApplication",
+            "operatingSystem": "Web",
+            "url": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/",
+            "image": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            },
+            "description": "Calculadora gratis para revisar descuento, precio promocional y margen antes de activar una promocion marketplace.",
+            "potentialAction": [
+              {
+                "@type": "UseAction",
+                "name": "Calcular descuento",
+                "target": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/"
+              },
+              {
+                "@type": "OrderAction",
+                "name": "Pedir auditoria de descuento USD 19",
+                "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html"
+              }
+            ]
+          },
+          {
+            "@type": "HowTo",
+            "@id": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/#howto",
+            "name": "Como calcular si una promocion conserva margen",
+            "description": "Pasos para probar un descuento antes de activarlo y decidir si conviene pedir una auditoria.",
+            "step": [
+              {
+                "@type": "HowToStep",
+                "name": "Carga precio y descuento",
+                "text": "Ingresa el precio actual publicado y el porcentaje de descuento que quieres probar."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Carga costos reales",
+                "text": "Agrega costo del producto, empaque, comision, impuestos, cargo fijo y envio absorbido."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Revisa margen y precio minimo",
+                "text": "Compara el precio promocional con la ganancia estimada, margen sobre costo y descuento maximo recomendado."
+              },
+              {
+                "@type": "HowToStep",
+                "name": "Pide auditoria si queda justo",
+                "text": "Si el resultado queda debajo del margen minimo o la publicacion depende del descuento para vender, pide una auditoria de descuento USD 19."
+              }
+            ]
+          },
+          {
+            "@type": "FAQPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/#faq",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Usa tarifas exactas?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No. Debes cargar la comision y cargos reales que correspondan a tu producto y categoria."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Sirve para tienda online?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Si. Reemplaza la comision marketplace por el costo de pago, plataforma o envio de tu canal."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Que pasa si da perdida?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No actives el descuento sin subir precio base, bajar costos o reducir el porcentaje."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Cuando pedir auditoria?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Cuando la promocion queda justa o la publicacion depende de bajar precio para vender."
+                }
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/#breadcrumbs",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Kit Vendedor Express",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Calculadora de descuentos",
+                "item": "https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/"
+              }
+            ]
+          }
+        ]
       }
     </script>
   </head>
