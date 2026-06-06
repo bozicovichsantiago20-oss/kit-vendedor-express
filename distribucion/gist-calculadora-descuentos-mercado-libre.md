@@ -32,6 +32,15 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/cal
 Guia de envio gratis sin perder margen:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 
+Guia simulador de promociones:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
+
+Nota externa simulador:
+https://telegra.ph/Simulador-de-promociones-Mercado-Libre-sin-perder-margen-06-06
+
+Gist simulador:
+https://gist.github.com/bozicovichsantiago20-oss/5166deaa0d53c6edf470f0e9f3a2062f
+
 Guia de descuento maximo sin perder margen:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
 

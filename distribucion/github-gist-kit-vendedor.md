@@ -94,6 +94,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-p
 Guia envio gratis sin perder margen:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 
+Guia simulador de promociones:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
+
 Guia descuento maximo sin perder margen:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
 
@@ -112,6 +115,8 @@ Gists tematicos:
 - Plantillas de atencion al cliente ecommerce: https://gist.github.com/bozicovichsantiago20-oss/ebc49e534b18ed2838e47c78f05c9ca8
 - Calcular precio de venta sin perder margen: https://gist.github.com/bozicovichsantiago20-oss/3018a8a90eec6196132b55ec51fb7d3e
 - Calculadora de descuentos Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/c587166eb90c3020afbe68f5be09d846
+- Simulador de promociones Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/5166deaa0d53c6edf470f0e9f3a2062f
+- Descuento maximo Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/429433c4210dd50ff113316eb2ab5e53
 
 Repos tematicos:
 - https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre

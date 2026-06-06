@@ -1256,3 +1256,23 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Intento previo de IndexNow con mezcla de URLs devolvio HTTP 422; no se conto como aceptado y se corrigio con lote de micrositio.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 04:36 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Distribucion externa segura:
+  - Gist especifico: https://gist.github.com/bozicovichsantiago20-oss/5166deaa0d53c6edf470f0e9f3a2062f
+  - Release v1.0.0: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1.0.0
+  - Gist calculadora: https://gist.github.com/bozicovichsantiago20-oss/c587166eb90c3020afbe68f5be09d846
+  - Gist maestro: https://gist.github.com/bozicovichsantiago20-oss/715e4cb1417f583d157757e96eb603bc
+- Validaciones:
+  - Release contiene `simulador-promociones-mercado-libre`, Gist especifico y `auditoria-descuento.yml`.
+  - Gist calculadora contiene guia simulador, Gist especifico, PayPal USD 19 y `auditoria-descuento.yml`.
+  - Gist maestro contiene guia simulador, Gist especifico, Gist descuento maximo, PayPal USD 19 y `auditoria-descuento.yml`.
+  - Gist especifico contiene guia simulador, calculadora, micrositio, PayPal USD 19 y `auditoria-descuento.yml`.
+- Estado al cierre:
+  - Cobros confirmados: 0.

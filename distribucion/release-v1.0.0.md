@@ -59,6 +59,7 @@ Los ZIP estan adjuntos en esta release:
 - Plantillas atencion cliente ecommerce: https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
 - Calcular precio Mercado Libre: https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
 - Calculadora descuentos Mercado Libre: https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+- Guia simulador de promociones Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
 - Guia descuento maximo Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
 - Guia envio gratis Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 - Publicacion no vende Mercado Libre: https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
@@ -70,6 +71,7 @@ Los ZIP estan adjuntos en esta release:
 
 - Auditoria de descuento Mercado Libre USD 19: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
 - Pedido de auditoria con resultado de calculadora USD 19: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+- Gist simulador promociones Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/5166deaa0d53c6edf470f0e9f3a2062f
 - Pedido de auditoria personalizada USD 19: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-personalizada.yml
 - Pedido de respuestas personalizadas USD 29: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml
 
