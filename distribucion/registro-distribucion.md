@@ -885,3 +885,24 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Repo micrositio: a4bebc0.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-05 23:08 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Cobros confirmados en registro local: 0.
+- Correccion de usabilidad del flujo de copiado:
+  - El toast existia en CSS pero la calculadora solo cambiaba `textContent`; no agregaba la clase `show`.
+  - Se agregaron `showToast` y `copyText` a la herramienta principal y al micrositio.
+  - Ahora `Copiar resultado` y `Copiar pedido completo` muestran confirmacion visible.
+  - Tambien se maneja error de portapapeles con mensaje visible.
+- Validaciones:
+  - Prueba Node con simulacion de DOM/clipboard: OK en herramienta principal y micrositio.
+  - La prueba confirmo PayPal USD 19, CBU, issue `auditoria-descuento.yml`, resultado copiado y toast visible.
+  - GitHub Pages verificado con el script actualizado.
+  - IndexNow acepto HTTP 200 para herramienta principal y micrositio.
+- Commits:
+  - Repo principal: 0fc0e06.
+  - Repo micrositio: 540cdb3.
+- Estado al cierre:
+  - Cobros confirmados: 0.
