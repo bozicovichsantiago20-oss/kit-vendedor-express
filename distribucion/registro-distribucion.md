@@ -860,3 +860,28 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Perfil GitHub commit: 96e2e16.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-05 22:53 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico repo calculadora descuentos: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion agregada al flujo calculadora -> auditoria de descuento:
+  - Boton nuevo: `Copiar pedido completo`.
+  - Arma un texto listo para pegar con PayPal USD 19, CBU, enlace al issue `auditoria-descuento.yml`, datos cargados y resultado de la calculadora.
+  - Herramienta principal actualizada:
+    https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
+  - Micrositio actualizado:
+    https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+- Verificaciones:
+  - Sintaxis JS validada en herramienta principal y micrositio.
+  - Ambas URLs publicas contienen `Copiar pedido completo`, `copy-order-brief` y el flujo de pedido.
+  - IndexNow acepto HTTP 200 para herramienta principal y micrositio.
+- Commits:
+  - Repo principal: 00801c1.
+  - Repo micrositio: a4bebc0.
+- Estado al cierre:
+  - Cobros confirmados: 0.
