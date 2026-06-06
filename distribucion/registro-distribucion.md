@@ -1811,3 +1811,31 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para la guia y `sitemap.xml` usando clave publicada.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 16:48 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Orden estrategica aplicada:
+  - El criterio cambia de cantidad de paginas a probabilidad de ingresos reales.
+  - Se clasificaron activos en A venta directa, B trafico/educacion y C bajo retorno.
+  - Se priorizan tres ofertas: Base USD 5, Auditoria Express USD 7 y Bundle USD 15.
+  - Se descarta expandir clones, micrositios repetidos, articulos duplicados y directorios muertos sin evidencia.
+- Activo comercial nuevo justificado:
+  - Pagina `empezar.html` creada como entrada principal para decidir que comprar.
+  - Responde que es el producto, que problema resuelve, que comprar y cual opcion se recomienda.
+  - Incluye CTA superior, CTA intermedio y CTA final hacia Base USD 5, Auditoria USD 7 y Bundle USD 15.
+  - Incluye mensajes de conversion: producto digital listo para usar, entrega simple, pago por PayPal o transferencia y archivo inmediato.
+- Sistema de conversion:
+  - Home, comprar, auditoria, bundle, ofertas y pago/entrega enlazadas a `empezar.html`.
+  - Paginas comerciales principales reciben franja superior de compra directa a Base, Auditoria y Bundle.
+- Medicion y tablero:
+  - Se crea `operacion/tablero-comercial.md`.
+  - Se crea `operacion/auditoria-rentabilidad.md`.
+  - Se crea `operacion/instrucciones-medicion.md` para Search Console, Bing Webmaster, Analytics y Clarity.
+  - Se crea `operacion/distribucion-prioritaria.md` con canales legitimos y descartes.
+- Estado al cierre:
+  - Cobros confirmados: 0.

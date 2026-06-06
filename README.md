@@ -11,6 +11,7 @@ Sitio publico: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
 ## Compra directa
 
+- Empezar y elegir oferta: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 - Comparar opciones: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
 - Pago y entrega: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
 - Base USD 5: https://paypal.me/SBozicovich/5USD
@@ -46,6 +47,10 @@ Sitio publico: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 El sitio ya esta publicado en GitHub Pages:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+
+Entrada recomendada para decidir que comprar:
+
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
 Pagina de pago y descarga:
 

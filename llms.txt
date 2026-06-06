@@ -5,6 +5,9 @@ Producto digital en espanol para vendedores online de Argentina y Latam.
 URL principal:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
+Entrada recomendada para elegir que comprar:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+
 Pago y descarga:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
