@@ -1826,6 +1826,7 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Se descarta expandir clones, micrositios repetidos, articulos duplicados y directorios muertos sin evidencia.
 - Activo comercial nuevo justificado:
   - Pagina `empezar.html` creada como entrada principal para decidir que comprar.
+  - Commit publicado: 20e60b8.
   - Responde que es el producto, que problema resuelve, que comprar y cual opcion se recomienda.
   - Incluye CTA superior, CTA intermedio y CTA final hacia Base USD 5, Auditoria USD 7 y Bundle USD 15.
   - Incluye mensajes de conversion: producto digital listo para usar, entrega simple, pago por PayPal o transferencia y archivo inmediato.
@@ -1837,5 +1838,10 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Se crea `operacion/auditoria-rentabilidad.md`.
   - Se crea `operacion/instrucciones-medicion.md` para Search Console, Bing Webmaster, Analytics y Clarity.
   - Se crea `operacion/distribucion-prioritaria.md` con canales legitimos y descartes.
+- Validaciones:
+  - `empezar.html` publico HTTP 200.
+  - Home, comprar, auditoria, bundle, ofertas, pago/entrega y sitemap publicos HTTP 200.
+  - JSON-LD publico parseado con WebPage, OfferCatalog, BuyAction, FAQPage y BreadcrumbList.
+  - IndexNow acepto HTTP 200 para entrada comercial, home, checkouts principales, comparador, pago/entrega y sitemap.
 - Estado al cierre:
   - Cobros confirmados: 0.
