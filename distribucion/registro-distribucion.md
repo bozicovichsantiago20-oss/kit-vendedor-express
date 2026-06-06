@@ -1644,3 +1644,23 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para el generador y `sitemap.xml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 10:57 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Generador de prompts:
+  - Pagina `herramientas/generador-prompts-ventas-marketplace.html` actualizada con commit 01dfba2.
+  - Se agrego marcado `WebPage`, `WebApplication`, `UseAction`, `Offer`, `BuyAction`, `DownloadAction`, `HowTo`, `FAQPage` y `BreadcrumbList`.
+  - Se sumo CTA visible para PayPal USD 5 y descarga ZIP base, manteniendo PayPal USD 15 para Bundle.
+  - `sitemap.xml` actualizado con fecha 2026-06-06 para el generador.
+- Validaciones:
+  - Pagina publica HTTP 200 con `WebApplication`, `BuyAction`, `DownloadAction`, PayPal USD 5, PayPal USD 15 y ZIP base.
+  - Sitemap publico HTTP 200 con fecha 2026-06-06 para el generador.
+  - JSON-LD publico parseado correctamente.
+  - IndexNow acepto HTTP 202 para el generador y `sitemap.xml`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
