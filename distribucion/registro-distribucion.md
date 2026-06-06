@@ -1004,3 +1004,24 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Repo principal: 4f407e0.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 00:33 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion:
+  - `pago-y-entrega.html` ahora incluye tarjeta propia para Auditoria de descuento USD 19 con PayPal, CBU y pedido con resultado.
+  - `ofertas.html` ahora compara Auditoria de descuento USD 19 en cards, tabla y CTA final.
+  - `comprar.html` ahora ofrece un atajo a Auditoria de descuento USD 19 desde la compra base.
+- Validaciones:
+  - `git diff --check`: OK.
+  - Validacion Node de enlaces checkout: OK.
+  - URLs publicas HTTP 200: pago-y-entrega, ofertas y comprar.
+  - IndexNow acepto HTTP 200 para pago-y-entrega, ofertas, comprar y landing de auditoria descuento.
+- Commit:
+  - Repo principal: f18f7f3.
+- Estado al cierre:
+  - Cobros confirmados: 0.
