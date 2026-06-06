@@ -1172,3 +1172,22 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Contiene enlaces a `descuento-maximo-mercado-libre-sin-perder-margen`, calculadora de descuentos, PayPal USD 19 y `auditoria-descuento.yml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 03:04 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Micrositio reforzado:
+  - URL: https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+  - Repo real `calculadora-descuentos-mercado-libre` publicado con commit 7182db1.
+  - Copia de distribucion en repo principal publicada con commit c8093a3.
+  - Se agregaron enlaces a guia de descuento maximo, articulo externo Telegra.ph, guia de envio gratis, auditoria de descuento USD 19, PayPal, CBU y pedido GitHub.
+- Validaciones:
+  - Micrositio, llms y sitemap publicos HTTP 200.
+  - Micrositio y llms contienen guia de descuento maximo, articulo externo, PayPal USD 19 y `auditoria-descuento.yml`.
+  - Sitemap XML valido con lastmod 2026-06-06.
+  - IndexNow acepto HTTP 200 para micrositio, llms, sitemap, guia descuento maximo y landing de auditoria.
+- Estado al cierre:
+  - Cobros confirmados: 0.
