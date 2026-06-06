@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-06 16:48 ART.
+Ultima actualizacion: 2026-06-06 18:36 ART.
 
 ## Estado financiero real
 
@@ -49,3 +49,7 @@ Revisar:
 - GitHub Issues del repo.
 - Descargas de release.
 - Search Console/Bing/Analytics/Clarity si ya estan conectados.
+
+## Ultimo trabajo realizado
+
+- 2026-06-06 18:36 ART: no aparecieron pedidos, trabajos ni leads verificables en GitHub Issues o registro local. Se reconcentro la calculadora de descuentos en Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando la salida visible y estructurada a USD 19.

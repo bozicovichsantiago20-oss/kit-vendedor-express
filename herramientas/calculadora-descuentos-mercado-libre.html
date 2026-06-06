@@ -33,6 +33,32 @@
         "@context": "https://schema.org",
         "@graph": [
           {
+            "@type": "WebPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#webpage",
+            "name": "Calculadora de descuentos para Mercado Libre",
+            "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html",
+            "description": "Herramienta gratis para revisar descuentos y derivar a Base USD 5, Auditoria Express USD 7 o Bundle USD 15.",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Kit Vendedor Express",
+              "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+            },
+            "potentialAction": [
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#use"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-base"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-audit"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-bundle"
+              }
+            ]
+          },
+          {
             "@type": "WebApplication",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#app",
             "name": "Calculadora de descuentos para Mercado Libre",
@@ -47,22 +73,117 @@
             "description": "Herramienta gratis para revisar descuento, precio promocional y margen antes de participar en una promocion marketplace.",
             "potentialAction": [
               {
-                "@type": "UseAction",
-                "name": "Calcular descuento",
-                "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html"
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#use"
               },
               {
-                "@type": "OrderAction",
-                "name": "Pedir auditoria de descuento USD 19",
-                "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html"
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-base"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-audit"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-bundle"
               }
             ]
+          },
+          {
+            "@type": "UseAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#use",
+            "name": "Calcular descuento",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#base-offer",
+            "name": "Kit Vendedor Express Base USD 5",
+            "price": "5",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/5USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-base",
+            "name": "Pagar Kit Base USD 5",
+            "target": "https://paypal.me/SBozicovich/5USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "5",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#base-offer"
+            }
+          },
+          {
+            "@type": "DownloadAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#download-base",
+            "name": "Descargar Kit Base despues del pago",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#audit-offer",
+            "name": "Auditoria Express de Publicacion USD 7",
+            "price": "7",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/7USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-audit",
+            "name": "Pagar Auditoria Express USD 7",
+            "target": "https://paypal.me/SBozicovich/7USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "7",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#audit-offer"
+            }
+          },
+          {
+            "@type": "DownloadAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#download-audit",
+            "name": "Descargar Auditoria Express despues del pago",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-auditoria/auditoria-express-publicacion.zip"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#bundle-offer",
+            "name": "Bundle Vendedor Express USD 15",
+            "price": "15",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/15USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-bundle",
+            "name": "Pagar Bundle Vendedor Express USD 15",
+            "target": "https://paypal.me/SBozicovich/15USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "15",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#bundle-offer"
+            }
+          },
+          {
+            "@type": "DownloadAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#download-bundle",
+            "name": "Descargar Bundle despues del pago",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-bundle/bundle-vendedor-express.zip"
           },
           {
             "@type": "HowTo",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#howto",
             "name": "Como calcular si una promocion conserva margen",
-            "description": "Pasos para probar un descuento antes de activarlo y decidir si conviene pedir una auditoria.",
+            "description": "Pasos para probar un descuento antes de activarlo y decidir si conviene comprar Base, Auditoria Express o Bundle.",
             "step": [
               {
                 "@type": "HowToStep",
@@ -81,8 +202,8 @@
               },
               {
                 "@type": "HowToStep",
-                "name": "Pide auditoria si queda justo",
-                "text": "Si el resultado queda debajo del margen minimo o la publicacion depende del descuento para vender, pide una auditoria de descuento USD 19."
+                "name": "Elige la siguiente accion",
+                "text": "Si el resultado queda debajo del margen minimo, compra Auditoria Express USD 7 o Bundle USD 15 antes de activar una promo que pueda perder margen."
               }
             ]
           },
@@ -154,13 +275,22 @@
       </a>
       <nav class="nav" aria-label="Secciones">
         <a href="../index.html#herramientas">Herramientas</a>
-        <a href="../auditoria-descuento-mercado-libre.html">Auditoria de descuento</a>
-        <a href="../ofertas.html">Ofertas</a>
+        <a href="../empezar.html">Empezar</a>
+        <a href="../auditoria.html">Auditoria</a>
+        <a href="../bundle.html">Bundle</a>
         <a href="../comprar.html">Pagar</a>
       </nav>
     </header>
 
     <main>
+      <section class="conversion-strip" aria-label="Compra rapida">
+        <span>Descuento con salida paga clara:</span>
+        <a href="../comprar.html">Base USD 5</a>
+        <a href="../auditoria.html">Auditoria USD 7</a>
+        <a href="../bundle.html">Bundle USD 15</a>
+        <span>Recibis el archivo inmediatamente. Pago por PayPal o transferencia.</span>
+      </section>
+
       <section class="guide-hero">
         <p class="eyebrow">Herramienta gratis</p>
         <h1>Calculadora de descuentos para Mercado Libre</h1>
@@ -232,22 +362,66 @@
           <textarea id="tool-output" rows="14" spellcheck="false" readonly></textarea>
         </section>
 
+        <section class="guide-cta">
+          <p class="eyebrow">Caso practico</p>
+          <h2>Ejemplo real de descuento</h2>
+          <p>
+            Si vendes a $25.000 y quieres probar 12% de descuento, el precio promocional
+            baja a $22.000. Con producto, empaque, comision, impuestos y envio absorbido,
+            el margen puede quedar muy distinto al que se ve mirando solo el precio final.
+          </p>
+          <ul class="checkout-list">
+            <li>Gratis: calcula si una promocion puntual conserva margen.</li>
+            <li>Base USD 5: usa plantillas para responder precio, descuento y dudas frecuentes.</li>
+            <li>Auditoria USD 7: revisa si conviene tocar precio, titulo, fotos o descripcion.</li>
+            <li>Bundle USD 15: lleva Base, Auditoria Express y recursos Pro en una sola descarga.</li>
+          </ul>
+        </section>
+
+        <section class="offer-focus" aria-label="Comparacion con versiones pagas">
+          <article class="offer-card">
+            <p class="eyebrow">Me preguntan por precio</p>
+            <h3>Base</h3>
+            <p class="offer-price">USD 5</p>
+            <p>Para responder precio, descuento, envio y objeciones sin improvisar.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/5USD" target="_blank" rel="noopener">Pagar Base</a>
+            <a class="secondary-button" href="../comprar.html">Ver entrega</a>
+          </article>
+          <article class="offer-card">
+            <p class="eyebrow">El descuento queda justo</p>
+            <h3>Auditoria</h3>
+            <p class="offer-price">USD 7</p>
+            <p>Para revisar publicacion y margen antes de activar una promocion.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">Pagar Auditoria</a>
+            <a class="secondary-button" href="../auditoria.html">Ver entrega</a>
+          </article>
+          <article class="offer-card featured">
+            <p class="eyebrow">Quiero ordenar venta completa</p>
+            <h3>Bundle</h3>
+            <p class="offer-price">USD 15</p>
+            <p>La opcion recomendada: respuestas, auditoria y recursos Pro juntos.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">Pagar Bundle</a>
+            <a class="secondary-button" href="../bundle.html">Ver entrega</a>
+          </article>
+        </section>
+
         <div class="guide-cta">
           <h2>Quieres revisar precio, descuento y publicacion antes de bajar margen?</h2>
           <p>
-            La auditoria personalizada revisa una publicacion publica, detecta fugas de margen
-            y devuelve un plan de 48 horas para mejorar precio, titulo, fotos, descripcion y respuestas.
+            La Auditoria Express trae checklist, diagnostico y plan de 48 horas para mejorar
+            una publicacion sin regalar margen. Si tambien necesitas respuestas y recursos Pro,
+            el Bundle es la opcion recomendada.
           </p>
           <div class="payment-actions">
             <a class="secondary-button" href="generador-auditoria-publicacion-marketplace.html">Diagnostico gratis</a>
-            <a class="primary-button" href="../auditoria-descuento-mercado-libre.html">Pedir auditoria de descuento USD 19</a>
-            <a class="secondary-button" href="https://paypal.me/SBozicovich/19USD" target="_blank" rel="noopener">PayPal USD 19</a>
-            <a class="secondary-button" href="https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml" target="_blank" rel="noopener">Abrir pedido con resultado</a>
-            <button class="secondary-button" id="copy-order-brief" type="button">Copiar pedido completo</button>
-            <a class="secondary-button" href="../auditoria.html">Auditoria Express USD 7</a>
-            <a class="secondary-button" href="../bundle.html">Bundle USD 15</a>
+            <a class="primary-button" href="../bundle.html">Ver Bundle USD 15</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">PayPal Bundle</a>
+            <a class="secondary-button" href="../auditoria.html">Auditoria USD 7</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">PayPal Auditoria</a>
+            <a class="secondary-button" href="../comprar.html">Base USD 5</a>
+            <button class="secondary-button" id="copy-order-brief" type="button">Copiar resumen</button>
           </div>
-          <p class="trust-note">Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.</p>
+          <p class="trust-note">Producto digital listo para usar. Recibis el archivo inmediatamente. Pago por PayPal o transferencia: Banco Galicia, CBU 0070034430004032923161.</p>
         </div>
 
         <section class="guide-section">
@@ -372,7 +546,7 @@
               ? "Prueba un descuento menor o revisa si el volumen compensa bajar margen."
               : "Puedes evaluar la promocion, pero revisa elegibilidad, precio final y costos reales antes de confirmar.",
           "",
-          "Si quieres una revision personalizada, copia este resultado y abre el pedido de auditoria de descuento USD 19."
+          "Si el descuento queda justo, la Auditoria Express USD 7 ayuda a revisar publicacion y margen. Si tambien necesitas respuestas y recursos Pro, el Bundle USD 15 es la opcion recomendada."
         ].join("\n");
       }
 
@@ -383,13 +557,15 @@
 
       function buildOrderBrief() {
         return [
-          "Pedido de auditoria de descuento USD 19",
+          "Resumen de descuento para elegir siguiente paso",
           "",
-          "1) Pagar por PayPal: https://paypal.me/SBozicovich/19USD",
-          "2) O transferir equivalente local a Banco Galicia, CBU 0070034430004032923161",
-          "3) Abrir pedido: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml",
+          "Opciones digitales:",
+          "1) Base USD 5: https://paypal.me/SBozicovich/5USD",
+          "2) Auditoria Express USD 7: https://paypal.me/SBozicovich/7USD",
+          "3) Bundle USD 15 recomendado: https://paypal.me/SBozicovich/15USD",
+          "4) O transferir equivalente local a Banco Galicia, CBU 0070034430004032923161",
           "",
-          "Datos para pegar en el pedido:",
+          "Datos calculados:",
           `Precio actual publicado: ${money.format(readNumber("current-price"))}`,
           `Descuento a probar: ${readNumber("planned-discount").toFixed(1)}%`,
           `Costo del producto: ${money.format(readNumber("product-cost"))}`,
@@ -428,7 +604,7 @@
         await copyText(byId("tool-output").value, "Resultado copiado");
       });
       byId("copy-order-brief").addEventListener("click", async () => {
-        await copyText(buildOrderBrief(), "Pedido completo copiado");
+        await copyText(buildOrderBrief(), "Resumen copiado");
       });
       renderDiscountResult();
     </script>
