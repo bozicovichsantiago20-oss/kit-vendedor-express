@@ -45,6 +45,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Auditoria personalizada:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 
+Auditoria de descuento Mercado Libre:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+
 Pedido de auditoria con resultado de calculadora:
 https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
 
@@ -75,9 +78,9 @@ https://bozicovichsantiago20-oss.github.io/
 Repo:
 https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
 
-Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro, USD 15 bundle o USD 19 auditoria personalizada por PayPal o transferencia local.
+Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro, USD 15 bundle o USD 19 auditoria personalizada/descuento por PayPal o transferencia local.
 Aporte: https://paypal.me/SBozicovich/1USD
-Auditoria personalizada: https://paypal.me/SBozicovich/19USD
+Auditoria personalizada/descuento: https://paypal.me/SBozicovich/19USD
 Respuestas personalizadas: https://paypal.me/SBozicovich/29USD
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
@@ -85,6 +88,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
 - Generador de titulos para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
 - Calculadora de precio de venta online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-precio-venta-online.html
+- Calculadora de descuentos para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 - Generador de respuestas rapidas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html
 - Priorizador de preguntas para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html
 - Generador de prompts para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
@@ -96,6 +100,8 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 ## Guias con intencion comercial
 
 - Como calcular precio de venta para Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html
+- Como calcular descuento en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
+- Promociones en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/promociones-mercado-libre-sin-perder-margen.html
 - Respuestas personalizadas para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 - Plantillas de atencion al cliente para ecommerce: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
 

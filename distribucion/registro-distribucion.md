@@ -1025,3 +1025,25 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Repo principal: f18f7f3.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 01:01 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Superficies externas propias reforzadas:
+  - Perfil GitHub actualizado con landing de auditoria de descuento, calculadora de descuentos y guias de margen.
+  - Hub raiz `bozicovichsantiago20-oss.github.io` actualizado con boton y tarjetas hacia auditoria de descuento, calculadora y guias.
+  - Copias locales de gists/release sincronizadas con la landing de auditoria de descuento.
+- Validaciones:
+  - Perfil crudo contiene `auditoria-descuento-mercado-libre`, calculadora de descuentos y guia de promociones.
+  - Hub raiz publico HTTP 200 contiene landing de auditoria, calculadora y guia de promociones.
+  - Gist de calculadora, gist maestro y release contienen la landing de auditoria.
+  - IndexNow acepto HTTP 200 para hub raiz, landing y calculadora de descuentos.
+- Commits externos:
+  - Perfil GitHub: 6f3e5f0.
+  - Hub raiz: d7517f5.
+- Estado al cierre:
+  - Cobros confirmados: 0.

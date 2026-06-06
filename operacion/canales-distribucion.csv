@@ -188,3 +188,6 @@ Checkout auditoria descuento,https://bozicovichsantiago20-oss.github.io/kit-vend
 Comparador auditoria descuento,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html,Publicado,No,Ninguno,Comparador actualizado status 200 con auditoria de descuento USD19 en cards tabla y CTA final
 Compra base auditoria descuento,https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html,Publicado,No,Ninguno,Pagina de compra base actualizada status 200 con atajo a auditoria de descuento USD19
 IndexNow checkout auditoria descuento,https://api.indexnow.org/IndexNow,Publicado,No,Ninguno,Envio aceptado HTTP 200 para pago-y-entrega ofertas comprar y landing auditoria descuento
+Perfil GitHub auditoria descuento,https://github.com/bozicovichsantiago20-oss,Publicado,No,Ninguno,README de perfil actualizado commit 6f3e5f0 con landing auditoria descuento calculadora descuentos y guias de margen
+Hub raiz auditoria descuento,https://bozicovichsantiago20-oss.github.io/,Publicado,No,Ninguno,Hub raiz actualizado commit d7517f5 con botones y tarjetas hacia auditoria descuento calculadora y guias de promociones
+IndexNow hub raiz auditoria descuento,https://api.indexnow.org/IndexNow,Publicado,No,Ninguno,Envio aceptado HTTP 200 para hub raiz landing auditoria descuento y calculadora de descuentos

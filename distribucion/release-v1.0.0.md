@@ -66,6 +66,7 @@ Los ZIP estan adjuntos en esta release:
 
 ## Pedidos personalizados
 
+- Auditoria de descuento Mercado Libre USD 19: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
 - Pedido de auditoria con resultado de calculadora USD 19: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
 - Pedido de auditoria personalizada USD 19: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-personalizada.yml
 - Pedido de respuestas personalizadas USD 29: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml

@@ -34,6 +34,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/cal
 Auditoria personalizada de publicacion, USD 19:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 
+Auditoria de descuento Mercado Libre, USD 19:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+
 Pedido con resultado de calculadora:
 https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
 
