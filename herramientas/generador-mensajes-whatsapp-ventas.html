@@ -37,7 +37,7 @@
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#webpage",
             "name": "Generador de mensajes de WhatsApp para ventas",
             "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html",
-            "description": "Herramienta gratis para crear mensajes de WhatsApp Business y derivar a plantillas base USD 5 o bundle USD 15.",
+            "description": "Herramienta gratis para crear mensajes de WhatsApp Business y derivar a Base USD 5, Auditoria Express USD 7 o Bundle USD 15.",
             "isPartOf": {
               "@type": "WebSite",
               "name": "Kit Vendedor Express",
@@ -49,6 +49,9 @@
               },
               {
                 "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#buy-base"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#buy-auditoria"
               },
               {
                 "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#buy-bundle"
@@ -109,6 +112,35 @@
           },
           {
             "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#auditoria-offer",
+            "name": "Auditoria Express de Publicacion USD 7",
+            "price": "7",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/7USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#buy-auditoria",
+            "name": "Pagar Auditoria Express USD 7",
+            "target": "https://paypal.me/SBozicovich/7USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "7",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#auditoria-offer"
+            }
+          },
+          {
+            "@type": "DownloadAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#download-auditoria",
+            "name": "Descargar Auditoria Express despues del pago",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-auditoria/auditoria-express-publicacion.zip"
+          },
+          {
+            "@type": "Offer",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#bundle-offer",
             "name": "Bundle Vendedor Express USD 15",
             "price": "15",
@@ -131,10 +163,16 @@
             }
           },
           {
+            "@type": "DownloadAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#download-bundle",
+            "name": "Descargar Bundle despues del pago",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-bundle/bundle-vendedor-express.zip"
+          },
+          {
             "@type": "HowTo",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html#howto",
             "name": "Como generar mensajes de WhatsApp para vender",
-            "description": "Pasos para crear mensajes de WhatsApp y decidir si conviene comprar el pack base o el bundle.",
+            "description": "Pasos para crear mensajes de WhatsApp y decidir si conviene comprar Base, Auditoria Express o Bundle.",
             "step": [
               {
                 "@type": "HowToStep",
@@ -152,7 +190,7 @@
                 "@type": "HowToStep",
                 "position": 3,
                 "name": "Comprar plantillas completas",
-                "text": "Compra el pack base USD 5 para cargar respuestas rapidas o el bundle USD 15 si quieres base, auditoria y Pro."
+                "text": "Compra Base USD 5 para cargar respuestas rapidas, Auditoria USD 7 si te preguntan pero no compran, o Bundle USD 15 si quieres base, auditoria y Pro."
               }
             ]
           },
@@ -222,6 +260,14 @@
     </header>
 
     <main>
+      <section class="conversion-strip" aria-label="Compra rapida">
+        <span>WhatsApp con salida paga clara:</span>
+        <a href="../comprar.html">Base USD 5</a>
+        <a href="../auditoria.html">Auditoria USD 7</a>
+        <a href="../bundle.html">Bundle USD 15</a>
+        <span>Recibis el archivo inmediatamente. Pago por PayPal o transferencia.</span>
+      </section>
+
       <section class="guide-hero">
         <p class="eyebrow">Herramienta gratis</p>
         <h1>Generador de mensajes de WhatsApp para ventas</h1>
@@ -284,6 +330,49 @@
           <textarea id="tool-output" rows="13" spellcheck="false"></textarea>
         </section>
 
+        <section class="guide-cta">
+          <p class="eyebrow">Caso practico</p>
+          <h2>Ejemplo real de conversacion</h2>
+          <p>
+            Si vendes una mochila impermeable y te preguntan "precio y envio?",
+            genera un mensaje con precio, disponibilidad, envio y cierre. Si despues
+            te piden descuento o no responden, usa el seguimiento para recuperar la charla.
+          </p>
+          <ul class="checkout-list">
+            <li>Gratis: crea un mensaje puntual para una conversacion.</li>
+            <li>Base USD 5: compra guiones y respuestas listas para cargar en WhatsApp.</li>
+            <li>Auditoria USD 7: revisa la publicacion si hay consultas pero pocas compras.</li>
+            <li>Bundle USD 15: lleva respuestas, auditoria y recursos Pro en una sola descarga.</li>
+          </ul>
+        </section>
+
+        <section class="offer-focus" aria-label="Comparacion con versiones pagas">
+          <article class="offer-card">
+            <p class="eyebrow">Necesito mensajes listos</p>
+            <h3>Base</h3>
+            <p class="offer-price">USD 5</p>
+            <p>Para tener guiones cargables y no depender de escribir uno por uno.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/5USD" target="_blank" rel="noopener">Pagar Base</a>
+            <a class="secondary-button" href="../comprar.html">Ver entrega</a>
+          </article>
+          <article class="offer-card">
+            <p class="eyebrow">Me preguntan pero no cierran</p>
+            <h3>Auditoria</h3>
+            <p class="offer-price">USD 7</p>
+            <p>Para revisar si el problema esta en precio, publicacion, fotos o propuesta.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">Pagar Auditoria</a>
+            <a class="secondary-button" href="../auditoria.html">Ver entrega</a>
+          </article>
+          <article class="offer-card featured">
+            <p class="eyebrow">Quiero resolver venta completa</p>
+            <h3>Bundle</h3>
+            <p class="offer-price">USD 15</p>
+            <p>La opcion recomendada: Base, Auditoria Express y recursos Pro juntos.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">Pagar Bundle</a>
+            <a class="secondary-button" href="../bundle.html">Ver entrega</a>
+          </article>
+        </section>
+
         <div class="guide-cta">
           <h2>Quieres cargar respuestas rapidas completas?</h2>
           <p>
@@ -292,15 +381,13 @@
             auditoria y Pro si quieres ordenar todo el proceso de venta.
           </p>
           <div class="payment-actions">
-            <a class="primary-button" href="../mensajes-whatsapp-para-vender-hoy.html">Ver mensajes USD 5</a>
-            <a class="secondary-button" href="https://paypal.me/SBozicovich/5USD" target="_blank" rel="noopener">PayPal USD 5</a>
-            <a class="secondary-button" href="../pack/kit-vendedor-express.zip" download>Descargar ZIP base</a>
-            <a class="secondary-button" href="../bundle.html">Bundle USD 15</a>
-            <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">PayPal USD 15</a>
-            <a class="secondary-button" href="../apoyar.html">Apoyar USD 1</a>
+            <a class="primary-button" href="../bundle.html">Ver Bundle USD 15</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">PayPal Bundle</a>
+            <a class="secondary-button" href="../comprar.html">Base USD 5</a>
+            <a class="secondary-button" href="../auditoria.html">Auditoria USD 7</a>
             <a class="secondary-button" href="../guias/mensajes-whatsapp-ventas.html">Leer guia</a>
           </div>
-          <p class="trust-note">Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.</p>
+          <p class="trust-note">Producto digital listo para usar. Recibis el archivo inmediatamente. Pago por PayPal o transferencia: Banco Galicia, CBU 0070034430004032923161.</p>
         </div>
 
         <h2>Fuente util</h2>
