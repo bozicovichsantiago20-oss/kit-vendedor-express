@@ -148,6 +148,7 @@
             <a class="primary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html">Pedir auditoria</a>
             <a class="secondary-button" href="https://paypal.me/SBozicovich/19USD">PayPal USD 19</a>
             <a class="secondary-button" href="https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml">Abrir pedido con resultado</a>
+            <button class="secondary-button" id="copy-order-brief" type="button">Copiar pedido completo</button>
             <a class="secondary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html">Diagnostico gratis</a>
             <a class="secondary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html">Guia de descuentos</a>
             <a class="secondary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html">Express USD 7</a>
@@ -317,10 +318,41 @@
         byId("tool-output").value = buildDiscountResult();
       }
 
+      function buildOrderBrief() {
+        return [
+          "Pedido de auditoria de descuento USD 19",
+          "",
+          "1) Pagar por PayPal: https://paypal.me/SBozicovich/19USD",
+          "2) O transferir equivalente local a Banco Galicia, CBU 0070034430004032923161",
+          "3) Abrir pedido: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml",
+          "",
+          "Datos para pegar en el pedido:",
+          `Precio actual publicado: ${money.format(readNumber("current-price"))}`,
+          `Descuento a probar: ${readNumber("planned-discount").toFixed(1)}%`,
+          `Costo del producto: ${money.format(readNumber("product-cost"))}`,
+          `Empaque o extra: ${money.format(readNumber("extra-cost"))}`,
+          `Comision/cargo variable: ${readNumber("commission-rate").toFixed(1)}%`,
+          `Impuestos u otros porcentuales: ${readNumber("tax-rate").toFixed(1)}%`,
+          `Cargo fijo por venta: ${money.format(readNumber("fixed-fee"))}`,
+          `Envio absorbido: ${money.format(readNumber("shipping-cost"))}`,
+          `Margen minimo deseado: ${readNumber("target-margin").toFixed(1)}%`,
+          "",
+          "Resultado de la calculadora:",
+          byId("tool-output").value
+        ].join("\n");
+      }
+
       byId("discount-tool").addEventListener("submit", renderDiscountResult);
       byId("copy-tool-output").addEventListener("click", async () => {
         await navigator.clipboard.writeText(byId("tool-output").value);
         byId("toast").textContent = "Resultado copiado";
+        setTimeout(() => {
+          byId("toast").textContent = "";
+        }, 1800);
+      });
+      byId("copy-order-brief").addEventListener("click", async () => {
+        await navigator.clipboard.writeText(buildOrderBrief());
+        byId("toast").textContent = "Pedido completo copiado";
         setTimeout(() => {
           byId("toast").textContent = "";
         }, 1800);
