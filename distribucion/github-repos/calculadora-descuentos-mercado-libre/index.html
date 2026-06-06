@@ -342,20 +342,30 @@
         ].join("\n");
       }
 
+      function showToast(message) {
+        const toast = byId("toast");
+        toast.textContent = message;
+        toast.classList.add("show");
+        setTimeout(() => {
+          toast.classList.remove("show");
+        }, 1900);
+      }
+
+      async function copyText(text, successMessage) {
+        try {
+          await navigator.clipboard.writeText(text);
+          showToast(successMessage);
+        } catch {
+          showToast("No se pudo copiar. Selecciona el texto manualmente.");
+        }
+      }
+
       byId("discount-tool").addEventListener("submit", renderDiscountResult);
       byId("copy-tool-output").addEventListener("click", async () => {
-        await navigator.clipboard.writeText(byId("tool-output").value);
-        byId("toast").textContent = "Resultado copiado";
-        setTimeout(() => {
-          byId("toast").textContent = "";
-        }, 1800);
+        await copyText(byId("tool-output").value, "Resultado copiado");
       });
       byId("copy-order-brief").addEventListener("click", async () => {
-        await navigator.clipboard.writeText(buildOrderBrief());
-        byId("toast").textContent = "Pedido completo copiado";
-        setTimeout(() => {
-          byId("toast").textContent = "";
-        }, 1800);
+        await copyText(buildOrderBrief(), "Pedido completo copiado");
       });
       renderDiscountResult();
     </script>
