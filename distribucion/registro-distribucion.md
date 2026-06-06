@@ -1564,3 +1564,23 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para el generador y `sitemap.xml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 09:21 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Generador de respuestas rapidas:
+  - Pagina `herramientas/generador-respuestas-rapidas-mercado-libre.html` actualizada con commit 7aadbca.
+  - Se agrego marcado `WebPage`, `WebApplication`, `UseAction`, `Offer`, `BuyAction`, `DownloadAction`, `OrderAction`, `HowTo`, `FAQPage` y `BreadcrumbList`.
+  - Se sumo CTA visible hacia respuestas personalizadas USD 29 y pedido `respuestas-personalizadas.yml`, manteniendo PayPal USD 15 para Bundle.
+  - `sitemap.xml` actualizado con fecha 2026-06-06 para el generador.
+- Validaciones:
+  - Pagina publica HTTP 200 con `WebApplication`, `BuyAction`, `OrderAction`, `DownloadAction`, PayPal USD 15, PayPal USD 29 y pedido GitHub.
+  - Sitemap publico HTTP 200 con fecha 2026-06-06 para el generador.
+  - JSON-LD publico parseado correctamente.
+  - IndexNow acepto HTTP 200 para el generador y `sitemap.xml`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
