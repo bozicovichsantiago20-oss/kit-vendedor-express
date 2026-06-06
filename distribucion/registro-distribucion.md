@@ -1209,3 +1209,28 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Contiene enlaces a `descuento-maximo-mercado-libre-sin-perder-margen`, calculadora de descuentos, PayPal USD 19 y `auditoria-descuento.yml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 04:04 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Nueva entrada SEO:
+  - `guias/simulador-promociones-mercado-libre.html`.
+  - Enfoque: busqueda de simulador de promociones Mercado Libre antes de activar descuento, envio absorbido o precio especial.
+  - CTA: calculadora gratis, auditoria de descuento USD 19, PayPal, CBU y pedido GitHub.
+- Superficies conectadas:
+  - Home, calculadora de descuentos, guia de promociones, guia de descuento maximo, guia de descuento paso a paso, README, llms y sitemap.
+  - Articulo externo Telegra.ph: https://telegra.ph/Simulador-de-promociones-Mercado-Libre-sin-perder-margen-06-06
+- Validaciones:
+  - JSON-LD de la guia: OK.
+  - Sitemap XML: OK.
+  - Enlaces locales de paginas tocadas: OK.
+  - URLs publicas HTTP 200: guia nueva, home, sitemap, llms y Telegra.ph.
+  - IndexNow acepto HTTP 200 para 8 URLs propias del embudo.
+- Commits:
+  - Repo principal: 48526f4.
+- Estado al cierre:
+  - Cobros confirmados: 0.
