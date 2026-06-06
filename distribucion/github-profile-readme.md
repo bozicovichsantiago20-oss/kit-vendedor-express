@@ -103,6 +103,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Como calcular descuento en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
 - Descuento maximo en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
 - Promociones en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/promociones-mercado-libre-sin-perder-margen.html
+- Simulador de promociones Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
 - Respuestas personalizadas para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 - Envio gratis en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 - Plantillas de atencion al cliente para ecommerce: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
@@ -117,6 +118,8 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Plantillas de atencion al cliente ecommerce: https://gist.github.com/bozicovichsantiago20-oss/ebc49e534b18ed2838e47c78f05c9ca8
 - Calcular precio de venta sin perder margen: https://gist.github.com/bozicovichsantiago20-oss/3018a8a90eec6196132b55ec51fb7d3e
 - Calculadora de descuentos Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/c587166eb90c3020afbe68f5be09d846
+- Simulador de promociones Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/5166deaa0d53c6edf470f0e9f3a2062f
+- Descuento maximo Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/429433c4210dd50ff113316eb2ab5e53
 
 ## Repos tematicos
 
@@ -139,6 +142,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Plantillas atencion cliente ecommerce: https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
 - Calcular precio Mercado Libre: https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
 - Calculadora descuentos Mercado Libre: https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+- Guia simulador promociones Mercado Libre: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
 - Publicacion no vende Mercado Libre: https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - Mensajes WhatsApp ventas: https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
 - Marketplace Question Prioritizer: https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/

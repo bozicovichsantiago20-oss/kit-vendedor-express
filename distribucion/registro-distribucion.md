@@ -1276,3 +1276,22 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Gist especifico contiene guia simulador, calculadora, micrositio, PayPal USD 19 y `auditoria-descuento.yml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 05:00 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Perfil y hub raiz reforzados:
+  - Perfil GitHub publicado con commit 2c62574.
+  - Hub raiz publicado con commit f20550d.
+  - Se agregaron enlaces a guia simulador de promociones, Gist especifico, calculadora de descuentos, auditoria USD 19, PayPal, CBU y pedido GitHub.
+- Validaciones:
+  - Perfil crudo HTTP 200 con `simulador-promociones-mercado-libre` y Gist 5166deaa.
+  - Hub raiz, llms, humans y sitemap HTTP 200 con `simulador-promociones-mercado-libre`.
+  - Sitemap XML raiz: OK.
+  - IndexNow acepto HTTP 200 para hub raiz, llms, humans, sitemap, guia simulador y micrositio calculadora.
+- Estado al cierre:
+  - Cobros confirmados: 0.

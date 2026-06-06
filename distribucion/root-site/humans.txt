@@ -14,6 +14,9 @@ English Landing: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express
 Prompt Tool: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 Microsite Respuestas: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
 Microsite Calculadora: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
+Microsite Calculadora Descuentos: https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+Guide Simulador Promociones: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
+Gist Simulador Promociones: https://gist.github.com/bozicovichsantiago20-oss/5166deaa0d53c6edf470f0e9f3a2062f
 Microsite Auditoria: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
 Support Price: USD 1 sugerido.
 Price: USD 5 sugerido.
