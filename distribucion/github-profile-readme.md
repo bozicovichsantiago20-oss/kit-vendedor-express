@@ -78,6 +78,23 @@ https://bozicovichsantiago20-oss.github.io/
 Repo:
 https://github.com/bozicovichsantiago20-oss/kit-vendedor-express
 
+## Compra directa
+
+Comparar opciones:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+
+Pago y entrega:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
+
+Base USD 5: https://paypal.me/SBozicovich/5USD
+Auditoria USD 7: https://paypal.me/SBozicovich/7USD
+Pro USD 12: https://paypal.me/SBozicovich/12USD
+Bundle USD 15: https://paypal.me/SBozicovich/15USD
+Auditoria personalizada/descuento USD 19: https://paypal.me/SBozicovich/19USD
+Respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
+
+Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
+
 Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro, USD 15 bundle o USD 19 auditoria personalizada/descuento por PayPal o transferencia local.
 Aporte: https://paypal.me/SBozicovich/1USD
 Auditoria personalizada/descuento: https://paypal.me/SBozicovich/19USD

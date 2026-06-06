@@ -15,6 +15,23 @@ Incluye:
 
 Sirve para quienes venden por marketplace, WhatsApp, Instagram o tienda propia y quieren responder claro sobre stock, envios, medidas, garantia, factura, cambios y precio.
 
+## Compra directa
+
+Comparar opciones:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+
+Pago y entrega:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
+
+Base USD 5: https://paypal.me/SBozicovich/5USD
+Auditoria USD 7: https://paypal.me/SBozicovich/7USD
+Pro USD 12: https://paypal.me/SBozicovich/12USD
+Bundle USD 15: https://paypal.me/SBozicovich/15USD
+Auditoria personalizada/descuento USD 19: https://paypal.me/SBozicovich/19USD
+Respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
+
+Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
+
 ## Enlaces principales
 
 Sitio del producto:
