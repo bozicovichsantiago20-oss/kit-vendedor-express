@@ -938,3 +938,26 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Repo micrositio calculadora: 183cd8c.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-05 23:58 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion/distribucion:
+  - La guia `guias/como-calcular-descuento-mercado-libre.html` ahora apunta a la landing especifica de auditoria de descuento USD 19.
+  - Se agrego CTA directo a pedido con resultado `auditoria-descuento.yml`.
+  - Se agrego copia rastreada de textos de distribucion en `distribucion/textos-auditoria-descuento.md`.
+  - Tambien quedaron archivos locales rapidos en `materiales-lanzamiento/`, carpeta ignorada por Git.
+- Validaciones:
+  - `git diff --check`: OK.
+  - Validacion Node de enlaces clave: OK.
+  - Guia publica verificada HTTP 200 con oferta de auditoria.
+  - Landing de auditoria verificada HTTP 200.
+  - IndexNow acepto HTTP 200 para guia de descuentos y landing de auditoria.
+- Commit:
+  - Repo principal: a10d3f7.
+- Estado al cierre:
+  - Cobros confirmados: 0.
