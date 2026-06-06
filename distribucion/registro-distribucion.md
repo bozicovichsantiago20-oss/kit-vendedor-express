@@ -1664,3 +1664,24 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 202 para el generador y `sitemap.xml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 11:33 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Guia publicacion no vende:
+  - Pagina `por-que-mi-publicacion-no-vende-mercado-libre.html` actualizada con commit 7d6dcc8.
+  - Se agrego marcado `Article`, `WebPage`, `Service`, `Offer`, `OrderAction`, `Product`, `BuyAction`, `DownloadAction`, `HowTo`, `FAQPage` y `BreadcrumbList`.
+  - Se declaro ruta de auditoria personalizada USD 19 y Auditoria Express USD 7 con PayPal y ZIP de auditoria.
+  - `sitemap.xml` actualizado con fecha 2026-06-06 para la guia.
+- Validaciones:
+  - Pagina publica HTTP 200 con `Article`, `Service`, `OrderAction`, `BuyAction`, `DownloadAction`, PayPal USD 19 y PayPal USD 7.
+  - ZIP publico `pack-auditoria/auditoria-express-publicacion.zip` respondio HTTP 200 con 4428 bytes.
+  - Sitemap publico HTTP 200 con fecha 2026-06-06 para la guia.
+  - JSON-LD publico parseado correctamente.
+  - IndexNow acepto HTTP 200 para la guia y `sitemap.xml` usando clave publicada.
+- Estado al cierre:
+  - Cobros confirmados: 0.
