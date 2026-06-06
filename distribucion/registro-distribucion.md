@@ -1047,3 +1047,31 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Hub raiz: d7517f5.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 01:13 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Nueva entrada SEO:
+  - `guias/envio-gratis-mercado-libre-sin-perder-margen.html`.
+  - Enfoque: envio gratis/envio absorbido como costo real antes de activar promociones.
+  - CTA: calculadora gratis, auditoria de descuento USD 19, PayPal, CBU y pedido GitHub.
+- Superficies conectadas:
+  - Home.
+  - Calculadora de descuentos.
+  - Guia de descuentos.
+  - Guia de promociones.
+  - README, llms y sitemap.
+- Validaciones:
+  - `git diff --check`: OK.
+  - Sitemap XML: OK.
+  - Validacion Node de contenido y enlaces clave: OK.
+  - URLs publicas HTTP 200: guia nueva, home, calculadora y sitemap.
+  - IndexNow acepto HTTP 200 para guia nueva, home, calculadora y sitemap.
+- Commit:
+  - Repo principal: a406607.
+- Estado al cierre:
+  - Cobros confirmados: 0.
