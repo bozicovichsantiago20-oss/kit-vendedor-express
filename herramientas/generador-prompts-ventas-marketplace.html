@@ -31,17 +31,178 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "SoftwareApplication",
-        "name": "Generador de prompts para vendedores online",
-        "applicationCategory": "BusinessApplication",
-        "operatingSystem": "Any",
-        "description": "Herramienta gratis sin registro para crear prompts de venta online y marketplace.",
-        "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "USD"
-        }
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#webpage",
+            "name": "Generador de prompts para vendedores online",
+            "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html",
+            "description": "Herramienta gratis para crear prompts de venta online, con salida al kit base USD 5 y bundle USD 15.",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Kit Vendedor Express",
+              "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+            },
+            "potentialAction": [
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#use"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#buy-base"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#buy-bundle"
+              }
+            ]
+          },
+          {
+            "@type": "WebApplication",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#app",
+            "name": "Generador de prompts para vendedores online",
+            "applicationCategory": "BusinessApplication",
+            "operatingSystem": "Web",
+            "description": "Herramienta gratis sin registro para crear prompts de venta online y marketplace.",
+            "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            },
+            "potentialAction": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#use"
+            }
+          },
+          {
+            "@type": "UseAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#use",
+            "name": "Generar prompts para vender online",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#base-offer",
+            "name": "Kit Vendedor Express Base USD 5",
+            "price": "5",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/5USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#buy-base",
+            "name": "Pagar Kit Vendedor Express Base USD 5",
+            "target": "https://paypal.me/SBozicovich/5USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "5",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#base-offer"
+            }
+          },
+          {
+            "@type": "DownloadAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#download-base",
+            "name": "Descargar Kit Vendedor Express base despues del pago",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#bundle-offer",
+            "name": "Bundle Vendedor Express USD 15",
+            "price": "15",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/15USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#buy-bundle",
+            "name": "Pagar Bundle Vendedor Express USD 15",
+            "target": "https://paypal.me/SBozicovich/15USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "15",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#bundle-offer"
+            }
+          },
+          {
+            "@type": "HowTo",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#howto",
+            "name": "Como generar prompts para vender online",
+            "description": "Pasos para crear prompts y decidir si conviene comprar el kit base o el bundle.",
+            "step": [
+              {
+                "@type": "HowToStep",
+                "position": 1,
+                "name": "Cargar contexto",
+                "text": "Ingresa producto o rubro, canal, objetivo, tono y dato clave."
+              },
+              {
+                "@type": "HowToStep",
+                "position": 2,
+                "name": "Generar prompts",
+                "text": "Copia prompts para publicaciones, respuestas, cierres y postventa."
+              },
+              {
+                "@type": "HowToStep",
+                "position": 3,
+                "name": "Comprar plantillas completas",
+                "text": "Compra el kit base USD 5 si quieres prompts, formulas y respuestas, o el bundle USD 15 si quieres todo junto."
+              }
+            ]
+          },
+          {
+            "@type": "FAQPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#faq",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Para que sirve el generador de prompts?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Sirve para crear instrucciones listas para pegar en una IA y mejorar publicaciones, respuestas, mensajes de cierre y postventa."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Que incluye el kit base USD 5?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Incluye respuestas rapidas, prompts, formulas de titulos, checklist, matriz de reclamos y plan de 7 dias para vendedores online."
+                }
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html#breadcrumbs",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Herramientas",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/#herramientas"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Generador de prompts",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html"
+              }
+            ]
+          }
+        ]
       }
     </script>
   </head>
@@ -126,11 +287,15 @@
         <div class="guide-cta">
           <h2>Quieres el paquete completo de prompts y respuestas?</h2>
           <p>
-            El Bundle Vendedor Express trae el pack base, Auditoria Express y Pro en una sola descarga.
+            El Kit Vendedor Express trae prompts, respuestas, formulas de titulos,
+            checklist y plan de 7 dias. El bundle suma Auditoria Express y Pro en una sola descarga.
           </p>
           <div class="payment-actions">
             <a class="primary-button" href="../bundle.html">Ver bundle USD 15</a>
             <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">PayPal bundle</a>
+            <a class="secondary-button" href="../comprar.html">Base USD 5</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/5USD" target="_blank" rel="noopener">PayPal USD 5</a>
+            <a class="secondary-button" href="../pack/kit-vendedor-express.zip" download>Descargar ZIP base</a>
             <a class="secondary-button" href="../pro.html">Ver Pro USD 12</a>
             <a class="secondary-button" href="../apoyar.html">Apoyar USD 1</a>
           </div>
