@@ -29,6 +29,9 @@ Oferta relacionada:
 
 Auditoria personalizada de publicacion, USD 19.
 
+Pedido con resultado de calculadora:
+https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+
 Pago:
 
 - PayPal USD 19: https://paypal.me/SBozicovich/19USD

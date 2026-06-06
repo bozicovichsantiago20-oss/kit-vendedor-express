@@ -801,3 +801,36 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Reenvio correcto con clave raiz aceptado HTTP 200 para guia nueva, herramienta, sitemap, llms, micrositio, llms del micrositio, hub raiz, sitemap raiz y llms raiz.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-05 22:25 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Cobros confirmados en registro local: 0.
+  - No hay acceso confirmado a PayPal ni banco para validar movimientos externos.
+- Flujo de conversion creado para usuarios de la calculadora de descuentos:
+  - Plantilla GitHub Issue:
+    https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+  - Archivo publicado:
+    .github/ISSUE_TEMPLATE/auditoria-descuento.yml
+  - Label creada: auditoria-descuento.
+  - Precio: Auditoria personalizada USD 19.
+  - Campos: referencia de pago, link publico, producto, precio actual, descuento, resultado copiado de calculadora, decision a tomar y contexto.
+- Superficies actualizadas y verificadas:
+  - Herramienta principal:
+    https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
+  - Auditoria personalizada:
+    https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+  - Micrositio:
+    https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+  - llms del micrositio con enlace al pedido:
+    https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/llms.txt
+- Commits:
+  - Repo principal: 6c2f664.
+  - Repo micrositio calculadora: f89c4ac.
+- Release:
+  - v1.0.0 actualizada con seccion Pedidos personalizados y enlace a auditoria de descuento.
+- IndexNow:
+  - Envio aceptado HTTP 200 para calculadora, auditoria personalizada, llms principal, micrositio y llms del micrositio.
+- Estado al cierre:
+  - Cobros confirmados: 0.

@@ -20,6 +20,9 @@ Casos de uso:
 Oferta:
 Auditoria personalizada de publicacion, USD 19.
 
+Pedido con resultado:
+https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+
 Pago:
 - PayPal USD 19: https://paypal.me/SBozicovich/19USD
 - PayPal generico: https://paypal.me/SBozicovich
