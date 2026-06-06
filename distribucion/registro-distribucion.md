@@ -1486,3 +1486,21 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para `auditoria.html`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 07:56 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Respuestas personalizadas:
+  - Pagina `respuestas-personalizadas.html` actualizada con commit 0d46629.
+  - Se agrego marcado `WebPage`, `Service`, `Offer`, `OrderAction`, `HowTo`, `FAQPage` y `BreadcrumbList`.
+  - La oferta apunta a PayPal USD 29 y la accion de pedido apunta al template `respuestas-personalizadas.yml`.
+- Validaciones:
+  - Pagina publica HTTP 200 con `OrderAction`, `HowTo`, `BreadcrumbList`, PayPal USD 29 y pedido GitHub.
+  - JSON-LD publico parseado correctamente.
+  - IndexNow acepto HTTP 200 para `respuestas-personalizadas.html`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
