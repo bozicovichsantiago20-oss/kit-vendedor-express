@@ -37,6 +37,8 @@ Auditoria personalizada:
 - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
 - Precio sugerido: USD 19 o equivalente local.
 - Incluye revision personalizada de una publicacion publica, devolucion por GitHub Issue y plan de 48 horas.
+- Pedido de auditoria de descuento:
+  https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
 
 Respuestas personalizadas:
 - URL: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html

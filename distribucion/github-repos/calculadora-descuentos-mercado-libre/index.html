@@ -147,6 +147,7 @@
           <div class="payment-actions">
             <a class="primary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html">Pedir auditoria</a>
             <a class="secondary-button" href="https://paypal.me/SBozicovich/19USD">PayPal USD 19</a>
+            <a class="secondary-button" href="https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml">Abrir pedido con resultado</a>
             <a class="secondary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html">Diagnostico gratis</a>
             <a class="secondary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html">Guia de descuentos</a>
             <a class="secondary-button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html">Express USD 7</a>
@@ -305,7 +306,9 @@
             ? "No actives esta promocion sin subir precio base, bajar costos o reducir descuento."
             : marginOnCost < targetMargin * 100
               ? "Prueba un descuento menor o revisa si el volumen compensa bajar margen."
-              : "Puedes evaluar la promocion, pero revisa elegibilidad, precio final y costos reales antes de confirmar."
+              : "Puedes evaluar la promocion, pero revisa elegibilidad, precio final y costos reales antes de confirmar.",
+          "",
+          "Si quieres una revision personalizada, copia este resultado y abre el pedido de auditoria de descuento USD 19."
         ].join("\n");
       }
 

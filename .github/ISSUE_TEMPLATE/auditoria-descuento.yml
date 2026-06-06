@@ -1,0 +1,85 @@
+name: Pedido de auditoria de descuento
+description: Solicitar revision de precio, descuento y margen para una publicacion.
+title: "[AUDITORIA DESCUENTO] "
+labels:
+  - auditoria-personalizada
+  - auditoria-descuento
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por pedir una auditoria de descuento.
+
+        Antes de publicar este pedido:
+        - Paga USD 19 por PayPal: https://paypal.me/SBozicovich/19USD
+        - O paga equivalente local por transferencia: Banco Galicia, CBU 0070034430004032923161
+        - Copia el resultado de la calculadora de descuentos y pegalo abajo.
+        - No compartas datos privados, claves, telefonos personales ni informacion sensible.
+
+        La devolucion se entrega como comentario en este issue con:
+        revision de precio, descuento maximo sugerido, margen, envio, costos y acciones de 48 horas.
+  - type: input
+    id: payment_reference
+    attributes:
+      label: Referencia de pago
+      description: Pega el link o codigo de PayPal, o una referencia no sensible de transferencia.
+      placeholder: "PayPal / transferencia / fecha / importe"
+    validations:
+      required: true
+  - type: input
+    id: listing_url
+    attributes:
+      label: Link publico de la publicacion
+      description: Pega la URL publica que quieres revisar. Si todavia no esta publicada, pega el enlace mas cercano o escribe "sin link".
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: product
+    attributes:
+      label: Producto o rubro
+      placeholder: "Ej: zapatillas urbanas, repuestos, cosmetica, muebles"
+    validations:
+      required: true
+  - type: input
+    id: current_price
+    attributes:
+      label: Precio actual publicado
+      placeholder: "Ej: 25000 ARS"
+    validations:
+      required: true
+  - type: input
+    id: planned_discount
+    attributes:
+      label: Descuento que quieres probar
+      placeholder: "Ej: 12%"
+    validations:
+      required: true
+  - type: textarea
+    id: calculator_result
+    attributes:
+      label: Resultado de la calculadora
+      description: Pega el texto copiado desde la calculadora de descuentos.
+      placeholder: "Precio promocional, ganancia estimada, margen, precio minimo, maximo descuento..."
+    validations:
+      required: true
+  - type: dropdown
+    id: main_concern
+    attributes:
+      label: Que quieres decidir
+      options:
+        - Si conviene activar la promocion
+        - Cual es el descuento maximo seguro
+        - Si conviene absorber envio
+        - Si el problema no es precio sino publicacion
+        - No se que cambiar primero
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto adicional
+      description: Cuenta que ya probaste y que resultado esperas. No incluyas datos privados.
+      placeholder: "Baje precio, probe envio gratis, tengo pocas consultas, etc."
+    validations:
+      required: false
