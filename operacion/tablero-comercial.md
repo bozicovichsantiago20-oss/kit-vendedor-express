@@ -52,4 +52,4 @@ Revisar:
 
 ## Ultimo trabajo realizado
 
-- 2026-06-06 18:36 ART: no aparecieron pedidos, trabajos ni leads verificables en GitHub Issues o registro local. Se reconcentro la calculadora de descuentos en Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando la salida visible y estructurada a USD 19.
+- 2026-06-06 18:36 ART: no aparecieron pedidos, trabajos ni leads verificables en GitHub Issues o registro local. Se reconcentro la calculadora de descuentos en Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando la salida visible y estructurada a USD 19. Publicacion verificada con estado 200 e IndexNow 202.
