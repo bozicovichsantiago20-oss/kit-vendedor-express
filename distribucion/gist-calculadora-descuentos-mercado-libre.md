@@ -32,6 +32,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/cal
 Guia de envio gratis sin perder margen:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 
+Guia de descuento maximo sin perder margen:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
+
 ## Oferta relacionada
 
 Auditoria personalizada de publicacion, USD 19:

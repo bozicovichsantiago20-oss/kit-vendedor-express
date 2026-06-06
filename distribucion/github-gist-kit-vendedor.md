@@ -94,6 +94,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-p
 Guia envio gratis sin perder margen:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 
+Guia descuento maximo sin perder margen:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
+
 Guia respuestas personalizadas:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 

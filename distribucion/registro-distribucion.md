@@ -1115,3 +1115,30 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para 7 URLs del embudo y sitemap actualizado.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 02:18 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Nueva entrada SEO:
+  - `guias/descuento-maximo-mercado-libre-sin-perder-margen.html`.
+  - Enfoque: busqueda de descuento maximo antes de perder margen, precio minimo y margen objetivo.
+  - CTA: calculadora gratis, auditoria de descuento USD 19, PayPal, CBU y pedido GitHub.
+- Superficies conectadas:
+  - Home, calculadora de descuentos, guia de descuento, guia de promociones, guia de envio gratis, README, llms y sitemap.
+  - Perfil GitHub, hub raiz, llms/sitemap raiz, gist de calculadora, gist maestro y release v1.0.0.
+- Validaciones:
+  - JSON-LD de la guia: OK.
+  - Sitemap XML principal y raiz: OK.
+  - Enlaces locales: OK, 0 rotos en 39 HTML del sitio principal.
+  - URLs publicas HTTP 200: guia nueva, home, calculadora, sitemap, llms, hub raiz, llms raiz y sitemap raiz.
+  - IndexNow acepto HTTP 200 para sitio principal y hub raiz.
+- Commits:
+  - Repo principal: 6894876.
+  - Perfil GitHub: 14ca63d.
+  - Hub raiz: f17e042.
+- Estado al cierre:
+  - Cobros confirmados: 0.
