@@ -772,3 +772,32 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Trafico GitHub: 0 vistas, 0 unicos.
   - Release: 1 descarga por ZIP, sin nueva atribucion.
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-05 21:58 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Trafico repo calculadora descuentos: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Guia SEO nueva para reforzar la calculadora de descuentos:
+  - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
+  - Verificada publica con status 200.
+  - Enlaza calculadora gratis, auditoria personalizada USD 19, PayPal y CBU.
+  - Agregada al home, sitemap, llms y a la herramienta principal.
+  - Commit principal: 4e9d2ea.
+- Micrositio de calculadora reforzado:
+  - https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+  - Verificado publico con enlace a la guia desde navegacion, CTA y FAQ.
+  - Commit micrositio: cefa5b1.
+- Hub raiz reforzado:
+  - https://bozicovichsantiago20-oss.github.io/
+  - Verificado publico con tarjeta de la guia de descuento sin perder margen.
+  - Sitemap raiz y llms raiz actualizados.
+  - Commit hub raiz: 869bbc2.
+- IndexNow:
+  - Primer lote mixto con keyLocation de subruta rechazo HTTP 422.
+  - Reenvio correcto con clave raiz aceptado HTTP 200 para guia nueva, herramienta, sitemap, llms, micrositio, llms del micrositio, hub raiz, sitemap raiz y llms raiz.
+- Estado al cierre:
+  - Cobros confirmados: 0.
