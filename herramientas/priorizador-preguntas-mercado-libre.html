@@ -31,16 +31,146 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "SoftwareApplication",
-        "name": "Priorizador de preguntas para Mercado Libre",
-        "applicationCategory": "BusinessApplication",
-        "operatingSystem": "Web",
-        "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "USD"
-        }
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#webpage",
+            "name": "Priorizador de preguntas para Mercado Libre",
+            "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html",
+            "description": "Herramienta gratis para ordenar consultas de compradores y derivar a respuestas personalizadas para vendedores online.",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Kit Vendedor Express",
+              "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+            },
+            "potentialAction": [
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#use"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#order"
+              }
+            ]
+          },
+          {
+            "@type": "WebApplication",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#app",
+            "name": "Priorizador de preguntas para Mercado Libre",
+            "applicationCategory": "BusinessApplication",
+            "operatingSystem": "Web",
+            "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html",
+            "description": "Herramienta gratis para decidir que pregunta responder primero y generar una respuesta rapida para Mercado Libre, WhatsApp o ecommerce.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            },
+            "potentialAction": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#use"
+            }
+          },
+          {
+            "@type": "UseAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#use",
+            "name": "Priorizar pregunta de comprador",
+            "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html"
+          },
+          {
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#custom-replies-offer",
+            "name": "Respuestas personalizadas para vendedores USD 29",
+            "price": "29",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/29USD"
+          },
+          {
+            "@type": "OrderAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#order",
+            "name": "Pedir respuestas personalizadas USD 29",
+            "target": "https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "29",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#custom-replies-offer"
+            }
+          },
+          {
+            "@type": "HowTo",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#howto",
+            "name": "Como priorizar preguntas de compradores",
+            "description": "Pasos para decidir que consulta responder primero y cuando pedir respuestas personalizadas.",
+            "step": [
+              {
+                "@type": "HowToStep",
+                "position": 1,
+                "name": "Cargar la pregunta",
+                "text": "Ingresa el producto, la pregunta recibida, el canal y el tiempo que lleva esperando."
+              },
+              {
+                "@type": "HowToStep",
+                "position": 2,
+                "name": "Revisar la prioridad",
+                "text": "Genera la respuesta y revisa si la consulta bloquea una compra, compara opciones o es una duda simple."
+              },
+              {
+                "@type": "HowToStep",
+                "position": 3,
+                "name": "Pedir respuestas para el rubro",
+                "text": "Si recibes preguntas repetidas, pide el servicio USD 29 para tener respuestas personalizadas listas para copiar."
+              }
+            ]
+          },
+          {
+            "@type": "FAQPage",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#faq",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Para que sirve el priorizador de preguntas?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Sirve para decidir que consulta responder primero y copiar una respuesta clara segun el canal, la urgencia y el impacto en la compra."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Cuando conviene pedir respuestas personalizadas?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Conviene pedirlas cuando recibes preguntas repetidas sobre precio, stock, envio, garantia, medidas, objeciones o postventa y quieres textos adaptados al rubro."
+                }
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#breadcrumbs",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Herramientas",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/#herramientas"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Priorizador de preguntas",
+                "item": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html"
+              }
+            ]
+          }
+        ]
       }
     </script>
   </head>
@@ -161,6 +291,7 @@
           <div class="payment-actions">
             <a class="primary-button" href="../respuestas-personalizadas.html">Pedir respuestas USD 29</a>
             <a class="secondary-button" href="https://paypal.me/SBozicovich/29USD" target="_blank" rel="noopener">PayPal USD 29</a>
+            <a class="secondary-button" href="https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml" target="_blank" rel="noopener">Abrir pedido</a>
             <a class="secondary-button" href="../bundle.html">Bundle USD 15</a>
             <a class="secondary-button" href="../apoyar.html">Apoyar USD 1</a>
           </div>
