@@ -1429,3 +1429,22 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para `comprar.html`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 07:09 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Bundle:
+  - Pagina `bundle.html` actualizada con commit 8e89131.
+  - Se agrego marcado `WebPage`, `Product`, `Offer`, `BuyAction`, `DownloadAction`, `ShareAction` y `BreadcrumbList`.
+  - La oferta apunta a PayPal USD 15, la accion de descarga al ZIP bundle y la accion de compartir a la landing.
+- Validaciones:
+  - Pagina publica HTTP 200 con `BuyAction`, `DownloadAction`, `ShareAction`, PayPal USD 15 y ZIP bundle.
+  - ZIP publico `pack-bundle/bundle-vendedor-express.zip` respondio HTTP 200 con 36022 bytes.
+  - JSON-LD publico parseado correctamente.
+  - IndexNow acepto HTTP 200 para `bundle.html`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
