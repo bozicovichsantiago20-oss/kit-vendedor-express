@@ -1332,3 +1332,21 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para la landing de auditoria de descuento.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 05:55 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- SEO tecnico de conversion:
+  - Comparador `ofertas.html` actualizado con commit 34343e8.
+  - Se alineo el titulo, descripcion y marcado JSON-LD con todas las opciones visibles.
+  - El marcado publico ahora incluye `WebPage`, `ItemList` y `BreadcrumbList` con 11 opciones: herramientas gratis, respuestas hoy, reclamos, WhatsApp, base, Pro, bundle, auditoria USD 7, auditoria personalizada USD 19, auditoria de descuento USD 19 y respuestas personalizadas USD 29.
+- Validaciones:
+  - Comparador publico HTTP 200 con `SoftwareApplication`, `ItemList`, `BreadcrumbList` y PayPal USD 29.
+  - JSON-LD publico parseado correctamente con 11 opciones.
+  - IndexNow acepto HTTP 200 para el comparador.
+- Estado al cierre:
+  - Cobros confirmados: 0.
