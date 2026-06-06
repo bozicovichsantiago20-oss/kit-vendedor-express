@@ -1524,3 +1524,23 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para `auditoria-personalizada.html` y `sitemap.xml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 08:40 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Priorizador de preguntas:
+  - Pagina `herramientas/priorizador-preguntas-mercado-libre.html` actualizada con commit b173375.
+  - Se agrego marcado `WebPage`, `WebApplication`, `UseAction`, `Offer`, `OrderAction`, `HowTo`, `FAQPage` y `BreadcrumbList`.
+  - Se sumo CTA directa para abrir pedido `respuestas-personalizadas.yml` junto al pago PayPal USD 29.
+  - `sitemap.xml` actualizado con fecha 2026-06-06 para el priorizador.
+- Validaciones:
+  - Pagina publica HTTP 200 con `WebApplication`, `OrderAction`, `HowTo`, `FAQPage`, PayPal USD 29 y pedido GitHub.
+  - Sitemap publico HTTP 200 con fecha 2026-06-06 para el priorizador.
+  - JSON-LD publico parseado correctamente.
+  - IndexNow acepto HTTP 200 para el priorizador y `sitemap.xml`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
