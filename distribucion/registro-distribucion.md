@@ -1891,3 +1891,27 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para herramienta, `empezar.html` y `sitemap.xml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 18:21 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion sobre activo existente:
+  - Pagina `herramientas/calculadora-precio-venta-online.html` actualizada con commit 904295d.
+  - No se creo pagina nueva ni oferta nueva.
+  - Se agrego CTA superior hacia Base USD 5, Auditoria Express USD 7 y Bundle USD 15.
+  - Se agrego caso practico de margen.
+  - Se agrego comparacion gratis vs Base, Auditoria y Bundle.
+  - Se retiro el foco visible y schema hacia USD 19/pedido manual para concentrar la herramienta en las tres ofertas principales.
+- Validaciones:
+  - Pagina publica HTTP 200.
+  - PayPal USD 5, USD 7 y USD 15 visibles.
+  - PayPal USD 19 no visible en la herramienta.
+  - Mensaje de entrega inmediata visible.
+  - JSON-LD publico parseado con WebPage WebApplication Offer BuyAction DownloadAction HowTo FAQPage BreadcrumbList.
+  - IndexNow acepto HTTP 200 para herramienta, `empezar.html` y `sitemap.xml`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
