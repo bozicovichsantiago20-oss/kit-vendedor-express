@@ -29,6 +29,9 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/cal
 - Cuando la publicacion solo vende si bajas precio.
 - Antes de pedir una auditoria de publicacion.
 
+Guia de envio gratis sin perder margen:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
+
 ## Oferta relacionada
 
 Auditoria personalizada de publicacion, USD 19:

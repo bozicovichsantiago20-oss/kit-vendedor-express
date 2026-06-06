@@ -103,6 +103,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Como calcular descuento en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html
 - Promociones en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/promociones-mercado-libre-sin-perder-margen.html
 - Respuestas personalizadas para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
+- Envio gratis en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 - Plantillas de atencion al cliente para ecommerce: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
 
 ## Fichas publicas

@@ -59,6 +59,7 @@ Los ZIP estan adjuntos en esta release:
 - Plantillas atencion cliente ecommerce: https://bozicovichsantiago20-oss.github.io/plantillas-atencion-cliente-ecommerce/
 - Calcular precio Mercado Libre: https://bozicovichsantiago20-oss.github.io/calcular-precio-mercado-libre/
 - Calculadora descuentos Mercado Libre: https://bozicovichsantiago20-oss.github.io/calculadora-descuentos-mercado-libre/
+- Guia envio gratis Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 - Publicacion no vende Mercado Libre: https://bozicovichsantiago20-oss.github.io/publicacion-no-vende-mercado-libre/
 - Mensajes WhatsApp ventas: https://bozicovichsantiago20-oss.github.io/mensajes-whatsapp-ventas/
 - Marketplace Question Prioritizer: https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/
