@@ -1868,3 +1868,26 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para herramienta, `empezar.html` y `sitemap.xml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 18:04 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion sobre activo existente:
+  - Pagina `herramientas/generador-mensajes-whatsapp-ventas.html` actualizada con commit 3a28b2a.
+  - No se creo pagina nueva ni oferta nueva.
+  - Se agrego CTA superior hacia Base USD 5, Auditoria Express USD 7 y Bundle USD 15.
+  - Se agrego caso practico de conversacion por WhatsApp.
+  - Se agrego comparacion gratis vs Base, Auditoria y Bundle.
+  - Se agrego Auditoria USD 7 al flujo visible y al JSON-LD para capturar el caso "me preguntan pero no compran".
+- Validaciones:
+  - Pagina publica HTTP 200.
+  - PayPal USD 5, USD 7 y USD 15 visibles.
+  - Mensaje de entrega inmediata visible.
+  - JSON-LD publico parseado con WebPage WebApplication Offer BuyAction DownloadAction HowTo FAQPage BreadcrumbList.
+  - IndexNow acepto HTTP 200 para herramienta, `empezar.html` y `sitemap.xml`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
