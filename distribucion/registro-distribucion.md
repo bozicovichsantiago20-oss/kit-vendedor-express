@@ -1155,3 +1155,20 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - Repo de calculadora con topics verificados, incluyendo `descuentos`, `promociones`, `margen`, `envio-gratis`, `mercado-libre`, `no-login`, `free-tools`, `seller-tools` y `paypal`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 02:48 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Distribucion externa segura:
+  - Articulo Telegra.ph publicado: https://telegra.ph/Descuento-maximo-en-Mercado-Libre-sin-perder-margen-06-06
+  - Tema: descuento maximo en Mercado Libre sin perder margen.
+  - Enlaces incluidos: guia descuento maximo, calculadora gratis, auditoria de descuento USD 19, PayPal, CBU y pedido GitHub.
+- Validaciones:
+  - Articulo externo HTTP 200.
+  - Contiene enlaces a `descuento-maximo-mercado-libre-sin-perder-margen`, calculadora de descuentos, PayPal USD 19 y `auditoria-descuento.yml`.
+- Estado al cierre:
+  - Cobros confirmados: 0.
