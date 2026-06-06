@@ -1295,3 +1295,22 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para hub raiz, llms, humans, sitemap, guia simulador y micrositio calculadora.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 05:19 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; otros ZIPs con 1 descarga; sin cambio y sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- SEO tecnico de conversion:
+  - Calculadora principal actualizada con commit 1661dbe.
+  - Micrositio real `calculadora-descuentos-mercado-libre` actualizado con commit 00e05fd.
+  - Se agregaron datos estructurados `WebApplication`, `HowTo`, `FAQPage`, `BreadcrumbList` y `OrderAction` hacia auditoria de descuento USD 19.
+- Validaciones:
+  - Calculadora principal publica HTTP 200 con FAQ, HowTo, breadcrumbs y OrderAction.
+  - Micrositio publico HTTP 200 con FAQ, HowTo, breadcrumbs y OrderAction.
+  - JSON-LD local y publico parseado correctamente.
+  - IndexNow acepto HTTP 200 para calculadora principal, micrositio, llms del micrositio y landing de auditoria.
+- Estado al cierre:
+  - Cobros confirmados: 0.
