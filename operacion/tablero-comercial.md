@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-06 21:51 ART.
+Ultima actualizacion: 2026-06-06 22:06 ART.
 
 ## Estado financiero real
 
@@ -59,3 +59,4 @@ Revisar:
 - 2026-06-06 21:26 ART: no aparecieron pedidos, trabajos ni leads verificables. Se convirtieron paginas raiz secundarias (`auditoria-descuento-mercado-libre.html`, `auditoria-personalizada.html`, `respuestas-personalizadas.html`, `pro.html`) en derivadores hacia Base USD 5, Auditoria USD 7 y Bundle USD 15, se retiraron enlaces internos secundarios desde la portada y se verifico publicacion 200 sin precios secundarios viejos.
 - 2026-06-06 21:37 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro `por-que-mi-publicacion-no-vende-mercado-libre.html` hacia Auditoria USD 7 y Bundle USD 15, eliminando USD 19, pedido manual y enlaces de auditoria personalizada de esa pagina de alta intencion.
 - 2026-06-06 21:51 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro `herramientas/priorizador-preguntas-mercado-libre.html` hacia Base USD 5 y Bundle USD 15, eliminando USD 29, pedido manual y Apoyar de la herramienta.
+- 2026-06-06 22:06 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentraron `herramientas/generador-respuestas-rapidas-mercado-libre.html` y `herramientas/generador-prompts-ventas-marketplace.html`, retirando USD 29, pedido manual, Pro USD 12 y Apoyar donde quedaban.
