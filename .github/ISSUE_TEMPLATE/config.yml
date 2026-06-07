@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Elegir que comprar
+    url: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+    about: Comparar Base USD 5, Auditoria Express USD 7 y Bundle USD 15.
+  - name: Pagar Kit Base USD 5
+    url: https://paypal.me/SBozicovich/5USD
+    about: Respuestas, prompts, formulas y checklist listos para usar.
+  - name: Pagar Auditoria Express USD 7
+    url: https://paypal.me/SBozicovich/7USD
+    about: Revision guiada para mejorar una publicacion que no convierte.
+  - name: Pagar Bundle USD 15
+    url: https://paypal.me/SBozicovich/15USD
+    about: Opcion recomendada con Base, Auditoria y recursos avanzados.

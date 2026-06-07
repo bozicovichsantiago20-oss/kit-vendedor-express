@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 05:33 ART.
+Ultima actualizacion: 2026-06-07 05:48 ART.
 
 ## Estado financiero real
 
@@ -92,3 +92,4 @@ Revisar:
 - 2026-06-07 05:02 ART: no aparecieron pedidos, trabajos ni leads verificables. GitHub mantiene 6 vistas / 1 unico y muestra 2936 clones / 564 unicos; se registra como senal tecnica de distribucion, no ingreso. No hubo descargas nuevas ni notificaciones accionables del repo.
 - 2026-06-07 05:18 ART: no aparecieron pedidos, trabajos ni leads verificables. Como los clones de GitHub son la senal tecnica mas fuerte, se agrego al inicio de `README.md` una seccion para cloners/lectores de GitHub con CTA directo a Base USD 5, Auditoria USD 7 y Bundle USD 15.
 - 2026-06-07 05:33 ART: no aparecieron pedidos, trabajos ni leads verificables. Se agrego `.github/FUNDING.yml` con links PayPal directos a Base USD 5, Auditoria USD 7 y Bundle USD 15 para aprovechar el trafico/clones de GitHub desde el boton de funding del repo.
+- 2026-06-07 05:48 ART: no aparecieron pedidos, trabajos ni leads verificables. Se retiraron plantillas viejas de Issues con precios/ofertas descartadas y se agrego un selector limpio con compra directa a Base USD 5, Auditoria USD 7, Bundle USD 15 y una consulta publica segura sin datos privados.

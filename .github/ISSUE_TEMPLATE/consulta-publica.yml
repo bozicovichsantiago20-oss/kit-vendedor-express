@@ -1,0 +1,36 @@
+name: Consulta publica segura
+description: Hacer una pregunta general sin publicar datos privados ni comprobantes.
+title: "[CONSULTA] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Usa este formulario solo para consultas generales sobre el producto digital.
+
+        Para comprar sin abrir un issue:
+        - Elegir opcion: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+        - Base USD 5: https://paypal.me/SBozicovich/5USD
+        - Auditoria Express USD 7: https://paypal.me/SBozicovich/7USD
+        - Bundle USD 15: https://paypal.me/SBozicovich/15USD
+
+        No publiques comprobantes, telefonos, emails, claves, datos bancarios, datos de compradores ni informacion sensible.
+  - type: dropdown
+    id: offer
+    attributes:
+      label: Sobre que opcion consultas
+      options:
+        - Kit Base USD 5
+        - Auditoria Express USD 7
+        - Bundle USD 15
+        - Herramienta gratis
+        - No se que comprar
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Consulta
+      description: Escribe la duda sin incluir datos privados.
+      placeholder: "Ej: vendo por Mercado Libre y quiero saber si conviene Base o Bundle..."
+    validations:
+      required: true
