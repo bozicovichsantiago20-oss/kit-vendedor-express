@@ -5,38 +5,31 @@ Site: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
 /* PRODUCT */
 Purpose: ayudar a vendedores online a responder mas rapido, mejorar publicaciones y ordenar postventa.
-Pack: 130+ respuestas, prompts, formulas de titulos, checklist, matriz de reclamos, guiones WhatsApp y plan de 7 dias.
-Pro: 200+ respuestas, objeciones de precio, prompts avanzados, auditoria, seguimiento y recompra.
+Entry: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+Base: 130+ respuestas, prompts, formulas de titulos, checklist, matriz de reclamos, guiones WhatsApp y plan de 7 dias.
 Auditoria: checklist, diagnostico, guion de mejora y plan de 48 horas.
-Bundle: base, auditoria y Pro en una sola descarga.
-Support: aporte rapido para herramientas gratis.
-Microsites: respuestas rapidas, calculadora de precio y auditoria marketplace.
+Bundle: Base, Auditoria Express y recursos avanzados en una sola descarga.
+Microsites: respuestas rapidas, calculadoras, auditoria marketplace, WhatsApp ventas y preguntas de compradores.
 English Landing: free marketplace reply generator page for directories.
-Support Price: USD 1 sugerido.
-Price: USD 5 sugerido.
+Base Price: USD 5 sugerido.
 Audit Price: USD 7 sugerido.
-Pro Price: USD 12 sugerido.
 Bundle Price: USD 15 sugerido.
 PayPal Base: https://paypal.me/SBozicovich/5USD
 PayPal Auditoria: https://paypal.me/SBozicovich/7USD
-PayPal Pro: https://paypal.me/SBozicovich/12USD
 PayPal Bundle: https://paypal.me/SBozicovich/15USD
-PayPal Support: https://paypal.me/SBozicovich/1USD
 CBU: Banco Galicia Argentina 0070034430004032923161
 
 /* LINKS */
-Aporte: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
-English: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
-Checkout: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Empezar: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
-Pro: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+Checkout Base: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Auditoria: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 Bundle: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
+Comparador: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
+English: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
+Prompt Tool: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 Microsite Respuestas: https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
 Microsite Calculadora: https://bozicovichsantiago20-oss.github.io/calculadora-precio-venta-online/
 Microsite Auditoria: https://bozicovichsantiago20-oss.github.io/auditoria-publicacion-marketplace/
-Prompt Tool: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
-ZIP: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip
 Hub: https://bozicovichsantiago20-oss.github.io/
 
 /* NOTE */

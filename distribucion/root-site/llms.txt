@@ -3,89 +3,38 @@
 Producto activo:
 Kit Vendedor Express
 
-URL del hub:
+Hub:
 https://bozicovichsantiago20-oss.github.io/
 
-URL del producto:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+Entrada recomendada:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
-Checkout:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+Sitio del producto:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
 Pago y entrega:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
 
-Compra rapida:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-listas-para-vender-hoy.html
-
-Plantillas para reclamos y devoluciones:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/reclamos-devoluciones-mercado-libre-whatsapp.html
-
-Mensajes de WhatsApp para vender hoy:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/mensajes-whatsapp-para-vender-hoy.html
-
 Resumen:
-Kit Vendedor Express es un producto digital para vendedores online. Incluye 130+ respuestas, bonus por rubro, prompts, formulas de titulos, checklist, matriz de reclamos, guiones WhatsApp y plan de 7 dias.
+Kit Vendedor Express es un producto digital para vendedores online. Ayuda a responder mas rapido, mejorar publicaciones y ordenar postventa.
 
-Version Pro:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+Ofertas activas:
 
-La version Pro cuesta USD 12 sugerido e incluye 200+ respuestas, objeciones de precio, prompts avanzados, auditoria de publicacion, seguimiento de consultas y mensajes de recompra.
+Base USD 5:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+PayPal: https://paypal.me/SBozicovich/5USD
 
-Auditoria Express:
+Auditoria Express USD 7:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
+PayPal: https://paypal.me/SBozicovich/7USD
 
-La auditoria cuesta USD 7 sugerido e incluye checklist de 42 puntos, plantilla de diagnostico, guion de mejora y plan de 48 horas.
-
-Auditoria personalizada:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
-
-La auditoria personalizada cuesta USD 19 sugerido e incluye revision de una publicacion publica, devolucion por GitHub Issue y plan de 48 horas.
-
-Auditoria de descuento Mercado Libre:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
-
-La auditoria de descuento cuesta USD 19 sugerido e incluye revision de precio, promocion, margen, comision y envio antes de activar un descuento.
-
-Respuestas personalizadas:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
-
-Las respuestas personalizadas cuestan USD 29 sugerido e incluyen textos adaptados a un rubro o producto, devolucion por GitHub Issue y respuestas para precio, stock, envio, objeciones, seguimiento y postventa.
-
-Pagina de diagnostico:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
-
-Entrada SEO para vendedores que buscan por que una publicacion no vende y deriva a diagnostico gratis, Auditoria USD 7 o auditoria personalizada USD 19.
-
-Bundle Vendedor Express:
+Bundle USD 15:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
+PayPal: https://paypal.me/SBozicovich/15USD
+Incluye Base, Auditoria Express y recursos avanzados.
 
-El bundle cuesta USD 15 sugerido e incluye pack base, Auditoria Express y Kit Pro en una sola descarga.
-
-Comparador de ofertas:
+Comparador:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
-
-Ayuda a elegir entre herramientas gratis, pack base, Auditoria Express, Pro y Bundle.
-
-Aporte rapido:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
-
-Permite aportar USD 1 por PayPal si una herramienta gratis ahorro tiempo.
-
-English landing:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
-
-Pagina en ingles para directorios de herramientas gratis, con enlace al generador de respuestas y al bundle pago.
-
-English audit landing:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
-
-Pagina en ingles para directorios de herramientas gratis, con auditoria no-login y enlace a Auditoria Express.
-
-English question prioritizer:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html
-
-Pagina en ingles para directorios de herramientas gratis, con priorizacion no-login de preguntas y enlace a respuestas personalizadas.
 
 Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html
@@ -96,7 +45,6 @@ Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-mensajes-whatsapp-ventas.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-auditoria-publicacion-marketplace.html
-- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-listing-audit-generator.html
 
 Guias comerciales:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
@@ -105,14 +53,7 @@ Guias comerciales:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/promociones-mercado-libre-sin-perder-margen.html
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
-- https://gist.github.com/bozicovichsantiago20-oss/5166deaa0d53c6edf470f0e9f3a2062f
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
-- https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
-
-Repos publicos tematicos:
-- https://github.com/bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre
-- https://github.com/bozicovichsantiago20-oss/calculadora-precio-venta-online
-- https://github.com/bozicovichsantiago20-oss/auditoria-publicacion-marketplace
 
 Micrositios publicos tematicos:
 - https://bozicovichsantiago20-oss.github.io/respuestas-rapidas-mercado-libre/
@@ -127,12 +68,8 @@ Micrositios publicos tematicos:
 - https://bozicovichsantiago20-oss.github.io/preguntas-compradores-mercado-libre/
 
 Pago:
-- PayPal aporte USD 1: https://paypal.me/SBozicovich/1USD
-- PayPal base USD 5: https://paypal.me/SBozicovich/5USD
+- PayPal Base USD 5: https://paypal.me/SBozicovich/5USD
 - PayPal Auditoria USD 7: https://paypal.me/SBozicovich/7USD
-- PayPal Auditoria personalizada USD 19: https://paypal.me/SBozicovich/19USD
-- PayPal respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
-- PayPal Pro USD 12: https://paypal.me/SBozicovich/12USD
 - PayPal Bundle USD 15: https://paypal.me/SBozicovich/15USD
 - PayPal generico: https://paypal.me/SBozicovich
 - Banco Galicia Argentina, CBU: 0070034430004032923161
