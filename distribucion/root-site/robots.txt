@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /kit-vendedor-express/pack/
+Disallow: /kit-vendedor-express/pack-auditoria/
+Disallow: /kit-vendedor-express/pack-bundle/
+Disallow: /kit-vendedor-express/pack-recursos-avanzados/
 
 Sitemap: https://bozicovichsantiago20-oss.github.io/sitemap.xml
 Sitemap: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/sitemap.xml
