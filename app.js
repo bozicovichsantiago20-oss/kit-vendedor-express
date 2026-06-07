@@ -160,6 +160,57 @@ if (copyPaypal) {
 }
 
 (function initCommercialTracking() {
+  const ATTRIBUTION_KEY = "kve_first_attribution";
+
+  function readStoredAttribution() {
+    try {
+      return JSON.parse(window.sessionStorage.getItem(ATTRIBUTION_KEY) || "{}");
+    } catch {
+      return {};
+    }
+  }
+
+  function writeStoredAttribution(attribution) {
+    try {
+      window.sessionStorage.setItem(ATTRIBUTION_KEY, JSON.stringify(attribution));
+    } catch {
+      // Tracking should never block checkout or downloads.
+    }
+  }
+
+  function hostnameFrom(value) {
+    try {
+      return value ? new URL(value).hostname : "";
+    } catch {
+      return "";
+    }
+  }
+
+  function getAttribution() {
+    const params = new URLSearchParams(window.location.search);
+    const stored = readStoredAttribution();
+    const current = {
+      source: params.get("src") || params.get("utm_source") || "",
+      campaign: params.get("utm_campaign") || "",
+      medium: params.get("utm_medium") || "",
+      referrer: document.referrer || "",
+      referrer_domain: hostnameFrom(document.referrer)
+    };
+
+    const merged = {
+      source: stored.source || current.source || current.referrer_domain || "direct",
+      campaign: stored.campaign || current.campaign,
+      medium: stored.medium || current.medium,
+      first_referrer: stored.first_referrer || current.referrer,
+      first_referrer_domain: stored.first_referrer_domain || current.referrer_domain
+    };
+
+    writeStoredAttribution(merged);
+    return merged;
+  }
+
+  const attribution = getAttribution();
+
   function classifyCommercialAction(target) {
     const href = target.href || target.dataset?.paypalLink || "";
 
@@ -181,8 +232,14 @@ if (copyPaypal) {
     const payload = {
       event_name: eventName,
       page_path: window.location.pathname,
+      page_search: window.location.search,
       link_text: (target.textContent || "").trim().slice(0, 80),
-      link_url: target.href || target.dataset?.paypalLink || ""
+      link_url: target.href || target.dataset?.paypalLink || "",
+      source: attribution.source,
+      campaign: attribution.campaign,
+      medium: attribution.medium,
+      first_referrer: attribution.first_referrer,
+      first_referrer_domain: attribution.first_referrer_domain
     };
 
     window.kveCommercialEvents = window.kveCommercialEvents || [];

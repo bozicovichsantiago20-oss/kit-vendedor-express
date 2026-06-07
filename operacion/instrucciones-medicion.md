@@ -72,6 +72,15 @@ Estado del sitio:
 - Cuando se agregue Clarity, los mismos clics se marcaran como eventos de sesion.
 - Sin Analytics/Clarity, el navegador deja una cola local de prueba en `window.kveCommercialEvents`.
 - Validacion local 2026-06-07 04:46 ART: Edge real en modo headless confirmo `click_paypal_base`, `click_download_bundle` y `click_paypal_bundle`.
+- Validacion local 2026-06-07 13:28 ART: `app.js` conserva atribucion inicial de origen con `src`, `utm_source`, `utm_campaign`, `utm_medium`, `first_referrer` y `first_referrer_domain`; prueba simulada confirmo `click_paypal_bundle` con origen `github-readme`.
+
+Campos utiles para revisar en eventos:
+
+- `source`: primer origen detectado, por ejemplo `github-readme`, `github.com` o `direct`.
+- `campaign`: campana si la URL trae `utm_campaign`.
+- `medium`: medio si la URL trae `utm_medium`.
+- `first_referrer_domain`: dominio que trajo la visita inicial.
+- `page_path` y `page_search`: pagina y parametros donde ocurrio el clic.
 
 Datos que sirven para agregarlo al sitio:
 
