@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-06 23:27 ART.
+Ultima actualizacion: 2026-06-06 23:43 ART.
 
 ## Estado financiero real
 
@@ -65,3 +65,4 @@ Revisar:
 - 2026-06-06 22:54 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconvirtio `apoyar.html` de aporte USD 1 a puente de compra hacia Base USD 5, Auditoria USD 7 y Bundle USD 15.
 - 2026-06-06 23:11 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro la pagina de distribucion de la calculadora de descuentos Mercado Libre hacia Auditoria USD 7 y Bundle USD 15, retirando USD 19, pedido manual por Issues y accion estructurada vieja.
 - 2026-06-06 23:27 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro el hub raiz de distribucion hacia Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando ofertas secundarias, PayPal viejos y enlaces a pedidos manuales.
+- 2026-06-06 23:43 ART: no aparecieron pedidos, trabajos ni leads verificables. Se verifico publicamente el hub raiz y se reconcentro la pagina de distribucion de preguntas de compradores hacia Base USD 5 y Bundle USD 15, retirando USD 29, Apoyar y pedidos manuales.
