@@ -1935,3 +1935,20 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para la URL publica actualizada.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 23:27 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; auditoria-express-publicacion.zip, kit-vendedor-express-pro.zip y bundle-vendedor-express.zip con 1 descarga cada uno; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion sobre activo existente:
+  - Hub raiz de distribucion `distribucion/root-site/index.html` reconcentrado hacia Base USD 5, Auditoria Express USD 7 y Bundle USD 15.
+  - Se retiraron ofertas secundarias, PayPal viejos y enlaces a pedidos manuales del bloque principal y del catalogo estructurado.
+  - Se cambio el copy de guias para no presentar "respuestas personalizadas" como oferta manual.
+- Validaciones:
+  - JSON-LD local parseado correctamente.
+  - Barrido local sin referencias exactas a USD 1, USD 12, USD 19, USD 29, Pro, Apoyar, pedidos por Issues ni OrderAction.
+- Estado al cierre:
+  - Cobros confirmados: 0.
