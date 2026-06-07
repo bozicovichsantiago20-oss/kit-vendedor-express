@@ -1,6 +1,6 @@
 # Auditoria de rentabilidad - Ganancias 2
 
-Fecha: 2026-06-06 16:48 ART.
+Fecha: 2026-06-07 09:38 ART.
 
 ## Regla de decision
 
@@ -12,13 +12,13 @@ El proyecto no se evalua por cantidad de paginas, commits, micrositios o articul
 - pagos confirmados;
 - evidencia verificable en PayPal, CBU, GitHub Issues o registros publicos.
 
-Estado actual verificado: 0 USD generados, 0 USD por cobrar, 0 pedidos abiertos y 0 vistas GitHub reportadas por la API de traffic del repositorio principal. Las descargas de release no prueban pago y no se cuentan como ingresos.
+Estado actual verificado: 0 USD generados, 0 USD por cobrar, 0 pedidos abiertos, 6 vistas / 1 unico en GitHub y 2936 clones / 564 unicos reportados por la API de traffic del repositorio principal. Las descargas de release no prueban pago y no se cuentan como ingresos; luego del reemplazo de ZIPs, las descargas actuales de Base, Auditoria y Bundle estan en 0.
 
 ## Ranking interno de ofertas
 
 1. Bundle Vendedor Express USD 15
    - Clasificacion: A, genera potencial de venta.
-   - Por que importa: mejor relacion valor/precio y concentra Base, Auditoria Express y Pro.
+   - Por que importa: mejor relacion valor/precio y concentra Base, Auditoria Express y recursos avanzados.
    - Rol: opcion recomendada cuando el visitante no sabe que comprar.
    - Accion: debe aparecer como CTA principal en paginas de decision y herramientas con intencion amplia.
 
@@ -34,20 +34,10 @@ Estado actual verificado: 0 USD generados, 0 USD por cobrar, 0 pedidos abiertos 
    - Rol: oferta principal en calculadoras, guias de precio, descuento y publicaciones.
    - Accion: empujar desde paginas de margen, precio, descuento, envio gratis y diagnostico.
 
-4. Pro USD 12
-   - Clasificacion: B, apoyo/upsell.
-   - Por que importa: puede subir ticket, pero compite con Bundle.
-   - Decision: no expandir como linea principal; usarlo como parte del Bundle.
-
-5. Auditorias personalizadas USD 19 y respuestas personalizadas USD 29
-   - Clasificacion: B, oportunidad de mayor ticket.
-   - Por que importa: ingreso mayor, pero requiere pedido y seguimiento.
-   - Decision: no ponerlas como eje porque el usuario no hara seguimiento comercial manual.
-
-6. Aporte USD 1
-   - Clasificacion: B/C.
-   - Por que importa: baja friccion para usuarios gratis.
-   - Decision: mantener, no dedicar expansion mientras no haya trafico real.
+4. Ofertas secundarias retiradas del foco
+   - Clasificacion: C para esta etapa.
+   - Incluye: Pro separado, auditorias personalizadas, respuestas personalizadas y aporte bajo.
+   - Decision: no expandirlas ni usarlas como CTA principal porque compiten con Base, Auditoria y Bundle o requieren seguimiento manual.
 
 ## Activos A - venta directa
 
