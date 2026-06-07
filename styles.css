@@ -549,6 +549,32 @@ textarea:focus {
   text-decoration: none;
 }
 
+.source-band {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 340px);
+  gap: 18px;
+  align-items: center;
+  width: min(1080px, calc(100vw - 32px));
+  margin: 0 auto 10px;
+  padding: 18px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.44);
+}
+
+.source-band h2 {
+  max-width: 720px;
+}
+
+.source-band p {
+  margin-bottom: 0;
+}
+
+.source-actions {
+  display: grid;
+  gap: 10px;
+}
+
 .choice-section {
   width: min(1080px, calc(100vw - 32px));
   margin: 0 auto;
@@ -768,6 +794,7 @@ textarea:focus {
   }
 
   .start-hero,
+  .source-band,
   .offer-focus,
   .roi-grid {
     grid-template-columns: 1fr;
