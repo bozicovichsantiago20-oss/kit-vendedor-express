@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 03:00 ART.
+Ultima actualizacion: 2026-06-07 03:15 ART.
 
 ## Estado financiero real
 
@@ -79,3 +79,4 @@ Revisar:
 - 2026-06-07 02:27 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentraron `llms.txt`, `humans.txt` y sus equivalentes del hub raiz para que bots y buscadores vean solo Base USD 5, Auditoria USD 7 y Bundle USD 15.
 - 2026-06-07 02:42 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpiaron textos reutilizables de lanzamiento y distribucion, se corrigieron enlaces rotos de bundle/base y se sincronizaron las copias de repos raiz/perfil hacia Base USD 5, Auditoria USD 7 y Bundle USD 15; sitio raiz publico verificado 200 sin referencias viejas tras deploy.
 - 2026-06-07 03:00 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizaron 10 gists publicos existentes y se verificaron 12 gists en total sin referencias a precios/paginas viejas; todos mantienen salida hacia Base USD 5, Auditoria USD 7 o Bundle USD 15.
+- 2026-06-07 03:15 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizaron 8 repos/micrositios tematicos publicos existentes y se verificaron 24 archivos remotos mas 8 micrositios publicados: todos quedaron sin referencias viejas y con salida a Base USD 5, Auditoria USD 7 o Bundle USD 15.
