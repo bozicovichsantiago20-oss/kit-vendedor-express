@@ -113,7 +113,24 @@
           "price": "0",
           "priceCurrency": "USD",
           "availability": "https://schema.org/InStock"
-        }
+        },
+        "potentialAction": [
+          {
+            "@type": "UseAction",
+            "name": "Priorizar pregunta gratis",
+            "target": "https://bozicovichsantiago20-oss.github.io/preguntas-compradores-mercado-libre/"
+          },
+          {
+            "@type": "BuyAction",
+            "name": "Comprar Kit Base USD 5",
+            "target": "https://paypal.me/SBozicovich/5USD"
+          },
+          {
+            "@type": "BuyAction",
+            "name": "Comprar Bundle USD 15",
+            "target": "https://paypal.me/SBozicovich/15USD"
+          }
+        ]
       }
     </script>
   </head>
@@ -125,7 +142,8 @@
       </a>
       <nav aria-label="Enlaces">
         <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html">Herramienta principal</a>
-        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html">Respuestas USD 29</a>
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html">Base USD 5</a>
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html">Bundle USD 15</a>
         <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html">Pago</a>
       </nav>
     </header>
@@ -218,19 +236,21 @@
             alt="Vista previa del Kit Vendedor Express"
           />
           <div>
-            <p class="eyebrow">Servicio pago</p>
-            <h2>Respuestas personalizadas para tu rubro</h2>
+            <p class="eyebrow">Producto digital listo para usar</p>
+            <h2>Plantillas listas para vender</h2>
             <p>
-              Si recibes muchas preguntas parecidas, puedo preparar textos para precio,
-              stock, envio, objeciones, seguimiento y postventa de una linea de producto.
+              Si recibes muchas preguntas parecidas, el Kit Base trae respuestas de precio,
+              stock, envio, objeciones, seguimiento y postventa. El Bundle suma auditoria y mas material.
             </p>
-            <span class="price">USD 29</span>
+            <span class="price">Desde USD 5</span>
           </div>
           <div class="actions">
-            <a class="button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html">Pedir respuestas</a>
-            <a class="button secondary" href="https://paypal.me/SBozicovich/29USD">PayPal USD 29</a>
-            <a class="button secondary" href="https://paypal.me/SBozicovich/1USD">Apoyar USD 1</a>
+            <a class="button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html">Ver Base USD 5</a>
+            <a class="button secondary" href="https://paypal.me/SBozicovich/5USD">PayPal Base</a>
+            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html">Ver Bundle USD 15</a>
+            <a class="button secondary" href="https://paypal.me/SBozicovich/15USD">PayPal Bundle</a>
           </div>
+          <p>Recibis el archivo inmediatamente. Pago por PayPal o transferencia.</p>
           <p>Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.</p>
         </aside>
       </section>
@@ -332,7 +352,7 @@
       byId("copy-output").addEventListener("click", () => {
         navigator.clipboard
           .writeText(byId("output").value)
-          .then(() => showToast("Copiado. Si te ahorro tiempo, puedes apoyar con USD 1."))
+          .then(() => showToast("Copiado. Si te ahorro tiempo, el Kit Base USD 5 trae mas respuestas listas."))
           .catch(() => byId("output").select());
       });
       buildResult();
