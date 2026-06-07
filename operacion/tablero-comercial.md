@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 05:02 ART.
+Ultima actualizacion: 2026-06-07 05:18 ART.
 
 ## Estado financiero real
 
@@ -90,3 +90,4 @@ Revisar:
 - 2026-06-07 04:31 ART: no aparecieron pedidos, trabajos ni leads verificables. Se instrumentaron eventos comerciales en `app.js` y `herramientas.js` para medir clics a PayPal, descargas principales, copiado de CBU/PayPal y uso de herramientas cuando se conecten Analytics o Clarity.
 - 2026-06-07 04:46 ART: no aparecieron pedidos, trabajos ni leads verificables. GitHub marco 6 vistas / 1 unico en el repo principal, sin evidencia de pago. Se valido con Edge real en modo headless que funcionan los eventos `click_paypal_base`, `click_download_bundle` y `click_paypal_bundle`.
 - 2026-06-07 05:02 ART: no aparecieron pedidos, trabajos ni leads verificables. GitHub mantiene 6 vistas / 1 unico y muestra 2936 clones / 564 unicos; se registra como senal tecnica de distribucion, no ingreso. No hubo descargas nuevas ni notificaciones accionables del repo.
+- 2026-06-07 05:18 ART: no aparecieron pedidos, trabajos ni leads verificables. Como los clones de GitHub son la senal tecnica mas fuerte, se agrego al inicio de `README.md` una seccion para cloners/lectores de GitHub con CTA directo a Base USD 5, Auditoria USD 7 y Bundle USD 15.

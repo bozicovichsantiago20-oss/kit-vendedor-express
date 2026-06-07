@@ -9,6 +9,23 @@ Producto digital preparado para monetizar rapido con un sitio estatico:
 
 Sitio publico: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
+## Si llegaste desde GitHub o clonaste el repo
+
+Este repositorio tiene herramientas gratis, pero la monetizacion real esta en tres opciones simples:
+
+- **Kit Base USD 5**: respuestas, prompts, formulas y checklist listos para usar.
+- **Auditoria Express USD 7**: revision guiada para mejorar una publicacion que no convierte.
+- **Bundle USD 15**: opcion recomendada; incluye Base, Auditoria y recursos avanzados.
+
+Para comprar sin perder tiempo:
+
+- Elegir opcion: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+- Pagar Base USD 5: https://paypal.me/SBozicovich/5USD
+- Pagar Auditoria USD 7: https://paypal.me/SBozicovich/7USD
+- Pagar Bundle USD 15: https://paypal.me/SBozicovich/15USD
+
+Producto digital listo para usar. Pago por PayPal o transferencia. Entrega simple mediante descarga.
+
 ## Compra directa
 
 - Empezar y elegir oferta: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
