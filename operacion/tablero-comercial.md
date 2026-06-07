@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-06 23:59 ART.
+Ultima actualizacion: 2026-06-07 00:15 ART.
 
 ## Estado financiero real
 
@@ -67,3 +67,4 @@ Revisar:
 - 2026-06-06 23:27 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro el hub raiz de distribucion hacia Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando ofertas secundarias, PayPal viejos y enlaces a pedidos manuales.
 - 2026-06-06 23:43 ART: no aparecieron pedidos, trabajos ni leads verificables. Se verifico publicamente el hub raiz y se reconcentro la pagina de distribucion de preguntas de compradores hacia Base USD 5 y Bundle USD 15, retirando USD 29, Apoyar y pedidos manuales.
 - 2026-06-06 23:59 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro la pagina inglesa de distribucion `marketplace-question-prioritizer` hacia Base USD 5 y Bundle USD 15, retirando USD 29, soporte USD 1 y servicio manual.
+- 2026-06-07 00:15 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro la pagina de distribucion `publicacion-no-vende-mercado-libre` hacia Auditoria USD 7 y Bundle USD 15, retirando Auditoria USD 19, PayPal 19 y auditoria personalizada.
