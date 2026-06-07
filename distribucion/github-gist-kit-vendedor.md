@@ -49,19 +49,13 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/reclamos-devoluc
 Mensajes de WhatsApp para vender hoy:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/mensajes-whatsapp-para-vender-hoy.html
 
-Bundle recomendado:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
-
-Auditoria Express:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
-
 Auditoria Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
 Calculadora de descuentos:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
-Pedido de auditoria con resultado de calculadora:
+Elegir oferta recomendada:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
 Respuestas listas:
@@ -88,8 +82,8 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-l
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
-Descarga del ZIP:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack/kit-vendedor-express.zip
+Entrega despues de pagar:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
 
 Herramientas gratis:
 - https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-titulos-mercado-libre.html

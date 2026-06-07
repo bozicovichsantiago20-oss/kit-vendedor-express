@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 08:53 ART.
+Ultima actualizacion: 2026-06-07 09:09 ART.
 
 ## Estado financiero real
 
@@ -100,3 +100,4 @@ Revisar:
 - 2026-06-07 07:25 ART: no aparecieron pedidos, trabajos ni leads verificables. Se extendio el mensaje `Ya pague` a descargas visibles de portada, paginas puente, guias comerciales y micrositio de WhatsApp; se elimino el texto de pagar despues y se publico el micrositio remoto `mensajes-whatsapp-ventas`.
 - 2026-06-07 08:36 ART: no aparecieron pedidos, trabajos ni leads verificables. Se envio IndexNow para 15 URLs propias de mayor intencion ya optimizadas, incluyendo `/empezar.html`, checkouts principales, guias comerciales, sitemap y micrositio WhatsApp; la API respondio HTTP 200.
 - 2026-06-07 08:53 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizaron `robots.txt` del producto y del hub raiz para desalentar rastreo de carpetas ZIP directas y favorecer paginas de entrada, pago y decision; el `robots.txt` del hub raiz remoto fue publicado y verificado.
+- 2026-06-07 09:09 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizo el Gist maestro publico para reemplazar enlace ZIP directo por pago y entrega, se limpio una duplicacion de Auditoria y se verificaron Gists publicos sin enlaces directos a ZIPs activos o retirados.
