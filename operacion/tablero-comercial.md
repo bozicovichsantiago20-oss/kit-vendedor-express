@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 07:08 ART.
+Ultima actualizacion: 2026-06-07 07:25 ART.
 
 ## Estado financiero real
 
@@ -97,3 +97,4 @@ Revisar:
 - 2026-06-07 06:25 ART: no aparecieron pedidos, trabajos ni leads verificables. Se regeneraron los ZIPs Base, Auditoria y Bundle con `LEEME-PAGO-Y-ENTREGA.txt` interno, se reemplazo el nombre viejo `Pro` por recursos avanzados dentro del Bundle y se actualizaron los assets de la release con archivos verificados.
 - 2026-06-07 06:56 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio `pago-y-entrega.html` de referencias visibles a recursos `Pro`, se actualizo el sitemap principal, se reconcentro el sitemap del hub raiz en `/empezar.html`, Base, Auditoria y Bundle, y se publico el hub raiz remoto sin el ZIP viejo `pack-pro`.
 - 2026-06-07 07:08 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reforzo el flujo de entrega en `comprar.html`, `auditoria.html`, `bundle.html` y `pago-y-entrega.html`: los botones de descarga ahora dicen `Ya pague` y el checkout indica pagar antes de descargar para reducir descargas sin pago.
+- 2026-06-07 07:25 ART: no aparecieron pedidos, trabajos ni leads verificables. Se extendio el mensaje `Ya pague` a descargas visibles de portada, paginas puente, guias comerciales y micrositio de WhatsApp; se elimino el texto de pagar despues y se publico el micrositio remoto `mensajes-whatsapp-ventas`.
