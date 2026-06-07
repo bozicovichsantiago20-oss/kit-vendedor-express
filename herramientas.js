@@ -13,7 +13,7 @@ function copyToolText(text, message) {
     .then(() => {
       const toast = byId("toast");
       if (!toast) return;
-      toast.textContent = `${message} Si te ahorro tiempo, puedes apoyar USD 1.`;
+      toast.textContent = `${message} Si te ahorro tiempo, el Kit Base esta en USD 5.`;
       toast.classList.add("show");
       window.setTimeout(() => toast.classList.remove("show"), 2600);
     })
@@ -506,3 +506,48 @@ initPromptGenerator();
 initWhatsAppGenerator();
 initAuditGenerator();
 initQuestionPriorityTool();
+
+(function initCommercialTracking() {
+  function classifyCommercialAction(target) {
+    const href = target.href || "";
+
+    if (href.includes("paypal.me/SBozicovich/5USD")) return "click_paypal_base";
+    if (href.includes("paypal.me/SBozicovich/7USD")) return "click_paypal_auditoria";
+    if (href.includes("paypal.me/SBozicovich/15USD")) return "click_paypal_bundle";
+    if (href.includes("pack/kit-vendedor-express.zip")) return "click_download_base";
+    if (href.includes("pack-auditoria/auditoria-express-publicacion.zip")) return "click_download_auditoria";
+    if (href.includes("pack-bundle/bundle-vendedor-express.zip")) return "click_download_bundle";
+    if (target.id === "copy-tool-output") return "copy_tool_output";
+
+    return "";
+  }
+
+  function trackCommercialAction(eventName, target) {
+    if (!eventName) return;
+
+    const payload = {
+      event_name: eventName,
+      page_path: window.location.pathname,
+      link_text: (target.textContent || "").trim().slice(0, 80),
+      link_url: target.href || ""
+    };
+
+    window.kveCommercialEvents = window.kveCommercialEvents || [];
+    window.kveCommercialEvents.push(payload);
+
+    if (typeof window.gtag === "function") {
+      window.gtag("event", eventName, payload);
+    }
+
+    if (typeof window.clarity === "function") {
+      window.clarity("event", eventName);
+    }
+  }
+
+  document.addEventListener("click", (event) => {
+    const source = event.target instanceof Element ? event.target : event.target.parentElement;
+    const target = source?.closest("a[href], button");
+    if (!target) return;
+    trackCommercialAction(classifyCommercialAction(target), target);
+  });
+})();

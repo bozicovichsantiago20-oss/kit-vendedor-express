@@ -58,6 +58,13 @@ Eventos recomendados:
 - click_download_auditoria
 - click_download_bundle
 
+Estado del sitio:
+
+- Estos eventos ya estan preparados en `app.js` y `herramientas.js`.
+- Cuando se agregue Google Analytics, los clics de PayPal y descargas principales se enviaran como eventos.
+- Cuando se agregue Clarity, los mismos clics se marcaran como eventos de sesion.
+- Sin Analytics/Clarity, el navegador deja una cola local de prueba en `window.kveCommercialEvents`.
+
 Datos que sirven para agregarlo al sitio:
 
 - Measurement ID, ejemplo `G-XXXXXXXXXX`.
