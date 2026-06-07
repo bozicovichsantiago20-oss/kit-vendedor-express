@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 06:25 ART.
+Ultima actualizacion: 2026-06-07 06:56 ART.
 
 ## Estado financiero real
 
@@ -95,3 +95,4 @@ Revisar:
 - 2026-06-07 05:48 ART: no aparecieron pedidos, trabajos ni leads verificables. Se retiraron plantillas viejas de Issues con precios/ofertas descartadas y se agrego un selector limpio con compra directa a Base USD 5, Auditoria USD 7, Bundle USD 15 y una consulta publica segura sin datos privados.
 - 2026-06-07 06:03 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizo la release `v1.0.0` para que quien descargue un ZIP vea primero que opcion pagar: Base USD 5, Auditoria USD 7 o Bundle USD 15; se verifico sin referencias a ofertas retiradas.
 - 2026-06-07 06:25 ART: no aparecieron pedidos, trabajos ni leads verificables. Se regeneraron los ZIPs Base, Auditoria y Bundle con `LEEME-PAGO-Y-ENTREGA.txt` interno, se reemplazo el nombre viejo `Pro` por recursos avanzados dentro del Bundle y se actualizaron los assets de la release con archivos verificados.
+- 2026-06-07 06:56 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio `pago-y-entrega.html` de referencias visibles a recursos `Pro`, se actualizo el sitemap principal, se reconcentro el sitemap del hub raiz en `/empezar.html`, Base, Auditoria y Bundle, y se publico el hub raiz remoto sin el ZIP viejo `pack-pro`.
