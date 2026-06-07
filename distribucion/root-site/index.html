@@ -223,41 +223,23 @@
           <p>Producto digital listo para usar. Recibis el archivo inmediatamente y podes pagar por PayPal o transferencia.</p>
           <p>Tambien se puede pagar por transferencia local: Banco Galicia, CBU <strong>0070034430004032923161</strong>.</p>
           <div class="actions">
-            <a class="button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/">
-              Ver producto
+            <a class="button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html">
+              Empezar y elegir oferta
             </a>
-            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html">
-              Empezar
+            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html">
+              Bundle recomendado
             </a>
             <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html">
               Base USD 5
             </a>
-            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html">
-              Pago y entrega
-            </a>
             <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html">
               Auditoria USD 7
-            </a>
-            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html">
-              Por que no vende
-            </a>
-            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html">
-              Bundle USD 15
             </a>
             <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html">
               Comparar ofertas
             </a>
-            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html">
-              English landing
-            </a>
-            <a class="button secondary" href="https://paypal.me/SBozicovich/5USD">
-              PayPal base
-            </a>
-            <a class="button secondary" href="https://paypal.me/SBozicovich/7USD">
-              PayPal auditoria
-            </a>
-            <a class="button secondary" href="https://paypal.me/SBozicovich/15USD">
-              PayPal bundle
+            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html">
+              Pago y entrega
             </a>
           </div>
         </div>
@@ -541,5 +523,44 @@
         </div>
       </section>
     </main>
+    <script>
+      (function initRootCommercialTracking() {
+        function classify(target) {
+          var href = target.href || "";
+          if (href.indexOf("paypal.me/SBozicovich/5USD") !== -1) return "root_click_paypal_base";
+          if (href.indexOf("paypal.me/SBozicovich/7USD") !== -1) return "root_click_paypal_auditoria";
+          if (href.indexOf("paypal.me/SBozicovich/15USD") !== -1) return "root_click_paypal_bundle";
+          if (href.indexOf("/kit-vendedor-express/empezar.html") !== -1) return "root_click_empezar";
+          if (href.indexOf("/kit-vendedor-express/comprar.html") !== -1) return "root_click_base";
+          if (href.indexOf("/kit-vendedor-express/auditoria.html") !== -1) return "root_click_auditoria";
+          if (href.indexOf("/kit-vendedor-express/bundle.html") !== -1) return "root_click_bundle";
+          if (href.indexOf("/kit-vendedor-express/pago-y-entrega.html") !== -1) return "root_click_pago_entrega";
+          if (href.indexOf("/kit-vendedor-express/ofertas.html") !== -1) return "root_click_ofertas";
+          if (href.indexOf("/kit-vendedor-express/") !== -1) return "root_click_producto";
+          return "";
+        }
+
+        function track(eventName, target) {
+          if (!eventName) return;
+          var payload = {
+            event_name: eventName,
+            page_path: window.location.pathname,
+            link_text: (target.textContent || "").trim().slice(0, 80),
+            link_url: target.href || ""
+          };
+          window.kveCommercialEvents = window.kveCommercialEvents || [];
+          window.kveCommercialEvents.push(payload);
+          if (typeof window.gtag === "function") window.gtag("event", eventName, payload);
+          if (typeof window.clarity === "function") window.clarity("event", eventName);
+        }
+
+        document.addEventListener("click", function (event) {
+          var source = event.target instanceof Element ? event.target : event.target.parentElement;
+          var target = source && source.closest ? source.closest("a[href]") : null;
+          if (!target) return;
+          track(classify(target), target);
+        });
+      })();
+    </script>
   </body>
 </html>
