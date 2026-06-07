@@ -1915,3 +1915,23 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
   - IndexNow acepto HTTP 200 para herramienta, `empezar.html` y `sitemap.xml`.
 - Estado al cierre:
   - Cobros confirmados: 0.
+
+## Ronda 2026-06-06 23:13 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; auditoria-express-publicacion.zip, kit-vendedor-express-pro.zip y bundle-vendedor-express.zip con 1 descarga cada uno; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion sobre activo existente:
+  - Pagina de distribucion `distribucion/github-repos/calculadora-descuentos-mercado-libre/index.html` actualizada con commit da05674.
+  - Se retiro el flujo viejo de USD 19, PayPal 19, pedido manual por Issues y OrderAction.
+  - Se centro la venta en Auditoria Express USD 7 y Bundle USD 15 con pago directo y ruta de entrega.
+- Validaciones:
+  - Pagina publica HTTP 200.
+  - Auditoria Express, Bundle USD 15 y PayPal USD 7 visibles.
+  - Referencias viejas USD 19, 19USD, Issues y OrderAction ausentes en la pagina publica.
+  - JSON-LD local parseado correctamente.
+  - IndexNow acepto HTTP 200 para la URL publica actualizada.
+- Estado al cierre:
+  - Cobros confirmados: 0.
