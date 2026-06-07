@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.98</priority>
   </url>
   <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html</loc>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.96</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html</loc>
@@ -43,34 +43,10 @@
     <priority>0.95</priority>
   </url>
   <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.92</priority>
-  </url>
-  <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.88</priority>
-  </url>
-  <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.95</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html</loc>
@@ -80,21 +56,15 @@
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.94</priority>
+    <priority>0.98</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.93</priority>
-  </url>
-  <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html</loc>
@@ -113,24 +83,6 @@
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.86</priority>
-  </url>
-  <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-pro/kit-vendedor-express-pro.zip</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.35</priority>
-  </url>
-  <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-auditoria/auditoria-express-publicacion.zip</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.35</priority>
-  </url>
-  <url>
-    <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pack-bundle/bundle-vendedor-express.zip</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.35</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/llms.txt</loc>
@@ -158,13 +110,13 @@
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.86</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-respuestas-rapidas-mercado-libre.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.86</priority>
   </url>
@@ -176,7 +128,7 @@
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/generador-prompts-ventas-marketplace.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.84</priority>
   </url>
@@ -194,13 +146,13 @@
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-rapidas-mercado-libre.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/mensajes-whatsapp-ventas.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -212,43 +164,43 @@
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-respuestas-ventas-online.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.83</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/pack-vendedor-mercado-libre-whatsapp.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/checklist-publicacion-marketplace.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/calcular-precio-venta-mercado-libre.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
   <url>
     <loc>https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/como-calcular-descuento-mercado-libre.html</loc>
-    <lastmod>2026-06-06</lastmod>
+    <lastmod>2026-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.83</priority>
   </url>
