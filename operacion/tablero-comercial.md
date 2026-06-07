@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 12:16 ART.
+Ultima actualizacion: 2026-06-07 12:26 ART.
 
 ## Estado financiero real
 
@@ -107,3 +107,4 @@ Revisar:
 - 2026-06-07 10:10 ART: no aparecieron pedidos, trabajos ni leads verificables. Se amplio la medicion de clics comerciales a `ofertas.html`, tres paginas de compra rapida y la pagina de diagnostico de publicacion; las 11 paginas principales con PayPal o descarga ya cargan `app.js`, se verificaron publicamente las 5 paginas actualizadas y se enviaron a IndexNow con HTTP 200.
 - 2026-06-07 10:24 ART: no aparecieron pedidos, trabajos ni leads verificables. Como la unica ruta popular de GitHub es el overview del repo, se optimizo el primer bloque de `README.md` para abrir con oferta, precios, entrada recomendada y pago directo en lugar de detalles tecnicos.
 - 2026-06-07 12:16 ART: no aparecieron pedidos, trabajos ni leads verificables. Se auditaron repos publicos relacionados: sin issues abiertos; el hub raiz y perfil muestran clones tecnicos altos. Se agrego README comercial al repo del hub raiz y se ajusto el About de hub/perfil hacia `empezar.html` con Base USD 5, Auditoria USD 7 y Bundle USD 15.
+- 2026-06-07 12:26 ART: no aparecieron pedidos, trabajos ni leads verificables. Se agrego `.github/FUNDING.yml` con links PayPal Base USD 5, Auditoria USD 7 y Bundle USD 15 en seis repos publicos con clones tecnicos, y se verifico remoto que todos contienen los tres enlaces.
