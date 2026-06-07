@@ -3,7 +3,7 @@
 Hub publico del producto digital para vendedores online.
 
 Entrada recomendada para comprar:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=root-readme&utm_campaign=hub-root
 
 ## Opciones activas
 
@@ -16,7 +16,7 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
 ## Paginas principales
 
-- Empezar: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+- Empezar: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=root-readme&utm_campaign=hub-root
 - Pago y entrega: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
 - Comparador: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
 - Sitio principal: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
