@@ -36,7 +36,6 @@ El error comun es sumar margen solo sobre el costo y olvidarse de cargos que se 
 ## Productos descargables
 
 - Auditoria Express USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
-- Pro USD 12: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 - Bundle USD 15: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 ## Pago

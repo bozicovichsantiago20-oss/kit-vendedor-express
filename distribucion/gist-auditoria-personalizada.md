@@ -1,4 +1,4 @@
-# Auditoria personalizada express de publicacion
+# Auditoria Express express de publicacion
 
 Servicio para vendedores online que tienen una publicacion publica trabada y necesitan una devolucion concreta antes de bajar precio.
 
@@ -13,24 +13,24 @@ Servicio para vendedores online que tienen una publicacion publica trabada y nec
 
 ## Precio
 
-USD 19 por una publicacion publica.
+USD 7 por una publicacion publica.
 
 PayPal:
-https://paypal.me/SBozicovich/19USD
+https://paypal.me/SBozicovich/7USD
 
 Transferencia Argentina:
 Banco Galicia, CBU 0070034430004032923161
 
 ## Pedir auditoria
 
-1. Paga USD 19 o equivalente local.
+1. Paga USD 7 o equivalente local.
 2. Abre el pedido publico.
 3. Pega link de la publicacion y una referencia no sensible de pago.
 
 Pagina:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
 Pedido:
-https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-personalizada.yml
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
 No compartir datos privados, claves, telefonos personales ni informacion sensible.

@@ -10,9 +10,9 @@ Enlaces incluidos:
 - Guia principal: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
 - Calculadora gratis: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 - Descuento maximo: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
-- Auditoria de descuento USD 19: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
-- Pedido con resultado: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
-- PayPal USD 19: https://paypal.me/SBozicovich/19USD
+- Auditoria Express USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
+- Pedido con resultado: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+- PayPal USD 7: https://paypal.me/SBozicovich/7USD
 - CBU Banco Galicia: 0070034430004032923161
 
 Estado de verificacion:

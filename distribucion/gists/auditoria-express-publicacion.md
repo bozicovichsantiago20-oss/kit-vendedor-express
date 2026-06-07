@@ -40,7 +40,7 @@ Banco Galicia, CBU 0070034430004032923161.
 Pack base USD 5:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
-Pack Pro USD 12:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+Bundle USD 15:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

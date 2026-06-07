@@ -1,14 +1,14 @@
-# Kit Vendedor Express Pro
+# Bundle Vendedor Express
 
 Pack digital para vendedores online que quieren responder mas rapido, ordenar publicaciones y mejorar postventa.
 
 URL:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 ## Que incluye
 
 - Todo el Kit Vendedor Express base.
-- 200+ respuestas entre base, bonus y Pro.
+- 200+ respuestas entre base, bonus y recursos avanzados.
 - Objeciones de precio, envio, descuento y comparacion.
 - Prompts avanzados para mejorar publicaciones.
 - Auditoria de publicacion para Mercado Libre.
@@ -36,10 +36,10 @@ Temas cubiertos:
 
 ## Precio
 
-Precio sugerido Pro: USD 12 o equivalente local.
+Precio sugerido Bundle: USD 15 o equivalente local.
 
 PayPal:
-https://paypal.me/SBozicovich/12USD
+https://paypal.me/SBozicovich/15USD
 
 Transferencia Argentina:
 Banco Galicia, CBU 0070034430004032923161.

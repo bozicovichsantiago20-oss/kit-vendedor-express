@@ -41,15 +41,15 @@ Casos de uso:
 
 Oferta relacionada:
 
-Auditoria de descuento Mercado Libre, USD 19:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+Calculadora de descuentos, USD 7:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
 Pedido con resultado de calculadora:
-https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
 Pago:
 
-- PayPal USD 19: https://paypal.me/SBozicovich/19USD
+- PayPal USD 7: https://paypal.me/SBozicovich/7USD
 - Banco Galicia Argentina, CBU 0070034430004032923161
 
 Producto independiente, no afiliado a Mercado Libre.

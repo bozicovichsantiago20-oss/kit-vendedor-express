@@ -36,23 +36,23 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/reclamos-devoluc
 Mensajes de WhatsApp para vender hoy:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/mensajes-whatsapp-para-vender-hoy.html
 
-Version Pro:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+Bundle recomendado:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 Auditoria Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
-Auditoria personalizada:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
+Auditoria Express:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
-Auditoria de descuento Mercado Libre:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+Calculadora de descuentos:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
 Pedido de auditoria con resultado de calculadora:
-https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
-Respuestas personalizadas:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
+Respuestas listas:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
 Diagnostico de publicacion que no vende:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/por-que-mi-publicacion-no-vende-mercado-libre.html
@@ -63,8 +63,8 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 Comparador de ofertas:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
 
-Aporte rapido USD 1:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
+Base USD 5:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
 English landing para directorios:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-reply-generator.html
@@ -88,17 +88,13 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.h
 
 Base USD 5: https://paypal.me/SBozicovich/5USD
 Auditoria USD 7: https://paypal.me/SBozicovich/7USD
-Pro USD 12: https://paypal.me/SBozicovich/12USD
 Bundle USD 15: https://paypal.me/SBozicovich/15USD
-Auditoria personalizada/descuento USD 19: https://paypal.me/SBozicovich/19USD
-Respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
 
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
-Pago sugerido: USD 1 aporte, USD 5 base, USD 7 auditoria, USD 12 Pro, USD 15 bundle o USD 19 auditoria personalizada/descuento por PayPal o transferencia local.
-Aporte: https://paypal.me/SBozicovich/1USD
-Auditoria personalizada/descuento: https://paypal.me/SBozicovich/19USD
-Respuestas personalizadas: https://paypal.me/SBozicovich/29USD
+Pago sugerido: USD 5 base, USD 7 Auditoria Express o USD 15 bundle por PayPal o transferencia local.
+Base: https://paypal.me/SBozicovich/5USD
+Auditoria Express: https://paypal.me/SBozicovich/7USD
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
 ## Herramientas gratis
@@ -121,7 +117,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 - Descuento maximo en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/descuento-maximo-mercado-libre-sin-perder-margen.html
 - Promociones en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/promociones-mercado-libre-sin-perder-margen.html
 - Simulador de promociones Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/simulador-promociones-mercado-libre.html
-- Respuestas personalizadas para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
+- Respuestas listas para vendedores online: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 - Envio gratis en Mercado Libre sin perder margen: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/envio-gratis-mercado-libre-sin-perder-margen.html
 - Plantillas de atencion al cliente para ecommerce: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/plantillas-atencion-cliente-ecommerce.html
 
@@ -129,7 +125,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
 - Respuestas rapidas para Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/252211100ce0625b3577e56c166586c5
 - Calculadora de precio para venta online: https://gist.github.com/bozicovichsantiago20-oss/861016d8cfb2c191038811131dd360d5
-- Kit Vendedor Express Pro: https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
+- Bundle Vendedor Express: https://gist.github.com/bozicovichsantiago20-oss/1e1bc183de5dd63fd309c577c18ba62f
 - Auditoria Express de Publicacion: https://gist.github.com/bozicovichsantiago20-oss/9ba4251254b605484fadc516831fbcbf
 - Bundle Vendedor Express: https://gist.github.com/bozicovichsantiago20-oss/c6dae9a11883443a07abe230f6592ad4
 - Plantillas de atencion al cliente ecommerce: https://gist.github.com/bozicovichsantiago20-oss/ebc49e534b18ed2838e47c78f05c9ca8

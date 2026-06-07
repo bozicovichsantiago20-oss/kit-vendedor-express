@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 02:27 ART.
+Ultima actualizacion: 2026-06-07 02:42 ART.
 
 ## Estado financiero real
 
@@ -77,3 +77,4 @@ Revisar:
 - 2026-06-07 01:57 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro `sitemap.xml` para priorizar `/empezar.html`, Base, Auditoria y Bundle, retirando paginas de ofertas descartadas y ZIPs directos del mapa de indexacion.
 - 2026-06-07 02:12 ART: no aparecieron pedidos, trabajos ni leads verificables. Se marcaron cinco paginas puente antiguas como `noindex,follow`, se ajustaron canonicals hacia `/empezar.html`, `comprar.html`, `auditoria.html` o `bundle.html`, y se retiro texto residual de oferta vieja.
 - 2026-06-07 02:27 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentraron `llms.txt`, `humans.txt` y sus equivalentes del hub raiz para que bots y buscadores vean solo Base USD 5, Auditoria USD 7 y Bundle USD 15.
+- 2026-06-07 02:42 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpiaron textos reutilizables de lanzamiento y distribucion, se corrigieron enlaces rotos de bundle/base y se sincronizaron las copias de repos raiz/perfil hacia Base USD 5, Auditoria USD 7 y Bundle USD 15.

@@ -23,14 +23,14 @@ Que revisar:
 - margen minimo deseado
 - precio minimo para conservar margen
 
-Auditoria de descuento Mercado Libre, USD 19:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+Calculadora de descuentos, USD 7:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
 Pedido con resultado de calculadora:
-https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
-PayPal USD 19:
-https://paypal.me/SBozicovich/19USD
+PayPal USD 7:
+https://paypal.me/SBozicovich/7USD
 
 Transferencia Argentina:
 Banco Galicia, CBU 0070034430004032923161

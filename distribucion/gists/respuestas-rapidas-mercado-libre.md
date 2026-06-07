@@ -10,8 +10,8 @@ Prepare un recurso simple para copiar respuestas y ordenar la atencion:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-rapidas-mercado-libre.html
 - Pack base con 130+ respuestas:
   https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
-- Pack Pro con 200+ respuestas:
-  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+- Bundle con 200+ respuestas:
+  https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 ## Ejemplos
 
@@ -39,11 +39,11 @@ Hola. Lamentamos el inconveniente. Escribinos por el chat de la compra con foto 
 
 Precio sugerido pack base: USD 5.
 
-Precio sugerido pack Pro: USD 12.
+Precio sugerido Bundle: USD 15.
 
 PayPal:
 - Base USD 5: https://paypal.me/SBozicovich/5USD
-- Pro USD 12: https://paypal.me/SBozicovich/12USD
+- Bundle USD 15: https://paypal.me/SBozicovich/15USD
 
 Transferencia Argentina:
 Banco Galicia, CBU 0070034430004032923161.

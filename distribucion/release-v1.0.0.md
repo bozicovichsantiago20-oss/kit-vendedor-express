@@ -8,11 +8,7 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.h
 Opciones:
 - Base USD 5: https://paypal.me/SBozicovich/5USD
 - Auditoria Express USD 7: https://paypal.me/SBozicovich/7USD
-- Pro USD 12: https://paypal.me/SBozicovich/12USD
 - Bundle USD 15: https://paypal.me/SBozicovich/15USD
-- Auditoria personalizada USD 19: https://paypal.me/SBozicovich/19USD
-- Respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
-- Aporte USD 1: https://paypal.me/SBozicovich/1USD
 - Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161
 
 ## Descargas
@@ -20,8 +16,7 @@ Opciones:
 Los ZIP estan adjuntos en esta release:
 - kit-vendedor-express.zip: pack base.
 - auditoria-express-publicacion.zip: checklist y plan de publicacion.
-- kit-vendedor-express-pro.zip: pack ampliado.
-- bundle-vendedor-express.zip: base + auditoria + Pro.
+- bundle-vendedor-express.zip: base + auditoria + recursos avanzados.
 
 ## Paginas de compra
 
@@ -30,12 +25,9 @@ Los ZIP estan adjuntos en esta release:
 - Mensajes WhatsApp USD 5: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/mensajes-whatsapp-para-vender-hoy.html
 - Reclamos/devoluciones USD 5: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/reclamos-devoluciones-mercado-libre-whatsapp.html
 - Auditoria Express USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
-- Auditoria personalizada USD 19: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
-- Respuestas personalizadas USD 29: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
-- Pro USD 12: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 - Bundle USD 15: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 - Comparador: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
-- Guia respuestas personalizadas: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
+- Guia Respuestas listas: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/guias/respuestas-personalizadas-vendedores-online.html
 
 ## Herramientas gratis
 
@@ -69,10 +61,9 @@ Los ZIP estan adjuntos en esta release:
 
 ## Pedidos personalizados
 
-- Auditoria de descuento Mercado Libre USD 19: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
-- Pedido de auditoria con resultado de calculadora USD 19: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+- Calculadora de descuentos USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
+- Pedido de auditoria con resultado de calculadora USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 - Gist simulador promociones Mercado Libre: https://gist.github.com/bozicovichsantiago20-oss/5166deaa0d53c6edf470f0e9f3a2062f
-- Pedido de auditoria personalizada USD 19: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-personalizada.yml
-- Pedido de respuestas personalizadas USD 29: https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml
+- Pedido de Auditoria Express USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
 Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

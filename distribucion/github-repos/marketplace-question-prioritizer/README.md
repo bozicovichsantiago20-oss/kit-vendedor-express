@@ -12,10 +12,10 @@ What it does:
 - Does not require signup, API keys or customer data upload.
 
 Paid optional service:
-Custom replies for Spanish-speaking sellers, USD 29.
+Custom replies for Spanish-speaking sellers, USD 15.
 
 Payment:
-- PayPal: https://paypal.me/SBozicovich/29USD
+- PayPal: https://paypal.me/SBozicovich/15USD
 - Argentina transfer: Banco Galicia, CBU 0070034430004032923161
 
 Independent product, not affiliated with Mercado Libre, Meta, WhatsApp or Instagram.

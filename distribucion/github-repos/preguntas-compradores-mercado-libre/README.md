@@ -9,13 +9,13 @@ Sirve para:
 - ordenar preguntas P1/P2/P3
 - responder stock, envio, precio y compatibilidad
 - evitar perder compradores por demora
-- derivar a respuestas personalizadas por rubro
+- derivar a Respuestas listas por rubro
 
 Oferta paga opcional:
-Respuestas personalizadas para una linea de producto, USD 29.
+Respuestas listas para una linea de producto, USD 15.
 
 Pago:
-- PayPal: https://paypal.me/SBozicovich/29USD
+- PayPal: https://paypal.me/SBozicovich/15USD
 - Banco Galicia Argentina, CBU 0070034430004032923161
 
 Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

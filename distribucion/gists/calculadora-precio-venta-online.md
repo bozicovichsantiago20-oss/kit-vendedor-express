@@ -22,14 +22,14 @@ El error comun es sumar margen solo sobre el costo y olvidarse de cargos que se 
 Kit Vendedor Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 
-Kit Vendedor Express Pro:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+Bundle Vendedor Express:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
-El Pro incluye 200+ respuestas, objeciones de precio, prompts avanzados, auditoria de publicacion y seguimiento de consultas.
+El bundle incluye Base, Auditoria Express y recursos avanzados con 200+ respuestas, objeciones de precio, prompts y seguimiento de consultas.
 
 PayPal:
 - Base USD 5: https://paypal.me/SBozicovich/5USD
-- Pro USD 12: https://paypal.me/SBozicovich/12USD
+- Bundle USD 15: https://paypal.me/SBozicovich/15USD
 
 Transferencia Argentina:
 Banco Galicia, CBU 0070034430004032923161.

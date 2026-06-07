@@ -4,7 +4,7 @@ Tres productos digitales para vendedores online en una sola descarga:
 
 - Kit Vendedor Express base.
 - Auditoria Express de Publicacion.
-- Kit Vendedor Express Pro.
+- Bundle Vendedor Express.
 
 URL:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
@@ -13,7 +13,7 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 - 130+ respuestas del pack base.
 - Auditoria de publicacion con checklist y plan de 48 horas.
-- Kit Pro con 200+ respuestas, objeciones, seguimiento y recompra.
+- recursos avanzados con 200+ respuestas, objeciones, seguimiento y recompra.
 - Herramientas gratis para generar respuestas, titulos y calcular precio.
 
 ## Precio
@@ -37,7 +37,7 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 Auditoria USD 7:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
-Pro USD 12:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
+Bundle USD 15:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.

@@ -16,11 +16,11 @@ Casos:
 - seguimiento de ventas online
 
 Oferta paga:
-Respuestas personalizadas para vendedores online, USD 29.
+Respuestas listas para vendedores online, USD 15.
 
 Pago:
-- PayPal USD 29: https://paypal.me/SBozicovich/29USD
-- PayPal apoyo USD 1: https://paypal.me/SBozicovich/1USD
+- PayPal USD 15: https://paypal.me/SBozicovich/15USD
+- PayPal apoyo USD 5: https://paypal.me/SBozicovich/5USD
 - Banco Galicia Argentina, CBU: 0070034430004032923161
 
 Sitio principal:

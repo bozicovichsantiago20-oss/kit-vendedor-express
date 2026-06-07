@@ -38,7 +38,6 @@ Hola. Lamentamos el inconveniente. Enviame foto/video, detalle y numero de compr
 
 - Base USD 5: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 - Auditoria USD 7: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
-- Pro USD 12: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
 - Bundle USD 15: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 
 ## Pago

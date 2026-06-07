@@ -12,7 +12,7 @@ Auditoria Express de Publicacion:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
-Bundle con base + auditoria + Pro:
+Bundle con base + auditoria + recursos avanzados:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 

@@ -1,4 +1,4 @@
-# Textos de distribucion - Auditoria de descuento Mercado Libre
+# Textos de distribucion - Calculadora de descuentos
 
 Usar solo en espacios donde este permitido compartir recursos para vendedores. No publicar como spam ni prometer resultados garantizados.
 
@@ -21,10 +21,10 @@ Sirve para revisar:
 Calculadora gratis:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
-Si el numero queda justo, tambien hay una auditoria de descuento USD 19: reviso una publicacion publica, el resultado de la calculadora y te devuelvo que cambiaria antes de bajar precio.
+Si el numero queda justo, tambien hay una Auditoria Express USD 7: reviso una publicacion publica, el resultado de la calculadora y te devuelvo que cambiaria antes de bajar precio.
 
-Auditoria de descuento:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+Auditoria Express:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
 No es oficial ni afiliado a Mercado Libre. Es una herramienta practica para vendedores.
 
@@ -32,16 +32,16 @@ No es oficial ni afiliado a Mercado Libre. Es una herramienta practica para vend
 
 Hola. Si estas por hacer una promo en Mercado Libre, te paso una herramienta gratis que calcula si el descuento te deja margen:
 
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
 Cargas precio, costo, comision, envio y descuento. Te dice precio promocional, ganancia estimada y descuento maximo para no quedar justo.
 
-Si queres que revise una publicacion concreta antes de bajar precio, tengo auditoria de descuento USD 19:
+Si queres que revise una publicacion concreta antes de bajar precio, tengo Auditoria Express USD 7:
 
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
-PayPal USD 19:
-https://paypal.me/SBozicovich/19USD
+PayPal USD 7:
+https://paypal.me/SBozicovich/7USD
 
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
@@ -64,16 +64,16 @@ Permite cargar:
 Calculadora gratis:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
-Si el resultado queda justo o no sabes si conviene bajar precio, tambien ofrezco una auditoria de descuento USD 19. Reviso una publicacion publica, el resultado de la calculadora y preparo un plan de 48 horas para precio, margen y conversion.
+Si el resultado queda justo o no sabes si conviene bajar precio, tambien ofrezco una Auditoria Express USD 7. Reviso una publicacion publica, el resultado de la calculadora y preparo un plan de 48 horas para precio, margen y conversion.
 
-Auditoria de descuento:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+Auditoria Express:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
 Pedido con resultado:
-https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
-PayPal USD 19:
-https://paypal.me/SBozicovich/19USD
+PayPal USD 7:
+https://paypal.me/SBozicovich/7USD
 
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
@@ -87,7 +87,7 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/cal
 
 Calcula precio promocional, comisiones, envio absorbido, ganancia estimada y descuento maximo para conservar margen.
 
-Para casos donde el margen queda justo, tambien hay auditoria de descuento USD 19:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
+Para casos donde el margen queda justo, tambien hay Auditoria Express USD 7:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
 Producto independiente, no afiliado a Mercado Libre.

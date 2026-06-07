@@ -28,7 +28,7 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/gen
 
 - Bundle Vendedor Express USD 15: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 - PayPal bundle: https://paypal.me/SBozicovich/15USD
-- Aporte USD 1: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
+- Base USD 5: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
 - Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161
 
 Producto independiente, no afiliado a Mercado Libre, Meta, WhatsApp ni Instagram.
