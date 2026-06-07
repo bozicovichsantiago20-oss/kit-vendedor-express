@@ -64,6 +64,7 @@ Estado del sitio:
 - Cuando se agregue Google Analytics, los clics de PayPal y descargas principales se enviaran como eventos.
 - Cuando se agregue Clarity, los mismos clics se marcaran como eventos de sesion.
 - Sin Analytics/Clarity, el navegador deja una cola local de prueba en `window.kveCommercialEvents`.
+- Validacion local 2026-06-07 04:46 ART: Edge real en modo headless confirmo `click_paypal_base`, `click_download_bundle` y `click_paypal_bundle`.
 
 Datos que sirven para agregarlo al sitio:
 

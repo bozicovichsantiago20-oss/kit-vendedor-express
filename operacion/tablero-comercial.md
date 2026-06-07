@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 04:31 ART.
+Ultima actualizacion: 2026-06-07 04:46 ART.
 
 ## Estado financiero real
 
@@ -11,7 +11,7 @@ Ultima actualizacion: 2026-06-07 04:31 ART.
 | Pagos confirmados | 0 | Sin acceso/evidencia PayPal o Banco Galicia |
 | Pedidos | 0 | `gh issue list` devolvio lista vacia |
 | Leads | 0 | No hay formularios ni pedidos reales registrados |
-| Trafico GitHub principal | 0 vistas / 0 unicos | `gh api repos/.../traffic/views` |
+| Trafico GitHub principal | 6 vistas / 1 unico | `gh api repos/.../traffic/views`; no contar como venta |
 
 ## Descargas que NO se cuentan como ingreso
 
@@ -19,7 +19,7 @@ Ultima actualizacion: 2026-06-07 04:31 ART.
 |---|---:|---|
 | `kit-vendedor-express.zip` | 2 | No contar como venta sin pago |
 | `auditoria-express-publicacion.zip` | 1 | No contar como venta sin pago |
-| `kit-vendedor-express-pro.zip` | 1 | Activo separado retirado de la release; no contar como venta sin pago |
+| `kit-vendedor-express-pro.zip` | Retirado | Activo separado retirado de la release; no contar como venta |
 | `bundle-vendedor-express.zip` | 0 | Activo actualizado en release; no contar descargas como venta sin pago |
 
 ## Canales con mejor rendimiento
@@ -85,3 +85,4 @@ Revisar:
 - 2026-06-07 04:00 ART: no aparecieron pedidos, trabajos ni leads verificables. Se normalizo el registro interno de canales de distribucion para retirar senales operativas de ofertas y precios retirados, Apoyar y pedidos por Issues; el mapa queda alineado a Base USD 5, Auditoria USD 7 y Bundle USD 15.
 - 2026-06-07 04:16 ART: no aparecieron pedidos, trabajos ni leads verificables. Se preparo la guia operativa de medicion y conectores para completar Search Console, Bing Webmaster, Analytics, Clarity, PayPal actividad, Gmail y GitHub sin compartir contrasenas ni datos sensibles.
 - 2026-06-07 04:31 ART: no aparecieron pedidos, trabajos ni leads verificables. Se instrumentaron eventos comerciales en `app.js` y `herramientas.js` para medir clics a PayPal, descargas principales, copiado de CBU/PayPal y uso de herramientas cuando se conecten Analytics o Clarity.
+- 2026-06-07 04:46 ART: no aparecieron pedidos, trabajos ni leads verificables. GitHub marco 6 vistas / 1 unico en el repo principal, sin evidencia de pago. Se valido con Edge real en modo headless que funcionan los eventos `click_paypal_base`, `click_download_bundle` y `click_paypal_bundle`.
