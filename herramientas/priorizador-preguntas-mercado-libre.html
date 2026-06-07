@@ -37,7 +37,7 @@
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#webpage",
             "name": "Priorizador de preguntas para Mercado Libre",
             "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html",
-            "description": "Herramienta gratis para ordenar consultas de compradores y derivar a respuestas personalizadas para vendedores online.",
+            "description": "Herramienta gratis para ordenar consultas de compradores y derivar a Kit Base USD 5 o Bundle USD 15.",
             "isPartOf": {
               "@type": "WebSite",
               "name": "Kit Vendedor Express",
@@ -48,7 +48,7 @@
                 "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#use"
               },
               {
-                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#order"
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#buy-bundle"
               }
             ]
           },
@@ -76,26 +76,39 @@
             "target": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html"
           },
           {
-            "@type": "Offer",
-            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#custom-replies-offer",
-            "name": "Respuestas personalizadas para vendedores USD 29",
-            "price": "29",
-            "priceCurrency": "USD",
-            "availability": "https://schema.org/InStock",
-            "url": "https://paypal.me/SBozicovich/29USD"
+            "@type": "Product",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#bundle-product",
+            "name": "Bundle Vendedor Express USD 15",
+            "description": "Pack digital con respuestas listas, auditoria de publicacion, calculos y recursos para vender online.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Kit Vendedor Express"
+            },
+            "offers": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#bundle-offer"
+            }
           },
           {
-            "@type": "OrderAction",
-            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#order",
-            "name": "Pedir respuestas personalizadas USD 29",
-            "target": "https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml",
+            "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#bundle-offer",
+            "name": "Bundle Vendedor Express USD 15",
+            "price": "15",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/15USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#buy-bundle",
+            "name": "Pagar Bundle Vendedor Express USD 15",
+            "target": "https://paypal.me/SBozicovich/15USD",
             "priceSpecification": {
               "@type": "PriceSpecification",
-              "price": "29",
+              "price": "15",
               "priceCurrency": "USD"
             },
             "object": {
-              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#custom-replies-offer"
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/priorizador-preguntas-mercado-libre.html#bundle-product"
             }
           },
           {
@@ -119,8 +132,8 @@
               {
                 "@type": "HowToStep",
                 "position": 3,
-                "name": "Pedir respuestas para el rubro",
-                "text": "Si recibes preguntas repetidas, pide el servicio USD 29 para tener respuestas personalizadas listas para copiar."
+                "name": "Elegir el pack de respuestas",
+                "text": "Si recibes preguntas repetidas, compra el Kit Base USD 5 o el Bundle USD 15 para tener respuestas y recursos listos para copiar."
               }
             ]
           },
@@ -141,7 +154,7 @@
                 "name": "Cuando conviene pedir respuestas personalizadas?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Conviene pedirlas cuando recibes preguntas repetidas sobre precio, stock, envio, garantia, medidas, objeciones o postventa y quieres textos adaptados al rubro."
+                  "text": "Conviene comprar el Kit Base o el Bundle cuando recibes preguntas repetidas sobre precio, stock, envio, garantia, medidas, objeciones o postventa y quieres textos listos para adaptar."
                 }
               }
             ]
@@ -182,8 +195,8 @@
       </a>
       <nav class="nav" aria-label="Secciones">
         <a href="../index.html#herramientas">Herramientas</a>
-        <a href="../respuestas-personalizadas.html">Servicio USD 29</a>
-        <a href="../bundle.html">Bundle</a>
+        <a href="../comprar.html">Base USD 5</a>
+        <a href="../bundle.html">Bundle USD 15</a>
         <a href="../pago-y-entrega.html">Pagar</a>
       </nav>
     </header>
@@ -283,17 +296,16 @@
         </section>
 
         <div class="guide-cta">
-          <h2>Quieres un set hecho para tu rubro?</h2>
+          <h2>Quieres respuestas listas para copiar?</h2>
           <p>
-            El servicio de respuestas personalizadas prepara textos para precio, stock, envio,
-            objeciones, seguimiento y postventa de un rubro o linea de producto.
+            El Kit Base incluye respuestas rapidas para precio, stock, envio, objeciones,
+            seguimiento y postventa. El Bundle suma auditoria, calculos y recursos de venta.
           </p>
           <div class="payment-actions">
-            <a class="primary-button" href="../respuestas-personalizadas.html">Pedir respuestas USD 29</a>
-            <a class="secondary-button" href="https://paypal.me/SBozicovich/29USD" target="_blank" rel="noopener">PayPal USD 29</a>
-            <a class="secondary-button" href="https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=respuestas-personalizadas.yml" target="_blank" rel="noopener">Abrir pedido</a>
-            <a class="secondary-button" href="../bundle.html">Bundle USD 15</a>
-            <a class="secondary-button" href="../apoyar.html">Apoyar USD 1</a>
+            <a class="primary-button" href="../comprar.html">Comprar Base USD 5</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/5USD" target="_blank" rel="noopener">PayPal USD 5</a>
+            <a class="secondary-button" href="../bundle.html">Ver Bundle USD 15</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">PayPal USD 15</a>
           </div>
           <p class="trust-note">Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.</p>
         </div>
