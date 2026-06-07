@@ -1,8 +1,8 @@
 # Funding GitHub - repos con clones
 
-Fecha: 2026-06-07 12:26 ART.
+Fecha: 2026-06-07 12:42 ART.
 
-Accion segura sin gasto: se agrego `.github/FUNDING.yml` con links PayPal directos en los repos publicos con mas clones tecnicos disponibles.
+Accion segura sin gasto: se agrego `.github/FUNDING.yml` con links PayPal directos en repos publicos con clones tecnicos disponibles.
 
 Links incluidos:
 
@@ -18,6 +18,12 @@ Repos actualizados y verificados:
 - `bozicovichsantiago20-oss/respuestas-rapidas-mercado-libre`
 - `bozicovichsantiago20-oss/calculadora-precio-venta-online`
 - `bozicovichsantiago20-oss/auditoria-publicacion-marketplace`
+- `bozicovichsantiago20-oss/publicacion-no-vende-mercado-libre`
+- `bozicovichsantiago20-oss/marketplace-question-prioritizer`
+- `bozicovichsantiago20-oss/preguntas-compradores-mercado-libre`
+- `bozicovichsantiago20-oss/calcular-precio-mercado-libre`
+- `bozicovichsantiago20-oss/plantillas-atencion-cliente-ecommerce`
+- `bozicovichsantiago20-oss/mensajes-whatsapp-ventas`
 
 Evidencia:
 
