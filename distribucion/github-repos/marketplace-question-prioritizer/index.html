@@ -205,7 +205,24 @@
           "price": "0",
           "priceCurrency": "USD",
           "availability": "https://schema.org/InStock"
-        }
+        },
+        "potentialAction": [
+          {
+            "@type": "UseAction",
+            "name": "Prioritize a buyer question",
+            "target": "https://bozicovichsantiago20-oss.github.io/marketplace-question-prioritizer/"
+          },
+          {
+            "@type": "BuyAction",
+            "name": "Buy Kit Base USD 5",
+            "target": "https://paypal.me/SBozicovich/5USD"
+          },
+          {
+            "@type": "BuyAction",
+            "name": "Buy Bundle USD 15",
+            "target": "https://paypal.me/SBozicovich/15USD"
+          }
+        ]
       }
     </script>
   </head>
@@ -217,7 +234,8 @@
       </a>
       <nav aria-label="Links">
         <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/en/marketplace-question-prioritizer.html">Main tool</a>
-        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html">Custom replies</a>
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html">Base USD 5</a>
+        <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html">Bundle USD 15</a>
         <a href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html">Pay</a>
       </nav>
     </header>
@@ -313,19 +331,21 @@
             alt="Preview of Kit Vendedor Express marketplace seller templates"
           />
           <div>
-            <p class="eyebrow">Optional paid service</p>
-            <h2>Custom replies for Spanish-speaking sellers</h2>
+            <p class="eyebrow">Ready-to-use digital product</p>
+            <h2>Templates for Spanish-speaking sellers</h2>
             <p>
-              Get a paid reply set for one niche or product line: price, stock, shipping,
-              objections, follow-up and post-sale.
+              Kit Base includes ready replies for price, stock, shipping, objections,
+              follow-up and post-sale. Bundle adds the audit and expanded material.
             </p>
-            <span class="price">USD 29</span>
+            <span class="price">From USD 5</span>
           </div>
           <div class="actions">
-            <a class="button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html">Open service</a>
-            <a class="button secondary" href="https://paypal.me/SBozicovich/29USD">PayPal USD 29</a>
-            <a class="button secondary" href="https://paypal.me/SBozicovich/1USD">Support USD 1</a>
+            <a class="button" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html">View Base USD 5</a>
+            <a class="button secondary" href="https://paypal.me/SBozicovich/5USD">PayPal Base</a>
+            <a class="button secondary" href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html">View Bundle USD 15</a>
+            <a class="button secondary" href="https://paypal.me/SBozicovich/15USD">PayPal Bundle</a>
           </div>
+          <p>Instant file access. Pay by PayPal or local transfer.</p>
           <p>Argentina transfer: Banco Galicia, CBU 0070034430004032923161.</p>
         </aside>
       </section>
@@ -341,7 +361,7 @@
         </article>
         <article>
           <h2>Spanish paid workflow</h2>
-          <p>The paid kit and custom replies are focused on Mercado Libre, WhatsApp and Latin American ecommerce sellers.</p>
+          <p>The paid kit is focused on Mercado Libre, WhatsApp and Latin American ecommerce sellers.</p>
         </article>
       </section>
     </main>
@@ -427,7 +447,7 @@
       byId("copy-output").addEventListener("click", () => {
         navigator.clipboard
           .writeText(byId("output").value)
-          .then(() => showToast("Copied. If it saved time, support with USD 1."))
+          .then(() => showToast("Copied. Kit Base USD 5 includes more ready replies."))
           .catch(() => byId("output").select());
       });
       buildResult();
