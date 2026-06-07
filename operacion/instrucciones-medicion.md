@@ -77,6 +77,7 @@ Estado del sitio:
 - Validacion remota 2026-06-07 13:58 ART: los homepages de los tres repos principales de GitHub apuntan a `/empezar.html?src=github-about&utm_campaign=...`.
 - Validacion remota 2026-06-07 14:14 ART: cinco Gists publicos existentes apuntan a `/empezar.html?src=github-gist&utm_campaign=...`; todos conservaron PayPal directo.
 - Validacion remota 2026-06-07 14:29 ART: el hub raiz publico apunta a `/empezar.html?src=root-site&utm_campaign=hub-...` y el README del hub a `src=root-readme`.
+- Validacion remota 2026-06-07 14:44 ART: IndexNow acepto HTTP 200 para el hub raiz ya publicado con atribucion `root-site`.
 
 Campos utiles para revisar en eventos:
 
