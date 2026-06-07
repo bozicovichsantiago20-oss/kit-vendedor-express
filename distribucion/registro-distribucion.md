@@ -429,6 +429,23 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Estado al cierre:
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-07 00:44 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; auditoria-express-publicacion.zip, kit-vendedor-express-pro.zip y bundle-vendedor-express.zip con 1 descarga cada uno; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion sobre activos existentes:
+  - Se retiraron menciones textuales heredadas a Pro en `calcular-precio-mercado-libre`, `auditoria-publicacion-marketplace`, `calculadora-precio-venta-online`, `mensajes-whatsapp-ventas` y `respuestas-rapidas-mercado-libre`.
+  - No se crearon paginas nuevas ni ofertas nuevas.
+- Validaciones:
+  - Barrido local de `distribucion/github-repos` sin referencias exactas a USD 1, USD 12, USD 19, USD 29, Pro, Apoyar, pedidos por Issues ni OrderAction.
+  - Cinco paginas publicas HTTP 200, con Bundle USD 15 visible y sin referencias viejas.
+  - IndexNow acepto HTTP 200 para las cinco URLs actualizadas.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-07 00:29 ART
 
 - Verificacion de ingresos:
