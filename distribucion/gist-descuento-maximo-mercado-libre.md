@@ -27,7 +27,7 @@ Calculadora de descuentos, USD 7:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
 Pedido con resultado de calculadora:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-gist&utm_campaign=descuento-maximo-mercado-libre
 
 PayPal USD 7:
 https://paypal.me/SBozicovich/7USD

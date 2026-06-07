@@ -75,6 +75,7 @@ Estado del sitio:
 - Validacion local 2026-06-07 13:28 ART: `app.js` conserva atribucion inicial de origen con `src`, `utm_source`, `utm_campaign`, `utm_medium`, `first_referrer` y `first_referrer_domain`; prueba simulada confirmo `click_paypal_bundle` con origen `github-readme`.
 - Validacion remota 2026-06-07 13:44 ART: nueve README publicos de GitHub quedaron apuntando a `/empezar.html?src=github-readme&utm_campaign=...`; no quedaron URLs partidas ni parametros duplicados.
 - Validacion remota 2026-06-07 13:58 ART: los homepages de los tres repos principales de GitHub apuntan a `/empezar.html?src=github-about&utm_campaign=...`.
+- Validacion remota 2026-06-07 14:14 ART: cinco Gists publicos existentes apuntan a `/empezar.html?src=github-gist&utm_campaign=...`; todos conservaron PayPal directo.
 
 Campos utiles para revisar en eventos:
 

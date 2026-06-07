@@ -31,6 +31,6 @@ Pagina:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
 Pedido:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-gist&utm_campaign=auditoria-publicacion-marketplace
 
 No compartir datos privados, claves, telefonos personales ni informacion sensible.
