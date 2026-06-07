@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 07:25 ART.
+Ultima actualizacion: 2026-06-07 08:36 ART.
 
 ## Estado financiero real
 
@@ -98,3 +98,4 @@ Revisar:
 - 2026-06-07 06:56 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio `pago-y-entrega.html` de referencias visibles a recursos `Pro`, se actualizo el sitemap principal, se reconcentro el sitemap del hub raiz en `/empezar.html`, Base, Auditoria y Bundle, y se publico el hub raiz remoto sin el ZIP viejo `pack-pro`.
 - 2026-06-07 07:08 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reforzo el flujo de entrega en `comprar.html`, `auditoria.html`, `bundle.html` y `pago-y-entrega.html`: los botones de descarga ahora dicen `Ya pague` y el checkout indica pagar antes de descargar para reducir descargas sin pago.
 - 2026-06-07 07:25 ART: no aparecieron pedidos, trabajos ni leads verificables. Se extendio el mensaje `Ya pague` a descargas visibles de portada, paginas puente, guias comerciales y micrositio de WhatsApp; se elimino el texto de pagar despues y se publico el micrositio remoto `mensajes-whatsapp-ventas`.
+- 2026-06-07 08:36 ART: no aparecieron pedidos, trabajos ni leads verificables. Se envio IndexNow para 15 URLs propias de mayor intencion ya optimizadas, incluyendo `/empezar.html`, checkouts principales, guias comerciales, sitemap y micrositio WhatsApp; la API respondio HTTP 200.
