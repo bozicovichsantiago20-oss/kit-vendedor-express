@@ -59,7 +59,7 @@
       </a>
       <nav class="nav" aria-label="Sections">
         <a href="#tool">Free tool</a>
-        <a href="#paid-service">Custom replies</a>
+        <a href="#paid-service">Paid kits</a>
         <a href="marketplace-reply-generator.html">Reply generator</a>
         <a href="marketplace-listing-audit-generator.html">Audit tool</a>
         <a href="../herramientas/priorizador-preguntas-mercado-libre.html">Spanish</a>
@@ -170,31 +170,31 @@
             alt="Preview of Kit Vendedor Express marketplace seller kit"
           />
           <div class="section-heading compact">
-            <p class="eyebrow">Optional paid service</p>
-            <h2 id="paid-title">Custom reply set for your niche</h2>
+            <p class="eyebrow">Optional paid kits</p>
+            <h2 id="paid-title">Ready-to-use seller packs</h2>
             <p>
-              If you sell in Spanish, the paid service creates replies for your product line:
-              price, stock, shipping, objections, follow-up and post-sale.
+              If you sell in Spanish, use the Base kit for ready replies or the Bundle
+              when you also want audit, prompts and extra seller resources.
             </p>
           </div>
 
           <div class="price-box">
-            <span class="price">USD 29 custom replies</span>
-            <span class="price-note">One niche or product line, delivered through a public GitHub request.</span>
+            <span class="price">USD 15 bundle</span>
+            <span class="price-note">Base USD 5, Audit USD 7 or Bundle USD 15.</span>
           </div>
 
           <div class="payment-actions">
-            <a class="primary-button" href="../respuestas-personalizadas.html">
-              Open custom service
+            <a class="primary-button" href="../bundle.html">
+              Get Bundle USD 15
             </a>
-            <a class="secondary-button" href="https://paypal.me/SBozicovich/29USD" target="_blank" rel="noopener">
-              PayPal USD 29
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">
+              PayPal Bundle
             </a>
-            <a class="secondary-button" href="../bundle.html">
-              Bundle USD 15
+            <a class="secondary-button" href="../comprar.html">
+              Base USD 5
             </a>
-            <a class="secondary-button" href="../apoyar.html">
-              Support USD 1
+            <a class="secondary-button" href="../auditoria.html">
+              Audit USD 7
             </a>
           </div>
 
@@ -310,7 +310,7 @@
       byId("copy-output").addEventListener("click", () => {
         navigator.clipboard
           .writeText(byId("output").value)
-          .then(() => showToast("Copied. If it saved time, you can support with USD 1."))
+          .then(() => showToast("Copied. Use Base USD 5 or Bundle USD 15 for ready-to-use seller packs."))
           .catch(() => byId("output").select());
       });
 

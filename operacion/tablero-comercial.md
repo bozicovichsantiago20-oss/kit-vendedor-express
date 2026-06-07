@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-06 22:26 ART.
+Ultima actualizacion: 2026-06-06 22:37 ART.
 
 ## Estado financiero real
 
@@ -61,3 +61,4 @@ Revisar:
 - 2026-06-06 21:51 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro `herramientas/priorizador-preguntas-mercado-libre.html` hacia Base USD 5 y Bundle USD 15, eliminando USD 29, pedido manual y Apoyar de la herramienta.
 - 2026-06-06 22:06 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentraron `herramientas/generador-respuestas-rapidas-mercado-libre.html` y `herramientas/generador-prompts-ventas-marketplace.html`, retirando USD 29, pedido manual, Pro USD 12 y Apoyar donde quedaban.
 - 2026-06-06 22:26 ART: no aparecieron pedidos, trabajos ni leads verificables. Se retiraron salidas a Apoyar/Pro de `bundle.html`, paginas rapidas de respuestas/WhatsApp/reclamos y cuatro herramientas publicas, derivando a Base USD 5, Auditoria USD 7, Bundle USD 15 o pago.
+- 2026-06-06 22:37 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentraron las tres paginas en ingles del sitemap hacia Base USD 5, Audit USD 7 y Bundle USD 15, retirando USD 29, Pro, Apoyar y soporte USD 1.

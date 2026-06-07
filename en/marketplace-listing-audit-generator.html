@@ -296,7 +296,7 @@
       byId("copy-audit-en").addEventListener("click", () => {
         navigator.clipboard.writeText(byId("audit-output-en").value).then(() => {
           const toast = byId("toast");
-          toast.textContent = "Audit copied. If it saved time, you can support with USD 1.";
+          toast.textContent = "Audit copied. Use Audit USD 7 or Bundle USD 15 for the full seller pack.";
           toast.classList.add("show");
           window.setTimeout(() => toast.classList.remove("show"), 2600);
         });
