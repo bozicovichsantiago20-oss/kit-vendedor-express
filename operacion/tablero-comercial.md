@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 01:57 ART.
+Ultima actualizacion: 2026-06-07 02:12 ART.
 
 ## Estado financiero real
 
@@ -75,3 +75,4 @@ Revisar:
 - 2026-06-07 01:29 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro README y release de GitHub en Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando texto publico de ofertas viejas y el activo separado `kit-vendedor-express-pro.zip` de la release; el ZIP del Bundle fue regenerado con copia interna limpia.
 - 2026-06-07 01:42 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpiaron menciones residuales de `Pro` en 12 guias y herramientas de captacion, dejando el Bundle explicado como Base, Auditoria y recursos avanzados; JSON-LD verificado.
 - 2026-06-07 01:57 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro `sitemap.xml` para priorizar `/empezar.html`, Base, Auditoria y Bundle, retirando paginas de ofertas descartadas y ZIPs directos del mapa de indexacion.
+- 2026-06-07 02:12 ART: no aparecieron pedidos, trabajos ni leads verificables. Se marcaron cinco paginas puente antiguas como `noindex,follow`, se ajustaron canonicals hacia `/empezar.html`, `comprar.html`, `auditoria.html` o `bundle.html`, y se retiro texto residual de oferta vieja.
