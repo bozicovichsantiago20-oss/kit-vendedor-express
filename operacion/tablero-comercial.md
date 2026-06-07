@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 03:30 ART.
+Ultima actualizacion: 2026-06-07 03:45 ART.
 
 ## Estado financiero real
 
@@ -81,3 +81,4 @@ Revisar:
 - 2026-06-07 03:00 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizaron 10 gists publicos existentes y se verificaron 12 gists en total sin referencias a precios/paginas viejas; todos mantienen salida hacia Base USD 5, Auditoria USD 7 o Bundle USD 15.
 - 2026-06-07 03:15 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizaron 8 repos/micrositios tematicos publicos existentes y se verificaron 24 archivos remotos mas 8 micrositios publicados: todos quedaron sin referencias viejas y con salida a Base USD 5, Auditoria USD 7 o Bundle USD 15.
 - 2026-06-07 03:30 ART: no aparecieron pedidos, trabajos ni leads verificables. Se envio IndexNow para 24 URLs propias de los 8 micrositios tematicos actualizados (`/`, `llms.txt` y `sitemap.xml` por micrositio) y la API respondio HTTP 200.
+- 2026-06-07 03:45 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizaron descripciones, homepages y temas de GitHub de 11 repos comerciales publicos para reforzar las ofertas Base USD 5, Auditoria USD 7 y Bundle USD 15 sin referencias viejas.
