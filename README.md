@@ -1,17 +1,23 @@
 # Kit Vendedor Express
 
-Producto digital preparado para monetizar rapido con un sitio estatico:
+Producto digital listo para vendedores online que necesitan responder mas rapido, mejorar publicaciones y ordenar postventa.
 
-- Herramienta web gratis para generar respuestas de venta.
-- Pack descargable con 130+ respuestas, prompts, formulas de titulos, checklist y plan de 7 dias.
-- Cobro por PayPal.Me y CBU.
-- Configuracion lista para publicar en Netlify.
+- **Bundle recomendado USD 15**: Base, Auditoria Express y recursos avanzados.
+- **Kit Base USD 5**: respuestas, prompts, formulas y checklist listos para usar.
+- **Auditoria Express USD 7**: revision guiada para una publicacion que no convierte.
 
-Sitio publico: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
+Entrada recomendada para comprar:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+
+Pago directo:
+
+- Base USD 5: https://paypal.me/SBozicovich/5USD
+- Auditoria USD 7: https://paypal.me/SBozicovich/7USD
+- Bundle USD 15: https://paypal.me/SBozicovich/15USD
 
 ## Si llegaste desde GitHub o clonaste el repo
 
-Este repositorio tiene herramientas gratis, pero la monetizacion real esta en tres opciones simples:
+Este repositorio tiene herramientas gratis, pero si vas a usar los archivos o te ahorran tiempo, la compra se concentra en tres opciones simples:
 
 - **Kit Base USD 5**: respuestas, prompts, formulas y checklist listos para usar.
 - **Auditoria Express USD 7**: revision guiada para mejorar una publicacion que no convierte.
