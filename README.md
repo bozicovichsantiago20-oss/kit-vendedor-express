@@ -7,7 +7,7 @@ Producto digital listo para vendedores online que necesitan responder mas rapido
 - **Auditoria Express USD 7**: revision guiada para una publicacion que no convierte.
 
 Entrada recomendada para comprar:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+=github-readme&utm_campaign=kit-vendedor-express
 
 Pago directo:
 
@@ -25,7 +25,7 @@ Este repositorio tiene herramientas gratis, pero si vas a usar los archivos o te
 
 Para comprar sin perder tiempo:
 
-- Elegir opcion: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+- Elegir opcion: =github-readme&utm_campaign=kit-vendedor-express
 - Pagar Base USD 5: https://paypal.me/SBozicovich/5USD
 - Pagar Auditoria USD 7: https://paypal.me/SBozicovich/7USD
 - Pagar Bundle USD 15: https://paypal.me/SBozicovich/15USD
@@ -35,7 +35,7 @@ Si ya descargaste o vas a usar los archivos, usa primero el link de pago corresp
 
 ## Compra directa
 
-- Empezar y elegir oferta: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+- Empezar y elegir oferta: =github-readme&utm_campaign=kit-vendedor-express
 - Comparar opciones: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
 - Pago y entrega: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
 - Base USD 5: https://paypal.me/SBozicovich/5USD
@@ -71,7 +71,7 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
 Entrada recomendada para decidir que comprar:
 
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+=github-readme&utm_campaign=kit-vendedor-express
 
 Pagina de pago y descarga:
 
