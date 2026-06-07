@@ -73,6 +73,7 @@ Estado del sitio:
 - Sin Analytics/Clarity, el navegador deja una cola local de prueba en `window.kveCommercialEvents`.
 - Validacion local 2026-06-07 04:46 ART: Edge real en modo headless confirmo `click_paypal_base`, `click_download_bundle` y `click_paypal_bundle`.
 - Validacion local 2026-06-07 13:28 ART: `app.js` conserva atribucion inicial de origen con `src`, `utm_source`, `utm_campaign`, `utm_medium`, `first_referrer` y `first_referrer_domain`; prueba simulada confirmo `click_paypal_bundle` con origen `github-readme`.
+- Validacion remota 2026-06-07 13:44 ART: nueve README publicos de GitHub quedaron apuntando a `/empezar.html?src=github-readme&utm_campaign=...`; no quedaron URLs partidas ni parametros duplicados.
 
 Campos utiles para revisar en eventos:
 
