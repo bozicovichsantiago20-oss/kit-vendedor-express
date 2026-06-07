@@ -16,6 +16,13 @@ Objetivo comercial: saber que canal trae impresiones, clics de compra, descargas
 
 No pasar bancos, claves ni codigos de seguridad. Solo pasar los valores publicos indicados abajo.
 
+## Estado 2026-06-07 05:02 ART
+
+- GitHub conectado: Issues, release, vistas y clones verificables desde CLI.
+- Edge real validado: los eventos comerciales preparados funcionan en navegador.
+- Pendiente de accion humana: Search Console, Bing Webmaster, Analytics, Clarity, PayPal actividad y Gmail si se quiere detectar pedidos por correo.
+- Senal actual: 6 vistas / 1 unico y 2936 clones / 564 unicos en GitHub. No se cuenta como ingreso sin pago o pedido.
+
 ## Google Search Console
 
 1. Abrir https://search.google.com/search-console

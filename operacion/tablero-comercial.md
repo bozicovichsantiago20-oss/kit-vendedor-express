@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 04:46 ART.
+Ultima actualizacion: 2026-06-07 05:02 ART.
 
 ## Estado financiero real
 
@@ -12,6 +12,7 @@ Ultima actualizacion: 2026-06-07 04:46 ART.
 | Pedidos | 0 | `gh issue list` devolvio lista vacia |
 | Leads | 0 | No hay formularios ni pedidos reales registrados |
 | Trafico GitHub principal | 6 vistas / 1 unico | `gh api repos/.../traffic/views`; no contar como venta |
+| Clones GitHub principal | 2936 clones / 564 unicos | `gh api repos/.../traffic/clones`; senal tecnica, no contar como venta |
 
 ## Descargas que NO se cuentan como ingreso
 
@@ -24,7 +25,7 @@ Ultima actualizacion: 2026-06-07 04:46 ART.
 
 ## Canales con mejor rendimiento
 
-No hay rendimiento comercial demostrado todavia. El ranking queda en modo hipotesis hasta tener Search Console, Bing Webmaster, Analytics, Clarity, pedidos o pagos:
+No hay rendimiento comercial demostrado todavia. GitHub muestra trafico tecnico por clones, pero sin pedidos ni pagos. El ranking queda en modo hipotesis hasta tener Search Console, Bing Webmaster, Analytics, Clarity, pedidos o pagos:
 
 1. `empezar.html`: mejor pagina de decision y entrada recomendada.
 2. `bundle.html`: mejor ticket/valor, opcion recomendada.
@@ -49,6 +50,8 @@ Revisar:
 - GitHub Issues del repo.
 - Descargas de release.
 - Search Console/Bing/Analytics/Clarity si ya estan conectados.
+- PayPal actividad si el usuario lo deja visible.
+- Gmail si se usara para oportunidades.
 
 ## Ultimo trabajo realizado
 
@@ -86,3 +89,4 @@ Revisar:
 - 2026-06-07 04:16 ART: no aparecieron pedidos, trabajos ni leads verificables. Se preparo la guia operativa de medicion y conectores para completar Search Console, Bing Webmaster, Analytics, Clarity, PayPal actividad, Gmail y GitHub sin compartir contrasenas ni datos sensibles.
 - 2026-06-07 04:31 ART: no aparecieron pedidos, trabajos ni leads verificables. Se instrumentaron eventos comerciales en `app.js` y `herramientas.js` para medir clics a PayPal, descargas principales, copiado de CBU/PayPal y uso de herramientas cuando se conecten Analytics o Clarity.
 - 2026-06-07 04:46 ART: no aparecieron pedidos, trabajos ni leads verificables. GitHub marco 6 vistas / 1 unico en el repo principal, sin evidencia de pago. Se valido con Edge real en modo headless que funcionan los eventos `click_paypal_base`, `click_download_bundle` y `click_paypal_bundle`.
+- 2026-06-07 05:02 ART: no aparecieron pedidos, trabajos ni leads verificables. GitHub mantiene 6 vistas / 1 unico y muestra 2936 clones / 564 unicos; se registra como senal tecnica de distribucion, no ingreso. No hubo descargas nuevas ni notificaciones accionables del repo.
