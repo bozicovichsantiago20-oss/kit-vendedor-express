@@ -429,6 +429,26 @@ https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/releases/tag/v1
 - Estado al cierre:
   - Cobros confirmados: 0.
 
+## Ronda 2026-06-07 00:29 ART
+
+- Verificacion de ingresos:
+  - Issues abiertos generales: 0.
+  - Trafico GitHub principal: 0 vistas, 0 unicos.
+  - Release: kit-vendedor-express.zip con 2 descargas; auditoria-express-publicacion.zip, kit-vendedor-express-pro.zip y bundle-vendedor-express.zip con 1 descarga cada uno; sin evidencia de compra.
+  - Cobros confirmados en registro local: 0.
+- Mejora de conversion sobre activo existente:
+  - Pagina de distribucion `distribucion/github-repos/plantillas-atencion-cliente-ecommerce/index.html` reconcentrada hacia Base USD 5 y Bundle USD 15.
+  - Se retiraron Apoyar USD 1, enlace a `apoyar.html` y texto de Pro.
+  - Se agrego JSON-LD con acciones hacia guia, Base USD 5 y Bundle USD 15.
+- Validaciones:
+  - Pagina publica HTTP 200.
+  - Base USD 5, Bundle USD 15, PayPal USD 5 y PayPal USD 15 visibles.
+  - Referencias viejas USD 1, 1USD, Apoyar, Pro, pedidos por Issues y OrderAction ausentes en la pagina publica.
+  - JSON-LD local parseado correctamente.
+  - IndexNow acepto HTTP 200 para la URL publica actualizada.
+- Estado al cierre:
+  - Cobros confirmados: 0.
+
 ## Ronda 2026-06-07 00:15 ART
 
 - Verificacion de ingresos:
