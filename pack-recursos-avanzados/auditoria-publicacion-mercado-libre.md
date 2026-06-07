@@ -1,4 +1,4 @@
-# Auditoria Pro de publicacion para Mercado Libre
+# Auditoria avanzada de publicacion para Mercado Libre
 
 Usa esta guia para revisar una publicacion antes de bajarle el precio.
 

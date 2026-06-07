@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 06:03 ART.
+Ultima actualizacion: 2026-06-07 06:25 ART.
 
 ## Estado financiero real
 
@@ -18,10 +18,10 @@ Ultima actualizacion: 2026-06-07 06:03 ART.
 
 | Archivo | Descargas release | Decision |
 |---|---:|---|
-| `kit-vendedor-express.zip` | 2 | No contar como venta sin pago |
-| `auditoria-express-publicacion.zip` | 1 | No contar como venta sin pago |
+| `kit-vendedor-express.zip` | 0 actuales; 2 antes de reemplazo 06:25 | No contar como venta sin pago |
+| `auditoria-express-publicacion.zip` | 0 actuales; 1 antes de reemplazo 06:25 | No contar como venta sin pago |
 | `kit-vendedor-express-pro.zip` | Retirado | Activo separado retirado de la release; no contar como venta |
-| `bundle-vendedor-express.zip` | 0 | Activo actualizado en release; no contar descargas como venta sin pago |
+| `bundle-vendedor-express.zip` | 0 actuales; 0 antes de reemplazo 06:25 | Activo actualizado en release; no contar descargas como venta sin pago |
 
 ## Canales con mejor rendimiento
 
@@ -94,3 +94,4 @@ Revisar:
 - 2026-06-07 05:33 ART: no aparecieron pedidos, trabajos ni leads verificables. Se agrego `.github/FUNDING.yml` con links PayPal directos a Base USD 5, Auditoria USD 7 y Bundle USD 15 para aprovechar el trafico/clones de GitHub desde el boton de funding del repo.
 - 2026-06-07 05:48 ART: no aparecieron pedidos, trabajos ni leads verificables. Se retiraron plantillas viejas de Issues con precios/ofertas descartadas y se agrego un selector limpio con compra directa a Base USD 5, Auditoria USD 7, Bundle USD 15 y una consulta publica segura sin datos privados.
 - 2026-06-07 06:03 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizo la release `v1.0.0` para que quien descargue un ZIP vea primero que opcion pagar: Base USD 5, Auditoria USD 7 o Bundle USD 15; se verifico sin referencias a ofertas retiradas.
+- 2026-06-07 06:25 ART: no aparecieron pedidos, trabajos ni leads verificables. Se regeneraron los ZIPs Base, Auditoria y Bundle con `LEEME-PAGO-Y-ENTREGA.txt` interno, se reemplazo el nombre viejo `Pro` por recursos avanzados dentro del Bundle y se actualizaron los assets de la release con archivos verificados.

@@ -1,4 +1,4 @@
-# Prompts Pro para mejorar publicaciones
+# Prompts avanzados para mejorar publicaciones
 
 Usa estos prompts con tu asistente de IA favorito. Cambia datos entre corchetes.
 

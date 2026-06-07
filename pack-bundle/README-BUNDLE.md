@@ -7,8 +7,9 @@ No esta afiliado a Mercado Libre, Meta, WhatsApp ni Instagram. Usalo como materi
 ## Incluye
 
 - `kit-vendedor-express.zip`: pack base con 130+ respuestas, prompts, checklist y plan de 7 dias.
-- `kit-vendedor-express-pro.zip`: recursos avanzados con 200+ respuestas, objeciones, prompts avanzados, seguimiento y recompra.
 - `auditoria-express-publicacion.zip`: auditoria de publicacion con checklist, diagnostico, guion de mejora y plan de 48 horas.
+- `recursos-avanzados-vendedor-express.zip`: recursos avanzados con 200+ respuestas, objeciones, prompts avanzados, seguimiento y recompra.
+- `LEEME-PAGO-Y-ENTREGA.txt`: instrucciones simples de pago y entrega.
 
 ## Uso sugerido
 
@@ -19,3 +20,9 @@ No esta afiliado a Mercado Libre, Meta, WhatsApp ni Instagram. Usalo como materi
 ## Precio sugerido
 
 Bundle digital: USD 15 o equivalente local.
+
+Pago directo: https://paypal.me/SBozicovich/15USD
+
+Tambien podes pagar por transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
+
+Producto digital listo para usar. Entrega simple: usa los archivos de este ZIP inmediatamente.

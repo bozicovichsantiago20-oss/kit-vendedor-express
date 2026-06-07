@@ -23,3 +23,9 @@ No esta afiliado a Mercado Libre, Meta, WhatsApp ni Instagram. Usalo como materi
 ## Precio sugerido
 
 Producto digital de accion rapida. Precio sugerido: USD 7 o equivalente local.
+
+Pago directo: https://paypal.me/SBozicovich/7USD
+
+Tambien podes pagar por transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
+
+Producto digital listo para usar. Entrega simple: usa los archivos de este ZIP inmediatamente.

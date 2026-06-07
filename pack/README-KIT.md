@@ -28,3 +28,9 @@ No esta afiliado a Mercado Libre, Meta, WhatsApp ni Instagram. Usalo como materi
 ## Precio sugerido
 
 Este pack se vende como producto digital de entrada. Precio sugerido: USD 5 o equivalente local.
+
+Pago directo: https://paypal.me/SBozicovich/5USD
+
+Tambien podes pagar por transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
+
+Producto digital listo para usar. Entrega simple: usa los archivos de este ZIP inmediatamente.
