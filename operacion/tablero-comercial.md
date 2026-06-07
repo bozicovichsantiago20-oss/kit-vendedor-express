@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 09:09 ART.
+Ultima actualizacion: 2026-06-07 09:23 ART.
 
 ## Estado financiero real
 
@@ -101,3 +101,4 @@ Revisar:
 - 2026-06-07 08:36 ART: no aparecieron pedidos, trabajos ni leads verificables. Se envio IndexNow para 15 URLs propias de mayor intencion ya optimizadas, incluyendo `/empezar.html`, checkouts principales, guias comerciales, sitemap y micrositio WhatsApp; la API respondio HTTP 200.
 - 2026-06-07 08:53 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizaron `robots.txt` del producto y del hub raiz para desalentar rastreo de carpetas ZIP directas y favorecer paginas de entrada, pago y decision; el `robots.txt` del hub raiz remoto fue publicado y verificado.
 - 2026-06-07 09:09 ART: no aparecieron pedidos, trabajos ni leads verificables. Se actualizo el Gist maestro publico para reemplazar enlace ZIP directo por pago y entrega, se limpio una duplicacion de Auditoria y se verificaron Gists publicos sin enlaces directos a ZIPs activos o retirados.
+- 2026-06-07 09:23 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio `README.md` para no destacar ZIP interno como ruta de entrega y se actualizo el README del perfil GitHub remoto para derivar a elegir oferta recomendada y pago; perfil verificado sin pedido manual viejo.

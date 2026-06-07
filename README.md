@@ -25,6 +25,7 @@ Para comprar sin perder tiempo:
 - Pagar Bundle USD 15: https://paypal.me/SBozicovich/15USD
 
 Producto digital listo para usar. Pago por PayPal o transferencia. Entrega simple mediante descarga.
+Si ya descargaste o vas a usar los archivos, usa primero el link de pago correspondiente.
 
 ## Compra directa
 
@@ -51,7 +52,7 @@ Producto digital listo para usar. Pago por PayPal o transferencia. Entrega simpl
 - `herramientas/`: herramientas gratis para captar busquedas comerciales.
 - `herramientas.js`: logica de herramientas gratis.
 - `styles.css`: estilos responsive.
-- `pack/kit-vendedor-express.zip`: producto descargable.
+- `pack/`: archivos internos del producto; entrega recomendada desde `pago-y-entrega.html` despues de pagar.
 - `materiales-lanzamiento/`: textos para publicar la oferta.
 - `fuentes-investigacion.md`: senales usadas para elegir el nicho.
 - `guias/`: paginas SEO para captar busquedas de vendedores.

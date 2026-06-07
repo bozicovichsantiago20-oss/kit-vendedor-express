@@ -42,13 +42,10 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 Auditoria Express:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
 
-Auditoria Express:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
-
 Calculadora de descuentos:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
-Pedido de auditoria con resultado de calculadora:
+Elegir oferta recomendada:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
 
 Respuestas listas:
@@ -95,6 +92,7 @@ Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 Pago sugerido: USD 5 base, USD 7 Auditoria Express o USD 15 bundle por PayPal o transferencia local.
 Base: https://paypal.me/SBozicovich/5USD
 Auditoria Express: https://paypal.me/SBozicovich/7USD
+Bundle: https://paypal.me/SBozicovich/15USD
 Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
 ## Herramientas gratis
