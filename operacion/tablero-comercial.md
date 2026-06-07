@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 09:56 ART.
+Ultima actualizacion: 2026-06-07 10:10 ART.
 
 ## Estado financiero real
 
@@ -104,3 +104,4 @@ Revisar:
 - 2026-06-07 09:23 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio `README.md` para no destacar ZIP interno como ruta de entrega y se actualizo el README del perfil GitHub remoto para derivar a elegir oferta recomendada y pago; perfil verificado sin pedido manual viejo.
 - 2026-06-07 09:38 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio `ofertas.html` de referencias viejas a Pro para mantener el Bundle como Base, Auditoria y recursos avanzados; se sincronizo el texto local de release con la version publica limpia, se actualizo la auditoria interna para sostener solo las tres ofertas principales y se envio el comparador a IndexNow con HTTP 200.
 - 2026-06-07 09:56 ART: no aparecieron pedidos, trabajos ni leads verificables. Se ajusto el hub raiz para que la primera pantalla apunte a `empezar.html`, Bundle recomendado, Base, Auditoria, comparador y pago; se agrego medicion de clics comerciales en el hub, se publico en el repo raiz y se envio a IndexNow con HTTP 200.
+- 2026-06-07 10:10 ART: no aparecieron pedidos, trabajos ni leads verificables. Se amplio la medicion de clics comerciales a `ofertas.html`, tres paginas de compra rapida y la pagina de diagnostico de publicacion; las 11 paginas principales con PayPal o descarga ya cargan `app.js`.
