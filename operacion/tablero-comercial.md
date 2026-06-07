@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-07 01:12 ART.
+Ultima actualizacion: 2026-06-07 01:29 ART.
 
 ## Estado financiero real
 
@@ -19,8 +19,8 @@ Ultima actualizacion: 2026-06-07 01:12 ART.
 |---|---:|---|
 | `kit-vendedor-express.zip` | 2 | No contar como venta sin pago |
 | `auditoria-express-publicacion.zip` | 1 | No contar como venta sin pago |
-| `kit-vendedor-express-pro.zip` | 1 | No contar como venta sin pago |
-| `bundle-vendedor-express.zip` | 1 | No contar como venta sin pago |
+| `kit-vendedor-express-pro.zip` | 1 | Activo separado retirado de la release; no contar como venta sin pago |
+| `bundle-vendedor-express.zip` | 0 | Activo actualizado en release; no contar descargas como venta sin pago |
 
 ## Canales con mejor rendimiento
 
@@ -72,3 +72,4 @@ Revisar:
 - 2026-06-07 00:44 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio el texto heredado de Pro en cinco paginas de distribucion y quedaron verificadas publicamente sin referencias viejas.
 - 2026-06-07 00:58 ART: no aparecieron pedidos, trabajos ni leads verificables. Se audito el HTML publico fuera de `distribucion/github-repos` y no quedaron CTAs activos de precios secundarios, Apoyar, pedidos por Issues ni acciones estructuradas viejas; `distribucion/github-repos` sigue limpio.
 - 2026-06-07 01:12 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio el termino `Pro` de las paginas principales de decision y compra (`empezar.html`, `index.html`, `comprar.html`, `auditoria.html`, `bundle.html`) para reducir confusion y sostener solo Base USD 5, Auditoria USD 7 y Bundle USD 15.
+- 2026-06-07 01:29 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentro README y release de GitHub en Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando texto publico de ofertas viejas y el activo separado `kit-vendedor-express-pro.zip` de la release; el ZIP del Bundle fue regenerado con copia interna limpia.

@@ -16,10 +16,7 @@ Sitio publico: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 - Pago y entrega: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pago-y-entrega.html
 - Base USD 5: https://paypal.me/SBozicovich/5USD
 - Auditoria Express USD 7: https://paypal.me/SBozicovich/7USD
-- Pro USD 12: https://paypal.me/SBozicovich/12USD
 - Bundle USD 15: https://paypal.me/SBozicovich/15USD
-- Auditoria personalizada o descuento USD 19: https://paypal.me/SBozicovich/19USD
-- Respuestas personalizadas USD 29: https://paypal.me/SBozicovich/29USD
 - Transferencia Argentina: Banco Galicia, CBU 0070034430004032923161.
 
 ## Diferencia contra otros proyectos locales
@@ -72,29 +69,9 @@ Mensajes de WhatsApp para vender hoy:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/mensajes-whatsapp-para-vender-hoy.html
 
-Pack Pro USD 12:
-
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/pro.html
-
 Auditoria Express USD 7:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria.html
-
-Auditoria personalizada USD 19:
-
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-personalizada.html
-
-Auditoria de descuento Mercado Libre USD 19:
-
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/auditoria-descuento-mercado-libre.html
-
-Pedido de auditoria con resultado de calculadora:
-
-https://github.com/bozicovichsantiago20-oss/kit-vendedor-express/issues/new?template=auditoria-descuento.yml
-
-Respuestas personalizadas USD 29:
-
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/respuestas-personalizadas.html
 
 Diagnostico de publicacion que no vende:
 
@@ -107,10 +84,6 @@ https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/bundle.html
 Comparador de ofertas:
 
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/ofertas.html
-
-Aporte rapido USD 1:
-
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/apoyar.html
 
 Herramientas gratis:
 
