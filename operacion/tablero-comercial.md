@@ -1,6 +1,6 @@
 # Tablero comercial - Ganancias 2
 
-Ultima actualizacion: 2026-06-06 19:21 ART.
+Ultima actualizacion: 2026-06-06 21:10 ART.
 
 ## Estado financiero real
 
@@ -55,3 +55,4 @@ Revisar:
 - 2026-06-06 18:36 ART: no aparecieron pedidos, trabajos ni leads verificables en GitHub Issues o registro local. Se reconcentro la calculadora de descuentos en Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando la salida visible y estructurada a USD 19. Publicacion verificada con estado 200 e IndexNow 202.
 - 2026-06-06 19:07 ART: no aparecieron pedidos, trabajos ni leads verificables. Se limpio la dispersion en `index.html`, `comprar.html`, `auditoria.html` y `herramientas/generador-auditoria-publicacion-marketplace.html` para empujar a Base USD 5, Auditoria USD 7 y Bundle USD 15. Publicacion verificada con estado 200 en las 4 URL; IndexNow respondio 403.
 - 2026-06-06 19:21 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentraron `ofertas.html` y `pago-y-entrega.html` en Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando opciones secundarias de esas superficies.
+- 2026-06-06 21:10 ART: no aparecieron pedidos, trabajos ni leads verificables. Se reconcentraron 10 guias existentes hacia Base USD 5, Auditoria USD 7 y Bundle USD 15, retirando salidas secundarias USD 19, USD 29, Pro y Apoyar de las guias.
