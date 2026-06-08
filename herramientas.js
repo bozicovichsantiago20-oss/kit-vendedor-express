@@ -513,6 +513,7 @@ initQuestionPriorityTool();
 
     if (href.includes("paypal.me/SBozicovich/5USD")) return "click_paypal_base";
     if (href.includes("paypal.me/SBozicovich/7USD")) return "click_paypal_auditoria";
+    if (href.includes("paypal.me/SBozicovich/19USD")) return "click_paypal_auditoria_personalizada";
     if (href.includes("paypal.me/SBozicovich/15USD")) return "click_paypal_bundle";
     if (href.includes("pack/kit-vendedor-express.zip")) return "click_download_base";
     if (href.includes("pack-auditoria/auditoria-express-publicacion.zip")) return "click_download_auditoria";

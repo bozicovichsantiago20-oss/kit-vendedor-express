@@ -3,15 +3,15 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Calculadora de descuentos para Mercado Libre</title>
+    <title>Calculadora de descuentos Mercado Libre | Margen y ganancia final</title>
     <meta
       name="description"
-      content="Calcula si un descuento o promocion en Mercado Libre mantiene margen: precio final, comision, envio, impuestos, ganancia y maximo descuento sugerido."
+      content="Calcula si un descuento de Mercado Libre te deja ganancia o perdida: precio original, comision, envio, impuestos, margen, ganancia final y precio minimo rentable."
     />
-    <meta property="og:title" content="Calculadora de descuentos para Mercado Libre" />
+    <meta property="og:title" content="Calculadora de descuentos Mercado Libre: margen y ganancia final" />
     <meta
       property="og:description"
-      content="Revisa cuanto descuento puedes ofrecer sin perder margen antes de activar una promocion."
+      content="Descubre en minutos si una promocion te hace perder dinero y decide si necesitas Auditoria Express USD 7 o Personalizada USD 19."
     />
     <meta property="og:type" content="website" />
     <meta
@@ -23,6 +23,11 @@
       content="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/assets/product-preview.png"
     />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Calculadora de descuentos Mercado Libre" />
+    <meta
+      name="twitter:description"
+      content="Calcula descuento, comision, envio, impuestos, margen y ganancia final antes de activar una promo."
+    />
     <link
       rel="canonical"
       href="https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html"
@@ -35,9 +40,9 @@
           {
             "@type": "WebPage",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#webpage",
-            "name": "Calculadora de descuentos para Mercado Libre",
+            "name": "Calculadora de descuentos Mercado Libre",
             "url": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html",
-            "description": "Herramienta gratis para revisar descuentos y derivar a Base USD 5, Auditoria Express USD 7 o Bundle USD 15.",
+            "description": "Herramienta gratis para revisar si un descuento deja margen, ganancia final o perdida, con salida principal a Auditoria Express USD 7 y secundaria a Auditoria Personalizada USD 19.",
             "isPartOf": {
               "@type": "WebSite",
               "name": "Kit Vendedor Express",
@@ -54,6 +59,9 @@
                 "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-audit"
               },
               {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-custom-audit"
+              },
+              {
                 "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-bundle"
               }
             ]
@@ -61,7 +69,7 @@
           {
             "@type": "WebApplication",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#app",
-            "name": "Calculadora de descuentos para Mercado Libre",
+            "name": "Calculadora de descuentos Mercado Libre",
             "applicationCategory": "BusinessApplication",
             "operatingSystem": "Web",
             "offers": {
@@ -80,6 +88,9 @@
               },
               {
                 "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-audit"
+              },
+              {
+                "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-custom-audit"
               },
               {
                 "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-bundle"
@@ -152,6 +163,29 @@
           },
           {
             "@type": "Offer",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#custom-audit-offer",
+            "name": "Auditoria Personalizada USD 19",
+            "price": "19",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "url": "https://paypal.me/SBozicovich/19USD"
+          },
+          {
+            "@type": "BuyAction",
+            "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#buy-custom-audit",
+            "name": "Pagar Auditoria Personalizada USD 19",
+            "target": "https://paypal.me/SBozicovich/19USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "19",
+              "priceCurrency": "USD"
+            },
+            "object": {
+              "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#custom-audit-offer"
+            }
+          },
+          {
+            "@type": "Offer",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#bundle-offer",
             "name": "Bundle Vendedor Express USD 15",
             "price": "15",
@@ -183,7 +217,7 @@
             "@type": "HowTo",
             "@id": "https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html#howto",
             "name": "Como calcular si una promocion conserva margen",
-            "description": "Pasos para probar un descuento antes de activarlo y decidir si conviene comprar Base, Auditoria Express o Bundle.",
+            "description": "Pasos para probar un descuento antes de activarlo y decidir si conviene pedir Auditoria Express USD 7 o Auditoria Personalizada USD 19.",
             "step": [
               {
                 "@type": "HowToStep",
@@ -203,7 +237,7 @@
               {
                 "@type": "HowToStep",
                 "name": "Elige la siguiente accion",
-                "text": "Si el resultado queda debajo del margen minimo, compra Auditoria Express USD 7 o Bundle USD 15 antes de activar una promo que pueda perder margen."
+                "text": "Si el resultado queda debajo del margen minimo, compra Auditoria Express USD 7. Si necesitas revision puntual de tu caso, usa Auditoria Personalizada USD 19."
               }
             ]
           },
@@ -232,7 +266,7 @@
                 "name": "Que hago si el resultado da perdida?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "No actives esa promocion sin ajustar precio base, costo, envio absorbido o porcentaje de descuento."
+                  "text": "No actives esa promocion sin ajustar precio base, costo, envio absorbido o porcentaje de descuento. Si no sabes que mover primero, pide Auditoria Express USD 7."
                 }
               },
               {
@@ -240,7 +274,7 @@
                 "name": "Cuando conviene pedir auditoria?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Cuando la publicacion no vende sin descuento, cuando la promocion queda justa o cuando no sabes si el problema es precio, fotos, titulo o respuestas."
+                  "text": "Cuando la publicacion no vende sin descuento, cuando la promocion queda justa o cuando no sabes si el problema es precio, fotos, titulo o respuestas. La Express USD 7 es el primer paso; la Personalizada USD 19 sirve si quieres revision mas profunda."
                 }
               }
             ]
@@ -284,9 +318,9 @@
 
     <main>
       <section class="conversion-strip" aria-label="Compra rapida">
-        <span>Descuento con salida paga clara:</span>
-        <a href="../comprar.html">Base USD 5</a>
-        <a href="../auditoria.html">Auditoria USD 7</a>
+        <span>Si el descuento queda justo:</span>
+        <a href="../auditoria.html">Auditoria Express USD 7</a>
+        <a href="../auditoria-personalizada.html">Personalizada USD 19</a>
         <a href="../bundle.html">Bundle USD 15</a>
         <span>Recibis el archivo inmediatamente. Pago por PayPal o transferencia.</span>
       </section>
@@ -296,7 +330,8 @@
         <h1>Calculadora de descuentos para Mercado Libre</h1>
         <p>
           Antes de activar una promocion, carga tus costos reales y revisa si el descuento
-          conserva margen. Sirve para Mercado Libre, tiendas online y ventas por WhatsApp.
+          conserva margen o te deja vendiendo con perdida. Sirve para Mercado Libre,
+          tiendas online y ventas por WhatsApp.
         </p>
       </section>
 
@@ -305,53 +340,54 @@
           <div class="field-grid">
             <label>
               Precio actual publicado
-              <input id="current-price" type="number" min="0" step="0.01" value="25000" />
+              <input id="current-price" type="number" min="0" step="0.01" inputmode="decimal" value="25000" />
             </label>
             <label>
               Descuento que quieres probar (%)
-              <input id="planned-discount" type="number" min="0" max="95" step="0.01" value="12" />
+              <input id="planned-discount" type="number" min="0" max="95" step="0.01" inputmode="decimal" value="12" />
             </label>
           </div>
 
           <div class="field-grid">
             <label>
               Costo del producto
-              <input id="product-cost" type="number" min="0" step="0.01" value="12000" />
+              <input id="product-cost" type="number" min="0" step="0.01" inputmode="decimal" value="12000" />
             </label>
             <label>
               Empaque, reposicion o extra
-              <input id="extra-cost" type="number" min="0" step="0.01" value="800" />
+              <input id="extra-cost" type="number" min="0" step="0.01" inputmode="decimal" value="800" />
             </label>
           </div>
 
           <div class="field-grid">
             <label>
               Comision/cargo variable (%)
-              <input id="commission-rate" type="number" min="0" max="90" step="0.01" value="16" />
+              <input id="commission-rate" type="number" min="0" max="90" step="0.01" inputmode="decimal" value="16" />
             </label>
             <label>
               Impuestos u otros porcentuales (%)
-              <input id="tax-rate" type="number" min="0" max="90" step="0.01" value="3" />
+              <input id="tax-rate" type="number" min="0" max="90" step="0.01" inputmode="decimal" value="3" />
             </label>
           </div>
 
           <div class="field-grid">
             <label>
               Cargo fijo por venta
-              <input id="fixed-fee" type="number" min="0" step="0.01" value="0" />
+              <input id="fixed-fee" type="number" min="0" step="0.01" inputmode="decimal" value="0" />
             </label>
             <label>
               Envio absorbido por vos
-              <input id="shipping-cost" type="number" min="0" step="0.01" value="1200" />
+              <input id="shipping-cost" type="number" min="0" step="0.01" inputmode="decimal" value="1200" />
             </label>
           </div>
 
           <label>
             Margen minimo deseado sobre costo (%)
-            <input id="target-margin" type="number" min="0" max="400" step="0.01" value="25" />
+            <input id="target-margin" type="number" min="0" max="400" step="0.01" inputmode="decimal" value="25" />
           </label>
 
           <button class="primary-button" type="submit">Calcular descuento</button>
+          <p class="trust-note">Usa tus costos reales antes de activar una promocion. El objetivo es saber si ganas, empatas o pierdes.</p>
         </form>
 
         <section class="result">
@@ -363,18 +399,16 @@
         </section>
 
         <section class="guide-cta">
-          <p class="eyebrow">Caso practico</p>
-          <h2>Ejemplo real de descuento</h2>
+          <p class="eyebrow">Simulaciones educativas</p>
+          <h2>Tres casos para leer el margen</h2>
           <p>
-            Si vendes a $25.000 y quieres probar 12% de descuento, el precio promocional
-            baja a $22.000. Con producto, empaque, comision, impuestos y envio absorbido,
-            el margen puede quedar muy distinto al que se ve mirando solo el precio final.
+            Estos ejemplos no son ventas ni clientes reales: sirven para visualizar cuanto
+            puede cambiar una promocion cuando agregas comision, impuestos y envio absorbido.
           </p>
           <ul class="checkout-list">
-            <li>Gratis: calcula si una promocion puntual conserva margen.</li>
-            <li>Base USD 5: usa plantillas para responder precio, descuento y dudas frecuentes.</li>
-            <li>Auditoria USD 7: revisa si conviene tocar precio, titulo, fotos o descripcion.</li>
-            <li>Bundle USD 15: lleva Base, Auditoria Express y recursos avanzados en una sola descarga.</li>
+            <li><strong>Caso A:</strong> margen aparente 8%; margen corregido despues de revisar precio, costos y envio: 21%.</li>
+            <li><strong>Caso B:</strong> descuento seguro 5%; descuento riesgoso 15% cuando el envio queda absorbido.</li>
+            <li><strong>Caso C:</strong> precio minimo rentable: el valor donde dejas de perder dinero antes de buscar volumen.</li>
           </ul>
         </section>
 
@@ -387,15 +421,23 @@
             <a class="primary-button" href="https://paypal.me/SBozicovich/5USD" target="_blank" rel="noopener">Pagar Base</a>
             <a class="secondary-button" href="../comprar.html">Ver entrega</a>
           </article>
-          <article class="offer-card">
+          <article class="offer-card featured">
             <p class="eyebrow">El descuento queda justo</p>
-            <h3>Auditoria</h3>
+            <h3>Auditoria Express</h3>
             <p class="offer-price">USD 7</p>
             <p>Para revisar publicacion y margen antes de activar una promocion.</p>
-            <a class="primary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">Pagar Auditoria</a>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">Pagar Auditoria Express</a>
             <a class="secondary-button" href="../auditoria.html">Ver entrega</a>
           </article>
-          <article class="offer-card featured">
+          <article class="offer-card">
+            <p class="eyebrow">Necesito revision puntual</p>
+            <h3>Personalizada</h3>
+            <p class="offer-price">USD 19</p>
+            <p>Para revisar tu caso con mas contexto cuando el precio, la publicacion o el margen no cierran.</p>
+            <a class="primary-button" href="https://paypal.me/SBozicovich/19USD" target="_blank" rel="noopener">Pagar Personalizada</a>
+            <a class="secondary-button" href="../auditoria-personalizada.html">Ver alcance</a>
+          </article>
+          <article class="offer-card">
             <p class="eyebrow">Quiero ordenar venta completa</p>
             <h3>Bundle</h3>
             <p class="offer-price">USD 15</p>
@@ -408,16 +450,16 @@
         <div class="guide-cta">
           <h2>Quieres revisar precio, descuento y publicacion antes de bajar margen?</h2>
           <p>
-            La Auditoria Express trae checklist, diagnostico y plan de 48 horas para mejorar
-            una publicacion sin regalar margen. Si tambien necesitas respuestas y recursos avanzados,
-            el Bundle es la opcion recomendada.
+            La Auditoria Express es el primer paso si el calculo muestra perdida o margen bajo.
+            Si necesitas una revision mas profunda de tu caso, usa la Auditoria Personalizada.
           </p>
           <div class="payment-actions">
+            <a class="primary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">Pagar Auditoria USD 7</a>
+            <a class="secondary-button" href="../auditoria.html">Ver Auditoria Express</a>
+            <a class="secondary-button" href="https://paypal.me/SBozicovich/19USD" target="_blank" rel="noopener">Pagar Personalizada USD 19</a>
+            <a class="secondary-button" href="../auditoria-personalizada.html">Ver Personalizada</a>
             <a class="secondary-button" href="generador-auditoria-publicacion-marketplace.html">Diagnostico gratis</a>
-            <a class="primary-button" href="../bundle.html">Ver Bundle USD 15</a>
-            <a class="secondary-button" href="https://paypal.me/SBozicovich/15USD" target="_blank" rel="noopener">PayPal Bundle</a>
-            <a class="secondary-button" href="../auditoria.html">Auditoria USD 7</a>
-            <a class="secondary-button" href="https://paypal.me/SBozicovich/7USD" target="_blank" rel="noopener">PayPal Auditoria</a>
+            <a class="secondary-button" href="../bundle.html">Bundle USD 15</a>
             <a class="secondary-button" href="../comprar.html">Base USD 5</a>
             <button class="secondary-button" id="copy-order-brief" type="button">Copiar resumen</button>
           </div>
@@ -482,71 +524,160 @@
         maximumFractionDigits: 0
       });
 
+      function parseInputNumber(id) {
+        const rawValue = byId(id).value.trim().replace(",", ".");
+        const value = Number.parseFloat(rawValue);
+        return Number.isFinite(value) ? value : Number.NaN;
+      }
+
       function readNumber(id) {
-        return Number.parseFloat(byId(id).value) || 0;
+        const value = parseInputNumber(id);
+        return Number.isFinite(value) ? value : 0;
+      }
+
+      function readValidatedNumber(id, label, options = {}) {
+        const value = parseInputNumber(id);
+        const errors = [];
+        const min = options.min ?? 0;
+        const max = options.max;
+
+        if (!Number.isFinite(value)) {
+          errors.push(`Carga un numero valido en ${label}.`);
+          return { value: 0, errors };
+        }
+
+        if (value < min) {
+          errors.push(`${label} no puede ser menor que ${min}.`);
+        }
+
+        if (typeof max === "number" && value > max) {
+          errors.push(`${label} no puede ser mayor que ${max}.`);
+        }
+
+        return { value, errors };
+      }
+
+      function collectDiscountInputs() {
+        const fields = {
+          currentPrice: readValidatedNumber("current-price", "precio actual publicado", { min: 0.01 }),
+          plannedDiscount: readValidatedNumber("planned-discount", "descuento", { min: 0, max: 95 }),
+          productCost: readValidatedNumber("product-cost", "costo del producto", { min: 0 }),
+          extraCost: readValidatedNumber("extra-cost", "empaque o extra", { min: 0 }),
+          commissionRate: readValidatedNumber("commission-rate", "comision/cargo variable", { min: 0, max: 90 }),
+          taxRate: readValidatedNumber("tax-rate", "impuestos u otros porcentuales", { min: 0, max: 90 }),
+          fixedFee: readValidatedNumber("fixed-fee", "cargo fijo por venta", { min: 0 }),
+          shippingCost: readValidatedNumber("shipping-cost", "envio absorbido", { min: 0 }),
+          targetMargin: readValidatedNumber("target-margin", "margen minimo deseado", { min: 0, max: 400 })
+        };
+        const errors = Object.values(fields).flatMap((field) => field.errors);
+        const values = Object.fromEntries(
+          Object.entries(fields).map(([key, field]) => [key, field.value])
+        );
+
+        if (values.productCost + values.extraCost <= 0) {
+          errors.push("Carga al menos un costo real de producto, empaque o reposicion para medir margen.");
+        }
+
+        const variableRate = (values.commissionRate + values.taxRate) / 100;
+        if (variableRate >= 0.95) {
+          errors.push("Revisa comision e impuestos: juntos no pueden acercarse al 100%.");
+        }
+
+        return { values, errors };
       }
 
       function buildDiscountResult() {
-        const currentPrice = readNumber("current-price");
-        const plannedDiscount = readNumber("planned-discount");
-        const productCost = readNumber("product-cost");
-        const extraCost = readNumber("extra-cost");
-        const commissionRate = readNumber("commission-rate") / 100;
-        const taxRate = readNumber("tax-rate") / 100;
-        const fixedFee = readNumber("fixed-fee");
-        const shippingCost = readNumber("shipping-cost");
-        const targetMargin = readNumber("target-margin") / 100;
-        const variableRate = commissionRate + taxRate;
+        const { values, errors } = collectDiscountInputs();
 
-        if (currentPrice <= 0) {
-          return "Carga un precio actual mayor a cero para calcular.";
+        if (errors.length) {
+          return [
+            "Revisa estos datos antes de decidir una promo:",
+            "",
+            ...errors.map((error) => `- ${error}`),
+            "",
+            "La Auditoria Express USD 7 sirve si no tienes claro que costo o precio ajustar primero."
+          ].join("\n");
         }
 
-        if (variableRate >= 0.95) {
-          return "Revisa comision e impuestos: el porcentaje total no puede acercarse al 100%.";
-        }
-
+        const currentPrice = values.currentPrice;
+        const plannedDiscount = values.plannedDiscount;
+        const productCost = values.productCost;
+        const extraCost = values.extraCost;
+        const commissionRate = values.commissionRate / 100;
+        const taxRate = values.taxRate / 100;
+        const fixedFee = values.fixedFee;
+        const shippingCost = values.shippingCost;
+        const targetMargin = values.targetMargin / 100;
         const baseCost = productCost + extraCost;
         const promoPrice = currentPrice * (1 - plannedDiscount / 100);
-        const variableFees = promoPrice * variableRate;
-        const totalCost = baseCost + fixedFee + shippingCost + variableFees;
+        const discountAmount = currentPrice - promoPrice;
+        const commissionFee = promoPrice * commissionRate;
+        const taxFee = promoPrice * taxRate;
+        const variableFees = commissionFee + taxFee;
+        const fixedAndShipping = fixedFee + shippingCost;
+        const totalCost = baseCost + fixedAndShipping + variableFees;
         const profit = promoPrice - totalCost;
-        const marginOnCost = baseCost > 0 ? (profit / baseCost) * 100 : 0;
+        const marginOnCost = (profit / baseCost) * 100;
+        const marginOnSale = promoPrice > 0 ? (profit / promoPrice) * 100 : 0;
         const targetProfit = baseCost * targetMargin;
-        const minPriceForTarget = (baseCost + fixedFee + shippingCost + targetProfit) / (1 - variableRate);
-        const noLossPrice = (baseCost + fixedFee + shippingCost) / (1 - variableRate);
+        const minPriceForTarget = (baseCost + fixedAndShipping + targetProfit) / (1 - commissionRate - taxRate);
+        const noLossPrice = (baseCost + fixedAndShipping) / (1 - commissionRate - taxRate);
         const maxDiscountTarget = Math.max(0, Math.min(95, (1 - minPriceForTarget / currentPrice) * 100));
         const maxDiscountNoLoss = Math.max(0, Math.min(95, (1 - noLossPrice / currentPrice) * 100));
+        const gapToTarget = targetProfit - profit;
+        const losesMoney = profit < 0;
+        const belowTarget = !losesMoney && marginOnCost < values.targetMargin;
         const status =
-          profit < 0
-            ? "ALERTA: con este descuento vendes con perdida."
-            : marginOnCost < targetMargin * 100
+          losesMoney
+            ? "ALERTA: con este descuento estas perdiendo dinero."
+            : belowTarget
               ? "CUIDADO: hay ganancia, pero queda debajo de tu margen minimo."
               : "OK: el descuento conserva el margen minimo cargado.";
+        const nextAction =
+          losesMoney
+            ? "No actives esta promocion: sube precio base, baja descuento, revisa envio absorbido o reduce costos antes de vender."
+            : belowTarget
+              ? "Prueba un descuento menor o revisa si el volumen justifica bajar margen. Si dudas, audita antes de activar."
+              : "Puedes evaluar la promocion, pero confirma categoria, comision real, envio y precio final antes de activarla.";
+        const auditReason =
+          losesMoney || belowTarget
+            ? "CTA principal recomendado: Auditoria Express USD 7 para revisar publicacion, precio y margen antes de perder dinero."
+            : "CTA recomendado si vas a lanzar la promo: Auditoria Express USD 7 para confirmar que precio, publicacion y costos estan alineados.";
 
         return [
           status,
           "",
-          `Precio actual: ${money.format(currentPrice)}`,
-          `Descuento probado: ${plannedDiscount.toFixed(1)}%`,
-          `Precio promocional: ${money.format(promoPrice)}`,
-          `Comisiones e impuestos estimados: ${money.format(variableFees)}`,
-          `Costos fijos + producto + envio: ${money.format(baseCost + fixedFee + shippingCost)}`,
-          `Ganancia estimada: ${money.format(profit)}`,
+          "Resumen financiero:",
+          `Precio original: ${money.format(currentPrice)}`,
+          `Descuento aplicado: ${plannedDiscount.toFixed(1)}% (${money.format(discountAmount)})`,
+          `Precio con descuento: ${money.format(promoPrice)}`,
+          `Comision estimada: ${money.format(commissionFee)}`,
+          `Impuestos u otros porcentuales: ${money.format(taxFee)}`,
+          `Envio absorbido: ${money.format(shippingCost)}`,
+          `Cargo fijo por venta: ${money.format(fixedFee)}`,
+          `Costo producto + extra: ${money.format(baseCost)}`,
+          `Costo total estimado: ${money.format(totalCost)}`,
+          `Ganancia final: ${money.format(profit)}`,
           `Margen sobre costo: ${marginOnCost.toFixed(1)}%`,
+          `Margen sobre venta: ${marginOnSale.toFixed(1)}%`,
+          `Estas perdiendo dinero?: ${losesMoney ? "Si" : "No"}`,
           "",
+          "Limites utiles:",
+          `Precio minimo para no perder: ${money.format(noLossPrice)}`,
           `Precio minimo para margen objetivo: ${money.format(minPriceForTarget)}`,
           `Maximo descuento para conservar margen objetivo: ${maxDiscountTarget.toFixed(1)}%`,
           `Maximo descuento antes de quedar en cero: ${maxDiscountNoLoss.toFixed(1)}%`,
+          gapToTarget > 0 ? `Falta para margen objetivo: ${money.format(gapToTarget)}` : "Margen objetivo cubierto.",
           "",
           "Siguiente accion:",
-          profit < 0
-            ? "No actives esta promocion sin subir precio base, bajar costos o reducir descuento."
-            : marginOnCost < targetMargin * 100
-              ? "Prueba un descuento menor o revisa si el volumen compensa bajar margen."
-              : "Puedes evaluar la promocion, pero revisa elegibilidad, precio final y costos reales antes de confirmar.",
+          nextAction,
+          auditReason,
+          "CTA secundario: Auditoria Personalizada USD 19 si necesitas revisar un caso puntual con mas detalle.",
           "",
-          "Si el descuento queda justo, la Auditoria Express USD 7 ayuda a revisar publicacion y margen. Si tambien necesitas respuestas y recursos avanzados, el Bundle USD 15 es la opcion recomendada."
+          "Links:",
+          "Auditoria Express USD 7: https://paypal.me/SBozicovich/7USD",
+          "Auditoria Personalizada USD 19: https://paypal.me/SBozicovich/19USD",
+          "Diagnostico gratis: generador-auditoria-publicacion-marketplace.html"
         ].join("\n");
       }
 
@@ -560,10 +691,11 @@
           "Resumen de descuento para elegir siguiente paso",
           "",
           "Opciones digitales:",
-          "1) Base USD 5: https://paypal.me/SBozicovich/5USD",
-          "2) Auditoria Express USD 7: https://paypal.me/SBozicovich/7USD",
-          "3) Bundle USD 15 recomendado: https://paypal.me/SBozicovich/15USD",
-          "4) O transferir equivalente local a Banco Galicia, CBU 0070034430004032923161",
+          "1) Auditoria Express USD 7: https://paypal.me/SBozicovich/7USD",
+          "2) Auditoria Personalizada USD 19: https://paypal.me/SBozicovich/19USD",
+          "3) Bundle USD 15: https://paypal.me/SBozicovich/15USD",
+          "4) Base USD 5: https://paypal.me/SBozicovich/5USD",
+          "5) O transferir equivalente local a Banco Galicia, CBU 0070034430004032923161",
           "",
           "Datos calculados:",
           `Precio actual publicado: ${money.format(readNumber("current-price"))}`,
@@ -608,5 +740,6 @@
       });
       renderDiscountResult();
     </script>
+    <script src="../app.js"></script>
   </body>
 </html>

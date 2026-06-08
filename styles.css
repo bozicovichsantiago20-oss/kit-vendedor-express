@@ -24,6 +24,7 @@ html {
 body {
   margin: 0;
   min-width: 320px;
+  overflow-x: hidden;
   background: var(--wash);
   color: var(--ink);
   font-family:
@@ -370,7 +371,7 @@ textarea:focus {
 
 .guide-hero,
 .guide-body {
-  width: min(860px, calc(100vw - 32px));
+  width: min(860px, calc(100% - 32px));
   margin: 0 auto;
 }
 
@@ -380,6 +381,7 @@ textarea:focus {
 
 .guide-hero h1 {
   max-width: 860px;
+  overflow-wrap: anywhere;
 }
 
 .guide-body {
@@ -393,6 +395,7 @@ textarea:focus {
 .guide-body p,
 .guide-body li {
   color: var(--muted);
+  overflow-wrap: anywhere;
 }
 
 .example-list {
@@ -529,7 +532,7 @@ textarea:focus {
   flex-wrap: wrap;
   gap: 10px;
   align-items: center;
-  width: min(1080px, calc(100vw - 32px));
+  width: min(1080px, calc(100% - 32px));
   margin: 0 auto 22px;
   padding: 12px 14px;
   border: 1px solid #b7ded0;
@@ -539,14 +542,18 @@ textarea:focus {
 }
 
 .conversion-strip span {
+  min-width: 0;
   color: var(--ink);
   font-weight: 900;
+  overflow-wrap: anywhere;
 }
 
 .conversion-strip a {
+  min-width: 0;
   color: var(--teal-dark);
   font-weight: 850;
   text-decoration: none;
+  overflow-wrap: anywhere;
 }
 
 .source-band {
@@ -589,7 +596,7 @@ textarea:focus {
 .offer-focus,
 .roi-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 14px;
   margin-top: 18px;
 }
@@ -823,8 +830,31 @@ textarea:focus {
   }
 
   h1 {
-    font-size: 2.15rem;
+    font-size: 1.8rem;
     line-height: 1.02;
+  }
+
+  .guide-hero,
+  .guide-body,
+  .conversion-strip,
+  .checkout-hero,
+  .checkout-grid {
+    width: min(342px, calc(100% - 48px));
+    max-width: 342px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .conversion-strip {
+    align-items: flex-start;
+  }
+
+  .conversion-strip span {
+    flex-basis: 100%;
+  }
+
+  .conversion-strip a {
+    flex-basis: 100%;
   }
 
   .decision-band {

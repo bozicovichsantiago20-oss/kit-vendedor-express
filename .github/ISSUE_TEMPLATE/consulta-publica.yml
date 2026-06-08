@@ -11,6 +11,7 @@ body:
         - Elegir opcion: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
         - Base USD 5: https://paypal.me/SBozicovich/5USD
         - Auditoria Express USD 7: https://paypal.me/SBozicovich/7USD
+        - Auditoria Personalizada USD 19: https://paypal.me/SBozicovich/19USD
         - Bundle USD 15: https://paypal.me/SBozicovich/15USD
 
         No publiques comprobantes, telefonos, emails, claves, datos bancarios, datos de compradores ni informacion sensible.
@@ -21,6 +22,7 @@ body:
       options:
         - Kit Base USD 5
         - Auditoria Express USD 7
+        - Auditoria Personalizada USD 19
         - Bundle USD 15
         - Herramienta gratis
         - No se que comprar

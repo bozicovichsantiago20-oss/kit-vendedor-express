@@ -60,6 +60,7 @@ Eventos recomendados:
 
 - click_paypal_base
 - click_paypal_auditoria
+- click_paypal_auditoria_personalizada
 - click_paypal_bundle
 - click_download_base
 - click_download_auditoria
@@ -79,6 +80,7 @@ Estado del sitio:
 - Validacion remota 2026-06-07 14:29 ART: el hub raiz publico apunta a `/empezar.html?src=root-site&utm_campaign=hub-...` y el README del hub a `src=root-readme`.
 - Validacion remota 2026-06-07 14:44 ART: IndexNow acepto HTTP 200 para el hub raiz ya publicado con atribucion `root-site`.
 - Validacion local/remota 2026-06-07 15:00 ART: `/empezar.html` muestra Base USD 5, Auditoria USD 7 y Bundle USD 15 en title, Open Graph y Twitter preview; JSON-LD y links PayPal siguen validos; pagina publica HTTP 200 e IndexNow HTTP 200.
+- Validacion local/publica 2026-06-08 08:21 ART: la calculadora de descuentos y `auditoria-personalizada.html` cargan tracking para `click_paypal_auditoria_personalizada`; JSON-LD valido; la logica de ganancia/perdida paso prueba local; capturas Chrome headless desktop y movil sin recortes; GitHub Pages publico OK e IndexNow HTTP 200.
 
 Campos utiles para revisar en eventos:
 
